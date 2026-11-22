@@ -1,0 +1,138 @@
+league_gender,season_id,team_id,team_name
+Men,1617,1001,Solingen Volleys
+Men,1718,1001,Bergische Volleys
+Men,1314,1002,Berlin Recycling Volleys
+Men,1415,1002,Berlin Recycling Volleys
+Men,1516,1002,Berlin Recycling Volleys
+Men,1617,1002,Berlin Recycling Volleys
+Men,1718,1002,Berlin Recycling Volleys
+Men,1819,1002,Berlin Recycling Volleys
+Men,1314,1003,CV Mitteldeutschland
+Men,1415,1003,CV Mitteldeutschland
+Men,1516,1003,CV Mitteldeutschland
+Men,1314,1004,Evivo Dueren
+Men,1415,1004,SWD Powervolleys Dueren
+Men,1516,1004,SWD Powervolleys Dueren
+Men,1617,1004,SWD Powervolleys Dueren
+Men,1718,1004,SWD Powervolleys Dueren
+Men,1819,1004,SWD Powervolleys Dueren
+Men,1314,1005,Generalli Haching
+Men,1718,1006,Hypo Tirol AlpenVolleys Haching
+Men,1819,1006,Hypo Tirol AlpenVolleys Haching
+Men,1314,1007,Moerser SC
+Men,1415,1008,Netzhoppers KW-Bestensee
+Men,1516,1008,Netzhoppers KW-Bestensee
+Men,1617,1008,Netzhoppers SolWo Koenigspark KW
+Men,1718,1008,Netzhoppers SolWo Koenigspark KW
+Men,1819,1008,Netzhoppers SolWo Koenigspark KW
+Men,1415,1009,SVG Lueneburg
+Men,1516,1009,SVG Lueneburg
+Men,1617,1009,SVG Lueneburg
+Men,1718,1009,SVG Lueneburg
+Men,1819,1009,SVG Lueneburg
+Men,1415,1010,TSV Herrsching
+Men,1516,1010,TSV Herrsching
+Men,1617,1010,TSV Herrsching
+Men,1718,1010,TSV Herrsching
+Men,1819,1010,TSV Herrsching
+Men,1314,1011,TV Ingersoll Buehl
+Men,1415,1011,TV Ingersoll Buehl
+Men,1516,1011,TV Ingersoll Buehl
+Men,1617,1011,TV Ingersoll Buehl
+Men,1718,1011,Volleyball Bisons Buehl
+Men,1819,1011,Volleyball Bisons Buehl
+Men,1314,1012,TV Rottenburg
+Men,1415,1012,TV Rottenburg
+Men,1516,1012,TV Rottenburg
+Men,1617,1012,TV Rottenburg
+Men,1718,1012,TV Rottenburg
+Men,1819,1012,TV Rottenburg
+Men,1516,1013,United Volleys RheinMain
+Men,1617,1013,United Volleys RheinMain
+Men,1718,1013,United Volleys RheinMain
+Men,1819,1013,United Volleys Frankfurt
+Men,1314,1014,VC Dresden
+Men,1415,1015,VCO Berlin
+Men,1617,1015,VCO Berlin
+Men,1819,1015,VCO Berlin
+Men,1314,1016,VfB Friedrichshafen
+Men,1415,1016,VfB Friedrichshafen
+Men,1516,1016,VfB Friedrichshafen
+Men,1617,1016,VfB Friedrichshafen
+Men,1718,1016,VfB Friedrichshafen
+Men,1819,1016,VfB Friedrichshafen
+Men,1314,1018,VSG Coburg/Grub
+Men,1415,1018,VSG Coburg/Grub
+Men,1516,1018,VSG Coburg/Grub
+Men,1819,1019,Helios Grizzlys Giesen
+Women,1314,2001,Allianz MTV Stuttgart
+Women,1415,2001,Allianz MTV Stuttgart
+Women,1516,2001,Allianz MTV Stuttgart
+Women,1617,2001,Allianz MTV Stuttgart
+Women,1718,2001,Allianz MTV Stuttgart
+Women,1819,2001,Allianz MTV Stuttgart
+Women,1314,2002,Dresdner SC
+Women,1415,2002,Dresdner SC
+Women,1516,2002,Dresdner SC
+Women,1617,2002,Dresdner SC
+Women,1718,2002,Dresdner SC
+Women,1819,2002,Dresdner SC
+Women,1314,2003,Koepenicker SC
+Women,1415,2003,Koepenicker SC
+Women,1516,2003,Koepenicker SC
+Women,1617,2003,Koepenicker SC
+Women,1314,2004,Ladies in Black Aachen
+Women,1415,2004,Ladies in Black Aachen
+Women,1516,2004,Ladies in Black Aachen
+Women,1617,2004,Ladies in Black Aachen
+Women,1718,2004,Ladies in Black Aachen
+Women,1819,2004,Ladies in Black Aachen
+Women,1314,2005,Rote Raben Vilsbiburg
+Women,1415,2005,Rote Raben Vilsbiburg
+Women,1516,2005,Rote Raben Vilsbiburg
+Women,1617,2005,Rote Raben Vilsbiburg
+Women,1718,2005,Rote Raben Vilsbiburg
+Women,1819,2005,Rote Raben Vilsbiburg
+Women,1314,2006,SC Potsdam
+Women,1415,2006,SC Potsdam
+Women,1516,2006,SC Potsdam
+Women,1617,2006,SC Potsdam
+Women,1718,2006,SC Potsdam
+Women,1819,2006,SC Potsdam
+Women,1314,2007,SSC Schwerin
+Women,1415,2007,SSC Schwerin
+Women,1516,2007,SSC Schwerin
+Women,1617,2007,SSC Schwerin
+Women,1718,2007,SSC Schwerin
+Women,1819,2007,SSC Schwerin
+Women,1314,2008,USC Muenster
+Women,1415,2008,USC Muenster
+Women,1516,2008,USC Muenster
+Women,1617,2008,USC Muenster
+Women,1718,2008,USC Muenster
+Women,1819,2008,USC Muenster
+Women,1314,2009,VC Wiesbaden
+Women,1415,2009,VC Wiesbaden
+Women,1516,2009,VC Wiesbaden
+Women,1617,2009,VC Wiesbaden
+Women,1718,2009,VC Wiesbaden
+Women,1819,2009,VC Wiesbaden
+Women,1314,2010,VT Aurubis Hamburg
+Women,1415,2010,VT Aurubis Hamburg
+Women,1516,2010,VT Aurubis Hamburg
+Women,1314,2011,Volleystars Thueringen
+Women,1415,2011,Volleystars Thueringen
+Women,1516,2011,Volleystars Thueringen
+Women,1617,2011,Volleystars Thueringen
+Women,1718,2011,Volleystars Thueringen
+Women,1819,2011,Volleystars Thueringen
+Women,1415,2012,VCO Berlin
+Women,1516,2012,VCO Berlin
+Women,1617,2012,VCO Berlin
+Women,1718,2012,VCO Berlin
+Women,1819,2012,VCO Berlin
+Women,1516,2013,Nawaro Straubing
+Women,1819,2013,Nawaro Straubing
+Women,1617,2014,Schwarz-Weiss Erfurt
+Women,1718,2014,Schwarz-Weiss Erfurt
+Women,1819,2014,Schwarz-Weiss Erfurt

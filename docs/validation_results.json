@@ -1,0 +1,15 @@
+{
+  "mysql_version": "8.4.13",
+  "violations": {
+    "orphan_seasons": 0,
+    "orphan_season_teams": 0,
+    "orphan_rosters": 0,
+    "orphan_match_teams": 0,
+    "orphan_sets": 0,
+    "orphan_stats": 0,
+    "stats_wrong_team": 0,
+    "set_result_mismatch": 0,
+    "invalid_set_score": 0,
+    "stats_point_components": 0
+  }
+}

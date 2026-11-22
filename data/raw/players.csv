@@ -1,0 +1,1854 @@
+season_id,league_gender,team_id,team_name,lastname,firstname,height,gender,birthdate,shirt_number,position,nationality,player_id
+1617,Men,1001,Solingen Volleys,Bevers,Lennart,179.0,male,1993-07-10,10,Libero,Germany,10.0
+1617,Men,1001,Solingen Volleys,den Boer,Huib,191.0,male,1981-11-11,2,Setter,Netherlands,2.0
+1617,Men,1001,Solingen Volleys,Gies,Oliver,197.0,male,1985-06-28,3,Outside spiker,Germany,3.0
+1617,Men,1001,Solingen Volleys,Gosmann,Christian,191.0,male,1992-07-02,6,Universal,Germany,6.0
+1617,Men,1001,Solingen Volleys,Horn,Maximilian,188.0,male,1996-08-07,4,Setter,Germany,4.0
+1617,Men,1001,Solingen Volleys,Marks,Christoph,198.0,male,1997-04-16,15,Universal,Germany,15.0
+1617,Men,1001,Solingen Volleys,Mester,Toni,199.0,male,1989-08-15,7,Middle block,Germany,7.0
+1617,Men,1001,Solingen Volleys,Nibbrig,Benny,194.0,male,1990-07-19,8,Diagonal,Germany,8.0
+1617,Men,1001,Solingen Volleys,Pietzonka,Dirk,201.0,male,1991-12-14,13,Middle block,Germany,13.0
+1617,Men,1001,Solingen Volleys,Stroebl,Maximilian,191.0,male,1997-03-04,5,Outside spiker,Germany,5.0
+1617,Men,1001,Solingen Volleys,Wasilewski,Alan,201.0,male,1991-07-23,9,Middle block,Poland,9.0
+1718,Men,1001,Bergische Volleys,Bene,Robert,175.0,male,1995-10-17,13,Libero,Hungary,13.0
+1718,Men,1001,Bergische Volleys,Benz,Andrew,201.0,male,1994-04-21,1,Middle block,United States,1.0
+1718,Men,1001,Bergische Volleys,Boehm,Samuel,192.0,male,1988-03-04,4,Diagonal,Australia,4.0
+1718,Men,1001,Bergische Volleys,Gies,Oliver,197.0,male,1985-06-28,3,Outside spiker,Germany,3.0
+1718,Men,1001,Bergische Volleys,Hummes Specht,Iurgen,201.0,male,1991-12-21,10,Outside spiker,Brazil,10.0
+1718,Men,1001,Bergische Volleys,Lipscombe,Gerrard,188.0,male,1993-06-04,5,Outside spiker,Australia,5.0
+1718,Men,1001,Bergische Volleys,Rumpunen,Ossi,187.0,male,1989-04-18,8,Outside spiker,Finland,8.0
+1718,Men,1001,Bergische Volleys,Tille,Johannes,184.0,male,1997-05-07,6,Setter,Germany,6.0
+1718,Men,1001,Bergische Volleys,van Werkhoven,Mart,206.0,male,1991-12-11,9,Middle block,Netherlands,9.0
+1718,Men,1001,Bergische Volleys,Zoodsma,Rutger,206.0,male,1995-07-16,7,Middle block,Netherlands,7.0
+1314,Men,1002,Berlin Recycling Volleys,Carroll,Paul,206.0,male,1986-05-16,12,Diagonal,Australia,12.0
+1314,Men,1002,Berlin Recycling Volleys,Fischer,Felix,203.0,male,1983-02-27,6,Middle block,Germany,6.0
+1314,Men,1002,Berlin Recycling Volleys,Galandi,Ricardo,200.0,male,1989-05-18,9,Middle block,Germany,9.0
+1314,Men,1002,Berlin Recycling Volleys,Hecht,Florian,200.0,male,1993-05-30,13,Middle block,Germany,13.0
+1314,Men,1002,Berlin Recycling Volleys,Kmet,Tomas,202.0,male,1981-12-01,14,Middle block,Slovakia,14.0
+1314,Men,1002,Berlin Recycling Volleys,Kromm,Robert,212.0,male,1984-03-09,3,Outside spiker,Germany,3.0
+1314,Men,1002,Berlin Recycling Volleys,Krystof,Martin,179.0,male,1982-10-11,11,Libero,Czechia,11.0
+1314,Men,1002,Berlin Recycling Volleys,Kuehner,Sebastian,203.0,male,1987-03-15,10,Setter,Germany,10.0
+1314,Men,1002,Berlin Recycling Volleys,Lisinac,Srecko,205.0,male,1992-05-17,17,Middle block,Serbia,17.0
+1314,Men,1002,Berlin Recycling Volleys,Schott,Ruben,192.0,male,1994-07-08,15,Outside spiker,Germany,15.0
+1314,Men,1002,Berlin Recycling Volleys,Shoji,Kawika,192.0,male,1987-11-11,2,Setter,United States,2.0
+1314,Men,1002,Berlin Recycling Volleys,Sikiric,Roko,196.0,male,1981-08-22,7,Outside spiker,Croatia,7.0
+1314,Men,1002,Berlin Recycling Volleys,Spirovski,Aleksandar,203.0,male,1978-08-16,4,Diagonal,Serbia,4.0
+1314,Men,1002,Berlin Recycling Volleys,Touzinsky,Scott Joseph,200.0,male,1982-04-22,1,Outside spiker,United States,1.0
+1314,Men,1002,Berlin Recycling Volleys,Wetter,Oskar,191.0,male,1995-06-14,18,Setter,Germany,18.0
+1415,Men,1002,Berlin Recycling Volleys,Bogachev,Egor,203.0,male,1997-04-06,9,Outside spiker,Germany,9.0
+1415,Men,1002,Berlin Recycling Volleys,Bontje,Johannes,206.0,male,1981-05-12,17,Middle block,Netherlands,17.0
+1415,Men,1002,Berlin Recycling Volleys,Carroll,Paul,206.0,male,1986-05-16,12,Diagonal,Australia,12.0
+1415,Men,1002,Berlin Recycling Volleys,De Marchi,Francesco,193.0,male,1986-06-17,18,Outside spiker,Italy,18.0
+1415,Men,1002,Berlin Recycling Volleys,Duennes,Christian,210.0,male,1984-06-16,16,Diagonal,Germany,16.0
+1415,Men,1002,Berlin Recycling Volleys,Fischer,Felix,203.0,male,1983-02-27,6,Middle block,Germany,6.0
+1415,Men,1002,Berlin Recycling Volleys,Kmet,Tomas,202.0,male,1981-12-01,14,Middle block,Slovakia,14.0
+1415,Men,1002,Berlin Recycling Volleys,Kromm,Robert,212.0,male,1984-03-09,3,Outside spiker,Germany,3.0
+1415,Men,1002,Berlin Recycling Volleys,Krystof,Martin,179.0,male,1982-10-11,11,Libero,Czechia,11.0
+1415,Men,1002,Berlin Recycling Volleys,Kuehner,Sebastian,203.0,male,1987-03-15,10,Setter,Germany,10.0
+1415,Men,1002,Berlin Recycling Volleys,Shoji,Erik,184.0,male,1989-08-24,2,Libero,United States,2.0
+1415,Men,1002,Berlin Recycling Volleys,Shoji,Kawika,192.0,male,1987-11-11,7,Setter,United States,7.0
+1415,Men,1002,Berlin Recycling Volleys,Spirovski,Aleksandar,203.0,male,1978-08-16,4,Diagonal,Serbia,4.0
+1415,Men,1002,Berlin Recycling Volleys,Touzinsky,Scott Joseph,200.0,male,1982-04-22,1,Outside spiker,United States,1.0
+1516,Men,1002,Berlin Recycling Volleys,Auste,Maximilian,206.0,male,1997-01-27,15,Universal,Germany,15.0
+1516,Men,1002,Berlin Recycling Volleys,Baroti,Arpad,206.0,male,1991-10-23,8,Diagonal,Hungary,8.0
+1516,Men,1002,Berlin Recycling Volleys,Bogachev,Egor,203.0,male,1997-04-06,17,Outside spiker,Germany,17.0
+1516,Men,1002,Berlin Recycling Volleys,Carroll,Paul,206.0,male,1986-05-16,12,Diagonal,Australia,12.0
+1516,Men,1002,Berlin Recycling Volleys,De Marchi,Francesco,193.0,male,1986-06-17,18,Outside spiker,Italy,18.0
+1516,Men,1002,Berlin Recycling Volleys,Fischer,Felix,203.0,male,1983-02-27,6,Middle block,Germany,6.0
+1516,Men,1002,Berlin Recycling Volleys,Kmet,Tomas,202.0,male,1981-12-01,14,Middle block,Slovakia,14.0
+1516,Men,1002,Berlin Recycling Volleys,Kromm,Robert,212.0,male,1984-03-09,3,Outside spiker,Germany,3.0
+1516,Men,1002,Berlin Recycling Volleys,Kuehner,Sebastian,203.0,male,1987-03-15,10,Setter,Germany,10.0
+1516,Men,1002,Berlin Recycling Volleys,Le Goff,Nicolas,205.0,male,1992-02-15,7,Middle block,France,7.0
+1516,Men,1002,Berlin Recycling Volleys,Lotman,Paul,200.0,male,1985-11-03,9,Outside spiker,United States,9.0
+1516,Men,1002,Berlin Recycling Volleys,Schott,Ruben,192.0,male,1994-07-08,13,Outside spiker,Germany,13.0
+1516,Men,1002,Berlin Recycling Volleys,Shoji,Erik,184.0,male,1989-08-24,2,Libero,United States,2.0
+1516,Men,1002,Berlin Recycling Volleys,Zhukouski,Tsimafei,196.0,male,1989-12-18,11,Setter,Croatia,11.0
+1617,Men,1002,Berlin Recycling Volleys,Auste,Maximilian,206.0,male,1997-01-27,15,Outside spiker,Germany,15.0
+1617,Men,1002,Berlin Recycling Volleys,Bogachev,Egor,203.0,male,1997-04-06,17,Outside spiker,Germany,17.0
+1617,Men,1002,Berlin Recycling Volleys,Carroll,Paul,206.0,male,1986-05-16,12,Diagonal,Australia,12.0
+1617,Men,1002,Berlin Recycling Volleys,Fischer,Felix,203.0,male,1983-02-27,6,Middle block,Germany,6.0
+1617,Men,1002,Berlin Recycling Volleys,Kromm,Robert,212.0,male,1984-03-09,3,Outside spiker,Germany,3.0
+1617,Men,1002,Berlin Recycling Volleys,Kuehner,Sebastian,203.0,male,1987-03-15,10,Setter,Germany,10.0
+1617,Men,1002,Berlin Recycling Volleys,Marshall,Steven,191.0,male,1989-11-23,2,Outside spiker,Canada,2.0
+1617,Men,1002,Berlin Recycling Volleys,Okolic,Aleksandar,205.0,male,1993-06-26,1,Middle block,Serbia,1.0
+1617,Men,1002,Berlin Recycling Volleys,Perry,Luke,182.0,male,1995-11-20,4,Libero,Australia,4.0
+1617,Men,1002,Berlin Recycling Volleys,Schott,Ruben,192.0,male,1994-07-08,13,Outside spiker,Germany,13.0
+1617,Men,1002,Berlin Recycling Volleys,ter Maat,Wouter,200.0,male,1991-05-07,16,Diagonal,Netherlands,16.0
+1617,Men,1002,Berlin Recycling Volleys,Vigrass,Graham,203.0,male,1989-06-17,8,Middle block,Canada,8.0
+1617,Men,1002,Berlin Recycling Volleys,Zhukouski,Tsimafei,196.0,male,1989-12-18,11,Setter,Croatia,11.0
+1718,Men,1002,Berlin Recycling Volleys,Binder,Matti,196.0,male,1998-10-02,13,Middle block,Germany,13.0
+1718,Men,1002,Berlin Recycling Volleys,Bogachev,Egor,203.0,male,1997-04-06,17,Outside spiker,Germany,17.0
+1718,Men,1002,Berlin Recycling Volleys,Carroll,Paul,206.0,male,1986-05-16,12,Diagonal,Australia,12.0
+1718,Men,1002,Berlin Recycling Volleys,Klein,Georg,200.0,male,1991-08-22,7,Middle block,Germany,7.0
+1718,Men,1002,Berlin Recycling Volleys,Kromm,Robert,212.0,male,1984-03-09,3,Outside spiker,Germany,3.0
+1718,Men,1002,Berlin Recycling Volleys,Kuehner,Sebastian,203.0,male,1987-03-15,10,Setter,Germany,10.0
+1718,Men,1002,Berlin Recycling Volleys,Marshall,Steven,191.0,male,1989-11-23,2,Outside spiker,Canada,2.0
+1718,Men,1002,Berlin Recycling Volleys,Okolic,Aleksandar,205.0,male,1993-06-26,1,Middle block,Serbia,1.0
+1718,Men,1002,Berlin Recycling Volleys,Perry,Luke,182.0,male,1995-11-20,4,Libero,Australia,4.0
+1718,Men,1002,Berlin Recycling Volleys,Pujol,Pierre,185.0,male,1984-07-13,18,Setter,France,18.0
+1718,Men,1002,Berlin Recycling Volleys,Russell,Kyle,205.0,male,1993-08-25,15,Diagonal,United States,15.0
+1718,Men,1002,Berlin Recycling Volleys,van Haarlem,Daan,198.0,male,1989-03-15,9,Setter,Netherlands,9.0
+1718,Men,1002,Berlin Recycling Volleys,Vigrass,Graham,203.0,male,1989-06-17,8,Middle block,Canada,8.0
+1718,Men,1002,Berlin Recycling Volleys,Weber,Linus,202.0,male,1999-11-01,5,Universal,Germany,5.0
+1718,Men,1002,Berlin Recycling Volleys,White,Adam,205.0,male,1989-11-08,11,Outside spiker,Australia,11.0
+1819,Men,1002,Berlin Recycling Volleys,Bogachev,Egor,203.0,male,1997-04-06,17,Outside spiker,Germany,17.0
+1819,Men,1002,Berlin Recycling Volleys,Brehme,Anton,199.0,male,1999-08-10,8,Middle block,Germany,8.0
+1819,Men,1002,Berlin Recycling Volleys,Grankin,Sergei,194.0,male,1985-01-21,6,Setter,Russia,6.0
+1819,Men,1002,Berlin Recycling Volleys,Jendryk II,Jeffrey,205.0,male,1995-09-15,4,Middle block,United States,4.0
+1819,Men,1002,Berlin Recycling Volleys,Klein,Georg,200.0,male,1991-08-22,7,Middle block,Germany,7.0
+1819,Men,1002,Berlin Recycling Volleys,Kuehner,Sebastian,203.0,male,1987-03-15,10,Setter,Germany,10.0
+1819,Men,1002,Berlin Recycling Volleys,Le Goff,Nicolas,205.0,male,1992-02-15,14,Middle block,France,14.0
+1819,Men,1002,Berlin Recycling Volleys,Patch,Benjamin,205.0,male,1994-06-21,13,Diagonal,United States,13.0
+1819,Men,1002,Berlin Recycling Volleys,Reichert,Moritz,195.0,male,1995-03-15,5,Outside spiker,Germany,5.0
+1819,Men,1002,Berlin Recycling Volleys,Rossard,Nicolas,183.0,male,1990-05-23,16,Libero,France,16.0
+1819,Men,1002,Berlin Recycling Volleys,Russell,Kyle,205.0,male,1993-08-25,15,Diagonal,United States,15.0
+1819,Men,1002,Berlin Recycling Volleys,Tuia,Samuele,195.0,male,1986-07-24,12,Outside spiker,France,12.0
+1819,Men,1002,Berlin Recycling Volleys,Watten,Dustin,183.0,male,1986-10-27,3,Libero,United States,3.0
+1819,Men,1002,Berlin Recycling Volleys,Weber,Linus,202.0,male,1999-11-01,18,Diagonal,Germany,18.0
+1819,Men,1002,Berlin Recycling Volleys,White,Adam,205.0,male,1989-11-08,11,Outside spiker,Australia,11.0
+1819,Men,1002,Berlin Recycling Volleys,Zimmermann,Jan,192.0,male,1993-02-12,9,Setter,Germany,9.0
+1314,Men,1003,CV Mitteldeutschland,Augustyn,Artur Bartosz,198.0,male,1983-01-06,18,Middle block,Poland,18.0
+1314,Men,1003,CV Mitteldeutschland,Ehrhardt,Enrico,199.0,male,1983-12-04,9,Outside spiker,Germany,9.0
+1314,Men,1003,CV Mitteldeutschland,Halanda,Tomas,195.0,male,1992-04-25,8,Outside spiker,Slovakia,8.0
+1314,Men,1003,CV Mitteldeutschland,Hefter,Dennis,186.0,male,1993-03-04,14,Libero,Germany,14.0
+1314,Men,1003,CV Mitteldeutschland,Hooi,Jairo Joshua Armand,201.0,male,1978-03-13,10,Middle block,Netherlands,10.0
+1314,Men,1003,CV Mitteldeutschland,Munk Christiansen,Casper,196.0,male,1986-06-25,4,Outside spiker,Denmark,4.0
+1314,Men,1003,CV Mitteldeutschland,Palgut,Filip,202.0,male,1991-09-23,2,Setter,Slovakia,2.0
+1314,Men,1003,CV Mitteldeutschland,Soerensen Moerkeberg,Aske,197.0,male,1993-04-20,11,Middle block,Denmark,11.0
+1314,Men,1003,CV Mitteldeutschland,Trenkler,Phillip,190.0,male,1993-03-05,12,Outside spiker,Germany,12.0
+1314,Men,1003,CV Mitteldeutschland,Voelker,Florian,193.0,male,1991-05-06,17,Setter,Germany,17.0
+1314,Men,1003,CV Mitteldeutschland,Zeeman,Joren,202.0,male,1989-05-31,3,Diagonal,Canada,3.0
+1415,Men,1003,CV Mitteldeutschland,Amoroso,Michael,202.0,male,1989-05-10,13,Middle block,Canada,13.0
+1415,Men,1003,CV Mitteldeutschland,Augustyn,Artur Bartosz,198.0,male,1983-01-06,18,Middle block,Poland,18.0
+1415,Men,1003,CV Mitteldeutschland,Boldog,Robert John,190.0,male,1991-08-01,15,Setter,United States,15.0
+1415,Men,1003,CV Mitteldeutschland,Brzezinski,Marcin,201.0,male,1991-07-01,1,Diagonal,Poland,1.0
+1415,Men,1003,CV Mitteldeutschland,Ehrhardt,Enrico,199.0,male,1983-12-04,9,Outside spiker,Germany,9.0
+1415,Men,1003,CV Mitteldeutschland,Harms,Yannick,195.0,male,1994-01-14,3,Outside spiker,Germany,3.0
+1415,Men,1003,CV Mitteldeutschland,Hefter,Dennis,186.0,male,1993-03-04,14,Libero,Germany,14.0
+1415,Men,1003,CV Mitteldeutschland,Hopt,Jannis,206.0,male,1996-08-03,4,Setter,Germany,4.0
+1415,Men,1003,CV Mitteldeutschland,Krol,Jan,197.0,male,1989-08-23,6,Diagonal,Poland,6.0
+1415,Men,1003,CV Mitteldeutschland,Schott,Ruben,192.0,male,1994-07-08,7,Outside spiker,Germany,7.0
+1415,Men,1003,CV Mitteldeutschland,Skocic,Dejan,202.0,male,1983-05-09,2,Middle block,Croatia,2.0
+1415,Men,1003,CV Mitteldeutschland,Trenkler,Phillip,190.0,male,1993-03-05,12,Outside spiker,Germany,12.0
+1415,Men,1003,CV Mitteldeutschland,Voelker,Florian,193.0,male,1991-05-06,17,Setter,Germany,17.0
+1516,Men,1003,CV Mitteldeutschland,Augustyn,Artur Bartosz,198.0,male,1983-01-06,18,Middle block,Poland,18.0
+1516,Men,1003,CV Mitteldeutschland,Brzezinski,Marcin,201.0,male,1991-07-01,1,Diagonal,Poland,1.0
+1516,Men,1003,CV Mitteldeutschland,Buzzelli,Ugo,191.0,male,1994-05-07,7,Setter,Italy,7.0
+1516,Men,1003,CV Mitteldeutschland,Gorski,Janusz,195.0,male,1992-04-02,12,Outside spiker,Poland,12.0
+1516,Men,1003,CV Mitteldeutschland,Lech,Jaroslaw,197.0,male,1984-07-29,11,Diagonal,Poland,11.0
+1516,Men,1003,CV Mitteldeutschland,Leske,Matthew William,203.0,male,1991-05-17,4,Middle block,United States,4.0
+1516,Men,1003,CV Mitteldeutschland,Martinez Gion,Ramon Renaldo,191.0,male,1990-09-12,5,Outside spiker,Netherlands,5.0
+1516,Men,1003,CV Mitteldeutschland,Polanski,Maciej,201.0,male,1993-12-18,6,Middle block,Poland,6.0
+1516,Men,1003,CV Mitteldeutschland,Schlag,Timo,197.0,male,1995-08-04,10,Outside spiker,Germany,10.0
+1516,Men,1003,CV Mitteldeutschland,Sormaz,Nenad,199.0,male,1992-03-19,8,Outside spiker,Bosnia & Herzegovina,8.0
+1516,Men,1003,CV Mitteldeutschland,Sufa,Bartosz,186.0,male,1987-08-11,2,Libero,Poland,2.0
+1516,Men,1003,CV Mitteldeutschland,Szablewski,Lukasz,204.0,male,1988-10-05,13,Setter,Poland,13.0
+1314,Men,1004,Evivo Dueren,Barry,Evan,192.0,male,1990-05-10,2,Setter,United States,2.0
+1314,Men,1004,Evivo Dueren,Barthel,Dennis,199.0,male,1996-03-21,5,Outside spiker,Germany,5.0
+1314,Men,1004,Evivo Dueren,Filo,Tibor,202.0,male,1984-04-10,12,Middle block,Slovakia,12.0
+1314,Men,1004,Evivo Dueren,Gevert,Sebastian,204.0,male,1988-06-23,13,Diagonal,Chile,13.0
+1314,Men,1004,Evivo Dueren,Hilarius,Jelle,203.0,male,1988-10-10,4,Diagonal,Netherlands,4.0
+1314,Men,1004,Evivo Dueren,Hunt,Steven,198.0,male,1990-04-16,3,Outside spiker,Canada,3.0
+1314,Men,1004,Evivo Dueren,Klein,Georg,200.0,male,1991-08-22,6,Middle block,Germany,6.0
+1314,Men,1004,Evivo Dueren,Mattson,Erik John,186.0,male,1990-12-18,1,Libero,Canada,1.0
+1314,Men,1004,Evivo Dueren,McGovern,Ciaran,185.0,male,1989-06-05,15,Setter,Canada,15.0
+1314,Men,1004,Evivo Dueren,Nally,Andrew,197.0,male,1988-06-07,18,Outside spiker,United States,18.0
+1314,Men,1004,Evivo Dueren,Pompe,Matthias,198.0,male,1984-02-15,10,Outside spiker,Germany,10.0
+1314,Men,1004,Evivo Dueren,Zachrich,Jaromir,201.0,male,1985-04-14,14,Middle block,Germany,14.0
+1415,Men,1004,SWD Powervolleys Dueren,Bann,Blair,195.0,male,1988-02-26,1,Libero,Canada,1.0
+1415,Men,1004,SWD Powervolleys Dueren,Barthel,Dennis,199.0,male,1996-03-21,5,Outside spiker,Germany,5.0
+1415,Men,1004,SWD Powervolleys Dueren,Gevert,Sebastian,204.0,male,1988-06-23,13,Diagonal,Chile,13.0
+1415,Men,1004,SWD Powervolleys Dueren,Hunt,Steven,198.0,male,1990-04-16,8,Outside spiker,Canada,8.0
+1415,Men,1004,SWD Powervolleys Dueren,Klein,Georg,200.0,male,1991-08-22,6,Middle block,Germany,6.0
+1415,Men,1004,SWD Powervolleys Dueren,Klingner,Oskar,202.0,male,1991-03-15,7,Middle block,Germany,7.0
+1415,Men,1004,SWD Powervolleys Dueren,Kocian,Tomas,192.0,male,1988-03-27,17,Setter,Germany,17.0
+1415,Men,1004,SWD Powervolleys Dueren,Marks,Jan-Philipp,197.0,male,1992-04-03,18,Outside spiker,Germany,18.0
+1415,Men,1004,SWD Powervolleys Dueren,McGovern,Ciaran,185.0,male,1989-06-05,15,Setter,Canada,15.0
+1415,Men,1004,SWD Powervolleys Dueren,Meder,Davic,202.0,male,1992-10-17,11,Middle block,Germany,11.0
+1415,Men,1004,SWD Powervolleys Dueren,Pompe,Matthias,198.0,male,1984-02-15,10,Outside spiker,Germany,10.0
+1415,Men,1004,SWD Powervolleys Dueren,Prolingheuer,Marvin,210.0,male,1990-06-29,9,Diagonal,Germany,9.0
+1415,Men,1004,SWD Powervolleys Dueren,Zachrich,Jaromir,201.0,male,1985-04-14,14,Middle block,Germany,14.0
+1516,Men,1004,SWD Powervolleys Dueren,Bann,Blair,195.0,male,1988-02-26,1,Libero,Canada,1.0
+1516,Men,1004,SWD Powervolleys Dueren,Barthel,Dennis,199.0,male,1996-03-21,5,Outside spiker,Germany,5.0
+1516,Men,1004,SWD Powervolleys Dueren,Gevert,Sebastian,204.0,male,1988-06-23,13,Diagonal,Chile,13.0
+1516,Men,1004,SWD Powervolleys Dueren,Lukowsky,"Stefan,",190.0,male,1967-08-24,16,Libero,Germany,16.0
+1516,Men,1004,SWD Powervolleys Dueren,Marks,Jan-Philipp,197.0,male,1992-04-03,18,Outside spiker,Germany,18.0
+1516,Men,1004,SWD Powervolleys Dueren,Parkinson,Michael,203.0,male,1991-11-23,12,Middle block,Netherlands,12.0
+1516,Men,1004,SWD Powervolleys Dueren,Pompe,Matthias,198.0,male,1984-02-15,10,Outside spiker,Germany,10.0
+1516,Men,1004,SWD Powervolleys Dueren,Prolingheuer,Marvin,210.0,male,1990-06-29,9,Diagonal,Germany,9.0
+1516,Men,1004,SWD Powervolleys Dueren,Sedore,Brook,196.0,male,1993-04-22,11,Outside spiker,Canada,11.0
+1516,Men,1004,SWD Powervolleys Dueren,van Bemmelen,Bas,206.0,male,1989-08-18,8,Middle block,Netherlands,8.0
+1516,Men,1004,SWD Powervolleys Dueren,Verhoeff,Rudy Pieter,197.0,male,1989-06-24,2,Middle block,Canada,2.0
+1516,Men,1004,SWD Powervolleys Dueren,West,Matthew,197.0,male,1993-10-01,4,Setter,United States,4.0
+1516,Men,1004,SWD Powervolleys Dueren,Yu,Shibo,200.0,male,1987-12-06,6,Setter,China,6.0
+1516,Men,1004,SWD Powervolleys Dueren,Zachrich,Jaromir,201.0,male,1985-04-14,14,Middle block,Germany,14.0
+1617,Men,1004,SWD Powervolleys Dueren,Andrei,Michael,208.0,male,1985-08-06,11,Middle block,Germany,11.0
+1617,Men,1004,SWD Powervolleys Dueren,Bann,Blair,195.0,male,1988-02-26,1,Libero,Canada,1.0
+1617,Men,1004,SWD Powervolleys Dueren,Barthel,Dennis,199.0,male,1996-03-21,5,Outside spiker,Germany,5.0
+1617,Men,1004,SWD Powervolleys Dueren,Blankenau,Jay,194.0,male,1989-09-27,9,Setter,Canada,9.0
+1617,Men,1004,SWD Powervolleys Dueren,Broshog,Tim,205.0,male,1987-12-02,3,Middle block,Germany,3.0
+1617,Men,1004,SWD Powervolleys Dueren,Prolingheuer,Marvin,210.0,male,1990-06-29,8,Diagonal,Germany,8.0
+1617,Men,1004,SWD Powervolleys Dueren,Rumpunen,Ossi,187.0,male,1989-04-18,6,Outside spiker,Finland,6.0
+1617,Men,1004,SWD Powervolleys Dueren,Rumpunen,Tomi,194.0,male,1987-04-11,4,Outside spiker,Finland,4.0
+1617,Men,1004,SWD Powervolleys Dueren,Sauss,Romans,193.0,male,1989-06-27,7,Outside spiker,Latvia,7.0
+1617,Men,1004,SWD Powervolleys Dueren,Sippola,Jani,192.0,male,1990-05-04,17,Setter,Finland,17.0
+1617,Men,1004,SWD Powervolleys Dueren,Verhoeff,Rudy Pieter,197.0,male,1989-06-24,2,Diagonal,Canada,2.0
+1617,Men,1004,SWD Powervolleys Dueren,Zachrich,Jaromir,201.0,male,1985-04-14,14,Middle block,Germany,14.0
+1718,Men,1004,SWD Powervolleys Dueren,Allik,Karli,193.0,male,1996-09-25,6,Outside spiker,Estonia,6.0
+1718,Men,1004,SWD Powervolleys Dueren,Andrei,Michael,208.0,male,1985-08-06,11,Middle block,Germany,11.0
+1718,Men,1004,SWD Powervolleys Dueren,Bann,Blair,195.0,male,1988-02-26,1,Libero,Canada,1.0
+1718,Men,1004,SWD Powervolleys Dueren,Braas,Gilles,190.0,male,1992-03-17,12,Setter,Luxembourg,12.0
+1718,Men,1004,SWD Powervolleys Dueren,Broshog,Tim,205.0,male,1987-12-02,3,Middle block,Germany,3.0
+1718,Men,1004,SWD Powervolleys Dueren,Buivids,Edvarts,201.0,male,1993-12-04,4,Diagonal,Latvia,4.0
+1718,Men,1004,SWD Powervolleys Dueren,D'Hulst,Stijn,187.0,male,1991-04-24,5,Setter,Belgium,5.0
+1718,Men,1004,SWD Powervolleys Dueren,Firkal,Julius,195.0,male,1998-01-14,2,Outside spiker,Slovakia,2.0
+1718,Men,1004,SWD Powervolleys Dueren,Prolingheuer,Marvin,210.0,male,1990-06-29,8,Diagonal,Germany,8.0
+1718,Men,1004,SWD Powervolleys Dueren,Sauss,Romans,193.0,male,1989-06-27,7,Outside spiker,Latvia,7.0
+1718,Men,1004,SWD Powervolleys Dueren,Schneider,Rudy,192.0,male,2000-10-07,10,Universal,Germany,10.0
+1718,Men,1004,SWD Powervolleys Dueren,Westphal,Dirk,203.0,male,1986-01-31,9,Outside spiker,Germany,9.0
+1718,Men,1004,SWD Powervolleys Dueren,Zachrich,Jaromir,201.0,male,1985-04-14,14,Middle block,Germany,14.0
+1819,Men,1004,SWD Powervolleys Dueren,Andrae,Bjoern,200.0,male,1981-05-14,1,Outside spiker,Germany,1.0
+1819,Men,1004,SWD Powervolleys Dueren,Andrei,Michael,208.0,male,1985-08-06,11,Middle block,Germany,11.0
+1819,Men,1004,SWD Powervolleys Dueren,Brar,Irvan,186.0,male,1995-04-24,4,Outside spiker,Canada,4.0
+1819,Men,1004,SWD Powervolleys Dueren,Broshog,Tim,205.0,male,1987-12-02,3,Middle block,Germany,3.0
+1819,Men,1004,SWD Powervolleys Dueren,Coleman,Lucas,194.0,male,1995-01-14,9,Outside spiker,Canada,9.0
+1819,Men,1004,SWD Powervolleys Dueren,Ford,Daniel,196.0,male,1994-08-26,5,Setter,United States,5.0
+1819,Men,1004,SWD Powervolleys Dueren,Gevert,Sebastian,204.0,male,1988-06-23,13,Diagonal,Chile,13.0
+1819,Men,1004,SWD Powervolleys Dueren,Kocian,Tomas,192.0,male,1988-03-27,17,Setter,Germany,17.0
+1819,Men,1004,SWD Powervolleys Dueren,Lacassie,Florian,197.0,male,1990-11-16,6,Outside spiker,France,6.0
+1819,Men,1004,SWD Powervolleys Dueren,Maase,Lukas,212.0,male,1998-08-28,8,Middle block,Germany,8.0
+1819,Men,1004,SWD Powervolleys Dueren,Or,Jordan,177.0,male,1992-06-18,2,Libero,Canada,2.0
+1819,Men,1004,SWD Powervolleys Dueren,Sauss,Romans,193.0,male,1989-06-27,7,Outside spiker,Latvia,7.0
+1314,Men,1005,Generalli Haching,Boehme,Marcus,211.0,male,1985-08-25,8,Middle block,Germany,8.0
+1314,Men,1005,Generalli Haching,Gommans,Ewoud,202.0,male,1990-11-17,9,Outside spiker,Netherlands,9.0
+1314,Men,1005,Generalli Haching,Hirsch,Simon,204.0,male,1992-04-03,11,Diagonal,Germany,11.0
+1314,Men,1005,Generalli Haching,Jankowski,Philipp,192.0,male,1991-10-15,3,Setter,Germany,3.0
+1314,Men,1005,Generalli Haching,Marks,Jan-Philipp,197.0,male,1992-04-03,15,Outside spiker,Germany,15.0
+1314,Men,1005,Generalli Haching,Moreau,Marien,201.0,male,1983-10-25,13,Diagonal,France,13.0
+1314,Men,1005,Generalli Haching,Schwarz,Sebastian,197.0,male,1985-10-02,10,Outside spiker,Germany,10.0
+1314,Men,1005,Generalli Haching,Shumov,Konstantin,205.0,male,1985-02-15,12,Middle block,Finland,12.0
+1314,Men,1005,Generalli Haching,Sokolov,Genadi,202.0,male,1992-05-14,18,Middle block,Israel,18.0
+1314,Men,1005,Generalli Haching,Sossenheimer,David,193.0,male,1996-06-21,5,Outside spiker,Germany,5.0
+1314,Men,1005,Generalli Haching,Strohbach,Tom,196.0,male,1992-05-27,14,Outside spiker,Germany,14.0
+1314,Men,1005,Generalli Haching,Tille,Ferdinand,185.0,male,1988-12-08,7,Libero,Germany,7.0
+1314,Men,1005,Generalli Haching,Zhukouski,Tsimafei,196.0,male,1989-12-18,1,Setter,Croatia,1.0
+1718,Men,1006,Hypo Tirol AlpenVolleys Haching,Beer,Marek,201.0,male,1988-05-24,1,Middle block,Czechia,1.0
+1718,Men,1006,Hypo Tirol AlpenVolleys Haching,Chrtiansky,Stefan,207.0,male,1989-08-17,13,Outside spiker,Slovakia,13.0
+1718,Men,1006,Hypo Tirol AlpenVolleys Haching,Duarte Souza Da Silva,Douglas,203.0,male,1983-09-24,14,Middle block,Brazil,14.0
+1718,Men,1006,Hypo Tirol AlpenVolleys Haching,Frances,Pedro Henrique,208.0,male,1989-06-30,11,Middle block,Brazil,11.0
+1718,Men,1006,Hypo Tirol AlpenVolleys Haching,Gelinski,Danilo,193.0,male,1990-03-13,6,Setter,Brazil,6.0
+1718,Men,1006,Hypo Tirol AlpenVolleys Haching,Grobelny,Igor Oskar,194.0,male,1993-06-08,7,Outside spiker,Belgium,7.0
+1718,Men,1006,Hypo Tirol AlpenVolleys Haching,Koncal,Daniel,188.0,male,1982-09-16,16,Setter,Slovakia,16.0
+1718,Men,1006,Hypo Tirol AlpenVolleys Haching,Kronthaler,Niklas,193.0,male,1994-05-14,15,Outside spiker,Austria,15.0
+1718,Men,1006,Hypo Tirol AlpenVolleys Haching,Mlynarcik,Peter,200.0,male,1991-11-29,3,Diagonal,Slovakia,3.0
+1718,Men,1006,Hypo Tirol AlpenVolleys Haching,Moreno Mosquera,Juan Pablo,195.0,male,1997-11-11,5,Diagonal,Colombia,5.0
+1718,Men,1006,Hypo Tirol AlpenVolleys Haching,Pietruczuk,Bartosz,197.0,male,1993-02-26,8,Outside spiker,Poland,8.0
+1718,Men,1006,Hypo Tirol AlpenVolleys Haching,Provenzano Joao De Deus,Lucas,178.0,male,1987-01-26,2,Libero,Brazil,2.0
+1718,Men,1006,Hypo Tirol AlpenVolleys Haching,Sagstetter,Jonas,190.0,male,1999-04-21,4,Outside spiker,Germany,4.0
+1718,Men,1006,Hypo Tirol AlpenVolleys Haching,Topalov,Georgi Veselinov,197.0,male,1993-03-23,9,Setter,Bulgaria,9.0
+1718,Men,1006,Hypo Tirol AlpenVolleys Haching,Verhoeff,Rudy Pieter,197.0,male,1989-06-24,10,Diagonal,Canada,10.0
+1819,Men,1006,Hypo Tirol AlpenVolleys Haching,De Leon Guimaraes Da Silva,Hugo,198.0,male,1990-07-04,10,Outside spiker,Brazil,10.0
+1819,Men,1006,Hypo Tirol AlpenVolleys Haching,Duarte Souza Da Silva,Douglas,203.0,male,1983-09-24,14,Middle block,Brazil,14.0
+1819,Men,1006,Hypo Tirol AlpenVolleys Haching,Frances,Pedro Henrique,208.0,male,1989-06-30,11,Middle block,Brazil,11.0
+1819,Men,1006,Hypo Tirol AlpenVolleys Haching,Gelinski,Danilo,193.0,male,1990-03-13,6,Setter,Brazil,6.0
+1819,Men,1006,Hypo Tirol AlpenVolleys Haching,Halaba,Pawel,194.0,male,1995-12-14,13,Outside spiker,Poland,13.0
+1819,Men,1006,Hypo Tirol AlpenVolleys Haching,Hodges,Thomas Eric,197.0,male,1994-07-04,2,Diagonal,Australia,2.0
+1819,Men,1006,Hypo Tirol AlpenVolleys Haching,Johansen,German,200.0,male,1995-09-02,7,Diagonal,Argentina,7.0
+1819,Men,1006,Hypo Tirol AlpenVolleys Haching,Klets,Kirill,210.0,male,1998-03-15,3,Diagonal,Russia,3.0
+1819,Men,1006,Hypo Tirol AlpenVolleys Haching,Koncal,Daniel,188.0,male,1982-09-16,16,Setter,Slovakia,16.0
+1819,Men,1006,Hypo Tirol AlpenVolleys Haching,Kronthaler,Niklas,193.0,male,1994-05-14,15,Outside spiker,Austria,15.0
+1819,Men,1006,Hypo Tirol AlpenVolleys Haching,Pollock,Matthew,207.0,male,1990-04-26,4,Middle block,United States,4.0
+1819,Men,1006,Hypo Tirol AlpenVolleys Haching,Ringseis,Florian,188.0,male,1992-07-09,1,Libero,Austria,1.0
+1819,Men,1006,Hypo Tirol AlpenVolleys Haching,Sagstetter,Jonas,190.0,male,1999-04-21,5,Outside spiker,Germany,5.0
+1314,Men,1007,Moerser SC,Baxpoehler,Noah,209.0,male,1993-08-13,10,Middle block,Germany,10.0
+1314,Men,1007,Moerser SC,Broshog,Tim,205.0,male,1987-12-02,3,Middle block,Germany,3.0
+1314,Men,1007,Moerser SC,Elsner,Tim,199.0,male,1984-02-05,9,Universal,Germany,9.0
+1314,Men,1007,Moerser SC,Klingner,Oskar,202.0,male,1991-03-15,7,Middle block,Germany,7.0
+1314,Men,1007,Moerser SC,Marks,Nicolas,198.0,male,1994-09-23,11,Universal,Germany,11.0
+1314,Men,1007,Moerser SC,Mueller,Moritz,192.0,male,1988-04-29,5,Universal,Germany,5.0
+1314,Men,1007,Moerser SC,Neumann,Tobias,204.0,male,1988-09-07,1,Setter,Germany,1.0
+1314,Men,1007,Moerser SC,Plotyczer,Mark,195.0,male,1987-02-19,14,Outside spiker,United Kingdom,14.0
+1314,Men,1007,Moerser SC,Rangel,Pedro,194.0,male,1988-09-16,13,Setter,Mexico,13.0
+1314,Men,1007,Moerser SC,Rodriguez Capel,Oscar,180.0,male,1982-06-08,4,Libero,Spain,4.0
+1314,Men,1007,Moerser SC,Schattenberg,Lukas,194.0,male,1995-09-11,12,Outside spiker,Germany,12.0
+1314,Men,1007,Moerser SC,Stein,Itamar,199.0,male,1983-02-12,2,Outside spiker,Israel,2.0
+1314,Men,1007,Moerser SC,Weber,Tom,185.0,male,1989-10-27,8,Universal,Germany,8.0
+1415,Men,1008,Netzhoppers KW-Bestensee,Boehme,Matthias,204.0,male,1987-07-23,18,Diagonal,Germany,18.0
+1415,Men,1008,Netzhoppers KW-Bestensee,Dittelbach,Finn,195.0,male,1990-04-13,8,Diagonal,Germany,8.0
+1415,Men,1008,Netzhoppers KW-Bestensee,Ellerkmann,Bastian,190.0,male,1996-02-03,4,Setter,Germany,4.0
+1415,Men,1008,Netzhoppers KW-Bestensee,Escher,Georg,202.0,male,1994-12-08,15,Middle block,Germany,15.0
+1415,Men,1008,Netzhoppers KW-Bestensee,Heinecke,Daniel,199.0,male,1986-06-28,12,Middle block,Germany,12.0
+1415,Men,1008,Netzhoppers KW-Bestensee,Kinder,Arvid,191.0,male,1980-12-06,6,Outside spiker,Germany,6.0
+1415,Men,1008,Netzhoppers KW-Bestensee,Lohrisch,Paul,198.0,male,1987-04-11,2,Outside spiker,Germany,2.0
+1415,Men,1008,Netzhoppers KW-Bestensee,Penk,Matthias,191.0,male,1988-02-11,1,Outside spiker,Germany,1.0
+1415,Men,1008,Netzhoppers KW-Bestensee,Ratajczak,Kamil,182.0,male,1985-09-24,10,Libero,Poland,10.0
+1415,Men,1008,Netzhoppers KW-Bestensee,Rieke,Manuel,194.0,male,1982-10-23,13,Setter,Germany,13.0
+1415,Men,1008,Netzhoppers KW-Bestensee,Sprung,Paul,204.0,male,1991-03-05,14,Diagonal,Germany,14.0
+1415,Men,1008,Netzhoppers KW-Bestensee,Timmermann,Theo,190.0,male,1996-09-14,11,Outside spiker,Germany,11.0
+1516,Men,1008,Netzhoppers KW-Bestensee,Boehme,Matthias,204.0,male,1987-07-23,8,Diagonal,Germany,8.0
+1516,Men,1008,Netzhoppers KW-Bestensee,Ehlers,Nils,209.0,male,1994-02-04,15,Diagonal,Germany,15.0
+1516,Men,1008,Netzhoppers KW-Bestensee,Hafemann,Robin,198.0,male,1995-11-02,7,Outside spiker,Germany,7.0
+1516,Men,1008,Netzhoppers KW-Bestensee,Hecht,Florian,200.0,male,1993-05-30,3,Middle block,Germany,3.0
+1516,Men,1008,Netzhoppers KW-Bestensee,Heinecke,Daniel,199.0,male,1986-06-28,12,Middle block,Germany,12.0
+1516,Men,1008,Netzhoppers KW-Bestensee,Itzigehl,Peter,188.0,male,1988-03-24,5,Setter,Germany,5.0
+1516,Men,1008,Netzhoppers KW-Bestensee,Ivanov,Ivaylo Bozhidarov,195.0,male,1997-04-12,2,Outside spiker,Bulgaria,2.0
+1516,Men,1008,Netzhoppers KW-Bestensee,Krause,Sebastian,203.0,male,1989-10-16,9,Outside spiker,Germany,9.0
+1516,Men,1008,Netzhoppers KW-Bestensee,Penk,Matthias,191.0,male,1988-02-11,1,Outside spiker,Germany,1.0
+1516,Men,1008,Netzhoppers KW-Bestensee,Ratajczak,Kamil,182.0,male,1985-09-24,10,Libero,Poland,10.0
+1516,Men,1008,Netzhoppers KW-Bestensee,Rieke,Manuel,194.0,male,1982-10-23,13,Setter,Germany,13.0
+1516,Men,1008,Netzhoppers KW-Bestensee,Sprung,Paul,204.0,male,1991-03-05,14,Middle block,Germany,14.0
+1516,Men,1008,Netzhoppers KW-Bestensee,Timmermann,Theo,190.0,male,1996-09-14,11,Outside spiker,Germany,11.0
+1617,Men,1008,Netzhoppers SolWo Koenigspark KW,Andrae,Bjoern,200.0,male,1981-05-14,8,Outside spiker,Germany,8.0
+1617,Men,1008,Netzhoppers SolWo Koenigspark KW,Ferch,Iven Fietje,206.0,male,1997-09-18,5,Middle block,Germany,5.0
+1617,Men,1008,Netzhoppers SolWo Koenigspark KW,Gavenda,Filip,202.0,male,1996-01-13,2,Diagonal,Slovakia,2.0
+1617,Men,1008,Netzhoppers SolWo Koenigspark KW,Hafemann,Robin,198.0,male,1995-11-02,7,Outside spiker,Germany,7.0
+1617,Men,1008,Netzhoppers SolWo Koenigspark KW,Hammond,Taylor Douglas,189.0,male,1992-10-27,3,Setter,United States,3.0
+1617,Men,1008,Netzhoppers SolWo Koenigspark KW,Heinecke,Daniel,199.0,male,1986-06-28,12,Middle block,Germany,12.0
+1617,Men,1008,Netzhoppers SolWo Koenigspark KW,Kaleck,Sascha Uwe,202.0,male,1997-04-08,4,Setter,Germany,4.0
+1617,Men,1008,Netzhoppers SolWo Koenigspark KW,Penk,Matthias,191.0,male,1988-02-11,1,Setter,Germany,1.0
+1617,Men,1008,Netzhoppers SolWo Koenigspark KW,Ratajczak,Kamil,182.0,male,1985-09-24,10,Libero,Poland,10.0
+1617,Men,1008,Netzhoppers SolWo Koenigspark KW,Schramm,Robert,206.0,male,1989-12-16,9,Middle block,Germany,9.0
+1617,Men,1008,Netzhoppers SolWo Koenigspark KW,Sprung,Paul,204.0,male,1991-03-05,14,Middle block,Germany,14.0
+1617,Men,1008,Netzhoppers SolWo Koenigspark KW,Timmermann,Theo,190.0,male,1996-09-14,11,Outside spiker,Germany,11.0
+1718,Men,1008,Netzhoppers SolWo Koenigspark KW,Andrae,Bjoern,200.0,male,1981-05-14,8,Outside spiker,Germany,8.0
+1718,Men,1008,Netzhoppers SolWo Koenigspark KW,Ferch,Iven Fietje,206.0,male,1997-09-18,5,Middle block,Germany,5.0
+1718,Men,1008,Netzhoppers SolWo Koenigspark KW,Gavenda,Filip,202.0,male,1996-01-13,2,Diagonal,Slovakia,2.0
+1718,Men,1008,Netzhoppers SolWo Koenigspark KW,Gust,Levin,188.0,male,1999-03-16,15,Libero,Germany,15.0
+1718,Men,1008,Netzhoppers SolWo Koenigspark KW,Hafemann,Robin,198.0,male,1995-11-02,7,Outside spiker,Germany,7.0
+1718,Men,1008,Netzhoppers SolWo Koenigspark KW,Heinecke,Daniel,199.0,male,1986-06-28,12,Middle block,Germany,12.0
+1718,Men,1008,Netzhoppers SolWo Koenigspark KW,Herr,Luke Thomas A.,194.0,male,1994-07-18,1,Setter,Canada,1.0
+1718,Men,1008,Netzhoppers SolWo Koenigspark KW,Kaleck,Sascha Uwe,202.0,male,1997-04-08,4,Setter,Germany,4.0
+1718,Men,1008,Netzhoppers SolWo Koenigspark KW,Krabel,Jan-Philipp,204.0,male,1998-03-24,9,Diagonal,Germany,9.0
+1718,Men,1008,Netzhoppers SolWo Koenigspark KW,Poluga,Nikola,201.0,male,1986-03-01,16,Diagonal,Serbia,16.0
+1718,Men,1008,Netzhoppers SolWo Koenigspark KW,Ratajczak,Kamil,182.0,male,1985-09-24,10,Libero,Poland,10.0
+1718,Men,1008,Netzhoppers SolWo Koenigspark KW,Schlag,Timo,197.0,male,1995-08-04,3,Outside spiker,Germany,3.0
+1718,Men,1008,Netzhoppers SolWo Koenigspark KW,Sprung,Paul,204.0,male,1991-03-05,14,Middle block,Germany,14.0
+1718,Men,1008,Netzhoppers SolWo Koenigspark KW,Timmermann,Theo,190.0,male,1996-09-14,11,Outside spiker,Germany,11.0
+1819,Men,1008,Netzhoppers SolWo Koenigspark KW,Auste,Maximilian,206.0,male,1997-01-27,9,Diagonal,Germany,9.0
+1819,Men,1008,Netzhoppers SolWo Koenigspark KW,Chambers,Arran,202.0,male,1995-04-12,12,Middle block,Canada,12.0
+1819,Men,1008,Netzhoppers SolWo Koenigspark KW,Ferch,Iven Fietje,206.0,male,1997-09-18,5,Middle block,Germany,5.0
+1819,Men,1008,Netzhoppers SolWo Koenigspark KW,Gust,Levin,188.0,male,1999-03-16,15,Libero,Germany,15.0
+1819,Men,1008,Netzhoppers SolWo Koenigspark KW,Herr,Luke Thomas A.,194.0,male,1994-07-18,1,Setter,Canada,1.0
+1819,Men,1008,Netzhoppers SolWo Koenigspark KW,Jalowietzki,Jan,193.0,male,1996-02-16,2,Outside spiker,Germany,2.0
+1819,Men,1008,Netzhoppers SolWo Koenigspark KW,Kaleck,Sascha Uwe,202.0,male,1997-04-08,4,Setter,Germany,4.0
+1819,Men,1008,Netzhoppers SolWo Koenigspark KW,Krueger,Martin,188.0,male,1994-01-10,17,Setter,Germany,17.0
+1819,Men,1008,Netzhoppers SolWo Koenigspark KW,Ratajczak,Kamil,182.0,male,1985-09-24,10,Libero,Poland,10.0
+1819,Men,1008,Netzhoppers SolWo Koenigspark KW,Rooney,Kenneth Michael,203.0,male,1994-04-01,14,Middle block,Canada,14.0
+1819,Men,1008,Netzhoppers SolWo Koenigspark KW,Schouten,Casey Adam,196.0,male,1994-03-29,3,Diagonal,Canada,3.0
+1819,Men,1008,Netzhoppers SolWo Koenigspark KW,Timmermann,Theo,190.0,male,1996-09-14,11,Outside spiker,Germany,11.0
+1819,Men,1008,Netzhoppers SolWo Koenigspark KW,Westphal,Dirk,203.0,male,1986-01-31,8,Outside spiker,Germany,8.0
+1415,Men,1009,SVG Lueneburg,Bahlburg,Rene,198.0,male,1988-06-09,5,Outside spiker,Germany,5.0
+1415,Men,1009,SVG Lueneburg,Brueggemann,Immo,180.0,male,1991-01-17,2,Libero,Germany,2.0
+1415,Men,1009,SVG Lueneburg,Dolfo,Eugenio,196.0,male,1987-06-23,6,Setter,Italy,6.0
+1415,Men,1009,SVG Lueneburg,Kevorken,Scott Michael,206.0,male,1991-02-16,3,Middle block,United States,3.0
+1415,Men,1009,SVG Lueneburg,Kruse,Patrick,206.0,male,1988-09-06,18,Middle block,Germany,18.0
+1415,Men,1009,SVG Lueneburg,Koehler,Stefan,197.0,male,1989-04-29,13,Outside spiker,Germany,13.0
+1415,Men,1009,SVG Lueneburg,Laane,Tijmen,206.0,male,1988-02-02,4,Outside spiker,Netherlands,4.0
+1415,Men,1009,SVG Lueneburg,Marks,Nicolas,198.0,male,1994-09-23,11,Outside spiker,Germany,11.0
+1415,Men,1009,SVG Lueneburg,Mattson,Erik John,186.0,male,1990-12-18,1,Libero,Canada,1.0
+1415,Men,1009,SVG Lueneburg,Mora Sabate,Carlos,197.0,male,1990-03-19,16,Setter,Spain,16.0
+1415,Men,1009,SVG Lueneburg,Poerner,Jannik,201.0,male,1994-07-13,7,Diagonal,Germany,7.0
+1415,Men,1009,SVG Lueneburg,Schlien,Michel,206.0,male,1992-03-05,14,Middle block,Germany,14.0
+1415,Men,1009,SVG Lueneburg,Seybering,David,200.0,male,1995-12-19,8,Middle block,Germany,8.0
+1415,Men,1009,SVG Lueneburg,Steinke,Falko,205.0,male,1985-03-26,9,Diagonal,Germany,9.0
+1415,Men,1009,SVG Lueneburg,Thole,Julius,204.0,male,1997-05-17,15,Diagonal,Germany,15.0
+1516,Men,1009,SVG Lueneburg,Bahlburg,Rene,198.0,male,1988-06-09,5,Outside spiker,Germany,5.0
+1516,Men,1009,SVG Lueneburg,Brueggemann,Immo,180.0,male,1991-01-17,2,Libero,Germany,2.0
+1516,Men,1009,SVG Lueneburg,Del Bianco,Nicholas,195.0,male,1992-02-06,15,Outside spiker,Canada,15.0
+1516,Men,1009,SVG Lueneburg,Kevorken,Scott Michael,206.0,male,1991-02-16,3,Middle block,United States,3.0
+1516,Men,1009,SVG Lueneburg,Klingner,Oskar,202.0,male,1991-03-15,13,Middle block,Germany,13.0
+1516,Men,1009,SVG Lueneburg,Kocian,Adam,192.0,male,1995-04-01,6,Setter,Germany,6.0
+1516,Men,1009,SVG Lueneburg,Kruse,Patrick,206.0,male,1988-09-06,18,Middle block,Germany,18.0
+1516,Men,1009,SVG Lueneburg,Marks,Nicolas,198.0,male,1994-09-23,11,Outside spiker,Germany,11.0
+1516,Men,1009,SVG Lueneburg,Marshall,Steven,191.0,male,1989-11-23,10,Outside spiker,Canada,10.0
+1516,Men,1009,SVG Lueneburg,Mattson,Erik John,186.0,male,1990-12-18,1,Libero,Canada,1.0
+1516,Men,1009,SVG Lueneburg,Mora Sabate,Carlos,197.0,male,1990-03-19,16,Setter,Spain,16.0
+1516,Men,1009,SVG Lueneburg,Poerner,Jannik,201.0,male,1994-07-13,7,Diagonal,Germany,7.0
+1516,Men,1009,SVG Lueneburg,Schlien,Michel,206.0,male,1992-03-05,14,Middle block,Germany,14.0
+1516,Men,1009,SVG Lueneburg,Steinke,Falko,205.0,male,1985-03-26,9,Diagonal,Germany,9.0
+1617,Men,1009,SVG Lueneburg,Brinkley,Michael,179.0,male,1992-10-15,1,Libero,United States,1.0
+1617,Men,1009,SVG Lueneburg,Brueggemann,Immo,180.0,male,1991-01-17,2,Libero,Germany,2.0
+1617,Men,1009,SVG Lueneburg,Fitterer,Eric,203.0,male,1993-04-26,9,Diagonal,United States,9.0
+1617,Men,1009,SVG Lueneburg,Kessel,Cody,197.0,male,1991-12-03,5,Outside spiker,United States,5.0
+1617,Men,1009,SVG Lueneburg,Kevorken,Scott Michael,206.0,male,1991-02-16,3,Middle block,United States,3.0
+1617,Men,1009,SVG Lueneburg,Kocian,Adam,192.0,male,1995-04-01,8,Setter,Germany,8.0
+1617,Men,1009,SVG Lueneburg,Krage,Florian,203.0,male,1997-01-11,12,Middle block,Germany,12.0
+1617,Men,1009,SVG Lueneburg,Kruse,Patrick,206.0,male,1988-09-06,18,Middle block,Germany,18.0
+1617,Men,1009,SVG Lueneburg,Mora Sabate,Carlos,197.0,male,1990-03-19,16,Setter,Spain,16.0
+1617,Men,1009,SVG Lueneburg,Moellgaard,Mads,197.0,male,1995-05-07,15,Outside spiker,Denmark,15.0
+1617,Men,1009,SVG Lueneburg,Pompe,Matthias,198.0,male,1984-02-15,10,Outside spiker,Germany,10.0
+1617,Men,1009,SVG Lueneburg,Poerner,Jannik,201.0,male,1994-07-13,7,Diagonal,Germany,7.0
+1617,Men,1009,SVG Lueneburg,Radzuweit,Lukas,197.0,male,1997-01-31,13,Outside spiker,Germany,13.0
+1617,Men,1009,SVG Lueneburg,Schlien,Michel,206.0,male,1992-03-05,14,Middle block,Germany,14.0
+1718,Men,1009,SVG Lueneburg,Baxpoehler,Noah,209.0,male,1993-08-13,4,Middle block,Germany,4.0
+1718,Men,1009,SVG Lueneburg,Ching,Roy,195.0,male,1993-02-02,18,Universal,New Zealand,18.0
+1718,Men,1009,SVG Lueneburg,Kessel,Cody,197.0,male,1991-12-03,5,Outside spiker,United States,5.0
+1718,Men,1009,SVG Lueneburg,Kocian,Adam,192.0,male,1995-04-01,8,Setter,Germany,8.0
+1718,Men,1009,SVG Lueneburg,Koslowsky,Tyler,182.0,male,1993-10-13,1,Libero,Canada,1.0
+1718,Men,1009,SVG Lueneburg,Krage,Florian,203.0,male,1997-01-11,12,Middle block,Germany,12.0
+1718,Men,1009,SVG Lueneburg,Pompe,Matthias,198.0,male,1984-02-15,10,Outside spiker,Germany,10.0
+1718,Men,1009,SVG Lueneburg,Poerner,Jannik,201.0,male,1994-07-13,7,Universal,Germany,7.0
+1718,Men,1009,SVG Lueneburg,Schlien,Michel,206.0,male,1992-03-05,14,Middle block,Germany,14.0
+1718,Men,1009,SVG Lueneburg,Sclater,Ryan,200.0,male,1994-02-10,15,Universal,Canada,15.0
+1718,Men,1009,SVG Lueneburg,Szeto,Raymond,189.0,male,1991-07-22,11,Outside spiker,Canada,11.0
+1718,Men,1009,SVG Lueneburg,Thole,Konrad,210.0,male,1999-09-14,16,Outside spiker,Germany,16.0
+1718,Men,1009,SVG Lueneburg,van Solkema,Gijs,192.0,male,1998-05-21,2,Setter,Netherlands,2.0
+1819,Men,1009,SVG Lueneburg,Baxpoehler,Noah,209.0,male,1993-08-13,4,Middle block,Germany,4.0
+1819,Men,1009,SVG Lueneburg,Kessel,Cody,197.0,male,1991-12-03,5,Outside spiker,United States,5.0
+1819,Men,1009,SVG Lueneburg,Koslowsky,Tyler,182.0,male,1993-10-13,1,Libero,Canada,1.0
+1819,Men,1009,SVG Lueneburg,Krage,Florian,203.0,male,1997-01-11,12,Middle block,Germany,12.0
+1819,Men,1009,SVG Lueneburg,Pompe,Matthias,198.0,male,1984-02-15,10,Outside spiker,Germany,10.0
+1819,Men,1009,SVG Lueneburg,Poerner,Jannik,201.0,male,1994-07-13,7,Diagonal,Germany,7.0
+1819,Men,1009,SVG Lueneburg,Schlien,Michel,206.0,male,1992-03-05,14,Middle block,Germany,14.0
+1819,Men,1009,SVG Lueneburg,Schriemer,Adam,200.0,male,1995-08-17,3,Setter,Canada,3.0
+1819,Men,1009,SVG Lueneburg,Sclater,Ryan,200.0,male,1994-02-10,15,Diagonal,Canada,15.0
+1819,Men,1009,SVG Lueneburg,Szeto,Raymond,189.0,male,1991-07-22,11,Outside spiker,Canada,11.0
+1819,Men,1009,SVG Lueneburg,Thole,Konrad,210.0,male,1999-09-14,16,Outside spiker,Germany,16.0
+1819,Men,1009,SVG Lueneburg,van Solkema,Gijs,192.0,male,1998-05-21,2,Setter,Netherlands,2.0
+1415,Men,1010,TSV Herrsching,Breinbauer,Fabian,189.0,male,1993-11-14,2,Setter,Germany,2.0
+1415,Men,1010,TSV Herrsching,Doranth,Benedikt,193.0,male,1987-12-28,1,Outside spiker,Germany,1.0
+1415,Men,1010,TSV Herrsching,Friedrich,Roy,202.0,male,1988-02-01,15,Middle block,Germany,15.0
+1415,Men,1010,TSV Herrsching,Heckmann,Philip,185.0,male,1987-02-19,10,Setter,Germany,10.0
+1415,Men,1010,TSV Herrsching,Hoefer,Julius,201.0,male,1992-03-10,5,Outside spiker,Germany,5.0
+1415,Men,1010,TSV Herrsching,Malescha,Daniel,203.0,male,1994-04-28,11,Diagonal,Germany,11.0
+1415,Men,1010,TSV Herrsching,Malescha,Florian,195.0,male,1988-03-31,6,Outside spiker,Germany,6.0
+1415,Men,1010,TSV Herrsching,Neumann,Tobias,204.0,male,1988-09-07,9,Setter,Germany,9.0
+1415,Men,1010,TSV Herrsching,Pruesener,Sebastian,198.0,male,1982-05-26,18,Libero,Germany,18.0
+1415,Men,1010,TSV Herrsching,Ranner,Thomas,203.0,male,1987-07-31,12,Middle block,Germany,12.0
+1415,Men,1010,TSV Herrsching,Smith,Luke,204.0,male,1990-08-30,16,Outside spiker,Australia,16.0
+1415,Men,1010,TSV Herrsching,Wehl,Michael,204.0,male,1990-07-27,8,Middle block,Germany,8.0
+1415,Men,1010,TSV Herrsching,Wenke,Jan,204.0,male,1989-11-01,7,Middle block,Germany,7.0
+1516,Men,1010,TSV Herrsching,Doranth,Benedikt,193.0,male,1987-12-28,1,Outside spiker,Germany,1.0
+1516,Men,1010,TSV Herrsching,Friedrich,Roy,202.0,male,1988-02-01,15,Middle block,Germany,15.0
+1516,Men,1010,TSV Herrsching,Hoefer,Julius,201.0,male,1992-03-10,5,Outside spiker,Germany,5.0
+1516,Men,1010,TSV Herrsching,Kessler,Johannes,195.0,male,1992-03-28,14,Diagonal,Germany,14.0
+1516,Men,1010,TSV Herrsching,Malescha,Daniel,203.0,male,1994-04-28,11,Diagonal,Germany,11.0
+1516,Men,1010,TSV Herrsching,Malescha,Florian,195.0,male,1988-03-31,6,Outside spiker,Germany,6.0
+1516,Men,1010,TSV Herrsching,Neumann,Tobias,204.0,male,1988-09-07,9,Setter,Germany,9.0
+1516,Men,1010,TSV Herrsching,Ondrovic,Peter,200.0,male,1995-03-28,13,Middle block,Slovakia,13.0
+1516,Men,1010,TSV Herrsching,Ranner,Thomas,203.0,male,1987-07-31,18,Middle block,Germany,18.0
+1516,Men,1010,TSV Herrsching,Steuerwald,Patrick,180.0,male,1986-03-03,4,Setter,Germany,4.0
+1516,Men,1010,TSV Herrsching,Tille,Ferdinand,185.0,male,1988-12-08,7,Libero,Germany,7.0
+1516,Men,1010,TSV Herrsching,Trenkler,Phillip,190.0,male,1993-03-05,12,Outside spiker,Germany,12.0
+1516,Men,1010,TSV Herrsching,Wehl,Michael,204.0,male,1990-07-27,8,Middle block,Germany,8.0
+1516,Men,1010,TSV Herrsching,Wenke,Jan,204.0,male,1989-11-01,17,Middle block,Germany,17.0
+1617,Men,1010,TSV Herrsching,Doranth,Benedikt,193.0,male,1987-12-28,1,Outside spiker,Germany,1.0
+1617,Men,1010,TSV Herrsching,Friedrich,Roy,202.0,male,1988-02-01,15,Middle block,Germany,15.0
+1617,Men,1010,TSV Herrsching,Grabmueller,Nicolai,200.0,male,1996-04-18,17,Middle block,Austria,17.0
+1617,Men,1010,TSV Herrsching,Hoefer,Julius,201.0,male,1992-03-10,5,Outside spiker,Germany,5.0
+1617,Men,1010,TSV Herrsching,Malescha,Florian,195.0,male,1988-03-31,6,Outside spiker,Germany,6.0
+1617,Men,1010,TSV Herrsching,Milovancevic,Aleksandar,194.0,male,1986-04-29,2,Outside spiker,Serbia,2.0
+1617,Men,1010,TSV Herrsching,Neumann,Tobias,204.0,male,1988-09-07,9,Setter,Germany,9.0
+1617,Men,1010,TSV Herrsching,Ondrovic,Peter,200.0,male,1995-03-28,13,Middle block,Slovakia,13.0
+1617,Men,1010,TSV Herrsching,Steuerwald,Patrick,180.0,male,1986-03-03,4,Setter,Germany,4.0
+1617,Men,1010,TSV Herrsching,Strohbach,Tom,196.0,male,1992-05-27,10,Outside spiker,Germany,10.0
+1617,Men,1010,TSV Herrsching,Tarantino,Matthew,204.0,male,1993-07-05,11,Diagonal,United States,11.0
+1617,Men,1010,TSV Herrsching,Tille,Ferdinand,185.0,male,1988-12-08,7,Libero,Germany,7.0
+1718,Men,1010,TSV Herrsching,Brown,Andre,206.0,male,1990-08-24,18,Middle block,Canada,18.0
+1718,Men,1010,TSV Herrsching,Gomes,Jose Pedro,196.0,male,1994-10-21,16,Outside spiker,Portugal,16.0
+1718,Men,1010,TSV Herrsching,Grabmueller,Nicolai,200.0,male,1996-04-18,17,Middle block,Austria,17.0
+1718,Men,1010,TSV Herrsching,Kessler,Johannes,195.0,male,1992-03-28,14,Diagonal,Germany,14.0
+1718,Men,1010,TSV Herrsching,Krueger,Martin,188.0,male,1994-01-10,5,Setter,Germany,5.0
+1718,Men,1010,TSV Herrsching,Malescha,Florian,195.0,male,1988-03-31,6,Outside spiker,Germany,6.0
+1718,Men,1010,TSV Herrsching,Marks,Christoph,198.0,male,1997-04-16,15,Diagonal,Germany,15.0
+1718,Men,1010,TSV Herrsching,Nilsson,Wilhelm,205.0,male,1994-02-17,9,Middle block,Sweden,9.0
+1718,Men,1010,TSV Herrsching,Peter,Tim,197.0,male,1997-09-08,4,Outside spiker,Germany,4.0
+1718,Men,1010,TSV Herrsching,Sladecek,Michal,179.0,male,1980-02-12,12,Setter,Slovakia,12.0
+1718,Men,1010,TSV Herrsching,Strohbach,Tom,196.0,male,1992-05-27,10,Outside spiker,Germany,10.0
+1718,Men,1010,TSV Herrsching,Tille,Ferdinand,185.0,male,1988-12-08,7,Libero,Germany,7.0
+1718,Men,1010,TSV Herrsching,Wehl,Michael,204.0,male,1990-07-27,8,Middle block,Germany,8.0
+1718,Men,1010,TSV Herrsching,Zemlik,Slawomir,200.0,male,1992-11-03,2,Outside spiker,Poland,2.0
+1819,Men,1010,TSV Herrsching,Bauer,Lukas,203.0,male,1989-02-26,5,Middle block,Germany,5.0
+1819,Men,1010,TSV Herrsching,Dervisaj,Leon,194.0,male,1996-09-07,14,Setter,Germany,14.0
+1819,Men,1010,TSV Herrsching,Engemann,Norbert,201.0,male,1997-09-17,10,Middle block,Germany,10.0
+1819,Men,1010,TSV Herrsching,Fraser,Bryan Joseph,199.0,male,1991-01-31,2,Outside spiker,Canada,2.0
+1819,Men,1010,TSV Herrsching,Machacon,Humberto,198.0,male,1989-10-05,17,Outside spiker,Colombia,17.0
+1819,Men,1010,TSV Herrsching,Peter,Tim,197.0,male,1997-09-08,4,Outside spiker,Germany,4.0
+1819,Men,1010,TSV Herrsching,Sagstetter,Benedikt,197.0,male,2000-12-30,18,Setter,Germany,18.0
+1819,Men,1010,TSV Herrsching,Shields,Griffin,199.0,male,1995-02-18,15,Diagonal,United States,15.0
+1819,Men,1010,TSV Herrsching,Sushko,Artem,202.0,male,1993-12-24,3,Outside spiker,Russia,3.0
+1819,Men,1010,TSV Herrsching,Szabo,Alpar Jozsef,203.0,male,1990-07-26,1,Middle block,Hungary,1.0
+1819,Men,1010,TSV Herrsching,Tille,Ferdinand,185.0,male,1988-12-08,7,Libero,Germany,7.0
+1819,Men,1010,TSV Herrsching,Tille,Johannes,184.0,male,1997-05-07,6,Setter,Germany,6.0
+1819,Men,1010,TSV Herrsching,West,Nicholas Bernhard,203.0,male,1991-10-09,9,Middle block,United States,9.0
+1314,Men,1011,TV Ingersoll Buehl,Aganits,Andri,207.0,male,1993-09-07,12,Middle block,Estonia,12.0
+1314,Men,1011,TV Ingersoll Buehl,Hoehne,Bjoern,193.0,male,1991-03-27,10,Outside spiker,Germany,10.0
+1314,Men,1011,TV Ingersoll Buehl,Jacobsen,Axel,195.0,male,1984-07-10,6,Setter,Denmark,6.0
+1314,Men,1011,TV Ingersoll Buehl,Juhkami,Martti,195.0,male,1988-06-06,1,Outside spiker,Estonia,1.0
+1314,Men,1011,TV Ingersoll Buehl,Kocian,Tomas,192.0,male,1988-03-27,5,Setter,Germany,5.0
+1314,Men,1011,TV Ingersoll Buehl,Lagzdins,Valters,191.0,male,1989-03-03,3,Diagonal,Germany,3.0
+1314,Men,1011,TV Ingersoll Buehl,Molnar,David,193.0,male,1984-11-22,11,Libero,Hungary,11.0
+1314,Men,1011,TV Ingersoll Buehl,Prolingheuer,Marvin,210.0,male,1990-06-29,8,Diagonal,Germany,8.0
+1314,Men,1011,TV Ingersoll Buehl,Ringseis,Florian,188.0,male,1992-07-09,14,Universal,Austria,14.0
+1314,Men,1011,TV Ingersoll Buehl,Sunder,Joseph,203.0,male,1989-05-18,17,Outside spiker,United States,17.0
+1314,Men,1011,TV Ingersoll Buehl,Szarek,Lukasz,201.0,male,1990-02-22,2,Outside spiker,Poland,2.0
+1314,Men,1011,TV Ingersoll Buehl,Vogel,Nicholas,207.0,male,1990-02-05,7,Middle block,United States,7.0
+1314,Men,1011,TV Ingersoll Buehl,Wilmsen,Lars,203.0,male,1993-07-14,4,Middle block,Germany,4.0
+1415,Men,1011,TV Ingersoll Buehl,Buchegger,Paul,204.0,male,1996-03-04,17,Diagonal,Austria,17.0
+1415,Men,1011,TV Ingersoll Buehl,Clero,Kristen,179.0,male,1990-09-24,9,Setter,Germany,9.0
+1415,Men,1011,TV Ingersoll Buehl,Kostolani,Lubos,203.0,male,1990-11-28,18,Diagonal,Slovakia,18.0
+1415,Men,1011,TV Ingersoll Buehl,Mauler,Richard,194.0,male,1989-09-28,3,Outside spiker,Czechia,3.0
+1415,Men,1011,TV Ingersoll Buehl,Mayaula Nzeza,Magloire,202.0,male,1993-06-06,7,Middle block,Congo - Kinshasa,7.0
+1415,Men,1011,TV Ingersoll Buehl,Molnar,David,193.0,male,1984-11-22,11,Libero,Hungary,11.0
+1415,Men,1011,TV Ingersoll Buehl,Mote,Nehemiah Alesana,203.0,male,1993-06-21,12,Middle block,Australia,12.0
+1415,Men,1011,TV Ingersoll Buehl,Plotyczer,Mark,195.0,male,1987-02-19,14,Middle block,United Kingdom,14.0
+1415,Men,1011,TV Ingersoll Buehl,Sandmeier,Jens,202.0,male,1995-08-16,10,Outside spiker,Germany,10.0
+1415,Men,1011,TV Ingersoll Buehl,Schramm,Robert,206.0,male,1989-12-16,13,Middle block,Germany,13.0
+1415,Men,1011,TV Ingersoll Buehl,Sossenheimer,David,193.0,male,1996-06-21,5,Outside spiker,Germany,5.0
+1415,Men,1011,TV Ingersoll Buehl,Trinidad de Haro,Angel,195.0,male,1993-03-27,2,Setter,Spain,2.0
+1415,Men,1011,TV Ingersoll Buehl,Wetter,Oskar,191.0,male,1995-06-14,15,Setter,Germany,15.0
+1516,Men,1011,TV Ingersoll Buehl,Buchegger,Paul,204.0,male,1996-03-04,17,Diagonal,Austria,17.0
+1516,Men,1011,TV Ingersoll Buehl,Clero,Kristen,179.0,male,1990-09-24,9,Setter,Germany,9.0
+1516,Men,1011,TV Ingersoll Buehl,Mayaula Nzeza,Magloire,202.0,male,1993-06-06,7,Middle block,Congo - Kinshasa,7.0
+1516,Men,1011,TV Ingersoll Buehl,Mc Ilvaine,Graham,202.0,male,1992-08-02,1,Setter,United States,1.0
+1516,Men,1011,TV Ingersoll Buehl,Molnar,David,193.0,male,1984-11-22,11,Libero,Hungary,11.0
+1516,Men,1011,TV Ingersoll Buehl,Mote,Nehemiah Alesana,203.0,male,1993-06-21,12,Middle block,Australia,12.0
+1516,Men,1011,TV Ingersoll Buehl,Nagy,Peter,195.0,male,1984-05-15,8,Diagonal,Hungary,8.0
+1516,Men,1011,TV Ingersoll Buehl,Russell,Peter James,198.0,male,1992-02-22,14,Outside spiker,United States,14.0
+1516,Men,1011,TV Ingersoll Buehl,Sandmeier,Jens,202.0,male,1995-08-16,10,Outside spiker,Germany,10.0
+1516,Men,1011,TV Ingersoll Buehl,Schramm,Robert,206.0,male,1989-12-16,13,Middle block,Germany,13.0
+1516,Men,1011,TV Ingersoll Buehl,Sossenheimer,David,193.0,male,1996-06-21,5,Outside spiker,Germany,5.0
+1617,Men,1011,TV Ingersoll Buehl,Baxpoehler,Noah,209.0,male,1993-08-13,4,Middle block,Germany,4.0
+1617,Men,1011,TV Ingersoll Buehl,Clero,Kristen,179.0,male,1990-09-24,9,Setter,Germany,9.0
+1617,Men,1011,TV Ingersoll Buehl,Finoli,Juan Ignacio,78.0,male,1991-11-05,10,Setter,Spain,10.0
+1617,Men,1011,TV Ingersoll Buehl,Jungiewicz,Slawomir,195.0,male,1989-06-21,1,Diagonal,Poland,1.0
+1617,Men,1011,TV Ingersoll Buehl,Kaczmarek,Bartosz,184.0,male,1991-01-17,3,Libero,Poland,3.0
+1617,Men,1011,TV Ingersoll Buehl,Mayaula Nzeza,Magloire,202.0,male,1993-06-06,7,Middle block,Congo - Kinshasa,7.0
+1617,Men,1011,TV Ingersoll Buehl,Orthmann,Felix,198.0,male,1996-06-01,12,Diagonal,Germany,12.0
+1617,Men,1011,TV Ingersoll Buehl,Sandmeier,Jens,202.0,male,1995-08-16,8,Outside spiker,Germany,8.0
+1617,Men,1011,TV Ingersoll Buehl,Sobirov,Akhrorjon,209.0,male,1990-04-06,15,Middle block,Uzbekistan,15.0
+1617,Men,1011,TV Ingersoll Buehl,Stoehr,Tim,204.0,male,1996-08-03,2,Universal,Germany,2.0
+1617,Men,1011,TV Ingersoll Buehl,Zhilin,Ilya,196.0,male,1985-05-10,6,Outside spiker,Russia,6.0
+1718,Men,1011,Volleyball Bisons Buehl,Balster,Corbin,200.0,male,1997-03-03,17,Outside spiker,Germany,17.0
+1718,Men,1011,Volleyball Bisons Buehl,Dmytriiev,Oleksandr,198.0,male,1987-07-20,3,Setter,Ukraine,3.0
+1718,Men,1011,Volleyball Bisons Buehl,Goralik,Yannick,206.0,male,1997-10-23,4,Middle block,Germany,4.0
+1718,Men,1011,Volleyball Bisons Buehl,Kruzhkov,Iurii,200.0,male,1994-03-14,1,Diagonal,Russia,1.0
+1718,Men,1011,Volleyball Bisons Buehl,Mayaula Nzeza,Magloire,202.0,male,1993-06-06,7,Middle block,Congo - Kinshasa,7.0
+1718,Men,1011,Volleyball Bisons Buehl,Meier,Leon,198.0,male,2002-01-28,16,Outside spiker,Germany,16.0
+1718,Men,1011,Volleyball Bisons Buehl,Orthmann,Felix,198.0,male,1996-06-01,12,Outside spiker,Germany,12.0
+1718,Men,1011,Volleyball Bisons Buehl,Pettersson,David,206.0,male,1994-01-21,9,Middle block,Sweden,9.0
+1718,Men,1011,Volleyball Bisons Buehl,Qafarena,Anton,204.0,male,1997-06-11,14,Diagonal,Albania,14.0
+1718,Men,1011,Volleyball Bisons Buehl,Ruiz,Tomas,175.0,male,1992-04-16,5,Libero,Italy,5.0
+1718,Men,1011,Volleyball Bisons Buehl,Schmidgall,Mario,206.0,male,1998-05-02,13,Setter,Germany,13.0
+1718,Men,1011,Volleyball Bisons Buehl,Stoehr,Tim,204.0,male,1996-08-03,2,Outside spiker,Germany,2.0
+1718,Men,1011,Volleyball Bisons Buehl,Yanagida,Masahiro,186.0,male,1992-07-06,8,Outside spiker,Japan,8.0
+1718,Men,1011,Volleyball Bisons Buehl,Zuidberg,Chris,201.0,male,1994-09-02,6,Middle block,Luxembourg,6.0
+1819,Men,1011,Volleyball Bisons Buehl,Arnitz,Jacob Edward,201.0,male,1995-07-15,7,Outside spiker,United States,7.0
+1819,Men,1011,Volleyball Bisons Buehl,Balster,Corbin,200.0,male,1997-03-03,17,Outside spiker,Germany,17.0
+1819,Men,1011,Volleyball Bisons Buehl,Gallas,Simon,201.0,male,2001-10-01,18,Outside spiker,Germany,18.0
+1819,Men,1011,Volleyball Bisons Buehl,Goralik,Yannick,206.0,male,1997-10-23,4,Middle block,Germany,4.0
+1819,Men,1011,Volleyball Bisons Buehl,Lima,Bruno,198.0,male,1996-02-04,1,Diagonal,Argentina,1.0
+1819,Men,1011,Volleyball Bisons Buehl,Martin,David Oliver,210.0,male,1995-03-30,8,Middle block,United States,8.0
+1819,Men,1011,Volleyball Bisons Buehl,Orthmann,Felix,198.0,male,1996-06-01,12,Outside spiker,Germany,12.0
+1819,Men,1011,Volleyball Bisons Buehl,Qafarena,Anton,204.0,male,1997-06-11,14,Diagonal,Albania,14.0
+1819,Men,1011,Volleyball Bisons Buehl,Ruiz,Tomas,175.0,male,1992-04-16,5,Libero,Italy,5.0
+1819,Men,1011,Volleyball Bisons Buehl,Schmidgall,Mario,206.0,male,1998-05-02,13,Setter,Germany,13.0
+1819,Men,1011,Volleyball Bisons Buehl,Seifert,Matthew Alan,210.0,male,1992-12-11,9,Middle block,United States,9.0
+1819,Men,1011,Volleyball Bisons Buehl,Sobirov,Akhrorjon,209.0,male,1990-04-06,15,Middle block,Uzbekistan,15.0
+1819,Men,1011,Volleyball Bisons Buehl,Stoehr,Tim,204.0,male,1996-08-03,2,Outside spiker,Germany,2.0
+1819,Men,1011,Volleyball Bisons Buehl,Thiel,Stefan,185.0,male,1997-10-15,3,Setter,Germany,3.0
+1314,Men,1012,TV Rottenburg,Bahlburg,Rene,198.0,male,1988-06-09,14,Outside spiker,Germany,14.0
+1314,Men,1012,TV Rottenburg,Belizer,Willy,184.0,male,1985-11-30,15,Libero,Germany,15.0
+1314,Men,1012,TV Rottenburg,Canca Fernandez,Aitor,204.0,male,1982-11-30,9,Middle block,Spain,9.0
+1314,Men,1012,TV Rottenburg,Cipollone,Federico,184.0,male,1994-05-04,4,Setter,Italy,4.0
+1314,Men,1012,TV Rottenburg,Cipowicz,Hans,203.0,male,1989-09-25,5,Middle block,Germany,5.0
+1314,Men,1012,TV Rottenburg,Isaak,Felix,200.0,male,1989-09-02,8,Middle block,Germany,8.0
+1314,Men,1012,TV Rottenburg,Mehlberg,Dirk,189.0,male,1985-01-10,1,Outside spiker,Germany,1.0
+1314,Men,1012,TV Rottenburg,Metzger,Sven,195.0,male,1992-01-07,7,Diagonal,Germany,7.0
+1314,Men,1012,TV Rottenburg,Nagel,Friederich,200.0,male,1993-09-29,6,Middle block,Germany,6.0
+1314,Men,1012,TV Rottenburg,Neumeister,Michael,193.0,male,1985-06-06,3,Setter,Germany,3.0
+1314,Men,1012,TV Rottenburg,Pielmeier,Markus,203.0,male,1987-10-06,13,Diagonal,Germany,13.0
+1314,Men,1012,TV Rottenburg,Rukavina,Nikolas,195.0,male,1989-04-28,11,Outside spiker,Canada,11.0
+1314,Men,1012,TV Rottenburg,Zager,Nico,201.0,male,1994-03-05,10,Universal,Germany,10.0
+1415,Men,1012,TV Rottenburg,Belizer,Willy,184.0,male,1985-11-30,15,Libero,Germany,15.0
+1415,Men,1012,TV Rottenburg,Cipollone,Federico,184.0,male,1994-05-04,4,Setter,Italy,4.0
+1415,Men,1012,TV Rottenburg,Elsaesser,Johannes,180.0,male,1994-07-12,11,Libero,Germany,11.0
+1415,Men,1012,TV Rottenburg,Ferreira Guardiano,Diego,192.0,male,1982-01-11,12,Outside spiker,Brazil,12.0
+1415,Men,1012,TV Rottenburg,Isaak,Felix,200.0,male,1989-09-02,8,Middle block,Germany,8.0
+1415,Men,1012,TV Rottenburg,Jankowski,Philipp,192.0,male,1991-10-15,3,Setter,Germany,3.0
+1415,Men,1012,TV Rottenburg,Mehlberg,Dirk,189.0,male,1985-01-10,1,Outside spiker,Germany,1.0
+1415,Men,1012,TV Rottenburg,Metzger,Sven,195.0,male,1992-01-07,7,Diagonal,Germany,7.0
+1415,Men,1012,TV Rottenburg,Nagel,Friederich,200.0,male,1993-09-29,6,Middle block,Germany,6.0
+1415,Men,1012,TV Rottenburg,Schippmann,Timon,194.0,male,1995-09-06,2,Outside spiker,Germany,2.0
+1415,Men,1012,TV Rottenburg,Staab,Oliver,199.0,male,1987-11-11,13,Diagonal,Germany,13.0
+1415,Men,1012,TV Rottenburg,Strohbach,Tom,196.0,male,1992-05-27,10,Outside spiker,Germany,10.0
+1415,Men,1012,TV Rottenburg,Wilmsen,Lars,203.0,male,1993-07-14,9,Middle block,Germany,9.0
+1516,Men,1012,TV Rottenburg,Belizer,Willy,184.0,male,1985-11-30,15,Libero,Germany,15.0
+1516,Men,1012,TV Rottenburg,Cipollone,Federico,184.0,male,1994-05-04,4,Setter,Italy,4.0
+1516,Men,1012,TV Rottenburg,Elsaesser,Johannes,180.0,male,1994-07-12,16,Libero,Germany,16.0
+1516,Men,1012,TV Rottenburg,Isaak,Felix,200.0,male,1989-09-02,8,Middle block,Germany,8.0
+1516,Men,1012,TV Rottenburg,Jankowski,Philipp,192.0,male,1991-10-15,3,Setter,Germany,3.0
+1516,Men,1012,TV Rottenburg,Karlitzek,Moritz,191.0,male,1996-08-12,13,Outside spiker,Germany,13.0
+1516,Men,1012,TV Rottenburg,Mehlberg,Dirk,189.0,male,1985-01-10,1,Outside spiker,Germany,1.0
+1516,Men,1012,TV Rottenburg,Metzger,Sven,195.0,male,1992-01-07,7,Diagonal,Germany,7.0
+1516,Men,1012,TV Rottenburg,Nagel,Friederich,200.0,male,1993-09-29,6,Middle block,Germany,6.0
+1516,Men,1012,TV Rottenburg,Orthmann,Felix,198.0,male,1996-06-01,12,Diagonal,Germany,12.0
+1516,Men,1012,TV Rottenburg,Schief,Johannes,201.0,male,1997-10-03,14,Outside spiker,Germany,14.0
+1516,Men,1012,TV Rottenburg,Strohbach,Tom,196.0,male,1992-05-27,10,Outside spiker,Germany,10.0
+1516,Men,1012,TV Rottenburg,Wilmsen,Lars,203.0,male,1993-07-14,9,Middle block,Germany,9.0
+1617,Men,1012,TV Rottenburg,Cipollone,Federico,184.0,male,1994-05-04,4,Setter,Italy,4.0
+1617,Men,1012,TV Rottenburg,Elsaesser,Johannes,180.0,male,1994-07-12,16,Libero,Germany,16.0
+1617,Men,1012,TV Rottenburg,Grozer,Tim,195.0,male,1998-10-14,18,Outside spiker,Germany,18.0
+1617,Men,1012,TV Rottenburg,Isaak,Felix,200.0,male,1989-09-02,8,Middle block,Germany,8.0
+1617,Men,1012,TV Rottenburg,Jankowski,Philipp,192.0,male,1991-10-15,3,Setter,Germany,3.0
+1617,Men,1012,TV Rottenburg,Karlitzek,Moritz,191.0,male,1996-08-12,13,Outside spiker,Germany,13.0
+1617,Men,1012,TV Rottenburg,Mehlberg,Dirk,189.0,male,1985-01-10,1,Outside spiker,Germany,1.0
+1617,Men,1012,TV Rottenburg,Metzger,Sven,195.0,male,1992-01-07,7,Diagonal,Germany,7.0
+1617,Men,1012,TV Rottenburg,Nagel,Friederich,200.0,male,1993-09-29,6,Middle block,Germany,6.0
+1617,Men,1012,TV Rottenburg,Nemeth,Ferenc,203.0,male,1987-05-16,10,Diagonal,Hungary,10.0
+1617,Men,1012,TV Rottenburg,Schief,Johannes,201.0,male,1997-10-03,14,Outside spiker,Germany,14.0
+1617,Men,1012,TV Rottenburg,Trenkler,Phillip,190.0,male,1993-03-05,12,Outside spiker,Germany,12.0
+1617,Men,1012,TV Rottenburg,Wilmsen,Lars,203.0,male,1993-07-14,9,Middle block,Germany,9.0
+1718,Men,1012,TV Rottenburg,Cipollone,Federico,184.0,male,1994-05-04,4,Setter,Italy,4.0
+1718,Men,1012,TV Rottenburg,Elsaesser,Johannes,180.0,male,1994-07-12,16,Libero,Germany,16.0
+1718,Men,1012,TV Rottenburg,Grozer,Tim,195.0,male,1998-10-14,18,Outside spiker,Germany,18.0
+1718,Men,1012,TV Rottenburg,Henning,Paul,202.0,male,1997-09-28,8,Middle block,Germany,8.0
+1718,Men,1012,TV Rottenburg,Jankowski,Philipp,192.0,male,1991-10-15,3,Setter,Germany,3.0
+1718,Men,1012,TV Rottenburg,Lima Martins,Idner Faustino,194.0,male,1978-12-19,11,Outside spiker,Brazil,11.0
+1718,Men,1012,TV Rottenburg,Mehlberg,Dirk,189.0,male,1985-01-10,1,Libero,Germany,1.0
+1718,Men,1012,TV Rottenburg,Moennich,Johannes,195.0,male,1997-11-10,7,Diagonal,Germany,7.0
+1718,Men,1012,TV Rottenburg,Nagel,Friederich,200.0,male,1993-09-29,6,Middle block,Germany,6.0
+1718,Men,1012,TV Rottenburg,Nemeth,Ferenc,203.0,male,1987-05-16,10,Diagonal,Hungary,10.0
+1718,Men,1012,TV Rottenburg,Schief,Johannes,201.0,male,1997-10-03,14,Outside spiker,Germany,14.0
+1718,Men,1012,TV Rottenburg,Schippmann,Timon,194.0,male,1995-09-06,5,Outside spiker,Germany,5.0
+1718,Men,1012,TV Rottenburg,Trenkler,Phillip,190.0,male,1993-03-05,12,Outside spiker,Germany,12.0
+1718,Men,1012,TV Rottenburg,Wilmsen,Lars,203.0,male,1993-07-14,9,Middle block,Germany,9.0
+1819,Men,1012,TV Rottenburg,Duncan-Thibault,Alex,200.0,male,1994-05-04,18,Diagonal,Canada,18.0
+1819,Men,1012,TV Rottenburg,Elsaesser,Johannes,180.0,male,1994-07-12,16,Libero,Germany,16.0
+1819,Men,1012,TV Rottenburg,Grozer,Tim,195.0,male,1998-10-14,9,Outside spiker,Germany,9.0
+1819,Men,1012,TV Rottenburg,Hopt,Jannis,206.0,male,1996-08-03,17,Setter,Germany,17.0
+1819,Men,1012,TV Rottenburg,Jurkovics,Mathaeus,211.0,male,1998-04-27,13,Middle block,Austria,13.0
+1819,Men,1012,TV Rottenburg,Lichtenauer,Niklas,196.0,male,2000-11-13,12,Setter,Germany,12.0
+1819,Men,1012,TV Rottenburg,Lima Martins,Idner Faustino,194.0,male,1978-12-19,11,Outside spiker,Brazil,11.0
+1819,Men,1012,TV Rottenburg,Moennich,Johannes,195.0,male,1997-11-10,7,Diagonal,Germany,7.0
+1819,Men,1012,TV Rottenburg,Nagel,Friederich,200.0,male,1993-09-29,6,Middle block,Germany,6.0
+1819,Men,1012,TV Rottenburg,Peemueller,Richard,199.0,male,1998-02-08,3,Diagonal,Germany,3.0
+1819,Men,1012,TV Rottenburg,Penning,Mitchell Steven,204.0,male,1995-05-26,2,Middle block,United States,2.0
+1819,Men,1012,TV Rottenburg,Roeling,Jan,189.0,male,1999-09-15,10,Setter,Germany,10.0
+1819,Men,1012,TV Rottenburg,Schief,Johannes,201.0,male,1997-10-03,14,Outside spiker,Germany,14.0
+1819,Men,1012,TV Rottenburg,Schippmann,Timon,194.0,male,1995-09-06,8,Outside spiker,Germany,8.0
+1516,Men,1013,United Volleys RheinMain,Bauer,Lukas,203.0,male,1989-02-26,5,Middle block,Germany,5.0
+1516,Men,1013,United Volleys RheinMain,Duennes,Christian,210.0,male,1984-06-16,16,Diagonal,Germany,16.0
+1516,Men,1013,United Volleys RheinMain,Escher,Georg,202.0,male,1994-12-08,9,Middle block,Germany,9.0
+1516,Men,1013,United Volleys RheinMain,Fraser,Bryan Joseph,199.0,male,1991-01-31,2,Outside spiker,Canada,2.0
+1516,Men,1013,United Volleys RheinMain,Hopt,Jannis,206.0,male,1996-08-03,7,Setter,Germany,7.0
+1516,Men,1013,United Volleys RheinMain,Klobucar,Jan,196.0,male,1992-12-11,8,Outside spiker,Slovenia,8.0
+1516,Men,1013,United Volleys RheinMain,Krick,Tobias,211.0,male,1998-10-22,11,Middle block,Germany,11.0
+1516,Men,1013,United Volleys RheinMain,Reichert,Moritz,195.0,male,1995-03-15,10,Outside spiker,Germany,10.0
+1516,Men,1013,United Volleys RheinMain,Ringseis,Florian,188.0,male,1992-07-09,1,Libero,Austria,1.0
+1516,Men,1013,United Volleys RheinMain,Thiel,Stefan,185.0,male,1997-10-15,3,Setter,Germany,3.0
+1516,Men,1013,United Volleys RheinMain,Wolf,Peter,200.0,male,1992-06-14,14,Diagonal,Germany,14.0
+1516,Men,1013,United Volleys RheinMain,Zimmermann,Jan,192.0,male,1993-02-12,17,Setter,Germany,17.0
+1617,Men,1013,United Volleys RheinMain,Aciobanitei,Robert Adrian,195.0,male,1997-08-24,6,Outside spiker,Romania,6.0
+1617,Men,1013,United Volleys RheinMain,Bauer,Lukas,203.0,male,1989-02-26,5,Middle block,Germany,5.0
+1617,Men,1013,United Volleys RheinMain,Duennes,Christian,210.0,male,1984-06-16,16,Diagonal,Germany,16.0
+1617,Men,1013,United Volleys RheinMain,Escher,Georg,202.0,male,1994-12-08,9,Middle block,Germany,9.0
+1617,Men,1013,United Volleys RheinMain,Hopt,Jannis,206.0,male,1996-08-03,7,Setter,Germany,7.0
+1617,Men,1013,United Volleys RheinMain,Klobucar,Jan,196.0,male,1992-12-11,8,Outside spiker,Slovenia,8.0
+1617,Men,1013,United Volleys RheinMain,Krick,Tobias,211.0,male,1998-10-22,11,Middle block,Germany,11.0
+1617,Men,1013,United Volleys RheinMain,Reichert,Moritz,195.0,male,1995-03-15,10,Outside spiker,Germany,10.0
+1617,Men,1013,United Volleys RheinMain,Ringseis,Florian,188.0,male,1992-07-09,1,Libero,Austria,1.0
+1617,Men,1013,United Volleys RheinMain,Tulley,Mitchell Peter,208.0,male,1996-10-15,3,Outside spiker,Australia,3.0
+1617,Men,1013,United Volleys RheinMain,Wolf,Peter,200.0,male,1992-06-14,14,Diagonal,Germany,14.0
+1617,Men,1013,United Volleys RheinMain,Zimmermann,Jan,192.0,male,1993-02-12,17,Setter,Germany,17.0
+1718,Men,1013,United Volleys RheinMain,Aciobanitei,Robert Adrian,195.0,male,1997-08-24,6,Outside spiker,Romania,6.0
+1718,Men,1013,United Volleys RheinMain,Bauer,Lukas,203.0,male,1989-02-26,5,Middle block,Germany,5.0
+1718,Men,1013,United Volleys RheinMain,Escher,Georg,202.0,male,1994-12-08,9,Middle block,Germany,9.0
+1718,Men,1013,United Volleys RheinMain,Hopt,Jannis,206.0,male,1996-08-03,7,Setter,Germany,7.0
+1718,Men,1013,United Volleys RheinMain,Karlitzek,Lorenz,195.0,male,1999-02-17,8,Outside spiker,Germany,8.0
+1718,Men,1013,United Volleys RheinMain,Karlitzek,Moritz,191.0,male,1996-08-12,13,Outside spiker,Germany,13.0
+1718,Men,1013,United Volleys RheinMain,Krick,Tobias,211.0,male,1998-10-22,11,Middle block,Germany,11.0
+1718,Men,1013,United Volleys RheinMain,Otake,Issei,200.0,male,1995-12-03,12,Diagonal,Japan,12.0
+1718,Men,1013,United Volleys RheinMain,Schwarz,Sebastian,197.0,male,1985-10-02,16,Outside spiker,Germany,16.0
+1718,Men,1013,United Volleys RheinMain,Steuerwald,Patrick,180.0,male,1986-03-03,4,Setter,Germany,4.0
+1718,Men,1013,United Volleys RheinMain,Williams,Lincoln Alexander,200.0,male,1993-10-06,18,Diagonal,Australia,18.0
+1718,Men,1013,United Volleys RheinMain,Zenger,Julian,190.0,male,1997-08-26,10,Libero,Germany,10.0
+1819,Men,1013,United Volleys Frankfurt,Buculjevic,Maksim,192.0,male,1991-09-20,1,Setter,Serbia,1.0
+1819,Men,1013,United Volleys Frankfurt,Escher,Georg,202.0,male,1994-12-08,9,Middle block,Germany,9.0
+1819,Men,1013,United Volleys Frankfurt,Fragkos,Andreas,200.0,male,1989-12-21,3,Outside spiker,Greece,3.0
+1819,Men,1013,United Volleys Frankfurt,Henning,Paul,202.0,male,1997-09-28,6,Middle block,Germany,6.0
+1819,Men,1013,United Volleys Frankfurt,Karlitzek,Lorenz,195.0,male,1999-02-17,8,Outside spiker,Germany,8.0
+1819,Men,1013,United Volleys Frankfurt,Karlitzek,Moritz,191.0,male,1996-08-12,13,Outside spiker,Germany,13.0
+1819,Men,1013,United Volleys Frankfurt,Kocian,Adam,192.0,male,1995-04-01,18,Setter,Germany,18.0
+1819,Men,1013,United Volleys Frankfurt,Kostopoulos,Vasilis,197.0,male,1995-02-16,17,Outside spiker,Greece,17.0
+1819,Men,1013,United Volleys Frankfurt,Krick,Tobias,211.0,male,1998-10-22,11,Middle block,Germany,11.0
+1819,Men,1013,United Volleys Frankfurt,Kunstmann,Louis,203.0,male,2000-09-10,7,Middle block,Germany,7.0
+1819,Men,1013,United Volleys Frankfurt,Mrdak,Milija,200.0,male,1991-10-26,15,Diagonal,Serbia,15.0
+1819,Men,1013,United Volleys Frankfurt,Schwarz,Sebastian,197.0,male,1985-10-02,16,Outside spiker,Germany,16.0
+1819,Men,1013,United Volleys Frankfurt,Steuerwald,Patrick,180.0,male,1986-03-03,4,Setter,Germany,4.0
+1819,Men,1013,United Volleys Frankfurt,Syftestad,Tanner,203.0,male,1995-01-28,2,Diagonal,United States,2.0
+1819,Men,1013,United Volleys Frankfurt,Van Berkel,Lucas,206.0,male,1991-11-29,12,Middle block,Canada,12.0
+1819,Men,1013,United Volleys Frankfurt,Zenger,Julian,190.0,male,1997-08-26,10,Libero,Germany,10.0
+1314,Men,1014,VC Dresden,Doerendahl,Sven,193.0,male,1973-08-31,1,Setter,Germany,1.0
+1314,Men,1014,VC Dresden,Garay Gomez,Yaniel,205.0,male,1980-11-20,18,Middle block,Cuba,18.0
+1314,Men,1014,VC Dresden,Grosche,Eric,191.0,male,1989-01-24,5,Outside spiker,Germany,5.0
+1314,Men,1014,VC Dresden,Heymann,Christian,200.0,male,1986-09-20,12,Middle block,Germany,12.0
+1314,Men,1014,VC Dresden,Kross,Martin,191.0,male,1993-04-12,10,Outside spiker,Germany,100.0
+1314,Men,1014,VC Dresden,Merkel,Martin,188.0,male,1989-12-27,3,Libero,Germany,3.0
+1314,Men,1014,VC Dresden,Moellers,Raphael,196.0,male,1985-10-09,15,Outside spiker,Germany,15.0
+1314,Men,1014,VC Dresden,Pinheiro,Eder,195.0,male,1984-01-24,10,Diagonal,Brazil,101.0
+1314,Men,1014,VC Dresden,Rost,Santino,194.0,male,1990-06-26,4,Setter,Germany,4.0
+1314,Men,1014,VC Dresden,Schober,Thomas,194.0,male,1990-08-12,9,Diagonal,Germany,9.0
+1314,Men,1014,VC Dresden,Schramm,Robert,206.0,male,1989-12-16,13,Middle block,Germany,13.0
+1314,Men,1014,VC Dresden,Walter,Tino,191.0,male,1988-02-05,7,Outside spiker,Germany,7.0
+1314,Men,1014,VC Dresden,Wasilewski,Alan,201.0,male,1991-07-23,11,Middle block,Poland,11.0
+1314,Men,1014,VC Dresden,Went,Robert,188.0,male,1990-05-13,2,Libero,Germany,2.0
+1314,Men,1014,VC Dresden,Zobel,Georg,193.0,male,1995-10-11,6,Libero,Germany,6.0
+1415,Men,1015,VCO Berlin,Auste,Maximilian,206.0,male,1997-01-27,12,Outside spiker,Germany,12.0
+1415,Men,1015,VCO Berlin,Balster,Corbin,200.0,male,1997-03-03,17,Outside spiker,Germany,17.0
+1415,Men,1015,VCO Berlin,Ferch,Iven Fietje,206.0,male,1997-09-18,5,Middle block,Germany,5.0
+1415,Men,1015,VCO Berlin,Goebert,Felix,194.0,male,1996-10-04,18,Middle block,Germany,18.0
+1415,Men,1015,VCO Berlin,Hafemann,Robin,198.0,male,1995-11-02,8,Outside spiker,Germany,8.0
+1415,Men,1015,VCO Berlin,Horn,Maximilian,188.0,male,1996-08-07,6,Setter,Germany,6.0
+1415,Men,1015,VCO Berlin,Kaminski,Jonas,196.0,male,1996-05-08,9,Diagonal,Germany,9.0
+1415,Men,1015,VCO Berlin,Marks,Christoph,198.0,male,1997-04-16,15,Outside spiker,Germany,15.0
+1415,Men,1015,VCO Berlin,Rodiek,Samuel,180.0,male,1995-07-10,14,Libero,Germany,14.0
+1415,Men,1015,VCO Berlin,Rudolf,Niklas,206.0,male,1996-03-06,3,Outside spiker,Germany,3.0
+1415,Men,1015,VCO Berlin,Schippmann,Timon,194.0,male,1995-09-06,16,Outside spiker,Germany,16.0
+1415,Men,1015,VCO Berlin,Schlag,Timo,197.0,male,1995-08-04,1,Outside spiker,Germany,1.0
+1415,Men,1015,VCO Berlin,Seybering,David,200.0,male,1995-12-19,13,Middle block,Germany,13.0
+1415,Men,1015,VCO Berlin,Tille,Leonhard,185.0,male,1995-03-17,7,Libero,Germany,7.0
+1415,Men,1015,VCO Berlin,Trogisch,Niklas,195.0,male,1997-01-17,4,Setter,Germany,4.0
+1617,Men,1015,VCO Berlin,Auste,Maximilian,206.0,male,1997-01-27,12,Outside spiker,Germany,12.0
+1617,Men,1015,VCO Berlin,Balster,Corbin,200.0,male,1997-03-03,17,Outside spiker,Germany,17.0
+1617,Men,1015,VCO Berlin,Binder,Matti,196.0,male,1998-10-02,7,Middle block,Germany,7.0
+1617,Men,1015,VCO Berlin,Bogachev,Egor,203.0,male,1997-04-06,9,Outside spiker,Germany,9.0
+1617,Men,1015,VCO Berlin,Brehme,Anton,199.0,male,1999-08-10,2,Middle block,Germany,2.0
+1617,Men,1015,VCO Berlin,Goralik,Yannick,206.0,male,1997-10-23,4,Middle block,Germany,4.0
+1617,Men,1015,VCO Berlin,Henning,Paul,202.0,male,1997-09-28,8,Middle block,Germany,8.0
+1617,Men,1015,VCO Berlin,Illmer,Andre,185.0,male,1997-03-20,1,Libero,Germany,1.0
+1617,Men,1015,VCO Berlin,Lueddemann,Florian,203.0,male,1997-04-13,11,Diagonal,Germany,11.0
+1617,Men,1015,VCO Berlin,Meissner,Julian,205.0,male,1999-03-04,14,Diagonal,Germany,14.0
+1617,Men,1015,VCO Berlin,Moennich,Johannes,195.0,male,1997-11-10,10,Diagonal,Germany,10.0
+1617,Men,1015,VCO Berlin,Rauber,Moritz,187.0,male,1997-02-16,5,Outside spiker,Germany,5.0
+1617,Men,1015,VCO Berlin,Thiel,Stefan,185.0,male,1997-10-15,3,Setter,Germany,3.0
+1617,Men,1015,VCO Berlin,Tille,Johannes,184.0,male,1997-05-07,6,Setter,Germany,6.0
+1617,Men,1015,VCO Berlin,Weber,Linus,202.0,male,1999-11-01,15,Diagonal,Germany,15.0
+1617,Men,1015,VCO Berlin,Zenger,Julian,190.0,male,1997-08-26,16,Libero,Germany,16.0
+1819,Men,1015,VCO Berlin,Batanov,Ivan,185.0,male,2000-04-25,1,Libero,Germany,1.0
+1819,Men,1015,VCO Berlin,Brehme,Anton,199.0,male,1999-08-10,12,Middle block,Germany,12.0
+1819,Men,1015,VCO Berlin,Brehme,Louis,181.0,male,1999-08-10,13,Outside spiker,Germany,13.0
+1819,Men,1015,VCO Berlin,Burggraef,Eric,184.0,male,1999-03-10,4,Setter,Germany,4.0
+1819,Men,1015,VCO Berlin,Frank,Anton,204.0,male,2000-02-07,6,Middle block,Germany,6.0
+1819,Men,1015,VCO Berlin,Hoyer,Julian,192.0,male,2001-09-18,7,Outside spiker,Germany,7.0
+1819,Men,1015,VCO Berlin,Kunstmann,Louis,203.0,male,2000-09-10,9,Middle block,Germany,9.0
+1819,Men,1015,VCO Berlin,Meissner,Julian,205.0,male,1999-03-04,8,Diagonal,Germany,8.0
+1819,Men,1015,VCO Berlin,Niederluecke,Erik,205.0,male,1999-04-25,3,Outside spiker,Germany,3.0
+1819,Men,1015,VCO Berlin,Pfretzschner,Lukas,190.0,male,2000-01-13,14,Outside spiker,Germany,14.0
+1819,Men,1015,VCO Berlin,Pfretzschner,Simon,191.0,male,2002-02-06,5,Outside spiker,Germany,5.0
+1819,Men,1015,VCO Berlin,Roehrs,Erik,195.0,male,2001-04-24,16,Outside spiker,Germany,16.0
+1819,Men,1015,VCO Berlin,Schwarmann,Ole,190.0,male,1999-05-15,15,Setter,Germany,15.0
+1819,Men,1015,VCO Berlin,Weber,Linus,202.0,male,1999-11-01,11,Diagonal,Germany,11.0
+1314,Men,1016,VfB Friedrichshafen,Bratoev,Valentin,200.0,male,1987-10-21,4,Outside spiker,Bulgaria,4.0
+1314,Men,1016,VfB Friedrichshafen,Duennes,Christian,210.0,male,1984-06-16,16,Universal,Germany,16.0
+1314,Men,1016,VfB Friedrichshafen,Geiler,Baptiste,200.0,male,1987-03-12,14,Outside spiker,France,14.0
+1314,Men,1016,VfB Friedrichshafen,Gergye,Roland,197.0,male,1993-02-24,11,Outside spiker,Hungary,11.0
+1314,Men,1016,VfB Friedrichshafen,Gotsev,Svetoslav,203.0,male,1990-08-31,5,Middle block,Bulgaria,5.0
+1314,Men,1016,VfB Friedrichshafen,Grebennikov,Jenia,192.0,male,1990-08-13,10,Libero,France,10.0
+1314,Men,1016,VfB Friedrichshafen,Guenthoer,Max,208.0,male,1985-08-09,8,Middle block,Germany,8.0
+1314,Men,1016,VfB Friedrichshafen,Harms,Yannick,195.0,male,1994-01-14,18,Outside spiker,Germany,18.0
+1314,Men,1016,VfB Friedrichshafen,Hopt,Jannis,206.0,male,1996-08-03,9,Setter,Germany,100.0
+1314,Men,1016,VfB Friedrichshafen,Jovovic,Nikola,197.0,male,1992-02-13,9,Setter,Serbia,9.0
+1314,Men,1016,VfB Friedrichshafen,Simeonov,Ventceslav,198.0,male,1977-02-03,13,Diagonal,Italy,13.0
+1314,Men,1016,VfB Friedrichshafen,Spaeth-Westerholt,Thilo,188.0,male,1987-06-08,3,Universal,Germany,3.0
+1314,Men,1016,VfB Friedrichshafen,Yosifov,Viktor,203.0,male,1985-10-16,12,Middle block,Bulgaria,12.0
+1314,Men,1016,VfB Friedrichshafen,Zimmermann,Jan,192.0,male,1993-02-12,17,Setter,Germany,17.0
+1415,Men,1016,VfB Friedrichshafen,Finger,Michal,202.0,male,1993-09-02,6,Diagonal,Czechia,6.0
+1415,Men,1016,VfB Friedrichshafen,Gauna,Maximiliano,197.0,male,1989-04-29,2,Middle block,Argentina,2.0
+1415,Men,1016,VfB Friedrichshafen,Geiler,Baptiste,200.0,male,1987-03-12,14,Outside spiker,France,14.0
+1415,Men,1016,VfB Friedrichshafen,Gergye,Roland,197.0,male,1993-02-24,11,Outside spiker,Hungary,11.0
+1415,Men,1016,VfB Friedrichshafen,Gontariu,Adrian Radu,205.0,male,1984-05-14,13,Diagonal,Romania,13.0
+1415,Men,1016,VfB Friedrichshafen,Grebennikov,Jenia,192.0,male,1990-08-13,10,Libero,France,10.0
+1415,Men,1016,VfB Friedrichshafen,Guenthoer,Jakob,212.0,male,1995-09-21,2,Middle block,Germany,100.0
+1415,Men,1016,VfB Friedrichshafen,Guenthoer,Max,208.0,male,1985-08-09,8,Middle block,Germany,8.0
+1415,Men,1016,VfB Friedrichshafen,Reichert,Moritz,195.0,male,1995-03-15,9,Outside spiker,Germany,9.0
+1415,Men,1016,VfB Friedrichshafen,Spaeth-Westerholt,Thilo,188.0,male,1987-06-08,3,Universal,Germany,3.0
+1415,Men,1016,VfB Friedrichshafen,Tischer,Simon,199.0,male,1982-04-24,5,Setter,Germany,5.0
+1415,Men,1016,VfB Friedrichshafen,Toniutti,Benjamin,183.0,male,1989-10-30,16,Setter,France,16.0
+1415,Men,1016,VfB Friedrichshafen,van Garderen,Maarten,200.0,male,1990-01-24,4,Outside spiker,Netherlands,4.0
+1415,Men,1016,VfB Friedrichshafen,Vogel,Nicholas,207.0,male,1990-02-05,7,Middle block,United States,7.0
+1415,Men,1016,VfB Friedrichshafen,Wasilewski,Alan,201.0,male,1991-07-23,1,Middle block,Poland,1.0
+1415,Men,1016,VfB Friedrichshafen,Zimmermann,Jan,192.0,male,1993-02-12,17,Setter,Germany,17.0
+1516,Men,1016,VfB Friedrichshafen,Aciobanitei,Robert Adrian,195.0,male,1997-08-24,15,Outside spiker,Romania,15.0
+1516,Men,1016,VfB Friedrichshafen,Andrae,Bjoern,200.0,male,1981-05-14,8,Outside spiker,Germany,8.0
+1516,Men,1016,VfB Friedrichshafen,Finger,Michal,202.0,male,1993-09-02,6,Diagonal,Czechia,6.0
+1516,Men,1016,VfB Friedrichshafen,Gauna,Maximiliano,197.0,male,1989-04-29,2,Middle block,Argentina,2.0
+1516,Men,1016,VfB Friedrichshafen,Geiler,Baptiste,200.0,male,1987-03-12,14,Outside spiker,France,14.0
+1516,Men,1016,VfB Friedrichshafen,Gontariu,Adrian Radu,205.0,male,1984-05-14,13,Diagonal,Romania,13.0
+1516,Men,1016,VfB Friedrichshafen,Guenthoer,Jakob,212.0,male,1995-09-21,12,Universal,Germany,12.0
+1516,Men,1016,VfB Friedrichshafen,Honore,Marc Anthony,203.0,male,1984-06-12,9,Middle block,Trinidad & Tobago,9.0
+1516,Men,1016,VfB Friedrichshafen,Kocian,Tomas,192.0,male,1988-03-27,17,Setter,Germany,17.0
+1516,Men,1016,VfB Friedrichshafen,Nalobin,Alexey,203.0,male,1989-10-03,5,Middle block,Russia,5.0
+1516,Men,1016,VfB Friedrichshafen,Perry,Luke,182.0,male,1995-11-20,11,Libero,Australia,11.0
+1516,Men,1016,VfB Friedrichshafen,Spaeth-Westerholt,Thilo,188.0,male,1987-06-08,3,Universal,Germany,3.0
+1516,Men,1016,VfB Friedrichshafen,Tischer,Simon,199.0,male,1982-04-24,10,Setter,Germany,10.0
+1516,Men,1016,VfB Friedrichshafen,Venceslau,Luis Fernando Joventino,195.0,male,1989-09-25,4,Outside spiker,Brazil,4.0
+1516,Men,1016,VfB Friedrichshafen,Zenger,Julian,190.0,male,1997-08-26,1,Universal,Germany,1.0
+1617,Men,1016,VfB Friedrichshafen,Finger,Michal,202.0,male,1993-09-02,6,Diagonal,Czechia,6.0
+1617,Men,1016,VfB Friedrichshafen,Guenthoer,Jakob,212.0,male,1995-09-21,12,Middle block,Germany,12.0
+1617,Men,1016,VfB Friedrichshafen,Klein,Georg,200.0,male,1991-08-22,8,Middle block,Germany,8.0
+1617,Men,1016,VfB Friedrichshafen,Kocian,Tomas,192.0,male,1988-03-27,17,Setter,Germany,17.0
+1617,Men,1016,VfB Friedrichshafen,Malescha,Daniel,203.0,male,1994-04-28,11,Diagonal,Germany,11.0
+1617,Men,1016,VfB Friedrichshafen,Mustedanovic,Armin,195.0,male,1986-04-26,15,Outside spiker,Bosnia & Herzegovina,15.0
+1617,Men,1016,VfB Friedrichshafen,Protopsaltis,Athanasios,180.0,male,1993-09-12,7,Outside spiker,Greece,7.0
+1617,Men,1016,VfB Friedrichshafen,Rousseaux,Tomas,196.0,male,1994-03-31,14,Outside spiker,Belgium,14.0
+1617,Men,1016,VfB Friedrichshafen,Sossenheimer,David,193.0,male,1996-06-21,5,Outside spiker,Germany,5.0
+1617,Men,1016,VfB Friedrichshafen,Spaeth-Westerholt,Thilo,188.0,male,1987-06-08,3,Libero,Germany,3.0
+1617,Men,1016,VfB Friedrichshafen,Steuerwald,Markus,182.0,male,1989-03-07,13,Libero,Germany,13.0
+1617,Men,1016,VfB Friedrichshafen,Takvam,Andreas,200.0,male,1993-06-04,4,Middle block,Norway,4.0
+1617,Men,1016,VfB Friedrichshafen,Tischer,Simon,199.0,male,1982-04-24,10,Setter,Germany,10.0
+1617,Men,1016,VfB Friedrichshafen,Zenger,Julian,190.0,male,1997-08-26,16,Libero,Germany,16.0
+1718,Men,1016,VfB Friedrichshafen,Atanasov,Martin,198.0,male,1996-09-27,8,Outside spiker,Bulgaria,8.0
+1718,Men,1016,VfB Friedrichshafen,Bolqdzl,Bartlomiej,203.0,male,1994-09-28,1,Diagonal,Poland,1.0
+1718,Men,1016,VfB Friedrichshafen,Collin,Philipp,204.0,male,1990-10-28,9,Middle block,Germany,9.0
+1718,Men,1016,VfB Friedrichshafen,Guenthoer,Jakob,212.0,male,1995-09-21,12,Middle block,Germany,12.0
+1718,Men,1016,VfB Friedrichshafen,Kevorken,Scott Michael,206.0,male,1991-02-16,16,Middle block,United States,16.0
+1718,Men,1016,VfB Friedrichshafen,Kocian,Tomas,192.0,male,1988-03-27,17,Setter,Germany,17.0
+1718,Men,1016,VfB Friedrichshafen,Malescha,Daniel,203.0,male,1994-04-28,11,Diagonal,Germany,11.0
+1718,Men,1016,VfB Friedrichshafen,Protopsaltis,Athanasios,180.0,male,1993-09-12,7,Outside spiker,Greece,7.0
+1718,Men,1016,VfB Friedrichshafen,Sossenheimer,David,193.0,male,1996-06-21,5,Outside spiker,Germany,5.0
+1718,Men,1016,VfB Friedrichshafen,Spaeth-Westerholt,Thilo,188.0,male,1987-06-08,3,Libero,Germany,3.0
+1718,Men,1016,VfB Friedrichshafen,Steuerwald,Markus,182.0,male,1989-03-07,13,Libero,Germany,13.0
+1718,Men,1016,VfB Friedrichshafen,Takvam,Andreas,200.0,male,1993-06-04,4,Universal,Norway,4.0
+1718,Men,1016,VfB Friedrichshafen,Tischer,Simon,199.0,male,1982-04-24,10,Setter,Germany,10.0
+1819,Men,1016,VfB Friedrichshafen,Aciobanitei,Robert Adrian,195.0,male,1997-08-24,6,Outside spiker,Romania,6.0
+1819,Men,1016,VfB Friedrichshafen,Bolqdzl,Bartlomiej,203.0,male,1994-09-28,1,Diagonal,Poland,1.0
+1819,Men,1016,VfB Friedrichshafen,Collin,Philipp,204.0,male,1990-10-28,9,Middle block,Germany,9.0
+1819,Men,1016,VfB Friedrichshafen,Guenthoer,Jakob,212.0,male,1995-09-21,12,Middle block,Germany,12.0
+1819,Men,1016,VfB Friedrichshafen,Janouch,Jakub,194.0,male,1990-06-13,8,Setter,Czechia,8.0
+1819,Men,1016,VfB Friedrichshafen,Malescha,Daniel,203.0,male,1994-04-28,11,Diagonal,Germany,11.0
+1819,Men,1016,VfB Friedrichshafen,Petras,Michal,194.0,male,1996-12-05,14,Outside spiker,Slovakia,14.0
+1819,Men,1016,VfB Friedrichshafen,Protopsaltis,Athanasios,180.0,male,1993-09-12,7,Outside spiker,Greece,7.0
+1819,Men,1016,VfB Friedrichshafen,Redwitz,Rafael,191.0,male,1980-08-12,15,Setter,France,15.0
+1819,Men,1016,VfB Friedrichshafen,Sossenheimer,David,193.0,male,1996-06-21,5,Outside spiker,Germany,5.0
+1819,Men,1016,VfB Friedrichshafen,Spaeth-Westerholt,Thilo,188.0,male,1987-06-08,3,Libero,Germany,3.0
+1819,Men,1016,VfB Friedrichshafen,Steuerwald,Markus,182.0,male,1989-03-07,13,Libero,Germany,13.0
+1819,Men,1016,VfB Friedrichshafen,Takvam,Andreas,200.0,male,1993-06-04,4,Middle block,Norway,4.0
+1314,Men,1018,VSG Coburg/Grub,Engel,Johannes,186.0,male,1991-05-18,3,Diagonal,Germany,3.0
+1314,Men,1018,VSG Coburg/Grub,Foyer,Kevin,200.0,male,1990-10-11,7,Outside spiker,Germany,7.0
+1314,Men,1018,VSG Coburg/Grub,Ickerott,Jonas,197.0,male,1989-06-29,12,Diagonal,Germany,12.0
+1314,Men,1018,VSG Coburg/Grub,Kellermann,Sven,203.0,male,1987-07-17,10,Middle block,Germany,10.0
+1314,Men,1018,VSG Coburg/Grub,Kessel,Max,198.0,male,1992-05-02,5,Middle block,Germany,5.0
+1314,Men,1018,VSG Coburg/Grub,Kocian,Adam,192.0,male,1995-04-01,18,Setter,Germany,18.0
+1314,Men,1018,VSG Coburg/Grub,Krueger,Merten,195.0,male,1990-11-08,4,Setter,Germany,4.0
+1314,Men,1018,VSG Coburg/Grub,Kucera,Benjamin,190.0,male,1980-09-03,8,Libero,Germany,8.0
+1314,Men,1018,VSG Coburg/Grub,Lohrisch,Paul,198.0,male,1987-04-11,2,Outside spiker,Germany,2.0
+1314,Men,1018,VSG Coburg/Grub,Malescha,Daniel,203.0,male,1994-04-28,11,Diagonal,Germany,11.0
+1314,Men,1018,VSG Coburg/Grub,Meuter,Maximilian,183.0,male,1989-11-24,6,Universal,Germany,6.0
+1314,Men,1018,VSG Coburg/Grub,Nuernberger,Hans-Peter,196.0,male,1985-07-25,9,Outside spiker,Germany,9.0
+1314,Men,1018,VSG Coburg/Grub,Poluga,Nikola,201.0,male,1986-03-01,1,Middle block,Serbia,1.0
+1314,Men,1018,VSG Coburg/Grub,privat - ausgeblendet,privat - ausgeblendet,187.0,male,1985-03-30,13,Libero,Germany,13.0
+1415,Men,1018,VSG Coburg/Grub,Baxpoehler,Noah,209.0,male,1993-08-13,4,Middle block,Germany,4.0
+1415,Men,1018,VSG Coburg/Grub,Horn,Maximilian,188.0,male,1996-08-07,16,Setter,Germany,16.0
+1415,Men,1018,VSG Coburg/Grub,Karanovic,Vuk,196.0,male,1987-12-18,5,Outside spiker,Croatia,5.0
+1415,Men,1018,VSG Coburg/Grub,Karlitzek,Moritz,191.0,male,1996-08-12,13,Outside spiker,Germany,13.0
+1415,Men,1018,VSG Coburg/Grub,Kellermann,Sven,203.0,male,1987-07-17,10,Middle block,Germany,10.0
+1415,Men,1018,VSG Coburg/Grub,Kocian,Adam,192.0,male,1995-04-01,18,Setter,Germany,18.0
+1415,Men,1018,VSG Coburg/Grub,Meuter,Maximilian,183.0,male,1989-11-24,6,Universal,Germany,6.0
+1415,Men,1018,VSG Coburg/Grub,Nuernberger,Hans-Peter,196.0,male,1985-07-25,9,Diagonal,Germany,9.0
+1415,Men,1018,VSG Coburg/Grub,Poluga,Nikola,201.0,male,1986-03-01,1,Middle block,Serbia,1.0
+1415,Men,1018,VSG Coburg/Grub,Speta,Patrick,197.0,male,1991-11-15,12,Setter,Czechia,12.0
+1415,Men,1018,VSG Coburg/Grub,Stein,Itamar,199.0,male,1983-02-12,2,Diagonal,Israel,2.0
+1415,Men,1018,VSG Coburg/Grub,Tille,Leonhard,185.0,male,1995-03-17,17,Libero,Germany,17.0
+1415,Men,1018,VSG Coburg/Grub,Welter,Thiago Jose,192.0,male,1988-04-04,7,Libero,Brazil,7.0
+1516,Men,1018,VSG Coburg/Grub,Baxpoehler,Noah,209.0,male,1993-08-13,4,Middle block,Germany,4.0
+1516,Men,1018,VSG Coburg/Grub,Davis,Dylan,205.0,male,1991-04-06,3,Middle block,United States,3.0
+1516,Men,1018,VSG Coburg/Grub,Hrinak,Milan,194.0,male,1985-10-15,16,Outside spiker,Slovakia,16.0
+1516,Men,1018,VSG Coburg/Grub,Katzenelson,Ariel,184.0,male,1993-09-09,2,Setter,Israel,2.0
+1516,Men,1018,VSG Coburg/Grub,Kostolani,Lubos,203.0,male,1990-11-28,18,Diagonal,Slovakia,18.0
+1516,Men,1018,VSG Coburg/Grub,Kucera,Benjamin,190.0,male,1980-09-03,1,Universal,Germany,1.0
+1516,Men,1018,VSG Coburg/Grub,Kwiecien,Wojciech,190.0,male,1994-05-26,15,Setter,Poland,15.0
+1516,Men,1018,VSG Coburg/Grub,Mauler,Richard,194.0,male,1989-09-28,13,Outside spiker,Czechia,13.0
+1516,Men,1018,VSG Coburg/Grub,Schattenberg,Lukas,194.0,male,1995-09-11,12,Diagonal,Germany,12.0
+1516,Men,1018,VSG Coburg/Grub,Schippmann,Timon,194.0,male,1995-09-06,14,Outside spiker,Germany,14.0
+1516,Men,1018,VSG Coburg/Grub,Thompson,Ryan,205.0,male,1990-10-15,6,Middle block,United States,6.0
+1516,Men,1018,VSG Coburg/Grub,Tille,Leonhard,185.0,male,1995-03-17,7,Libero,Germany,7.0
+1516,Men,1018,VSG Coburg/Grub,Weber,Tom,185.0,male,1989-10-27,8,Outside spiker,Germany,8.0
+1819,Men,1019,Helios Grizzlys Giesen,Aguillard,Antwain,203.0,male,1989-08-22,10,Middle block,United States,10.0
+1819,Men,1019,Helios Grizzlys Giesen,Appel,Marius,193.0,male,1992-11-18,3,Outside spiker,Germany,3.0
+1819,Men,1019,Helios Grizzlys Giesen,Behmenburg,Henrik,193.0,male,1997-08-11,9,Middle block,Germany,9.0
+1819,Men,1019,Helios Grizzlys Giesen,Clere,Jerôme,195.0,male,1990-08-02,12,Outside spiker,France,12.0
+1819,Men,1019,Helios Grizzlys Giesen,Hrinak,Milan,194.0,male,1985-10-15,16,Outside spiker,Slovakia,16.0
+1819,Men,1019,Helios Grizzlys Giesen,Illmer,Andre,185.0,male,1997-03-20,11,Libero,Germany,11.0
+1819,Men,1019,Helios Grizzlys Giesen,Krisko,Michal,200.0,male,1988-11-23,18,Diagonal,Czechia,18.0
+1819,Men,1019,Helios Grizzlys Giesen,Mayaula Nzeza,Magloire,202.0,male,1993-06-06,7,Middle block,Congo - Kinshasa,7.0
+1819,Men,1019,Helios Grizzlys Giesen,Neubert,Malte,194.0,male,1996-06-17,8,Setter,Germany,8.0
+1819,Men,1019,Helios Grizzlys Giesen,Palgut,Filip,202.0,male,1991-09-23,2,Setter,Slovakia,2.0
+1819,Men,1019,Helios Grizzlys Giesen,Poikela,Antti,191.0,male,1989-04-06,4,Outside spiker,Finland,4.0
+1819,Men,1019,Helios Grizzlys Giesen,Schramm,Robert,206.0,male,1989-12-16,13,Middle block,Germany,13.0
+1819,Men,1019,Helios Grizzlys Giesen,Stroebl,Maximilian,191.0,male,1997-03-04,6,Outside spiker,Germany,6.0
+1819,Men,1019,Helios Grizzlys Giesen,Toman,Urban,185.0,male,1997-10-21,1,Libero,Slovenia,1.0
+1819,Men,1019,Helios Grizzlys Giesen,Wagner,Hauke,198.0,male,1987-05-30,5,Diagonal,Germany,5.0
+1314,Women,2001,Allianz MTV Stuttgart,Bremer,Franziska,191.0,female,1985-06-27,9,Middle block,Germany,9.0
+1314,Women,2001,Allianz MTV Stuttgart,Cyr,Megan,183.0,female,1990-06-01,10,Setter,Canada,10.0
+1314,Women,2001,Allianz MTV Stuttgart,Engelhardt,Svenja,180.0,female,1988-04-20,17,Outside spiker,Germany,17.0
+1314,Women,2001,Allianz MTV Stuttgart,Gschwendtner,Lena,168.0,female,1992-10-03,6,Libero,Germany,6.0
+1314,Women,2001,Allianz MTV Stuttgart,Jovy-Heuser,Alessandra,187.0,female,1991-09-22,16,Middle block,Germany,16.0
+1314,Women,2001,Allianz MTV Stuttgart,Lourenco Delogu,Evelyn Cristina,173.0,female,1981-02-06,18,Libero,Brazil,18.0
+1314,Women,2001,Allianz MTV Stuttgart,Pavan,Rebecca,193.0,female,1990-04-17,5,Middle block,Canada,5.0
+1314,Women,2001,Allianz MTV Stuttgart,Stalzer,Lindsay,184.0,female,1984-07-25,7,Outside spiker,United States,7.0
+1314,Women,2001,Allianz MTV Stuttgart,Truchetet,Lauriane,178.0,female,1984-04-07,11,Setter,France,11.0
+1314,Women,2001,Allianz MTV Stuttgart,van Daelen,Deborah,188.0,female,1989-03-24,4,Diagonal,Netherlands,4.0
+1314,Women,2001,Allianz MTV Stuttgart,Weiand,Pia Philippa,181.0,female,1992-11-24,2,Setter,Germany,2.0
+1314,Women,2001,Allianz MTV Stuttgart,Wlk,Jelena,178.0,female,1993-04-16,3,Outside spiker,Germany,3.0
+1314,Women,2001,Allianz MTV Stuttgart,Zautys,Tatjana,183.0,female,1980-05-04,13,Outside spiker,Germany,13.0
+1415,Women,2001,Allianz MTV Stuttgart,Harms,Katherine,184.0,female,1990-11-29,8,Diagonal,United States,8.0
+1415,Women,2001,Allianz MTV Stuttgart,Hindriksen,Mareike,182.0,female,1987-11-14,2,Setter,Germany,2.0
+1415,Women,2001,Allianz MTV Stuttgart,Jovy-Heuser,Alessandra,187.0,female,1991-09-22,16,Middle block,Germany,16.0
+1415,Women,2001,Allianz MTV Stuttgart,Lindow,Nichole,185.0,female,1992-08-06,15,Middle block,United States,15.0
+1415,Women,2001,Allianz MTV Stuttgart,Malevic,Martina,172.0,female,1990-12-07,4,Libero,Croatia,4.0
+1415,Women,2001,Allianz MTV Stuttgart,Meyers,Heather,183.0,female,1989-04-18,10,Universal,United States,10.0
+1415,Women,2001,Allianz MTV Stuttgart,Miyashiro,Tamari,170.0,female,1987-07-08,11,Libero,United States,11.0
+1415,Women,2001,Allianz MTV Stuttgart,Papafotiou,Athina,180.0,female,1989-08-23,12,Setter,Greece,12.0
+1415,Women,2001,Allianz MTV Stuttgart,Renkema,Kim,179.0,female,1987-06-28,5,Outside spiker,Netherlands,5.0
+1415,Women,2001,Allianz MTV Stuttgart,Sandor,Renata,182.0,female,1990-12-15,7,Outside spiker,Hungary,7.0
+1415,Women,2001,Allianz MTV Stuttgart,Tomazela Pissinato,Micheli,184.0,female,1984-03-28,3,Middle block,Brazil,3.0
+1415,Women,2001,Allianz MTV Stuttgart,Wlk,Jelena,178.0,female,1993-04-16,1,Outside spiker,Germany,1.0
+1516,Women,2001,Allianz MTV Stuttgart,Grobelna,Kaja,189.0,female,1995-01-04,8,Diagonal,Belgium,8.0
+1516,Women,2001,Allianz MTV Stuttgart,Jarmoc,Caroline,188.0,female,1991-06-18,9,Middle block,Canada,9.0
+1516,Women,2001,Allianz MTV Stuttgart,Lindow,Nichole,185.0,female,1992-08-06,15,Middle block,United States,15.0
+1516,Women,2001,Allianz MTV Stuttgart,Mlejnkova,Michaela,185.0,female,1996-07-26,16,Outside spiker,Czechia,16.0
+1516,Women,2001,Allianz MTV Stuttgart,Nichol,Valerie,181.0,female,1993-04-29,4,Setter,United States,4.0
+1516,Women,2001,Allianz MTV Stuttgart,Renkema,Kim,179.0,female,1987-06-28,5,Outside spiker,Netherlands,5.0
+1516,Women,2001,Allianz MTV Stuttgart,Sandor,Renata,182.0,female,1990-12-15,7,Outside spiker,Hungary,7.0
+1516,Women,2001,Allianz MTV Stuttgart,Stoltenborg,Femke,190.0,female,1991-07-30,2,Setter,Netherlands,2.0
+1516,Women,2001,Allianz MTV Stuttgart,Thomsen,Lisa,172.0,female,1985-08-20,11,Libero,Germany,11.0
+1516,Women,2001,Allianz MTV Stuttgart,Tomazela Pissinato,Micheli,184.0,female,1984-03-28,3,Middle block,Brazil,3.0
+1516,Women,2001,Allianz MTV Stuttgart,van Daelen,Deborah,188.0,female,1989-03-24,12,Diagonal,Netherlands,12.0
+1516,Women,2001,Allianz MTV Stuttgart,Wlk,Jelena,178.0,female,1993-04-16,1,Outside spiker,Germany,1.0
+1617,Women,2001,Allianz MTV Stuttgart,Buakaew,Wanna,172.0,female,1981-01-02,1,Libero,Thailand,1.0
+1617,Women,2001,Allianz MTV Stuttgart,Grant,Nia,188.0,female,1993-05-08,17,Middle block,United States,17.0
+1617,Women,2001,Allianz MTV Stuttgart,Kocar,Karmen,180.0,female,1982-12-01,11,Setter,Slovenia,11.0
+1617,Women,2001,Allianz MTV Stuttgart,Mlejnkova,Michaela,185.0,female,1996-07-26,16,Outside spiker,Czechia,16.0
+1617,Women,2001,Allianz MTV Stuttgart,Nichol,Valerie,181.0,female,1993-04-29,4,Setter,United States,4.0
+1617,Women,2001,Allianz MTV Stuttgart,Pettke,Jennifer,186.0,female,1989-05-29,15,Middle block,Germany,15.0
+1617,Women,2001,Allianz MTV Stuttgart,Renkema,Kim,179.0,female,1987-06-28,5,Outside spiker,Netherlands,5.0
+1617,Women,2001,Allianz MTV Stuttgart,Sandor,Renata,182.0,female,1990-12-15,7,Outside spiker,Hungary,7.0
+1617,Women,2001,Allianz MTV Stuttgart,Schaefer,Julia,188.0,female,1996-07-03,8,Outside spiker,Germany,8.0
+1617,Women,2001,Allianz MTV Stuttgart,Tomazela Pissinato,Micheli,184.0,female,1984-03-28,3,Middle block,Brazil,3.0
+1617,Women,2001,Allianz MTV Stuttgart,van Daelen,Deborah,188.0,female,1989-03-24,12,Diagonal,Netherlands,12.0
+1617,Women,2001,Allianz MTV Stuttgart,Wenzel,Julia,179.0,female,1998-01-12,2,Outside spiker,Germany,2.0
+1617,Women,2001,Allianz MTV Stuttgart,Whitney,Aiyana,196.0,female,1993-04-06,14,Diagonal,United States,14.0
+1718,Women,2001,Allianz MTV Stuttgart,Cesar,Annie,173.0,female,1997-04-26,6,Libero,Germany,6.0
+1718,Women,2001,Allianz MTV Stuttgart,Daalderop,Nika,189.0,female,1998-11-29,9,Outside spiker,Netherlands,9.0
+1718,Women,2001,Allianz MTV Stuttgart,Kaestner,Pia,180.0,female,1998-06-29,10,Setter,Germany,10.0
+1718,Women,2001,Allianz MTV Stuttgart,McCage,Mallory Grace,192.0,female,1994-02-02,5,Middle block,United States,5.0
+1718,Women,2001,Allianz MTV Stuttgart,Mlejnkova,Michaela,185.0,female,1996-07-26,16,Outside spiker,Czechia,16.0
+1718,Women,2001,Allianz MTV Stuttgart,Perovic,Nikoleta,185.0,female,1994-11-01,1,Diagonal,Montenegro,1.0
+1718,Women,2001,Allianz MTV Stuttgart,Potts,Jenna,190.0,female,1994-02-28,14,Middle block,United States,14.0
+1718,Women,2001,Allianz MTV Stuttgart,Pusic,Teodora,170.0,female,1993-03-12,11,Libero,Serbia,11.0
+1718,Women,2001,Allianz MTV Stuttgart,Sandor,Renata,182.0,female,1990-12-15,7,Outside spiker,Hungary,7.0
+1718,Women,2001,Allianz MTV Stuttgart,Schaefer,Julia,188.0,female,1996-07-03,8,Outside spiker,Germany,8.0
+1718,Women,2001,Allianz MTV Stuttgart,Stoltenborg,Femke,190.0,female,1991-07-30,2,Setter,Netherlands,2.0
+1718,Women,2001,Allianz MTV Stuttgart,Tapp,Paige,187.0,female,1995-06-21,17,Middle block,United States,17.0
+1718,Women,2001,Allianz MTV Stuttgart,Tomazela Pissinato,Micheli,184.0,female,1984-03-28,3,Middle block,Brazil,3.0
+1718,Women,2001,Allianz MTV Stuttgart,van Daelen,Deborah,188.0,female,1989-03-24,12,Diagonal,Netherlands,12.0
+1819,Women,2001,Allianz MTV Stuttgart,Bugg,Madison,183.0,female,1994-08-04,4,Setter,United States,4.0
+1819,Women,2001,Allianz MTV Stuttgart,Cesar,Annie,173.0,female,1997-04-26,6,Libero,Germany,6.0
+1819,Women,2001,Allianz MTV Stuttgart,Henke,Iane,185.0,female,2002-07-11,16,Outside spiker,Germany,16.0
+1819,Women,2001,Allianz MTV Stuttgart,Haenle,Marie,185.0,female,2002-09-08,15,Diagonal,Germany,15.0
+1819,Women,2001,Allianz MTV Stuttgart,Koskelo,Roosa,164.0,female,1991-08-20,1,Libero,Finland,1.0
+1819,Women,2001,Allianz MTV Stuttgart,Kaestner,Pia,180.0,female,1998-06-29,10,Setter,Germany,10.0
+1819,Women,2001,Allianz MTV Stuttgart,McCage,Mallory Grace,192.0,female,1994-02-02,5,Middle block,United States,5.0
+1819,Women,2001,Allianz MTV Stuttgart,Poll,Jana Franziska,185.0,female,1988-05-07,9,Outside spiker,Germany,9.0
+1819,Women,2001,Allianz MTV Stuttgart,Rivers,Krystal,180.0,female,1994-05-23,13,Diagonal,United States,13.0
+1819,Women,2001,Allianz MTV Stuttgart,Sandor,Renata,182.0,female,1990-12-15,7,Outside spiker,Hungary,7.0
+1819,Women,2001,Allianz MTV Stuttgart,Schaefer,Julia,188.0,female,1996-07-03,8,Outside spiker,Germany,8.0
+1819,Women,2001,Allianz MTV Stuttgart,Tapp,Paige,187.0,female,1995-06-21,17,Middle block,United States,17.0
+1819,Women,2001,Allianz MTV Stuttgart,Tomazela Pissinato,Micheli,184.0,female,1984-03-28,3,Middle block,Brazil,3.0
+1819,Women,2001,Allianz MTV Stuttgart,van Daelen,Deborah,188.0,female,1989-03-24,12,Diagonal,Netherlands,12.0
+1819,Women,2001,Allianz MTV Stuttgart,Wilhite,Sarah,188.0,female,1995-07-30,2,Outside spiker,United States,2.0
+1314,Women,2002,Dresdner SC,Goos,Elies,170.0,female,1989-01-13,11,Setter,Belgium,11.0
+1314,Women,2002,Dresdner SC,Gruetze,Bianca,185.0,female,1995-03-27,1,Diagonal,Germany,100.0
+1314,Women,2002,Dresdner SC,Izquierdo-Mocasqui,Lisa,177.0,female,1994-08-29,13,Outside spiker,Germany,13.0
+1314,Women,2002,Dresdner SC,Karg,Stefanie,189.0,female,1986-10-22,4,Middle block,Germany,4.0
+1314,Women,2002,Dresdner SC,Kirsten,Maria,180.0,female,1996-05-08,1,Setter,Germany,101.0
+1314,Women,2002,Dresdner SC,Kuhn,Steffi,181.0,female,1996-05-12,17,Outside spiker,Germany,17.0
+1314,Women,2002,Dresdner SC,Langgemach,Juliane,186.0,female,1994-11-06,12,Middle block,Germany,12.0
+1314,Women,2002,Dresdner SC,Marcelle,Shanice,183.0,female,1990-05-28,18,Outside spiker,Canada,18.0
+1314,Women,2002,Dresdner SC,Mikhailenko,Kristina,188.0,female,1992-03-26,3,Diagonal,Belarus,3.0
+1314,Women,2002,Dresdner SC,Pencova,Jaroslava,191.0,female,1990-06-24,6,Middle block,Slovakia,6.0
+1314,Women,2002,Dresdner SC,Perry,Rebecca,191.0,female,1988-12-29,8,Outside spiker,United States,8.0
+1314,Women,2002,Dresdner SC,Petter,Michelle,176.0,female,1997-02-04,1,Libero,Germany,102.0
+1314,Women,2002,Dresdner SC,Plath,Constance,185.0,female,1996-04-16,1,Middle block,Germany,103.0
+1314,Women,2002,Dresdner SC,Schoot,Myrthe Mathilde,183.0,female,1988-08-29,9,Libero,Netherlands,9.0
+1314,Women,2002,Dresdner SC,Schwabe,Katharina,180.0,female,1993-04-29,16,Outside spiker,Germany,16.0
+1314,Women,2002,Dresdner SC,Ssuschke-Voigt,Corina,189.0,female,1983-05-09,10,Middle block,Germany,10.0
+1314,Women,2002,Dresdner SC,Stock,Lisa,168.0,female,1994-06-06,14,Libero,Germany,14.0
+1314,Women,2002,Dresdner SC,von Roemer,Mareen,182.0,female,1987-03-26,2,Setter,Germany,2.0
+1314,Women,2002,Dresdner SC,Wolf,Luise,182.0,female,1997-11-14,1,Outside spiker,Germany,104.0
+1415,Women,2002,Dresdner SC,Bartsch,Michelle,193.0,female,1990-02-12,15,Outside spiker,United States,15.0
+1415,Women,2002,Dresdner SC,Dijkema,Laura,185.0,female,1990-02-18,7,Setter,Netherlands,7.0
+1415,Women,2002,Dresdner SC,Ferrari,Chloe,185.0,female,1992-07-21,11,Middle block,United States,11.0
+1415,Women,2002,Dresdner SC,Izquierdo-Mocasqui,Lisa,177.0,female,1994-08-29,13,Outside spiker,Germany,13.0
+1415,Women,2002,Dresdner SC,Jackson,Cursty,185.0,female,1990-09-11,10,Middle block,United States,10.0
+1415,Women,2002,Dresdner SC,Kirsten,Maria,180.0,female,1996-05-08,2,Setter,Germany,100.0
+1415,Women,2002,Dresdner SC,Kreklow,Molly,184.0,female,1992-02-17,1,Setter,United States,1.0
+1415,Women,2002,Dresdner SC,Kuhn,Steffi,181.0,female,1996-05-12,17,Outside spiker,Germany,17.0
+1415,Women,2002,Dresdner SC,Langgemach,Juliane,186.0,female,1994-11-06,12,Middle block,Germany,12.0
+1415,Women,2002,Dresdner SC,Lippmann,Louisa,191.0,female,1994-09-23,8,Diagonal,Germany,8.0
+1415,Women,2002,Dresdner SC,Marcelle,Shanice,183.0,female,1990-05-28,18,Outside spiker,Canada,18.0
+1415,Women,2002,Dresdner SC,Mikhailenko,Kristina,188.0,female,1992-03-26,3,Diagonal,Belarus,3.0
+1415,Women,2002,Dresdner SC,Pencova,Jaroslava,191.0,female,1990-06-24,6,Middle block,Slovakia,6.0
+1415,Women,2002,Dresdner SC,Petter,Michelle,176.0,female,1997-02-04,2,Libero,Germany,101.0
+1415,Women,2002,Dresdner SC,Plath,Constance,185.0,female,1996-04-16,2,Middle block,Germany,102.0
+1415,Women,2002,Dresdner SC,Schoot,Myrthe Mathilde,183.0,female,1988-08-29,9,Libero,Netherlands,9.0
+1415,Women,2002,Dresdner SC,Schwabe,Katharina,180.0,female,1993-04-29,16,Outside spiker,Germany,16.0
+1415,Women,2002,Dresdner SC,Stock,Lisa,168.0,female,1994-06-06,14,Libero,Germany,14.0
+1415,Women,2002,Dresdner SC,Wolf,Luise,182.0,female,1997-11-14,2,Outside spiker,Germany,103.0
+1516,Women,2002,Dresdner SC,Bartsch,Michelle,193.0,female,1990-02-12,15,Outside spiker,United States,15.0
+1516,Women,2002,Dresdner SC,Courtois,Valerie,172.0,female,1990-11-01,18,Libero,Belgium,18.0
+1516,Women,2002,Dresdner SC,Cross,Jennifer,195.0,female,1992-07-04,12,Middle block,Canada,12.0
+1516,Women,2002,Dresdner SC,Dijkema,Laura,185.0,female,1990-02-18,7,Setter,Netherlands,7.0
+1516,Women,2002,Dresdner SC,Hindriksen,Mareike,182.0,female,1987-11-14,1,Setter,Germany,1.0
+1516,Women,2002,Dresdner SC,Izquierdo-Mocasqui,Lisa,177.0,female,1994-08-29,13,Outside spiker,Germany,13.0
+1516,Women,2002,Dresdner SC,Lippmann,Louisa,191.0,female,1994-09-23,8,Diagonal,Germany,8.0
+1516,Women,2002,Dresdner SC,Little,Whitney,190.0,female,1993-04-03,11,Middle block,United States,11.0
+1516,Women,2002,Dresdner SC,Lowke,Elisabeth,192.0,female,1997-02-22,6,Middle block,Germany,100.0
+1516,Women,2002,Dresdner SC,Mancuso,Gina,183.0,female,1991-05-31,17,Outside spiker,United States,17.0
+1516,Women,2002,Dresdner SC,Mikhailenko,Kristina,188.0,female,1992-03-26,3,Diagonal,Belarus,3.0
+1516,Women,2002,Dresdner SC,Onyejekwe,Nneka,189.0,female,1989-08-18,18,Middle block,Romania,103.0
+1516,Women,2002,Dresdner SC,Plath,Constance,185.0,female,1996-04-16,6,Middle block,Germany,101.0
+1516,Women,2002,Dresdner SC,Schoot,Myrthe Mathilde,183.0,female,1988-08-29,9,Libero,Netherlands,9.0
+1516,Women,2002,Dresdner SC,Schwabe,Katharina,180.0,female,1993-04-29,16,Outside spiker,Germany,16.0
+1516,Women,2002,Dresdner SC,Slay,Kathleen Elizabeth,198.0,female,1991-11-04,10,Middle block,United States,10.0
+1516,Women,2002,Dresdner SC,Stock,Lisa,168.0,female,1994-06-06,14,Libero,Germany,14.0
+1516,Women,2002,Dresdner SC,Wolf,Luise,182.0,female,1997-11-14,6,Outside spiker,Germany,102.0
+1617,Women,2002,Dresdner SC,Birks,Jocelynn Michelle,188.0,female,1993-08-21,3,Outside spiker,United States,3.0
+1617,Women,2002,Dresdner SC,Cooper,Brittnee,191.0,female,1988-02-26,1,Middle block,United States,1.0
+1617,Women,2002,Dresdner SC,Courtois,Valerie,172.0,female,1990-11-01,11,Libero,Belgium,11.0
+1617,Women,2002,Dresdner SC,Cross,Jennifer,195.0,female,1992-07-04,12,Middle block,Canada,12.0
+1617,Women,2002,Dresdner SC,Hodanova,Eva,189.0,female,1993-12-18,13,Outside spiker,Czechia,13.0
+1617,Women,2002,Dresdner SC,Johnson,Erin,190.0,female,1990-12-27,18,Middle block,United States,18.0
+1617,Women,2002,Dresdner SC,Koemmling,Elena,178.0,female,2000-01-01,1,Outside spiker,Germany,100.0
+1617,Women,2002,Dresdner SC,Maase,Rica,187.0,female,1999-11-22,10,Diagonal,Germany,10.0
+1617,Women,2002,Dresdner SC,Mancuso,Gina,183.0,female,1991-05-31,17,Outside spiker,United States,102.0
+1617,Women,2002,Dresdner SC,Mc Mahon,Elizabeth Ann,199.0,female,1993-02-27,14,Diagonal,United States,14.0
+1617,Women,2002,Dresdner SC,Purchartova,Barbora,189.0,female,1992-05-09,8,Middle block,Czechia,8.0
+1617,Women,2002,Dresdner SC,Rolfzen,Amber,192.0,female,1994-08-25,17,Diagonal,United States,17.0
+1617,Women,2002,Dresdner SC,Rolfzen,Kadie,192.0,female,1994-08-25,15,Outside spiker,United States,15.0
+1617,Women,2002,Dresdner SC,Schoot,Myrthe Mathilde,183.0,female,1988-08-29,9,Libero,Netherlands,9.0
+1617,Women,2002,Dresdner SC,Schwabe,Katharina,180.0,female,1993-04-29,16,Outside spiker,Germany,16.0
+1617,Women,2002,Dresdner SC,Smutna,Lucie,180.0,female,1991-04-14,6,Setter,Czechia,6.0
+1617,Women,2002,Dresdner SC,Strumilo,Dominika,187.0,female,1996-12-26,7,Outside spiker,Belgium,7.0
+1617,Women,2002,Dresdner SC,von Roemer,Mareen,182.0,female,1987-03-26,2,Setter,Germany,2.0
+1617,Women,2002,Dresdner SC,Weitzel,Camilla,195.0,female,2000-06-11,1,Middle block,Germany,101.0
+1718,Women,2002,Dresdner SC,Bugg,Madison,183.0,female,1994-08-04,10,Setter,United States,10.0
+1718,Women,2002,Dresdner SC,Hodanova,Eva,189.0,female,1993-12-18,13,Outside spiker,Czechia,13.0
+1718,Women,2002,Dresdner SC,Jasper,Marrit,180.0,female,1996-02-28,8,Outside spiker,Netherlands,8.0
+1718,Women,2002,Dresdner SC,Korhonen,Piia,187.0,female,1997-01-12,12,Diagonal,Finland,12.0
+1718,Women,2002,Dresdner SC,Koemmling,Elena,178.0,female,2000-01-01,17,Outside spiker,Germany,100.0
+1718,Women,2002,Dresdner SC,Maase,Rica,187.0,female,1999-11-22,11,Diagonal,Germany,11.0
+1718,Women,2002,Dresdner SC,Mrdak,Ivana,194.0,female,1993-09-15,15,Middle block,Serbia,15.0
+1718,Women,2002,Dresdner SC,Nestler,Patricia,168.0,female,2001-05-17,17,Libero,Germany,101.0
+1718,Women,2002,Dresdner SC,Nitsche,Franziska,177.0,female,2000-05-11,17,Outside spiker,Germany,102.0
+1718,Women,2002,Dresdner SC,Petter,Michelle,176.0,female,1997-02-04,6,Libero,Germany,6.0
+1718,Women,2002,Dresdner SC,Planinsec,Sasa,185.0,female,1995-06-02,18,Middle block,Slovenia,18.0
+1718,Women,2002,Dresdner SC,Scholz,Deborah,180.0,female,2000-02-09,17,Diagonal,Germany,103.0
+1718,Women,2002,Dresdner SC,Schoot,Myrthe Mathilde,183.0,female,1988-08-29,9,Libero,Netherlands,9.0
+1718,Women,2002,Dresdner SC,Schwabe,Katharina,180.0,female,1993-04-29,16,Outside spiker,Germany,16.0
+1718,Women,2002,Dresdner SC,Stemmler,Lydia,185.0,female,2001-07-20,17,Middle block,Germany,104.0
+1718,Women,2002,Dresdner SC,Strumilo,Dominika,187.0,female,1996-12-26,7,Outside spiker,Belgium,7.0
+1718,Women,2002,Dresdner SC,von Roemer,Mareen,182.0,female,1987-03-26,2,Setter,Germany,2.0
+1718,Women,2002,Dresdner SC,Weitzel,Camilla,195.0,female,2000-06-11,17,Middle block,Germany,17.0
+1718,Women,2002,Dresdner SC,Wezorke,Barbara Roxana,186.0,female,1993-04-12,1,Middle block,Germany,1.0
+1819,Women,2002,Dresdner SC,Benson,Amanda Susanne,170.0,female,1995-03-09,1,Libero,United States,1.0
+1819,Women,2002,Dresdner SC,Korhonen,Piia,187.0,female,1997-01-12,12,Diagonal,Finland,12.0
+1819,Women,2002,Dresdner SC,Lieb,Lina-Marie,181.0,female,2001-07-30,3,Outside spiker,Germany,100.0
+1819,Women,2002,Dresdner SC,Maase,Rica,187.0,female,1999-11-22,11,Diagonal,Germany,11.0
+1819,Women,2002,Dresdner SC,Mrdak,Ivana,194.0,female,1993-09-15,15,Middle block,Serbia,15.0
+1819,Women,2002,Dresdner SC,Moellers,Lena,188.0,female,1990-01-06,9,Setter,Germany,9.0
+1819,Women,2002,Dresdner SC,Nestler,Patricia,168.0,female,2001-05-17,3,Libero,Germany,101.0
+1819,Women,2002,Dresdner SC,Petter,Michelle,176.0,female,1997-02-04,6,Libero,Germany,6.0
+1819,Women,2002,Dresdner SC,Planinsec,Sasa,185.0,female,1995-06-02,18,Middle block,Slovenia,18.0
+1819,Women,2002,Dresdner SC,Radosova,Nikola,186.0,female,1992-05-03,14,Outside spiker,Slovakia,14.0
+1819,Women,2002,Dresdner SC,Scholz,Deborah,180.0,female,2000-02-09,3,Diagonal,Germany,102.0
+1819,Women,2002,Dresdner SC,Schwabe,Katharina,180.0,female,1993-04-29,16,Outside spiker,Germany,16.0
+1819,Women,2002,Dresdner SC,Segura Palleres,Maria,185.0,female,1992-06-10,13,Outside spiker,Spain,13.0
+1819,Women,2002,Dresdner SC,Stigrot,Lena,182.0,female,1994-12-20,10,Outside spiker,Germany,10.0
+1819,Women,2002,Dresdner SC,Strubbe,Monique,188.0,female,2001-07-05,3,Middle block,Germany,103.0
+1819,Women,2002,Dresdner SC,von Roemer,Mareen,182.0,female,1987-03-26,2,Setter,Germany,2.0
+1819,Women,2002,Dresdner SC,Weitzel,Camilla,195.0,female,2000-06-11,17,Middle block,Germany,17.0
+1819,Women,2002,Dresdner SC,Wezorke,Barbara Roxana,186.0,female,1993-04-12,7,Middle block,Germany,7.0
+1314,Women,2003,Koepenicker SC,Aas,Hanne Haugen,188.0,female,1988-02-29,12,Middle block,Norway,12.0
+1314,Women,2003,Koepenicker SC,Besa,Susanne,186.0,female,1994-07-29,1,Diagonal,Germany,1.0
+1314,Women,2003,Koepenicker SC,Buettner,Florentina,176.0,female,1988-09-07,11,Outside spiker,Germany,11.0
+1314,Women,2003,Koepenicker SC,Frazier,Ashley,185.0,female,1989-12-15,6,Outside spiker,United States,6.0
+1314,Women,2003,Koepenicker SC,Grohmann,Patricia,186.0,female,1990-01-27,4,Outside spiker,Germany,4.0
+1314,Women,2003,Koepenicker SC,Goepner,Jessica,173.0,female,1990-12-11,7,Libero,Germany,7.0
+1314,Women,2003,Koepenicker SC,Hero,Julia,185.0,female,1992-10-20,9,Middle block,Germany,9.0
+1314,Women,2003,Koepenicker SC,Knauf,Ann-Marie,175.0,female,1992-11-20,8,Setter,Germany,8.0
+1314,Women,2003,Koepenicker SC,Peham,Shany,168.0,female,1993-03-03,5,Setter,Israel,5.0
+1314,Women,2003,Koepenicker SC,Radzuweit,Saskia,182.0,female,1991-05-12,3,Outside spiker,Germany,3.0
+1314,Women,2003,Koepenicker SC,Riedel,Pia,177.0,female,1990-09-09,17,Diagonal,Germany,17.0
+1314,Women,2003,Koepenicker SC,Shannon,Hawari,188.0,female,1989-10-30,10,Middle block,United States,10.0
+1415,Women,2003,Koepenicker SC,Barfield,Lauren,195.0,female,1990-03-15,12,Middle block,United States,12.0
+1415,Women,2003,Koepenicker SC,Bognar,Kristina,177.0,female,1983-03-03,4,Setter,Germany,4.0
+1415,Women,2003,Koepenicker SC,Carlson,Kindra,180.0,female,1987-11-12,5,Diagonal,United States,5.0
+1415,Women,2003,Koepenicker SC,Goepner,Jessica,173.0,female,1990-12-11,7,Libero,Germany,7.0
+1415,Women,2003,Koepenicker SC,Hero,Julia,185.0,female,1992-10-20,9,Middle block,Germany,9.0
+1415,Women,2003,Koepenicker SC,Knauf,Ann-Marie,175.0,female,1992-11-20,8,Setter,Germany,8.0
+1415,Women,2003,Koepenicker SC,Radzuweit,Saskia,182.0,female,1991-05-12,3,Outside spiker,Germany,3.0
+1415,Women,2003,Koepenicker SC,Riedel,Pia,177.0,female,1990-09-09,17,Outside spiker,Germany,17.0
+1415,Women,2003,Koepenicker SC,Schaus,Nadja,188.0,female,1984-11-08,6,Outside spiker,Germany,6.0
+1415,Women,2003,Koepenicker SC,Schubert,Sophie,183.0,female,1997-02-26,15,Outside spiker,Germany,15.0
+1415,Women,2003,Koepenicker SC,Wilson,Erica,182.0,female,1991-05-26,11,Middle block,United States,11.0
+1516,Women,2003,Koepenicker SC,Barfield,Lauren,195.0,female,1990-03-15,12,Middle block,United States,12.0
+1516,Women,2003,Koepenicker SC,Graetz,Annalena,182.0,female,1997-03-22,2,Outside spiker,Germany,2.0
+1516,Women,2003,Koepenicker SC,Goepner,Jessica,173.0,female,1990-12-11,11,Libero,Germany,11.0
+1516,Women,2003,Koepenicker SC,Hero,Julia,185.0,female,1992-10-20,9,Middle block,Germany,9.0
+1516,Women,2003,Koepenicker SC,Iwohn,Nele,183.0,female,1996-09-15,15,Diagonal,Germany,15.0
+1516,Women,2003,Koepenicker SC,Johnson,Janisa,173.0,female,1991-09-22,1,Outside spiker,United States,1.0
+1516,Women,2003,Koepenicker SC,Knauf,Ann-Marie,175.0,female,1992-11-20,8,Setter,Germany,8.0
+1516,Women,2003,Koepenicker SC,Nelson,Kaleigh,183.0,female,1992-08-04,6,Diagonal,United States,6.0
+1516,Women,2003,Koepenicker SC,Paape,Anne,187.0,female,1989-12-28,16,Middle block,Germany,16.0
+1516,Women,2003,Koepenicker SC,Pogany,Anna,168.0,female,1994-07-21,7,Libero,Germany,7.0
+1516,Women,2003,Koepenicker SC,Riedel,Pia,177.0,female,1990-09-09,17,Outside spiker,Germany,17.0
+1516,Women,2003,Koepenicker SC,Rutarova,Eva,198.0,female,1989-09-14,4,Middle block,Czechia,4.0
+1516,Women,2003,Koepenicker SC,Senger,Lisa,176.0,female,1998-07-06,16,Setter,Germany,100.0
+1516,Women,2003,Koepenicker SC,Steffen,Dominice,186.0,female,1987-12-17,5,Outside spiker,Germany,5.0
+1516,Women,2003,Koepenicker SC,Wickstrom,Sarah,181.0,female,1993-04-05,10,Setter,United States,10.0
+1516,Women,2003,Koepenicker SC,Wiesner,Catharina,185.0,female,1998-08-11,14,Middle block,Germany,14.0
+1617,Women,2003,Koepenicker SC,Graetz,Annalena,182.0,female,1997-03-22,8,Outside spiker,Germany,8.0
+1617,Women,2003,Koepenicker SC,Goepner,Jessica,173.0,female,1990-12-11,11,Libero,Germany,11.0
+1617,Women,2003,Koepenicker SC,Hero,Julia,185.0,female,1992-10-20,9,Middle block,Germany,9.0
+1617,Women,2003,Koepenicker SC,Holstein,Marie,190.0,female,1997-04-15,12,Diagonal,Germany,12.0
+1617,Women,2003,Koepenicker SC,Iwohn,Nele,183.0,female,1996-09-15,15,Diagonal,Germany,15.0
+1617,Women,2003,Koepenicker SC,Klein,Luise,178.0,female,1999-01-15,6,Setter,Germany,6.0
+1617,Women,2003,Koepenicker SC,Lopes da Silva,Nuria,173.0,female,1991-12-26,16,Middle block,Portugal,16.0
+1617,Women,2003,Koepenicker SC,Pogany,Anna,168.0,female,1994-07-21,7,Libero,Germany,7.0
+1617,Women,2003,Koepenicker SC,Riedel,Pia,177.0,female,1990-09-09,17,Outside spiker,Germany,17.0
+1617,Women,2003,Koepenicker SC,Steffen,Dominice,186.0,female,1987-12-17,5,Outside spiker,Germany,5.0
+1617,Women,2003,Koepenicker SC,Stoehr,Celin,192.0,female,1993-11-22,2,Middle block,Germany,2.0
+1617,Women,2003,Koepenicker SC,Wickstrom,Sarah,181.0,female,1993-04-05,10,Setter,United States,10.0
+1314,Women,2004,Ladies in Black Aachen,Bednarova,Karolina,184.0,female,1986-07-20,13,Outside spiker,Czechia,13.0
+1314,Women,2004,Ladies in Black Aachen,Belien,Yvon,188.0,female,1993-12-28,4,Middle block,Netherlands,4.0
+1314,Women,2004,Ladies in Black Aachen,Crkonova,Tatiana,189.0,female,1992-01-07,1,Middle block,Slovakia,1.0
+1314,Women,2004,Ladies in Black Aachen,Emonts,Laura,180.0,female,1991-04-04,17,Outside spiker,Germany,17.0
+1314,Women,2004,Ladies in Black Aachen,Ponte,Ron,173.0,female,1988-07-14,15,Setter,Israel,15.0
+1314,Women,2004,Ladies in Black Aachen,Rejzovic,Aida,185.0,female,1987-12-14,3,Middle block,Sweden,3.0
+1314,Women,2004,Ladies in Black Aachen,Salomaeki,Elina,180.0,female,1981-10-19,11,Diagonal,Finland,11.0
+1314,Women,2004,Ladies in Black Aachen,Scott,Jordanne,187.0,female,1990-10-02,8,Outside spiker,United States,8.0
+1314,Women,2004,Ladies in Black Aachen,Stankova,Romana,187.0,female,1991-04-13,9,Diagonal,Czechia,9.0
+1314,Women,2004,Ladies in Black Aachen,Stoltenborg,Femke,190.0,female,1991-07-30,2,Setter,Netherlands,2.0
+1314,Women,2004,Ladies in Black Aachen,Valachova,Dominika,165.0,female,1986-06-04,14,Libero,Slovakia,14.0
+1314,Women,2004,Ladies in Black Aachen,Van den Berghen,Julia,175.0,female,1995-10-12,18,Libero,Germany,18.0
+1415,Women,2004,Ladies in Black Aachen,Bednarova,Karolina,184.0,female,1986-07-20,13,Outside spiker,Czechia,13.0
+1415,Women,2004,Ladies in Black Aachen,Burazer,Maja,188.0,female,1988-03-20,2,Diagonal,Croatia,2.0
+1415,Women,2004,Ladies in Black Aachen,Crkonova,Tatiana,189.0,female,1992-01-07,1,Middle block,Slovakia,1.0
+1415,Women,2004,Ladies in Black Aachen,Grozer,Dora,182.0,female,1995-11-21,8,Outside spiker,Germany,8.0
+1415,Women,2004,Ladies in Black Aachen,Kosova,Simona,187.0,female,1992-03-27,11,Middle block,Slovakia,11.0
+1415,Women,2004,Ladies in Black Aachen,Markovic,Srna,182.0,female,1996-06-06,16,Outside spiker,Austria,16.0
+1415,Women,2004,Ladies in Black Aachen,Ponte,Ron,173.0,female,1988-07-14,15,Setter,Israel,15.0
+1415,Women,2004,Ladies in Black Aachen,Pucarevic,Marija,182.0,female,1990-08-20,12,Setter,Serbia,12.0
+1415,Women,2004,Ladies in Black Aachen,Stankova,Romana,187.0,female,1991-04-13,9,Diagonal,Czechia,9.0
+1415,Women,2004,Ladies in Black Aachen,Svobodnikova,Ivona,191.0,female,1991-04-01,5,Middle block,Czechia,5.0
+1415,Women,2004,Ladies in Black Aachen,Valachova,Dominika,165.0,female,1986-06-04,14,Libero,Slovakia,14.0
+1516,Women,2004,Ladies in Black Aachen,Baradel,Silvia,183.0,female,1991-06-02,3,Setter,Italy,3.0
+1516,Women,2004,Ladies in Black Aachen,Bongaerts,Britt,185.0,female,1996-11-03,4,Setter,Netherlands,4.0
+1516,Women,2004,Ladies in Black Aachen,Crkonova,Tatiana,189.0,female,1992-01-07,1,Diagonal,Slovakia,1.0
+1516,Women,2004,Ladies in Black Aachen,Grozer,Dora,182.0,female,1995-11-21,9,Outside spiker,Germany,9.0
+1516,Women,2004,Ladies in Black Aachen,Kosova,Simona,187.0,female,1992-03-27,11,Middle block,Slovakia,11.0
+1516,Women,2004,Ladies in Black Aachen,Kuciakova,Miroslava,179.0,female,1989-01-31,2,Outside spiker,Slovakia,2.0
+1516,Women,2004,Ladies in Black Aachen,Langgemach,Juliane,186.0,female,1994-11-06,12,Middle block,Germany,12.0
+1516,Women,2004,Ladies in Black Aachen,Liedtke,Zoe,176.0,female,1999-05-14,15,Outside spiker,Germany,15.0
+1516,Women,2004,Ladies in Black Aachen,Scheuschner,Lene,180.0,female,1996-07-12,6,Outside spiker,Germany,6.0
+1516,Women,2004,Ladies in Black Aachen,Svobodnikova,Ivona,191.0,female,1991-04-01,5,Middle block,Czechia,5.0
+1516,Women,2004,Ladies in Black Aachen,Valachova,Dominika,165.0,female,1986-06-04,14,Libero,Slovakia,14.0
+1617,Women,2004,Ladies in Black Aachen,Adams,Mckenzie,192.0,female,1992-02-13,13,Outside spiker,United States,13.0
+1617,Women,2004,Ladies in Black Aachen,Baciu,Ioana Maria,185.0,female,1990-01-04,11,Diagonal,Romania,11.0
+1617,Women,2004,Ladies in Black Aachen,Daalderop,Nika,189.0,female,1998-11-29,9,Outside spiker,Netherlands,9.0
+1617,Women,2004,Ladies in Black Aachen,Dowd,Lindsay,176.0,female,1991-05-14,2,Setter,United States,2.0
+1617,Women,2004,Ladies in Black Aachen,Kalinovskaya-Guengoer,Anna,190.0,female,1985-05-17,4,Middle block,Belarus,4.0
+1617,Women,2004,Ladies in Black Aachen,Knip,Kirsten,173.0,female,1992-09-14,1,Libero,Netherlands,1.0
+1617,Women,2004,Ladies in Black Aachen,Neuhaus,Frauke,185.0,female,1993-04-20,6,Diagonal,Germany,6.0
+1617,Women,2004,Ladies in Black Aachen,Oude Luttikhuis,Nicole,191.0,female,1997-12-26,10,Outside spiker,Netherlands,10.0
+1617,Women,2004,Ladies in Black Aachen,Polder,Tessa,189.0,female,1997-10-10,5,Middle block,Netherlands,5.0
+1617,Women,2004,Ladies in Black Aachen,Stoeten,Jeanine,193.0,female,1991-11-20,8,Middle block,Netherlands,8.0
+1617,Women,2004,Ladies in Black Aachen,Stoltenborg,Femke,190.0,female,1991-07-30,12,Setter,Netherlands,12.0
+1718,Women,2004,Ladies in Black Aachen,Adams,Mckenzie,192.0,female,1992-02-13,13,Outside spiker,United States,13.0
+1718,Women,2004,Ladies in Black Aachen,Bongaerts,Britt,185.0,female,1996-11-03,12,Setter,Netherlands,12.0
+1718,Women,2004,Ladies in Black Aachen,Dowd,Lindsay,176.0,female,1991-05-14,2,Setter,United States,2.0
+1718,Women,2004,Ladies in Black Aachen,Kalinovskaya-Guengoer,Anna,190.0,female,1985-05-17,4,Middle block,Belarus,4.0
+1718,Women,2004,Ladies in Black Aachen,Knip,Kirsten,173.0,female,1992-09-14,1,Libero,Netherlands,1.0
+1718,Women,2004,Ladies in Black Aachen,Neuhaus,Frauke,185.0,female,1993-04-20,6,Diagonal,Germany,6.0
+1718,Women,2004,Ladies in Black Aachen,Oude Luttikhuis,Nicole,191.0,female,1997-12-26,10,Outside spiker,Netherlands,10.0
+1718,Women,2004,Ladies in Black Aachen,Pi?la,Karolina,184.0,female,1996-05-08,9,Outside spiker,Poland,9.0
+1718,Women,2004,Ladies in Black Aachen,Polder,Tessa,189.0,female,1997-10-10,5,Middle block,Netherlands,5.0
+1718,Women,2004,Ladies in Black Aachen,Stoeten,Jeanine,193.0,female,1991-11-20,8,Middle block,Netherlands,8.0
+1718,Women,2004,Ladies in Black Aachen,unji?,Jelena,190.0,female,1994-01-04,11,Diagonal,Croatia,11.0
+1819,Women,2004,Ladies in Black Aachen,Agost,Taylor,190.0,female,1996-05-31,4,Diagonal,United States,4.0
+1819,Women,2004,Ladies in Black Aachen,DeGeest,Krista Marie,190.0,female,1990-01-10,18,Middle block,United States,18.0
+1819,Women,2004,Ladies in Black Aachen,Divoux,Aziliz,183.0,female,1995-01-03,2,Setter,Belgium,2.0
+1819,Women,2004,Ladies in Black Aachen,Farrell,Madison Jo,189.0,female,1996-04-22,8,Middle block,United States,8.0
+1819,Women,2004,Ladies in Black Aachen,Gruending,Lisa,185.0,female,1991-12-02,9,Middle block,Germany,9.0
+1819,Women,2004,Ladies in Black Aachen,Guilliams,Jodie,181.0,female,1997-04-26,5,Outside spiker,Belgium,5.0
+1819,Women,2004,Ladies in Black Aachen,Imoudu,Denise,181.0,female,1995-12-14,14,Setter,Germany,14.0
+1819,Women,2004,Ladies in Black Aachen,Jasper,Marrit,180.0,female,1996-02-28,6,Outside spiker,Netherlands,6.0
+1819,Women,2004,Ladies in Black Aachen,Knip,Kirsten,173.0,female,1992-09-14,1,Libero,Netherlands,1.0
+1819,Women,2004,Ladies in Black Aachen,Oude Luttikhuis,Nicole,191.0,female,1997-12-26,10,Outside spiker,Netherlands,10.0
+1819,Women,2004,Ladies in Black Aachen,Storck,Maja,184.0,female,1998-10-08,11,Diagonal,Switzerland,11.0
+1314,Women,2005,Rote Raben Vilsbiburg,Alves Oliveira Ferreira,Cristina,185.0,female,1982-06-30,1,Middle block,Brazil,1.0
+1314,Women,2005,Rote Raben Vilsbiburg,Bartsch,Michelle,193.0,female,1990-02-12,4,Outside spiker,United States,4.0
+1314,Women,2005,Rote Raben Vilsbiburg,Campbell,Norisha,192.0,female,1980-09-21,17,Middle block,United States,17.0
+1314,Women,2005,Rote Raben Vilsbiburg,Geerties,Jennifer,185.0,female,1994-04-05,15,Outside spiker,Germany,15.0
+1314,Women,2005,Rote Raben Vilsbiburg,Hagglund,Jenna,177.0,female,1989-05-28,16,Setter,United States,16.0
+1314,Women,2005,Rote Raben Vilsbiburg,Helterhoff,Linda,180.0,female,1992-11-26,8,Setter,Germany,8.0
+1314,Women,2005,Rote Raben Vilsbiburg,Lamb,Dominique,184.0,female,1985-12-05,2,Middle block,United States,2.0
+1314,Women,2005,Rote Raben Vilsbiburg,Mesa Luaces,Liana,184.0,female,1977-12-26,11,Diagonal,Cuba,11.0
+1314,Women,2005,Rote Raben Vilsbiburg,Pogany,Anna,168.0,female,1994-07-21,12,Libero,Germany,12.0
+1314,Women,2005,Rote Raben Vilsbiburg,Sperl,Silvia,177.0,female,1991-10-02,7,Outside spiker,Germany,7.0
+1314,Women,2005,Rote Raben Vilsbiburg,Stigrot,Lena,182.0,female,1994-12-20,14,Outside spiker,Germany,14.0
+1314,Women,2005,Rote Raben Vilsbiburg,Stoehr,Celin,192.0,female,1993-11-22,6,Middle block,Germany,6.0
+1415,Women,2005,Rote Raben Vilsbiburg,Dobi,Edina,191.0,female,1987-10-22,9,Middle block,Hungary,9.0
+1415,Women,2005,Rote Raben Vilsbiburg,Elwassimy,Mona,180.0,female,1990-02-07,15,Setter,Germany,15.0
+1415,Women,2005,Rote Raben Vilsbiburg,Fabrino Ramos,Keylla,177.0,female,1986-05-13,2,Setter,Brazil,2.0
+1415,Women,2005,Rote Raben Vilsbiburg,Helterhoff,Linda,180.0,female,1992-11-26,8,Setter,Germany,8.0
+1415,Women,2005,Rote Raben Vilsbiburg,Lazic,Rebecka,185.0,female,1994-09-24,3,Outside spiker,Sweden,3.0
+1415,Women,2005,Rote Raben Vilsbiburg,Mesa Luaces,Liana,184.0,female,1977-12-26,11,Diagonal,Cuba,11.0
+1415,Women,2005,Rote Raben Vilsbiburg,Olivera Capelli,Silvana Elisabet,180.0,female,1984-08-05,1,Outside spiker,Argentina,1.0
+1415,Women,2005,Rote Raben Vilsbiburg,Oosterveld,Quirine,181.0,female,1990-03-05,5,Outside spiker,Netherlands,5.0
+1415,Women,2005,Rote Raben Vilsbiburg,Pogany,Anna,168.0,female,1994-07-21,12,Libero,Germany,12.0
+1415,Women,2005,Rote Raben Vilsbiburg,Richey,Kyla Elizabeth,188.0,female,1989-06-20,7,Outside spiker,Canada,7.0
+1415,Women,2005,Rote Raben Vilsbiburg,Sajdova,Nikol,186.0,female,1988-07-20,4,Middle block,Czechia,4.0
+1415,Women,2005,Rote Raben Vilsbiburg,Stigrot,Lena,182.0,female,1994-12-20,14,Outside spiker,Germany,14.0
+1415,Women,2005,Rote Raben Vilsbiburg,Stoehr,Celin,192.0,female,1993-11-22,6,Middle block,Germany,6.0
+1516,Women,2005,Rote Raben Vilsbiburg,Acosta Alvarado,Roslandy,190.0,female,1992-02-25,9,Outside spiker,Venezuela,9.0
+1516,Women,2005,Rote Raben Vilsbiburg,Charuk,Lucille,188.0,female,1989-08-13,17,Middle block,Canada,17.0
+1516,Women,2005,Rote Raben Vilsbiburg,Elwassimy,Mona,180.0,female,1990-02-07,15,Setter,Germany,15.0
+1516,Women,2005,Rote Raben Vilsbiburg,Knip,Kirsten,173.0,female,1992-09-14,3,Libero,Netherlands,3.0
+1516,Women,2005,Rote Raben Vilsbiburg,Liebchen,Isabelle,173.0,female,1996-10-03,12,Libero,Germany,12.0
+1516,Women,2005,Rote Raben Vilsbiburg,Magdic,Matea,187.0,female,1991-11-16,8,Diagonal,Croatia,8.0
+1516,Women,2005,Rote Raben Vilsbiburg,Markovic,Srna,182.0,female,1996-06-06,6,Outside spiker,Austria,6.0
+1516,Women,2005,Rote Raben Vilsbiburg,Mesa Luaces,Liana,184.0,female,1977-12-26,11,Diagonal,Cuba,11.0
+1516,Women,2005,Rote Raben Vilsbiburg,Oosterveld,Quirine,181.0,female,1990-03-05,5,Outside spiker,Netherlands,5.0
+1516,Women,2005,Rote Raben Vilsbiburg,Sajdova,Nikol,186.0,female,1988-07-20,4,Middle block,Czechia,4.0
+1516,Women,2005,Rote Raben Vilsbiburg,Sims,Emani Brenita-Rea,180.0,female,1992-04-28,1,Middle block,United States,1.0
+1516,Women,2005,Rote Raben Vilsbiburg,Stigrot,Lena,182.0,female,1994-12-20,14,Outside spiker,Germany,14.0
+1516,Women,2005,Rote Raben Vilsbiburg,von Piekartz,Tess,170.0,female,1992-07-24,2,Setter,Netherlands,2.0
+1516,Women,2005,Rote Raben Vilsbiburg,Wezorke,Barbara Roxana,186.0,female,1993-04-12,7,Middle block,Germany,7.0
+1617,Women,2005,Rote Raben Vilsbiburg,Agbortabi,Vanessa,180.0,female,1998-12-04,1,Outside spiker,Germany,1.0
+1617,Women,2005,Rote Raben Vilsbiburg,Burdine,Ruth Keao Anuenue,186.0,female,1983-01-02,8,Outside spiker,United States,8.0
+1617,Women,2005,Rote Raben Vilsbiburg,Elwassimy,Mona,180.0,female,1990-02-07,15,Setter,Germany,15.0
+1617,Women,2005,Rote Raben Vilsbiburg,Felinski,Courtney Reigh,186.0,female,1992-10-04,16,Outside spiker,United States,16.0
+1617,Women,2005,Rote Raben Vilsbiburg,Glaab,Corina,179.0,female,2000-05-25,5,Setter,Germany,5.0
+1617,Women,2005,Rote Raben Vilsbiburg,Hashimoto,Naoko,172.0,female,1984-07-11,17,Setter,Japan,17.0
+1617,Women,2005,Rote Raben Vilsbiburg,Koljonen,Saana,165.0,female,1988-08-22,4,Libero,Finland,4.0
+1617,Women,2005,Rote Raben Vilsbiburg,Lehnen Becker,Kerley Liana,187.0,female,1986-09-20,2,Middle block,Brazil,2.0
+1617,Women,2005,Rote Raben Vilsbiburg,Liebchen,Isabelle,173.0,female,1996-10-03,12,Libero,Germany,12.0
+1617,Women,2005,Rote Raben Vilsbiburg,Markovic,Srna,182.0,female,1996-06-06,6,Outside spiker,Austria,6.0
+1617,Women,2005,Rote Raben Vilsbiburg,Mesa Luaces,Liana,184.0,female,1977-12-26,11,Diagonal,Cuba,11.0
+1617,Women,2005,Rote Raben Vilsbiburg,Plum,Lauren,175.0,female,1992-09-17,3,Setter,United States,3.0
+1617,Women,2005,Rote Raben Vilsbiburg,Stigrot,Lena,182.0,female,1994-12-20,14,Outside spiker,Germany,14.0
+1617,Women,2005,Rote Raben Vilsbiburg,Wagendorp,Marlies,193.0,female,1993-11-10,9,Middle block,Netherlands,9.0
+1617,Women,2005,Rote Raben Vilsbiburg,Wezorke,Barbara Roxana,186.0,female,1993-04-12,7,Middle block,Germany,7.0
+1718,Women,2005,Rote Raben Vilsbiburg,Agbortabi,Vanessa,180.0,female,1998-12-04,1,Outside spiker,Germany,1.0
+1718,Women,2005,Rote Raben Vilsbiburg,Bertalanitsch,Michaela,163.0,female,1991-01-06,6,Libero,Germany,6.0
+1718,Women,2005,Rote Raben Vilsbiburg,Heimrich,Mira,183.0,female,1995-10-23,16,Middle block,Germany,16.0
+1718,Women,2005,Rote Raben Vilsbiburg,Hoetschl,Paula,190.0,female,2000-09-07,7,Outside spiker,Germany,7.0
+1718,Women,2005,Rote Raben Vilsbiburg,Kuenzler,Laura,188.0,female,1996-12-25,5,Outside spiker,Switzerland,5.0
+1718,Women,2005,Rote Raben Vilsbiburg,Pettke,Jennifer,186.0,female,1989-05-29,15,Middle block,Germany,15.0
+1718,Women,2005,Rote Raben Vilsbiburg,Sagardia,Clarisa,175.0,female,1989-06-29,12,Setter,Argentina,12.0
+1718,Women,2005,Rote Raben Vilsbiburg,Schwertmann,Leonie,190.0,female,1994-01-12,18,Middle block,Germany,18.0
+1718,Women,2005,Rote Raben Vilsbiburg,Segovia elles,Dayana Patricia,185.0,female,1996-03-24,3,Diagonal,Colombia,3.0
+1718,Women,2005,Rote Raben Vilsbiburg,Stigrot,Lena,182.0,female,1994-12-20,14,Outside spiker,Germany,14.0
+1718,Women,2005,Rote Raben Vilsbiburg,van de Vyver,Ilka,179.0,female,1993-01-26,8,Setter,Belgium,8.0
+1718,Women,2005,Rote Raben Vilsbiburg,Wagendorp,Marlies,193.0,female,1993-11-10,9,Middle block,Netherlands,9.0
+1718,Women,2005,Rote Raben Vilsbiburg,Zdovc,Anja,185.0,female,1987-08-24,11,Outside spiker,Slovenia,11.0
+1819,Women,2005,Rote Raben Vilsbiburg,Agbortabi,Vanessa,180.0,female,1998-12-04,1,Outside spiker,Germany,1.0
+1819,Women,2005,Rote Raben Vilsbiburg,Busch,Amelie,180.0,female,2002-10-23,16,Outside spiker,Germany,16.0
+1819,Women,2005,Rote Raben Vilsbiburg,Dancheva,Maria,195.0,female,1995-12-04,12,Diagonal,Bulgaria,12.0
+1819,Women,2005,Rote Raben Vilsbiburg,Duerr,Lenka,170.0,female,1990-12-10,4,Libero,Germany,4.0
+1819,Women,2005,Rote Raben Vilsbiburg,Glaab,Corina,179.0,female,2000-05-25,6,Setter,Germany,6.0
+1819,Women,2005,Rote Raben Vilsbiburg,Hoetschl,Paula,190.0,female,2000-09-07,14,Outside spiker,Germany,14.0
+1819,Women,2005,Rote Raben Vilsbiburg,Janetzke,Naomi,187.0,female,2001-08-15,17,Outside spiker,Germany,17.0
+1819,Women,2005,Rote Raben Vilsbiburg,Kummer,Annika,162.0,female,1992-08-08,11,Libero,Germany,11.0
+1819,Women,2005,Rote Raben Vilsbiburg,Kuenzler,Laura,188.0,female,1996-12-25,5,Outside spiker,Switzerland,5.0
+1819,Women,2005,Rote Raben Vilsbiburg,Nagy,Eszter,187.0,female,1991-11-01,3,Middle block,Hungary,3.0
+1819,Women,2005,Rote Raben Vilsbiburg,Pettke,Jennifer,186.0,female,1989-05-29,15,Middle block,Germany,15.0
+1819,Women,2005,Rote Raben Vilsbiburg,Przybylak,Daria,185.0,female,1991-08-30,2,Outside spiker,Poland,2.0
+1819,Women,2005,Rote Raben Vilsbiburg,Scholten,Iris,191.0,female,1999-11-15,7,Diagonal,Netherlands,7.0
+1819,Women,2005,Rote Raben Vilsbiburg,Schoot,Myrthe Mathilde,183.0,female,1988-08-29,9,Libero,Netherlands,9.0
+1819,Women,2005,Rote Raben Vilsbiburg,Schwertmann,Leonie,190.0,female,1994-01-12,18,Middle block,Germany,18.0
+1819,Women,2005,Rote Raben Vilsbiburg,Thompson,Channon,182.0,female,1994-03-29,13,Outside spiker,Trinidad & Tobago,13.0
+1819,Women,2005,Rote Raben Vilsbiburg,van de Vyver,Ilka,179.0,female,1993-01-26,8,Setter,Belgium,8.0
+1314,Women,2006,SC Potsdam,Bognar,Kristina,177.0,female,1983-03-03,13,Setter,Germany,13.0
+1314,Women,2006,SC Potsdam,Cutuk,Bernarda,186.0,female,1990-12-22,14,Middle block,Croatia,14.0
+1314,Women,2006,SC Potsdam,Dreblow,Sophie,168.0,female,1998-07-09,11,Libero,Germany,11.0
+1314,Women,2006,SC Potsdam,Doerfler,Josephine,193.0,female,1987-07-09,12,Outside spiker,Germany,12.0
+1314,Women,2006,SC Potsdam,Engel,Doreen,179.0,female,1982-02-08,10,Setter,Germany,10.0
+1314,Women,2006,SC Potsdam,Fresco,Lucia Daniela,193.0,female,1991-05-14,5,Diagonal,Argentina,5.0
+1314,Women,2006,SC Potsdam,Gruending,Lisa,185.0,female,1991-12-02,9,Diagonal,Germany,9.0
+1314,Women,2006,SC Potsdam,Jelic,Nikolina,190.0,female,1991-11-09,8,Outside spiker,Croatia,8.0
+1314,Women,2006,SC Potsdam,Muri,Elisa,178.0,female,1984-06-10,7,Setter,Italy,7.0
+1314,Women,2006,SC Potsdam,Murray Methot,Marie-Pier,185.0,female,1986-03-23,17,Diagonal,Canada,17.0
+1314,Women,2006,SC Potsdam,Page,Brittney,184.0,female,1984-02-04,15,Diagonal,Canada,15.0
+1314,Women,2006,SC Potsdam,Radosova,Nikola,186.0,female,1992-05-03,16,Outside spiker,Slovakia,16.0
+1314,Women,2006,SC Potsdam,Radzuweit,Kathy,196.0,female,1982-03-02,2,Middle block,Germany,2.0
+1314,Women,2006,SC Potsdam,Rivero,Jessica,180.0,female,1995-03-15,18,Outside spiker,Spain,18.0
+1314,Women,2006,SC Potsdam,Ruehl,Lisa,178.0,female,1989-09-22,3,Libero,Germany,3.0
+1314,Women,2006,SC Potsdam,Sajdova,Nikol,186.0,female,1988-07-20,4,Middle block,Czechia,4.0
+1415,Women,2006,SC Potsdam,Carraro,Giulia,175.0,female,1994-07-25,1,Setter,Italy,1.0
+1415,Women,2006,SC Potsdam,Cutuk,Bernarda,186.0,female,1990-12-22,7,Middle block,Croatia,7.0
+1415,Women,2006,SC Potsdam,Dreblow,Sophie,168.0,female,1998-07-09,11,Universal,Germany,11.0
+1415,Women,2006,SC Potsdam,Engel,Doreen,179.0,female,1982-02-08,10,Setter,Germany,10.0
+1415,Women,2006,SC Potsdam,Gruending,Lisa,185.0,female,1991-12-02,9,Outside spiker,Germany,9.0
+1415,Women,2006,SC Potsdam,Klamke,Antonia,188.0,female,1990-04-29,5,Middle block,Germany,5.0
+1415,Women,2006,SC Potsdam,Kvapilova,Michala,180.0,female,1990-02-08,4,Outside spiker,Czechia,4.0
+1415,Women,2006,SC Potsdam,Montano,Ivonne Daniela,187.0,female,1995-11-12,17,Diagonal,Colombia,17.0
+1415,Women,2006,SC Potsdam,Radosova,Nikola,186.0,female,1992-05-03,12,Outside spiker,Slovakia,12.0
+1415,Women,2006,SC Potsdam,Radzuweit,Kathy,196.0,female,1982-03-02,2,Middle block,Germany,2.0
+1415,Women,2006,SC Potsdam,Rivero,Jessica,180.0,female,1995-03-15,18,Outside spiker,Spain,18.0
+1415,Women,2006,SC Potsdam,Ruehl,Lisa,178.0,female,1989-09-22,3,Libero,Germany,3.0
+1415,Women,2006,SC Potsdam,Sainz,Lizbeth Seomara,178.0,female,1995-12-14,16,Outside spiker,Mexico,16.0
+1415,Women,2006,SC Potsdam,Schaus,Nadja,188.0,female,1984-11-08,6,Diagonal,Germany,6.0
+1415,Women,2006,SC Potsdam,Senger,Lisa,176.0,female,1998-07-06,8,Setter,Germany,8.0
+1415,Women,2006,SC Potsdam,Sydlik,Luisa,175.0,female,1996-12-24,14,Setter,Germany,14.0
+1516,Women,2006,SC Potsdam,Arrechea,Diana,178.0,female,1994-09-14,2,Outside spiker,Colombia,2.0
+1516,Women,2006,SC Potsdam,Dreblow,Sophie,168.0,female,1998-07-09,11,Libero,Germany,11.0
+1516,Women,2006,SC Potsdam,Drewniok,Kimberly,188.0,female,1997-08-11,4,Diagonal,Germany,4.0
+1516,Women,2006,SC Potsdam,Gruending,Lisa,185.0,female,1991-12-02,9,Middle block,Germany,9.0
+1516,Women,2006,SC Potsdam,Hippe,Saskia,186.0,female,1991-01-16,13,Diagonal,Germany,13.0
+1516,Women,2006,SC Potsdam,Hoelzig,Annegret,183.0,female,1997-05-29,8,Outside spiker,Germany,8.0
+1516,Women,2006,SC Potsdam,Katic,Marina,183.0,female,1983-10-01,5,Setter,Croatia,5.0
+1516,Women,2006,SC Potsdam,Mapeli Burchardt,Regina,186.0,female,1983-07-01,15,Outside spiker,Germany,15.0
+1516,Women,2006,SC Potsdam,Montano,Ivonne Daniela,187.0,female,1995-11-12,12,Middle block,Colombia,12.0
+1516,Women,2006,SC Potsdam,Radzuweit,Kathy,196.0,female,1982-03-02,16,Middle block,Germany,16.0
+1516,Women,2006,SC Potsdam,Roani,Manuela,186.0,female,1983-02-13,14,Outside spiker,Italy,14.0
+1516,Women,2006,SC Potsdam,Ruehl,Lisa,178.0,female,1989-09-22,3,Libero,Germany,3.0
+1516,Women,2006,SC Potsdam,Schaus,Nadja,188.0,female,1984-11-08,6,Diagonal,Germany,6.0
+1516,Women,2006,SC Potsdam,Silge,Wiebke,190.0,female,1996-07-16,10,Middle block,Germany,10.0
+1516,Women,2006,SC Potsdam,Sydlik,Luisa,175.0,female,1996-12-24,7,Setter,Germany,7.0
+1617,Women,2006,SC Potsdam,Acosta Alvarado,Roslandy,190.0,female,1992-02-25,17,Outside spiker,Venezuela,17.0
+1617,Women,2006,SC Potsdam,Dreblow,Sophie,168.0,female,1998-07-09,11,Libero,Germany,11.0
+1617,Women,2006,SC Potsdam,Drewniok,Kimberly,188.0,female,1997-08-11,8,Diagonal,Germany,8.0
+1617,Women,2006,SC Potsdam,Drpa,Marta,192.0,female,1989-04-20,1,Diagonal,Serbia,1.0
+1617,Women,2006,SC Potsdam,Gruending,Lisa,185.0,female,1991-12-02,9,Middle block,Germany,9.0
+1617,Women,2006,SC Potsdam,Hoelzig,Annegret,183.0,female,1997-05-29,10,Outside spiker,Germany,10.0
+1617,Women,2006,SC Potsdam,Imoudu,Denise,181.0,female,1995-12-14,14,Setter,Germany,14.0
+1617,Women,2006,SC Potsdam,Kecman,Ljubica,180.0,female,1993-12-10,15,Outside spiker,Serbia,15.0
+1617,Women,2006,SC Potsdam,Knauf,Ann-Marie,175.0,female,1992-11-20,6,Setter,Germany,6.0
+1617,Women,2006,SC Potsdam,Ruehl,Lisa,178.0,female,1989-09-22,3,Libero,Germany,3.0
+1617,Women,2006,SC Potsdam,Silge,Wiebke,190.0,female,1996-07-16,12,Middle block,Germany,12.0
+1617,Women,2006,SC Potsdam,Svobodnikova,Ivona,191.0,female,1991-04-01,5,Middle block,Czechia,5.0
+1718,Women,2006,SC Potsdam,Cikiriz,Natasa,194.0,female,1995-06-26,18,Outside spiker,Serbia,18.0
+1718,Women,2006,SC Potsdam,Dreblow,Sophie,168.0,female,1998-07-09,11,Libero,Germany,11.0
+1718,Women,2006,SC Potsdam,Drpa,Marta,192.0,female,1989-04-20,1,Diagonal,Serbia,1.0
+1718,Women,2006,SC Potsdam,Gruending,Lisa,185.0,female,1991-12-02,9,Middle block,Germany,9.0
+1718,Women,2006,SC Potsdam,Hoelzig,Annegret,183.0,female,1997-05-29,10,Outside spiker,Germany,10.0
+1718,Women,2006,SC Potsdam,Imoudu,Denise,181.0,female,1995-12-14,14,Setter,Germany,14.0
+1718,Women,2006,SC Potsdam,Kecman,Ljubica,180.0,female,1993-12-10,15,Outside spiker,Serbia,15.0
+1718,Women,2006,SC Potsdam,Knauf,Ann-Marie,175.0,female,1992-11-20,6,Setter,Germany,6.0
+1718,Women,2006,SC Potsdam,Stautz,Antonia,180.0,female,1993-12-15,8,Outside spiker,Germany,8.0
+1718,Women,2006,SC Potsdam,Svobodnikova,Ivona,191.0,female,1991-04-01,5,Middle block,Czechia,5.0
+1718,Women,2006,SC Potsdam,Weske,Emilia,188.0,female,2001-03-26,7,Diagonal,Germany,7.0
+1718,Women,2006,SC Potsdam,Wilczek,Natalie,185.0,female,2000-03-09,3,Middle block,Germany,3.0
+1819,Women,2006,SC Potsdam,Chausheva,Silvana,186.0,female,1995-05-19,18,Outside spiker,Bulgaria,18.0
+1819,Women,2006,SC Potsdam,Dannemiller,Alexa Marie,178.0,female,1993-06-09,5,Setter,United States,5.0
+1819,Women,2006,SC Potsdam,Drpa,Marta,192.0,female,1989-04-20,1,Diagonal,Serbia,1.0
+1819,Women,2006,SC Potsdam,Grant,Nia,188.0,female,1993-05-08,7,Middle block,United States,7.0
+1819,Women,2006,SC Potsdam,Gryka,Magdalena,176.0,female,1994-03-28,9,Setter,Germany,9.0
+1819,Women,2006,SC Potsdam,Hodanova,Eva,189.0,female,1993-12-18,12,Outside spiker,Czechia,12.0
+1819,Women,2006,SC Potsdam,Hoelzig,Annegret,183.0,female,1997-05-29,10,Outside spiker,Germany,10.0
+1819,Women,2006,SC Potsdam,Jegdic,Aleksandra,167.0,female,1994-10-09,15,Libero,Serbia,15.0
+1819,Women,2006,SC Potsdam,Kauffmann,Frances,169.0,female,2000-08-14,13,Libero,Germany,13.0
+1819,Women,2006,SC Potsdam,Stautz,Antonia,180.0,female,1993-12-15,6,Outside spiker,Germany,6.0
+1819,Women,2006,SC Potsdam,Szaboova,Sandra,190.0,female,1996-07-22,14,Middle block,Slovakia,14.0
+1819,Women,2006,SC Potsdam,Weske,Emilia,188.0,female,2001-03-26,11,Diagonal,Germany,11.0
+1819,Women,2006,SC Potsdam,Wilczek,Natalie,185.0,female,2000-03-09,3,Middle block,Germany,3.0
+1314,Women,2007,SSC Schwerin,Aulenbrock,Carina,191.0,female,1994-09-22,11,Outside spiker,Germany,11.0
+1314,Women,2007,SSC Schwerin,Brandt,Anja,193.0,female,1990-02-15,12,Middle block,Germany,12.0
+1314,Women,2007,SSC Schwerin,Carli,Janine,177.0,female,1991-09-19,13,Libero,Germany,13.0
+1314,Women,2007,SSC Schwerin,Hippe,Saskia,186.0,female,1991-01-16,5,Outside spiker,Germany,5.0
+1314,Women,2007,SSC Schwerin,Hroncekova,Veronika,190.0,female,1990-01-02,17,Middle block,Slovakia,17.0
+1314,Women,2007,SSC Schwerin,Imoudu,Denise,181.0,female,1995-12-14,7,Setter,Germany,7.0
+1314,Women,2007,SSC Schwerin,Isailovic,Ivana,185.0,female,1986-01-01,9,Middle block,Serbia,9.0
+1314,Women,2007,SSC Schwerin,Joachim,Tanja,182.0,female,1992-10-29,2,Setter,Germany,2.0
+1314,Women,2007,SSC Schwerin,Moma Bassoko,Laetitia Crescence,180.0,female,1993-10-09,14,Outside spiker,Cameroon,14.0
+1314,Women,2007,SSC Schwerin,Mudritskaya,Tatyana,197.0,female,1985-01-17,18,Outside spiker,Kazakhstan,18.0
+1314,Women,2007,SSC Schwerin,Pihlajamaeki,Laura,194.0,female,1990-08-15,3,Middle block,Finland,3.0
+1314,Women,2007,SSC Schwerin,Poll,Jana Franziska,185.0,female,1988-05-07,8,Outside spiker,Germany,8.0
+1314,Women,2007,SSC Schwerin,Radenkovic,Danica,184.0,female,1992-10-09,10,Setter,Serbia,10.0
+1314,Women,2007,SSC Schwerin,Stein,Lisa,185.0,female,1994-01-12,,Outside spiker,Germany,
+1314,Women,2007,SSC Schwerin,Vilponen,Pauliina,190.0,female,1992-02-20,4,Outside spiker,Finland,4.0
+1415,Women,2007,SSC Schwerin,Aulenbrock,Carina,191.0,female,1994-09-22,11,Diagonal,Germany,11.0
+1415,Women,2007,SSC Schwerin,Belien,Yvon,188.0,female,1993-12-28,3,Middle block,Netherlands,3.0
+1415,Women,2007,SSC Schwerin,Brandt,Anja,193.0,female,1990-02-15,12,Middle block,Germany,12.0
+1415,Women,2007,SSC Schwerin,Carli,Janine,177.0,female,1991-09-19,13,Libero,Germany,13.0
+1415,Women,2007,SSC Schwerin,Emonts,Laura,180.0,female,1991-04-04,14,Outside spiker,Germany,14.0
+1415,Women,2007,SSC Schwerin,Geerties,Jennifer,185.0,female,1994-04-05,6,Outside spiker,Germany,6.0
+1415,Women,2007,SSC Schwerin,Golla,Stefanie,172.0,female,1985-09-18,18,Libero,Germany,18.0
+1415,Women,2007,SSC Schwerin,Hippe,Saskia,186.0,female,1991-01-16,17,Diagonal,Germany,17.0
+1415,Women,2007,SSC Schwerin,Holstein,Marie,190.0,female,1997-04-15,15,Diagonal,Germany,15.0
+1415,Women,2007,SSC Schwerin,Hroncekova,Veronika,190.0,female,1990-01-02,4,Middle block,Slovakia,4.0
+1415,Women,2007,SSC Schwerin,Imoudu,Denise,181.0,female,1995-12-14,7,Setter,Germany,7.0
+1415,Women,2007,SSC Schwerin,Krause,Sabrina,197.0,female,1998-12-18,16,Middle block,Germany,16.0
+1415,Women,2007,SSC Schwerin,Koeppen,Gina,186.0,female,1998-12-04,2,Outside spiker,Germany,2.0
+1415,Women,2007,SSC Schwerin,Lohmann,Elisa,174.0,female,1998-07-22,9,Outside spiker,Germany,9.0
+1415,Women,2007,SSC Schwerin,Nenova,Diana,180.0,female,1985-04-16,10,Setter,Bulgaria,10.0
+1415,Women,2007,SSC Schwerin,Poll,Jana Franziska,185.0,female,1988-05-07,8,Outside spiker,Germany,8.0
+1415,Women,2007,SSC Schwerin,Sloeetjes,Lonneke,190.0,female,1990-11-15,5,Diagonal,Netherlands,5.0
+1415,Women,2007,SSC Schwerin,Souza Ziegler,Lousiane Penha,177.0,female,1985-07-30,1,Outside spiker,Brazil,1.0
+1516,Women,2007,SSC Schwerin,Blom,Alice,179.0,female,1980-04-07,15,Outside spiker,Netherlands,15.0
+1516,Women,2007,SSC Schwerin,Brandt,Anja,193.0,female,1990-02-15,12,Middle block,Germany,12.0
+1516,Women,2007,SSC Schwerin,Carli,Janine,177.0,female,1991-09-19,13,Libero,Germany,13.0
+1516,Women,2007,SSC Schwerin,Gebhardt,Ariel,186.0,female,1991-08-01,8,Outside spiker,United States,8.0
+1516,Women,2007,SSC Schwerin,Geerties,Jennifer,185.0,female,1994-04-05,6,Outside spiker,Germany,6.0
+1516,Women,2007,SSC Schwerin,Golla,Stefanie,172.0,female,1985-09-18,18,Libero,Germany,18.0
+1516,Women,2007,SSC Schwerin,Hanke,Denise,180.0,female,1989-08-31,10,Setter,Germany,10.0
+1516,Women,2007,SSC Schwerin,Holstein,Marie,190.0,female,1997-04-15,17,Diagonal,Germany,17.0
+1516,Women,2007,SSC Schwerin,Hroncekova,Veronika,190.0,female,1990-01-02,4,Middle block,Slovakia,4.0
+1516,Women,2007,SSC Schwerin,Joachim,Tanja,182.0,female,1992-10-29,2,Setter,Germany,2.0
+1516,Women,2007,SSC Schwerin,Krause,Sabrina,197.0,female,1998-12-18,5,Middle block,Germany,5.0
+1516,Women,2007,SSC Schwerin,Koeppen,Gina,186.0,female,1998-12-04,7,Outside spiker,Germany,7.0
+1516,Women,2007,SSC Schwerin,Lohmann,Elisa,174.0,female,1998-07-22,14,Outside spiker,Germany,14.0
+1516,Women,2007,SSC Schwerin,Love,Tabitha,196.0,female,1991-09-11,9,Diagonal,Canada,9.0
+1516,Women,2007,SSC Schwerin,Schoelzel,Marie,190.0,female,1997-08-01,16,Middle block,Germany,16.0
+1516,Women,2007,SSC Schwerin,Souza Ziegler,Lousiane Penha,177.0,female,1985-07-30,1,Outside spiker,Brazil,1.0
+1516,Women,2007,SSC Schwerin,Wessely,Michaela,179.0,female,1995-11-01,11,Setter,Germany,11.0
+1617,Women,2007,SSC Schwerin,Barfield,Lauren,195.0,female,1990-03-15,11,Middle block,United States,11.0
+1617,Women,2007,SSC Schwerin,Brandt,Anja,193.0,female,1990-02-15,12,Middle block,Germany,12.0
+1617,Women,2007,SSC Schwerin,Dannemiller,Alexa Marie,178.0,female,1993-06-09,15,Setter,United States,15.0
+1617,Women,2007,SSC Schwerin,Duerr,Lenka,170.0,female,1990-12-10,2,Libero,Germany,2.0
+1617,Women,2007,SSC Schwerin,Fromm,Maren,186.0,female,1986-07-10,4,Outside spiker,Germany,4.0
+1617,Women,2007,SSC Schwerin,Gebhardt,Ariel,186.0,female,1991-08-01,8,Outside spiker,United States,8.0
+1617,Women,2007,SSC Schwerin,Geerties,Jennifer,185.0,female,1994-04-05,6,Outside spiker,Germany,6.0
+1617,Women,2007,SSC Schwerin,Hanke,Denise,180.0,female,1989-08-31,10,Setter,Germany,10.0
+1617,Women,2007,SSC Schwerin,Krause,Sabrina,197.0,female,1998-12-18,5,Middle block,Germany,5.0
+1617,Women,2007,SSC Schwerin,Kurtze,Laura,176.0,female,1998-07-23,,Outside spiker,Germany,
+1617,Women,2007,SSC Schwerin,Lippmann,Louisa,191.0,female,1994-09-23,3,Diagonal,Germany,3.0
+1617,Women,2007,SSC Schwerin,Lohmann,Elisa,174.0,female,1998-07-22,14,Outside spiker,Germany,14.0
+1617,Women,2007,SSC Schwerin,Schoelzel,Marie,190.0,female,1997-08-01,16,Middle block,Germany,16.0
+1617,Women,2007,SSC Schwerin,Souza Ziegler,Lousiane Penha,177.0,female,1985-07-30,1,Outside spiker,Brazil,1.0
+1617,Women,2007,SSC Schwerin,Tapp,Hannah,190.0,female,1995-06-21,9,Middle block,United States,9.0
+1718,Women,2007,SSC Schwerin,Alanko,Kaisa,174.0,female,1993-01-03,8,Setter,Finland,8.0
+1718,Women,2007,SSC Schwerin,Barfield,Lauren,195.0,female,1990-03-15,12,Middle block,United States,12.0
+1718,Women,2007,SSC Schwerin,Bettendorf,Martenne Julia,185.0,female,1994-04-01,2,Diagonal,United States,2.0
+1718,Women,2007,SSC Schwerin,Carocci,Luna Veronica,174.0,female,1988-07-10,7,Libero,Italy,7.0
+1718,Women,2007,SSC Schwerin,Dumancic,Beta,189.0,female,1991-03-20,11,Middle block,Croatia,11.0
+1718,Women,2007,SSC Schwerin,Geerties,Jennifer,185.0,female,1994-04-05,6,Outside spiker,Germany,6.0
+1718,Women,2007,SSC Schwerin,Hanke,Denise,180.0,female,1989-08-31,10,Setter,Germany,10.0
+1718,Women,2007,SSC Schwerin,Krause,Sabrina,197.0,female,1998-12-18,5,Middle block,Germany,5.0
+1718,Women,2007,SSC Schwerin,Lippmann,Louisa,191.0,female,1994-09-23,3,Diagonal,Germany,3.0
+1718,Women,2007,SSC Schwerin,Lohmann,Elisa,174.0,female,1998-07-22,14,Libero,Germany,14.0
+1718,Women,2007,SSC Schwerin,Oluic,Jelena,183.0,female,1994-01-15,15,Outside spiker,Serbia,15.0
+1718,Women,2007,SSC Schwerin,Schoelzel,Marie,190.0,female,1997-08-01,16,Middle block,Germany,16.0
+1718,Women,2007,SSC Schwerin,Skinner,Aisha,181.0,female,1999-04-16,9,Diagonal,Germany,9.0
+1718,Women,2007,SSC Schwerin,Szakmary,Greta,183.0,female,1991-12-31,1,Outside spiker,Hungary,1.0
+1819,Women,2007,SSC Schwerin,Adams,Mckenzie,192.0,female,1992-02-13,13,Outside spiker,United States,13.0
+1819,Women,2007,SSC Schwerin,Ambrosius,Lea,192.0,female,2000-05-22,18,Middle block,Germany,18.0
+1819,Women,2007,SSC Schwerin,Barfield,Lauren,195.0,female,1990-03-15,12,Middle block,United States,12.0
+1819,Women,2007,SSC Schwerin,Bongaerts,Britt,185.0,female,1996-11-03,7,Setter,Netherlands,7.0
+1819,Women,2007,SSC Schwerin,Doshkova,Ralina,188.0,female,1995-06-07,3,Diagonal,Bulgaria,3.0
+1819,Women,2007,SSC Schwerin,Drewniok,Kimberly,188.0,female,1997-08-11,8,Diagonal,Germany,8.0
+1819,Women,2007,SSC Schwerin,Dumancic,Beta,189.0,female,1991-03-20,11,Middle block,Croatia,11.0
+1819,Women,2007,SSC Schwerin,Fromm,Maren,186.0,female,1986-07-10,2,Outside spiker,Germany,2.0
+1819,Women,2007,SSC Schwerin,Geerties,Jennifer,185.0,female,1994-04-05,6,Outside spiker,Germany,6.0
+1819,Women,2007,SSC Schwerin,Hanke,Denise,180.0,female,1989-08-31,10,Setter,Germany,10.0
+1819,Women,2007,SSC Schwerin,Lohmann,Elisa,174.0,female,1998-07-22,14,Libero,Germany,14.0
+1819,Women,2007,SSC Schwerin,Pogany,Anna,168.0,female,1994-07-21,4,Libero,Germany,4.0
+1819,Women,2007,SSC Schwerin,Polder,Tessa,189.0,female,1997-10-10,5,Middle block,Netherlands,5.0
+1819,Women,2007,SSC Schwerin,Sakamoto,Nanaka,176.0,female,1996-09-06,9,Outside spiker,Japan,9.0
+1819,Women,2007,SSC Schwerin,Szakmary,Greta,183.0,female,1991-12-31,1,Outside spiker,Hungary,1.0
+1314,Women,2008,USC Muenster,Bathen,Ines,172.0,female,1990-08-27,17,Outside spiker,Germany,17.0
+1314,Women,2008,USC Muenster,Benson,Ashley,190.0,female,1989-02-20,10,Middle block,United States,10.0
+1314,Women,2008,USC Muenster,Doerendahl,Linda,176.0,female,1984-07-20,14,Libero,Germany,14.0
+1314,Women,2008,USC Muenster,Fuchs,Sina,180.0,female,1992-09-28,6,Outside spiker,Germany,6.0
+1314,Women,2008,USC Muenster,Kemmsies,Irina,181.0,female,1996-05-14,2,Setter,Germany,2.0
+1314,Women,2008,USC Muenster,Lippmann,Louisa,191.0,female,1994-09-23,5,Universal,Germany,5.0
+1314,Women,2008,USC Muenster,Ossowski,Alisha,174.0,female,1995-03-26,9,Outside spiker,Germany,9.0
+1314,Women,2008,USC Muenster,Petrausch,Sarah,186.0,female,1990-07-31,7,Outside spiker,Germany,7.0
+1314,Women,2008,USC Muenster,Schaefer,Julia,188.0,female,1996-07-03,16,Universal,Germany,16.0
+1314,Women,2008,USC Muenster,Schaus,Nadja,188.0,female,1984-11-08,3,Universal,Germany,3.0
+1314,Women,2008,USC Muenster,Schwertmann,Leonie,190.0,female,1994-01-12,18,Middle block,Germany,18.0
+1314,Women,2008,USC Muenster,Silge,Wiebke,190.0,female,1996-07-16,12,Universal,Germany,12.0
+1314,Women,2008,USC Muenster,von Piekartz,Tess,170.0,female,1992-07-24,4,Setter,Netherlands,4.0
+1415,Women,2008,USC Muenster,Bathen,Ines,172.0,female,1990-08-27,17,Outside spiker,Germany,17.0
+1415,Women,2008,USC Muenster,Benson,Ashley,190.0,female,1989-02-20,10,Middle block,United States,10.0
+1415,Women,2008,USC Muenster,Doerendahl,Linda,176.0,female,1984-07-20,14,Libero,Germany,14.0
+1415,Women,2008,USC Muenster,Fuchs,Sina,180.0,female,1992-09-28,6,Outside spiker,Germany,6.0
+1415,Women,2008,USC Muenster,Kemmsies,Irina,181.0,female,1996-05-14,2,Setter,Germany,2.0
+1415,Women,2008,USC Muenster,Ossowski,Alisha,174.0,female,1995-03-26,9,Outside spiker,Germany,9.0
+1415,Women,2008,USC Muenster,Petrausch,Sarah,186.0,female,1990-07-31,7,Outside spiker,Germany,7.0
+1415,Women,2008,USC Muenster,Schaefer,Julia,188.0,female,1996-07-03,16,Outside spiker,Germany,16.0
+1415,Women,2008,USC Muenster,Schwertmann,Leonie,190.0,female,1994-01-12,18,Middle block,Germany,18.0
+1415,Women,2008,USC Muenster,Silge,Wiebke,190.0,female,1996-07-16,12,Middle block,Germany,12.0
+1415,Women,2008,USC Muenster,von Piekartz,Tess,170.0,female,1992-07-24,4,Setter,Netherlands,4.0
+1516,Women,2008,USC Muenster,Bathen,Ines,172.0,female,1990-08-27,17,Outside spiker,Germany,17.0
+1516,Women,2008,USC Muenster,Benson,Ashley,190.0,female,1989-02-20,10,Middle block,United States,10.0
+1516,Women,2008,USC Muenster,Doerendahl,Linda,176.0,female,1984-07-20,14,Libero,Germany,14.0
+1516,Women,2008,USC Muenster,Fuchs,Sina,180.0,female,1992-09-28,6,Outside spiker,Germany,6.0
+1516,Women,2008,USC Muenster,Kemmsies,Irina,181.0,female,1996-05-14,2,Setter,Germany,2.0
+1516,Women,2008,USC Muenster,Kvapilova,Michala,180.0,female,1990-02-08,4,Diagonal,Czechia,4.0
+1516,Women,2008,USC Muenster,Lakovi?,Andrea,185.0,female,1989-02-20,1,Middle block,Montenegro,1.0
+1516,Women,2008,USC Muenster,Leweling,Pia,184.0,female,1998-01-04,7,Outside spiker,Germany,7.0
+1516,Women,2008,USC Muenster,Orthmann,Hanna,188.0,female,1998-10-03,12,Outside spiker,Germany,12.0
+1516,Women,2008,USC Muenster,Ossowski,Alisha,174.0,female,1995-03-26,9,Outside spiker,Germany,9.0
+1516,Women,2008,USC Muenster,Petrausch,Sarah,186.0,female,1990-07-31,13,Outside spiker,Germany,13.0
+1516,Women,2008,USC Muenster,Schaefer,Julia,188.0,female,1996-07-03,16,Outside spiker,Germany,16.0
+1516,Women,2008,USC Muenster,Schwertmann,Leonie,190.0,female,1994-01-12,18,Middle block,Germany,18.0
+1516,Women,2008,USC Muenster,Schaefer,Malin,183.0,female,1998-12-04,15,Setter,Germany,15.0
+1516,Women,2008,USC Muenster,Sa,Amanda,179.0,female,1983-06-25,5,Setter,Brazil,5.0
+1617,Women,2008,USC Muenster,Alanko,Kaisa,174.0,female,1993-01-03,10,Setter,Finland,10.0
+1617,Women,2008,USC Muenster,Anisova,Bogdana,190.0,female,1992-03-16,7,Outside spiker,Ukraine,7.0
+1617,Women,2008,USC Muenster,Bathen,Ines,172.0,female,1990-08-27,17,Outside spiker,Germany,17.0
+1617,Women,2008,USC Muenster,Bongaerts,Britt,185.0,female,1996-11-03,4,Setter,Netherlands,4.0
+1617,Women,2008,USC Muenster,Doerendahl,Linda,176.0,female,1984-07-20,14,Libero,Germany,14.0
+1617,Women,2008,USC Muenster,Fuchs,Sina,180.0,female,1992-09-28,6,Outside spiker,Germany,6.0
+1617,Women,2008,USC Muenster,Keddy,Jennifer,190.0,female,1991-10-28,8,Middle block,United States,8.0
+1617,Women,2008,USC Muenster,Langgemach,Juliane,186.0,female,1994-11-06,9,Middle block,Germany,9.0
+1617,Women,2008,USC Muenster,Orthmann,Hanna,188.0,female,1998-10-03,12,Outside spiker,Germany,12.0
+1617,Women,2008,USC Muenster,Schwertmann,Leonie,190.0,female,1994-01-12,18,Middle block,Germany,18.0
+1617,Women,2008,USC Muenster,Wilson,Erica,182.0,female,1991-05-26,11,Diagonal,United States,11.0
+1718,Women,2008,USC Muenster,Alsmeier,Lina,189.0,female,2000-06-29,8,Universal,Germany,8.0
+1718,Women,2008,USC Muenster,Bathen,Ines,172.0,female,1990-08-27,17,Outside spiker,Germany,17.0
+1718,Women,2008,USC Muenster,Doerendahl,Linda,176.0,female,1984-07-20,18,Libero,Germany,18.0
+1718,Women,2008,USC Muenster,Hindriksen,Mareike,182.0,female,1987-11-14,2,Setter,Germany,2.0
+1718,Women,2008,USC Muenster,Hoenhorst,Chiara,188.0,female,1997-01-09,15,Outside spiker,Germany,15.0
+1718,Women,2008,USC Muenster,Kastrup,Liza,185.0,female,1999-10-05,5,Outside spiker,Germany,5.0
+1718,Women,2008,USC Muenster,Keller,Luisa,183.0,female,2001-08-25,3,Outside spiker,Germany,3.0
+1718,Women,2008,USC Muenster,Kylmaeaho,Katja,172.0,female,1994-04-21,13,Setter,Finland,13.0
+1718,Women,2008,USC Muenster,Laakkonen,Roosa,193.0,female,1994-06-04,6,Middle block,Finland,6.0
+1718,Women,2008,USC Muenster,Langgemach,Juliane,186.0,female,1994-11-06,9,Middle block,Germany,9.0
+1718,Women,2008,USC Muenster,Lohuis,Juliet,190.0,female,1996-09-10,4,Middle block,Netherlands,4.0
+1718,Women,2008,USC Muenster,Schaus,Nadja,188.0,female,1984-11-08,12,Outside spiker,Germany,12.0
+1718,Women,2008,USC Muenster,Thomsen,Lisa,172.0,female,1985-08-20,1,Libero,Germany,1.0
+1718,Women,2008,USC Muenster,Vanjak,Ivana,190.0,female,1995-05-30,7,Outside spiker,Germany,7.0
+1718,Women,2008,USC Muenster,Vedder,Lena,186.0,female,1995-08-12,14,Outside spiker,Germany,14.0
+1819,Women,2008,USC Muenster,Alsmeier,Lina,189.0,female,2000-06-29,8,Universal,Germany,8.0
+1819,Women,2008,USC Muenster,Bock,Linda,180.0,female,2000-05-27,12,Libero,Germany,12.0
+1819,Women,2008,USC Muenster,Brown,Kazmiere Telonna,193.0,female,1996-10-17,10,Middle block,United States,10.0
+1819,Women,2008,USC Muenster,Enning,Svenja,178.0,female,1999-10-24,11,Setter,Germany,11.0
+1819,Women,2008,USC Muenster,Haferkamp,Katharina Maria,182.0,female,2002-02-12,13,Middle block,Germany,13.0
+1819,Women,2008,USC Muenster,Hindriksen,Mareike,182.0,female,1987-11-14,2,Setter,Germany,2.0
+1819,Women,2008,USC Muenster,Hoenhorst,Chiara,188.0,female,1997-01-09,15,Outside spiker,Germany,15.0
+1819,Women,2008,USC Muenster,Kastrup,Liza,185.0,female,1999-10-05,5,Diagonal,Germany,5.0
+1819,Women,2008,USC Muenster,Keller,Luisa,183.0,female,2001-08-25,3,Outside spiker,Germany,3.0
+1819,Women,2008,USC Muenster,Langgemach,Juliane,186.0,female,1994-11-06,9,Middle block,Germany,9.0
+1819,Women,2008,USC Muenster,Lohuis,Juliet,190.0,female,1996-09-10,4,Middle block,Netherlands,4.0
+1819,Women,2008,USC Muenster,Mersmann,Teresa,184.0,female,1990-04-18,6,Outside spiker,Germany,6.0
+1819,Women,2008,USC Muenster,Schoelzel,Marie,190.0,female,1997-08-01,16,Middle block,Germany,16.0
+1819,Women,2008,USC Muenster,Thomsen,Lisa,172.0,female,1985-08-20,1,Libero,Germany,1.0
+1819,Women,2008,USC Muenster,Vanjak,Ivana,190.0,female,1995-05-30,7,Diagonal,Germany,7.0
+1819,Women,2008,USC Muenster,Vedder,Lena,186.0,female,1995-08-12,14,Outside spiker,Germany,14.0
+1314,Women,2009,VC Wiesbaden,Alanko,Kaisa,174.0,female,1993-01-03,10,Setter,Finland,10.0
+1314,Women,2009,VC Wiesbaden,Boscoscuro,Martina,165.0,female,1988-09-02,9,Libero,Italy,9.0
+1314,Women,2009,VC Wiesbaden,Grosser,Tanja,178.0,female,1993-11-27,4,Outside spiker,Germany,4.0
+1314,Women,2009,VC Wiesbaden,Ivanovic,Ksenija,184.0,female,1986-05-22,12,Outside spiker,Montenegro,12.0
+1314,Women,2009,VC Wiesbaden,Mapeli Burchardt,Regina,186.0,female,1983-07-01,13,Outside spiker,Germany,13.0
+1314,Women,2009,VC Wiesbaden,Muijlwijk,Karine,183.0,female,1988-02-16,11,Diagonal,Netherlands,11.0
+1314,Women,2009,VC Wiesbaden,Osterloh,Julia,190.0,female,1986-04-09,8,Middle block,Germany,8.0
+1314,Women,2009,VC Wiesbaden,Schaeperklaus,Rebecca,186.0,female,1992-07-02,6,Middle block,Germany,6.0
+1314,Women,2009,VC Wiesbaden,Shoji,Yuki,182.0,female,1981-11-19,3,Middle block,Japan,3.0
+1314,Women,2009,VC Wiesbaden,Skorupka,Veronik,181.0,female,1988-08-25,7,Outside spiker,Germany,7.0
+1314,Women,2009,VC Wiesbaden,Viestova,Martina,184.0,female,1984-05-21,5,Setter,Slovakia,5.0
+1415,Women,2009,VC Wiesbaden,Alanko,Kaisa,174.0,female,1993-01-03,10,Setter,Finland,10.0
+1415,Women,2009,VC Wiesbaden,Grosser,Tanja,178.0,female,1993-11-27,4,Outside spiker,Germany,4.0
+1415,Women,2009,VC Wiesbaden,Halbichova,Iveta,178.0,female,1989-12-19,14,Setter,Czechia,14.0
+1415,Women,2009,VC Wiesbaden,Mach,Annalena,183.0,female,1995-06-01,2,Diagonal,Luxembourg,2.0
+1415,Women,2009,VC Wiesbaden,Mapeli Burchardt,Regina,186.0,female,1983-07-01,13,Outside spiker,Germany,13.0
+1415,Women,2009,VC Wiesbaden,Muijlwijk,Karine,183.0,female,1988-02-16,5,Diagonal,Netherlands,5.0
+1415,Women,2009,VC Wiesbaden,Osterloh,Julia,190.0,female,1986-04-09,8,Middle block,Germany,8.0
+1415,Women,2009,VC Wiesbaden,Pettke,Jennifer,186.0,female,1989-05-29,15,Middle block,Germany,15.0
+1415,Women,2009,VC Wiesbaden,Schaeperklaus,Rebecca,186.0,female,1992-07-02,6,Middle block,Germany,6.0
+1415,Women,2009,VC Wiesbaden,Sliwa,Izabela,169.0,female,1990-12-11,11,Libero,Poland,11.0
+1415,Women,2009,VC Wiesbaden,Steinemann,Elena,180.0,female,1994-12-08,17,Outside spiker,Switzerland,17.0
+1415,Women,2009,VC Wiesbaden,Vilponen,Pauliina,190.0,female,1992-02-20,7,Outside spiker,Finland,7.0
+1516,Women,2009,VC Wiesbaden,Aigner-Swesey,Delainey,183.0,female,1992-03-14,16,Outside spiker,United States,16.0
+1516,Women,2009,VC Wiesbaden,Alanko,Kaisa,174.0,female,1993-01-03,10,Setter,Finland,10.0
+1516,Women,2009,VC Wiesbaden,Grosser,Tanja,178.0,female,1993-11-27,4,Outside spiker,Germany,4.0
+1516,Women,2009,VC Wiesbaden,Halbichova,Iveta,178.0,female,1989-12-19,14,Setter,Czechia,14.0
+1516,Women,2009,VC Wiesbaden,Hintemann,Elizabeth,186.0,female,1984-07-06,11,Diagonal,Germany,11.0
+1516,Women,2009,VC Wiesbaden,Longo,Alyssa,168.0,female,1991-10-04,5,Libero,United States,5.0
+1516,Women,2009,VC Wiesbaden,Mach,Annalena,183.0,female,1995-06-01,2,Diagonal,Luxembourg,2.0
+1516,Women,2009,VC Wiesbaden,Pettke,Jennifer,186.0,female,1989-05-29,15,Middle block,Germany,15.0
+1516,Women,2009,VC Wiesbaden,Schaeperklaus,Rebecca,186.0,female,1992-07-02,6,Middle block,Germany,6.0
+1516,Women,2009,VC Wiesbaden,Steinemann,Elena,180.0,female,1994-12-08,17,Outside spiker,Switzerland,17.0
+1516,Women,2009,VC Wiesbaden,Stoehr,Celin,192.0,female,1993-11-22,9,Middle block,Germany,9.0
+1516,Women,2009,VC Wiesbaden,Van Berkel,Esther,175.0,female,1990-08-31,7,Outside spiker,Netherlands,7.0
+1617,Women,2009,VC Wiesbaden,Aigner-Swesey,Delainey,183.0,female,1992-03-14,16,Diagonal,United States,16.0
+1617,Women,2009,VC Wiesbaden,Bednarova,Karolina,184.0,female,1986-07-20,13,Outside spiker,Czechia,13.0
+1617,Women,2009,VC Wiesbaden,Grozer,Dora,182.0,female,1995-11-21,9,Outside spiker,Germany,9.0
+1617,Women,2009,VC Wiesbaden,Grosser,Tanja,178.0,female,1993-11-27,4,Outside spiker,Germany,4.0
+1617,Women,2009,VC Wiesbaden,Hynes,Eliza Karley,184.0,female,1992-01-29,8,Outside spiker,Australia,8.0
+1617,Women,2009,VC Wiesbaden,Kemmsies,Irina,181.0,female,1996-05-14,10,Setter,Germany,10.0
+1617,Women,2009,VC Wiesbaden,Kosova,Simona,187.0,female,1992-03-27,11,Middle block,Slovakia,11.0
+1617,Women,2009,VC Wiesbaden,Longo,Alyssa,168.0,female,1991-10-04,5,Libero,United States,5.0
+1617,Women,2009,VC Wiesbaden,Mach,Annalena,183.0,female,1995-06-01,2,Diagonal,Luxembourg,2.0
+1617,Women,2009,VC Wiesbaden,McCage,Mallory Grace,192.0,female,1994-02-02,3,Middle block,United States,3.0
+1617,Women,2009,VC Wiesbaden,Mertens,Lia-Tabea,176.0,female,1994-05-31,14,Setter,Germany,14.0
+1617,Women,2009,VC Wiesbaden,Nagy,Eszter,187.0,female,1991-11-01,12,Middle block,Hungary,12.0
+1718,Women,2009,VC Wiesbaden,Bednarova,Karolina,184.0,female,1986-07-20,13,Outside spiker,Czechia,13.0
+1718,Women,2009,VC Wiesbaden,Drewniok,Kimberly,188.0,female,1997-08-11,8,Diagonal,Germany,8.0
+1718,Women,2009,VC Wiesbaden,Fuchs,Sina,180.0,female,1992-09-28,12,Outside spiker,Germany,12.0
+1718,Women,2009,VC Wiesbaden,Grozer,Dora,182.0,female,1995-11-21,9,Outside spiker,Germany,9.0
+1718,Women,2009,VC Wiesbaden,Grosser,Tanja,178.0,female,1993-11-27,4,Outside spiker,Germany,4.0
+1718,Women,2009,VC Wiesbaden,Hetmann,Selma Theresa,188.0,female,1995-10-27,6,Middle block,Germany,6.0
+1718,Women,2009,VC Wiesbaden,Kemmsies,Irina,181.0,female,1996-05-14,10,Setter,Germany,10.0
+1718,Women,2009,VC Wiesbaden,Kosova,Simona,187.0,female,1992-03-27,11,Middle block,Slovakia,11.0
+1718,Women,2009,VC Wiesbaden,Mach,Annalena,183.0,female,1995-06-01,7,Diagonal,Luxembourg,7.0
+1718,Women,2009,VC Wiesbaden,Mertens,Lia-Tabea,176.0,female,1994-05-31,14,Setter,Germany,14.0
+1718,Women,2009,VC Wiesbaden,Osterloh,Julia,190.0,female,1986-04-09,5,Middle block,Germany,5.0
+1718,Women,2009,VC Wiesbaden,Sredic,Tanja,187.0,female,1991-10-11,17,Middle block,Serbia,17.0
+1718,Women,2009,VC Wiesbaden,Stock,Lisa,168.0,female,1994-06-06,18,Libero,Germany,18.0
+1819,Women,2009,VC Wiesbaden,Barber,Nele,183.0,female,1994-10-27,2,Outside spiker,Germany,2.0
+1819,Women,2009,VC Wiesbaden,Bednarova,Karolina,184.0,female,1986-07-20,13,Outside spiker,Czechia,13.0
+1819,Women,2009,VC Wiesbaden,Bergren,Morgan,184.0,female,1993-12-23,16,Setter,United States,16.0
+1819,Women,2009,VC Wiesbaden,Fuchs,Sina,180.0,female,1992-09-28,12,Outside spiker,Germany,12.0
+1819,Women,2009,VC Wiesbaden,Grosser,Tanja,178.0,female,1993-11-27,4,Outside spiker,Germany,4.0
+1819,Women,2009,VC Wiesbaden,Hamson,Jennifer,201.0,female,1992-01-23,8,Diagonal,United States,8.0
+1819,Women,2009,VC Wiesbaden,Hetmann,Selma Theresa,188.0,female,1995-10-27,6,Middle block,Germany,6.0
+1819,Women,2009,VC Wiesbaden,Kosova,Simona,187.0,female,1992-03-27,11,Middle block,Slovakia,11.0
+1819,Women,2009,VC Wiesbaden,Lemmens,Nathalie,195.0,female,1995-03-12,5,Middle block,Belgium,5.0
+1819,Women,2009,VC Wiesbaden,Mathews,Alexis,190.0,female,1991-01-23,10,Middle block,United States,10.0
+1819,Women,2009,VC Wiesbaden,Oud,Nynke,187.0,female,1994-03-29,3,Setter,Netherlands,3.0
+1819,Women,2009,VC Wiesbaden,Pihlajamaeki,Laura,194.0,female,1990-08-15,15,Middle block,Finland,15.0
+1819,Women,2009,VC Wiesbaden,Stock,Lisa,168.0,female,1994-06-06,18,Libero,Germany,18.0
+1314,Women,2010,VT Aurubis Hamburg,Ammerman,Sarah,188.0,female,1987-10-07,8,Outside spiker,United States,8.0
+1314,Women,2010,VT Aurubis Hamburg,Behrens,Moana,173.0,female,1995-07-02,12,Libero,Germany,12.0
+1314,Women,2010,VT Aurubis Hamburg,Braack,Nina,185.0,female,1993-07-05,7,Diagonal,Germany,7.0
+1314,Women,2010,VT Aurubis Hamburg,Brinkmann,Anika,177.0,female,1986-08-04,5,Outside spiker,Germany,5.0
+1314,Women,2010,VT Aurubis Hamburg,Funk,Sarah,180.0,female,1986-10-15,14,Setter,Germany,14.0
+1314,Women,2010,VT Aurubis Hamburg,Gogic,Jovana,180.0,female,1993-03-31,4,Setter,Serbia,4.0
+1314,Women,2010,VT Aurubis Hamburg,Michalski,Eva,191.0,female,1989-12-15,3,Middle block,Germany,3.0
+1314,Women,2010,VT Aurubis Hamburg,Pettke,Jennifer,186.0,female,1989-05-29,15,Middle block,Germany,15.0
+1314,Women,2010,VT Aurubis Hamburg,Sliwa,Izabela,169.0,female,1990-12-11,1,Libero,Poland,1.0
+1314,Women,2010,VT Aurubis Hamburg,Tiilikainen,Riikka,187.0,female,1990-10-09,10,Diagonal,Finland,10.0
+1314,Women,2010,VT Aurubis Hamburg,Valentine,Alyssa,178.0,female,1990-06-11,9,Setter,United States,9.0
+1314,Women,2010,VT Aurubis Hamburg,Wedekind,Imke,196.0,female,1984-06-23,13,Middle block,Germany,13.0
+1415,Women,2010,VT Aurubis Hamburg,Braack,Nina,185.0,female,1993-07-05,7,Diagonal,Germany,7.0
+1415,Women,2010,VT Aurubis Hamburg,Charuk,Lucille,188.0,female,1989-08-13,3,Middle block,Canada,3.0
+1415,Women,2010,VT Aurubis Hamburg,Cranston,Dana,191.0,female,1991-12-05,5,Universal,Canada,5.0
+1415,Women,2010,VT Aurubis Hamburg,Cukseeva,Natalia,186.0,female,1990-01-22,14,Outside spiker,Germany,14.0
+1415,Women,2010,VT Aurubis Hamburg,Hoja,Anna,182.0,female,1992-03-25,4,Outside spiker,Germany,4.0
+1415,Women,2010,VT Aurubis Hamburg,Kettenbach,Veronika,175.0,female,1992-01-10,9,Setter,Germany,9.0
+1415,Women,2010,VT Aurubis Hamburg,Koljonen,Saana,165.0,female,1988-08-22,11,Libero,Finland,11.0
+1415,Women,2010,VT Aurubis Hamburg,Lundquist,Jennifer,180.0,female,1991-09-10,8,Setter,Canada,8.0
+1415,Women,2010,VT Aurubis Hamburg,Mathias,Laura,163.0,female,1995-02-28,13,Libero,Germany,13.0
+1415,Women,2010,VT Aurubis Hamburg,Munoz,Kylin,188.0,female,1991-08-08,2,Diagonal,United States,2.0
+1415,Women,2010,VT Aurubis Hamburg,Olgard,Alexis,197.0,female,1991-05-27,1,Middle block,United States,1.0
+1415,Women,2010,VT Aurubis Hamburg,Sarac,Anisa,183.0,female,1995-06-05,12,Middle block,Germany,12.0
+1415,Women,2010,VT Aurubis Hamburg,Shaw,Sara,188.0,female,1991-12-19,10,Outside spiker,United States,10.0
+1516,Women,2010,VT Aurubis Hamburg,Bertram,Claire,167.0,female,1996-05-15,10,Libero,Germany,10.0
+1516,Women,2010,VT Aurubis Hamburg,Braack,Nina,185.0,female,1993-07-05,7,Middle block,Germany,7.0
+1516,Women,2010,VT Aurubis Hamburg,Field,Elizabeth,188.0,female,1990-12-04,4,Middle block,United States,4.0
+1516,Women,2010,VT Aurubis Hamburg,Horn,Melanie,159.0,female,1990-09-22,1,Libero,Germany,1.0
+1516,Women,2010,VT Aurubis Hamburg,Imoudu,Denise,181.0,female,1995-12-14,14,Setter,Germany,14.0
+1516,Women,2010,VT Aurubis Hamburg,Keil,Litara,186.0,female,1993-04-10,15,Middle block,United States,15.0
+1516,Women,2010,VT Aurubis Hamburg,Kirsten,Maria,180.0,female,1996-05-08,13,Setter,Germany,13.0
+1516,Women,2010,VT Aurubis Hamburg,Milton,Taylor,182.0,female,1992-08-22,12,Outside spiker,United States,12.0
+1516,Women,2010,VT Aurubis Hamburg,Muijlwijk,Karine,183.0,female,1988-02-16,5,Diagonal,Netherlands,5.0
+1516,Women,2010,VT Aurubis Hamburg,Poll,Jana Franziska,185.0,female,1988-05-07,8,Outside spiker,Germany,8.0
+1516,Women,2010,VT Aurubis Hamburg,Radzuweit,Saskia,182.0,female,1991-05-12,3,Outside spiker,Germany,3.0
+1314,Women,2011,Volleystars Thueringen,Cukseeva,Natalia,186.0,female,1990-01-22,14,Universal,Germany,14.0
+1314,Women,2011,Volleystars Thueringen,Field,Marisa Daralene,188.0,female,1987-07-10,8,Middle block,Canada,8.0
+1314,Women,2011,Volleystars Thueringen,Golla,Stefanie,172.0,female,1985-09-18,18,Libero,Germany,18.0
+1314,Women,2011,Volleystars Thueringen,Hindriksen,Mareike,182.0,female,1987-11-14,2,Setter,Germany,2.0
+1314,Women,2011,Volleystars Thueringen,Lisson,Karen,184.0,female,1991-07-09,3,Setter,Germany,3.0
+1314,Women,2011,Volleystars Thueringen,Merkova,Vendula,193.0,female,1988-03-03,6,Diagonal,Czechia,6.0
+1314,Women,2011,Volleystars Thueringen,Nemcova,Nikola,185.0,female,1991-04-24,10,Universal,Slovakia,10.0
+1314,Women,2011,Volleystars Thueringen,Rowland,Bianca,183.0,female,1990-09-05,5,Middle block,United States,5.0
+1314,Women,2011,Volleystars Thueringen,Speer,Christina,187.0,female,1987-06-29,15,Middle block,United States,15.0
+1314,Women,2011,Volleystars Thueringen,Steger,Claudia,180.0,female,1990-03-10,11,Outside spiker,Germany,11.0
+1314,Women,2011,Volleystars Thueringen,Utla,Martina,192.0,female,1985-07-17,7,Outside spiker,Czechia,7.0
+1415,Women,2011,Volleystars Thueringen,Brinkmann,Anika,177.0,female,1986-08-04,5,Outside spiker,Germany,5.0
+1415,Women,2011,Volleystars Thueringen,Gschwendtner,Lena,168.0,female,1992-10-03,8,Libero,Germany,8.0
+1415,Women,2011,Volleystars Thueringen,Jelic,Nikolina,190.0,female,1991-11-09,14,Outside spiker,Croatia,14.0
+1415,Women,2011,Volleystars Thueringen,Jelinkova,Martina,183.0,female,1989-05-01,7,Setter,Czechia,7.0
+1415,Women,2011,Volleystars Thueringen,Lauerova,Miloslava,170.0,female,1978-06-11,13,Outside spiker,Czechia,13.0
+1415,Women,2011,Volleystars Thueringen,Mertens,Lia-Tabea,176.0,female,1994-05-31,4,Setter,Germany,4.0
+1415,Women,2011,Volleystars Thueringen,Mishonova,Irena,183.0,female,1988-12-09,3,Outside spiker,Bulgaria,3.0
+1415,Women,2011,Volleystars Thueringen,Nemcova,Nikola,185.0,female,1991-04-24,10,Universal,Slovakia,10.0
+1415,Women,2011,Volleystars Thueringen,Speer,Christina,187.0,female,1987-06-29,15,Middle block,United States,15.0
+1415,Women,2011,Volleystars Thueringen,Ssuschke-Voigt,Corina,189.0,female,1983-05-09,9,Middle block,Germany,9.0
+1415,Women,2011,Volleystars Thueringen,Steger,Claudia,180.0,female,1990-03-10,11,Outside spiker,Germany,11.0
+1415,Women,2011,Volleystars Thueringen,Zuleta Garcia,Lorena Alexandra,188.0,female,1981-01-16,6,Middle block,Colombia,6.0
+1516,Women,2011,Volleystars Thueringen,Drobnakova,Dominika,178.0,female,1992-06-04,6,Outside spiker,Slovakia,6.0
+1516,Women,2011,Volleystars Thueringen,Jelinkova,Martina,183.0,female,1989-05-01,7,Setter,Czechia,7.0
+1516,Women,2011,Volleystars Thueringen,Lauerova,Miloslava,170.0,female,1978-06-11,13,Libero,Czechia,13.0
+1516,Women,2011,Volleystars Thueringen,Mahaffey,Madisson,193.0,female,1993-08-09,9,Middle block,United States,9.0
+1516,Women,2011,Volleystars Thueringen,Mertens,Lia-Tabea,176.0,female,1994-05-31,4,Setter,Germany,4.0
+1516,Women,2011,Volleystars Thueringen,Petter,Michelle,176.0,female,1997-02-04,2,Libero,Germany,2.0
+1516,Women,2011,Volleystars Thueringen,Salancoiva,Erika,184.0,female,1991-06-14,5,Outside spiker,Slovakia,5.0
+1516,Women,2011,Volleystars Thueringen,Scott,Jordanne,187.0,female,1990-10-02,14,Diagonal,United States,14.0
+1516,Women,2011,Volleystars Thueringen,Speer,Christina,187.0,female,1987-06-29,15,Middle block,United States,15.0
+1516,Women,2011,Volleystars Thueringen,Steger,Claudia,180.0,female,1990-03-10,11,Outside spiker,Germany,11.0
+1516,Women,2011,Volleystars Thueringen,Trnkova,Veronika,188.0,female,1995-10-13,3,Middle block,Czechia,3.0
+1617,Women,2011,Volleystars Thueringen,Bajde,Anna Maria,180.0,female,1994-12-08,5,Setter,Austria,5.0
+1617,Women,2011,Volleystars Thueringen,Carey,Beth,190.0,female,1990-09-28,17,Middle block,Australia,17.0
+1617,Women,2011,Volleystars Thueringen,Delabarre,Laurianne,177.0,female,1987-04-24,8,Setter,France,8.0
+1617,Women,2011,Volleystars Thueringen,Holzer,Katharina,189.0,female,1998-06-29,9,Outside spiker,Austria,9.0
+1617,Women,2011,Volleystars Thueringen,Hroncekova,Veronika,190.0,female,1990-01-02,4,Middle block,Slovakia,4.0
+1617,Women,2011,Volleystars Thueringen,Jasper,Marrit,180.0,female,1996-02-28,6,Outside spiker,Netherlands,6.0
+1617,Women,2011,Volleystars Thueringen,Lauerova,Miloslava,170.0,female,1978-06-11,13,Libero,Czechia,13.0
+1617,Women,2011,Volleystars Thueringen,Patockova,Tereza,185.0,female,1994-08-02,3,Diagonal,Czechia,3.0
+1617,Women,2011,Volleystars Thueringen,Petter,Michelle,176.0,female,1997-02-04,2,Libero,Germany,2.0
+1617,Women,2011,Volleystars Thueringen,Steger,Claudia,180.0,female,1990-03-10,11,Outside spiker,Germany,11.0
+1617,Women,2011,Volleystars Thueringen,Valongo de Castro,Juliana Lia,187.0,female,1985-06-30,10,Diagonal,Brazil,10.0
+1718,Women,2011,Volleystars Thueringen,Bryda,Katarzyna,181.0,female,1990-04-30,14,Outside spiker,Poland,14.0
+1718,Women,2011,Volleystars Thueringen,Burgess,Jordan Joann,185.0,female,1994-07-20,15,Outside spiker,United States,15.0
+1718,Women,2011,Volleystars Thueringen,DeGeest,Krista Marie,190.0,female,1990-01-10,18,Middle block,United States,18.0
+1718,Women,2011,Volleystars Thueringen,Holzer,Katharina,189.0,female,1998-06-29,9,Diagonal,Austria,9.0
+1718,Women,2011,Volleystars Thueringen,Konieczna,Klaudia,183.0,female,1995-09-07,12,Setter,Poland,12.0
+1718,Women,2011,Volleystars Thueringen,Lauerova,Miloslava,170.0,female,1978-06-11,13,Libero,Czechia,13.0
+1718,Women,2011,Volleystars Thueringen,Malloy,Alexandra Lindsay,187.0,female,1994-04-16,8,Outside spiker,United States,8.0
+1718,Women,2011,Volleystars Thueringen,Mariani,Ashley Nichole,185.0,female,1994-09-07,4,Middle block,United States,4.0
+1718,Women,2011,Volleystars Thueringen,Osadchuk,Katarina,190.0,female,1991-11-18,10,Middle block,Croatia,10.0
+1718,Women,2011,Volleystars Thueringen,Patockova,Tereza,185.0,female,1994-08-02,3,Diagonal,Czechia,3.0
+1718,Women,2011,Volleystars Thueringen,Plum,Lauren,175.0,female,1992-09-17,7,Setter,United States,7.0
+1718,Women,2011,Volleystars Thueringen,Steger,Claudia,180.0,female,1990-03-10,11,Outside spiker,Germany,11.0
+1819,Women,2011,Volleystars Thueringen,Basso,Maiara,189.0,female,1996-01-03,10,Outside spiker,Brazil,10.0
+1819,Women,2011,Volleystars Thueringen,Becher,Juliane,167.0,female,1997-06-12,15,Universal,Germany,15.0
+1819,Women,2011,Volleystars Thueringen,Bruns,Taylor,181.0,female,1991-07-17,17,Setter,United States,17.0
+1819,Women,2011,Volleystars Thueringen,Ciganikova,Simona,187.0,female,1998-09-03,18,Middle block,Slovakia,18.0
+1819,Women,2011,Volleystars Thueringen,Conrad,Selina,165.0,female,1996-09-26,14,Universal,Germany,14.0
+1819,Women,2011,Volleystars Thueringen,Jacobson,McKenzie,203.0,female,1995-01-17,13,Middle block,United States,13.0
+1819,Women,2011,Volleystars Thueringen,Kuhn,Steffi,181.0,female,1996-05-12,7,Outside spiker,Germany,7.0
+1819,Women,2011,Volleystars Thueringen,Mariani,Ashley Nichole,185.0,female,1994-09-07,4,Middle block,United States,4.0
+1819,Women,2011,Volleystars Thueringen,Patockova,Tereza,185.0,female,1994-08-02,3,Diagonal,Czechia,3.0
+1819,Women,2011,Volleystars Thueringen,Robitaille,Kim,182.0,female,1991-10-16,9,Setter,Canada,9.0
+1819,Women,2011,Volleystars Thueringen,Sain,Rene,163.0,female,1997-04-23,1,Libero,Croatia,1.0
+1819,Women,2011,Volleystars Thueringen,Siebring,Anniek,181.0,female,1997-05-13,8,Outside spiker,Netherlands,8.0
+1819,Women,2011,Volleystars Thueringen,Steger,Claudia,180.0,female,1990-03-10,11,Outside spiker,Germany,11.0
+1819,Women,2011,Volleystars Thueringen,Tauchert,Sophie,175.0,female,2000-12-24,6,Libero,Germany,6.0
+1415,Women,2012,VCO Berlin,Agbortabi,Vanessa,180.0,female,1998-12-04,1,Outside spiker,Germany,1.0
+1415,Women,2012,VCO Berlin,Bertram,Claire,167.0,female,1996-05-15,14,Libero,Germany,14.0
+1415,Women,2012,VCO Berlin,Broeske,Linda,185.0,female,1996-09-16,5,Middle block,Germany,5.0
+1415,Women,2012,VCO Berlin,Bura,Victoria,170.0,female,1996-09-14,17,Setter,Germany,17.0
+1415,Women,2012,VCO Berlin,Drewniok,Kimberly,188.0,female,1997-08-11,13,Diagonal,Germany,13.0
+1415,Women,2012,VCO Berlin,Graetz,Annalena,182.0,female,1997-03-22,8,Outside spiker,Germany,8.0
+1415,Women,2012,VCO Berlin,Hoelzig,Annegret,183.0,female,1997-05-29,10,Outside spiker,Germany,10.0
+1415,Women,2012,VCO Berlin,Iwohn,Nele,183.0,female,1996-09-15,12,Diagonal,Germany,12.0
+1415,Women,2012,VCO Berlin,Kunkler,Pauline,189.0,female,1997-09-30,6,Middle block,Germany,6.0
+1415,Women,2012,VCO Berlin,Kaestner,Pia,180.0,female,1998-06-29,15,Setter,Germany,15.0
+1415,Women,2012,VCO Berlin,Lenz,Sindy,185.0,female,1998-10-03,16,Outside spiker,Germany,16.0
+1415,Women,2012,VCO Berlin,Scheuschner,Lene,180.0,female,1996-07-12,9,Outside spiker,Germany,9.0
+1415,Women,2012,VCO Berlin,Schubert,Sophie,183.0,female,1997-02-26,11,Outside spiker,Germany,11.0
+1415,Women,2012,VCO Berlin,Schoelzel,Marie,190.0,female,1997-08-01,7,Middle block,Germany,7.0
+1415,Women,2012,VCO Berlin,Suhr,Josephine,187.0,female,1997-03-20,2,Outside spiker,Germany,2.0
+1415,Women,2012,VCO Berlin,Sydlik,Luisa,175.0,female,1996-12-24,3,Setter,Germany,3.0
+1415,Women,2012,VCO Berlin,Weidt,Merle,185.0,female,1999-07-20,4,Middle block,Germany,4.0
+1516,Women,2012,VCO Berlin,Agbortabi,Vanessa,180.0,female,1998-12-04,1,Outside spiker,Germany,1.0
+1516,Women,2012,VCO Berlin,Dreblow,Sophie,168.0,female,1998-07-09,4,Libero,Germany,4.0
+1516,Women,2012,VCO Berlin,Drewniok,Kimberly,188.0,female,1997-08-11,8,Diagonal,Germany,8.0
+1516,Women,2012,VCO Berlin,Herzog,Maike,196.0,female,1999-12-10,5,Middle block,Germany,5.0
+1516,Women,2012,VCO Berlin,Kunkler,Pauline,189.0,female,1997-09-30,6,Middle block,Germany,6.0
+1516,Women,2012,VCO Berlin,Kaestner,Pia,180.0,female,1998-06-29,15,Setter,Germany,15.0
+1516,Women,2012,VCO Berlin,Lenz,Sindy,185.0,female,1998-10-03,16,Outside spiker,Germany,16.0
+1516,Women,2012,VCO Berlin,Morgenroth,Paula,172.0,female,1999-04-07,3,Libero,Germany,3.0
+1516,Women,2012,VCO Berlin,Sabrowske,Natalie,183.0,female,1998-10-17,14,Diagonal,Germany,14.0
+1516,Women,2012,VCO Berlin,Senger,Lisa,176.0,female,1998-07-06,10,Setter,Germany,10.0
+1516,Women,2012,VCO Berlin,Skinner,Aisha,181.0,female,1999-04-16,9,Outside spiker,Germany,9.0
+1516,Women,2012,VCO Berlin,Suhr,Josephine,187.0,female,1997-03-20,2,Outside spiker,Germany,2.0
+1516,Women,2012,VCO Berlin,Weidt,Merle,185.0,female,1999-07-20,11,Middle block,Germany,11.0
+1516,Women,2012,VCO Berlin,Wiesner,Catharina,185.0,female,1998-08-11,13,Middle block,Germany,13.0
+1617,Women,2012,VCO Berlin,Agbortabi,Vanessa,180.0,female,1998-12-04,1,Outside spiker,Germany,1.0
+1617,Women,2012,VCO Berlin,Bluhm,Josefin,178.0,female,2000-03-10,13,Outside spiker,Germany,13.0
+1617,Women,2012,VCO Berlin,Grosse Scharmann,Lena,184.0,female,1998-04-24,12,Diagonal,Germany,12.0
+1617,Women,2012,VCO Berlin,Herzog,Maike,196.0,female,1999-12-10,5,Middle block,Germany,5.0
+1617,Women,2012,VCO Berlin,Krause,Sabrina,197.0,female,1998-12-18,2,Middle block,Germany,2.0
+1617,Women,2012,VCO Berlin,Kaestner,Pia,180.0,female,1998-06-29,15,Setter,Germany,15.0
+1617,Women,2012,VCO Berlin,Koeppen,Gina,186.0,female,1998-12-04,7,Outside spiker,Germany,7.0
+1617,Women,2012,VCO Berlin,Lenz,Sindy,185.0,female,1998-10-03,16,Outside spiker,Germany,16.0
+1617,Women,2012,VCO Berlin,Morgenroth,Paula,172.0,female,1999-04-07,3,Libero,Germany,3.0
+1617,Women,2012,VCO Berlin,Noack,Juliane,193.0,female,2000-05-10,4,Middle block,Germany,4.0
+1617,Women,2012,VCO Berlin,Senger,Lisa,176.0,female,1998-07-06,10,Setter,Germany,10.0
+1617,Women,2012,VCO Berlin,Skinner,Aisha,181.0,female,1999-04-16,9,Outside spiker,Germany,9.0
+1617,Women,2012,VCO Berlin,Weidt,Merle,185.0,female,1999-07-20,11,Middle block,Germany,11.0
+1617,Women,2012,VCO Berlin,Wiesner,Catharina,185.0,female,1998-08-11,13,Middle block,Germany,101.0
+1718,Women,2012,VCO Berlin,Agbortabi,Vanessa,180.0,female,1998-12-04,1,Outside spiker,Germany,1.0
+1718,Women,2012,VCO Berlin,Berger,Lara,196.0,female,2001-11-02,15,Middle block,Germany,15.0
+1718,Women,2012,VCO Berlin,Bluhm,Josefin,178.0,female,2000-03-10,10,Libero,Germany,10.0
+1718,Women,2012,VCO Berlin,Bock,Josepha,181.0,female,2000-01-23,2,Middle block,Germany,2.0
+1718,Women,2012,VCO Berlin,Cyris,Emma,190.0,female,2001-04-09,13,Outside spiker,Germany,13.0
+1718,Women,2012,VCO Berlin,Dimitriadis,Athina,195.0,female,2000-06-23,16,Middle block,Germany,16.0
+1718,Women,2012,VCO Berlin,Herzog,Maike,196.0,female,1999-12-10,5,Middle block,Germany,5.0
+1718,Women,2012,VCO Berlin,Jatzko,Romy,185.0,female,2000-01-26,14,Outside spiker,Germany,14.0
+1718,Women,2012,VCO Berlin,Klein,Luise,178.0,female,1999-01-15,6,Setter,Germany,6.0
+1718,Women,2012,VCO Berlin,Kretschmer,Lara,189.0,female,2001-08-29,17,Middle block,Germany,17.0
+1718,Women,2012,VCO Berlin,Koeppen,Gina,186.0,female,1998-12-04,7,Outside spiker,Germany,7.0
+1718,Women,2012,VCO Berlin,Lenz,Sindy,185.0,female,1998-10-03,8,Outside spiker,Germany,8.0
+1718,Women,2012,VCO Berlin,Liu,Jenni,180.0,female,2000-05-29,12,Setter,Germany,12.0
+1718,Women,2012,VCO Berlin,Morgenroth,Paula,172.0,female,1999-04-07,3,Libero,Germany,3.0
+1718,Women,2012,VCO Berlin,Noack,Juliane,193.0,female,2000-05-10,4,Middle block,Germany,4.0
+1718,Women,2012,VCO Berlin,Otto,Charlotte,179.0,female,2001-02-13,18,Setter,Germany,18.0
+1718,Women,2012,VCO Berlin,Schieder,Hanna-Marie,190.0,female,2001-03-21,18,Outside spiker,Germany,100.0
+1718,Women,2012,VCO Berlin,Skinner,Aisha,181.0,female,1999-04-16,9,Diagonal,Germany,9.0
+1718,Women,2012,VCO Berlin,Weidt,Merle,185.0,female,1999-07-20,11,Middle block,Germany,11.0
+1819,Women,2012,VCO Berlin,Berger,Lara,196.0,female,2001-11-02,15,Diagonal,Germany,15.0
+1819,Women,2012,VCO Berlin,Bluhm,Josefin,178.0,female,2000-03-10,10,Outside spiker,Germany,10.0
+1819,Women,2012,VCO Berlin,Bock,Josepha,181.0,female,2000-01-23,2,Middle block,Germany,2.0
+1819,Women,2012,VCO Berlin,Bock,Linda,180.0,female,2000-05-27,1,Libero,Germany,1.0
+1819,Women,2012,VCO Berlin,Cyris,Emma,190.0,female,2001-04-09,3,Outside spiker,Germany,3.0
+1819,Women,2012,VCO Berlin,Dimitriadis,Athina,195.0,female,2000-06-23,6,Middle block,Germany,6.0
+1819,Women,2012,VCO Berlin,Herzog,Maike,196.0,female,1999-12-10,17,Middle block,Germany,17.0
+1819,Women,2012,VCO Berlin,Jatzko,Romy,185.0,female,2000-01-26,14,Outside spiker,Germany,14.0
+1819,Women,2012,VCO Berlin,Kaminski,Alexa,188.0,female,2000-02-17,9,Setter,Germany,9.0
+1819,Women,2012,VCO Berlin,Kretschmer,Lara,189.0,female,2001-08-29,8,Diagonal,Germany,8.0
+1819,Women,2012,VCO Berlin,Liu,Jenni,180.0,female,2000-05-29,12,Setter,Germany,12.0
+1819,Women,2012,VCO Berlin,Morgenroth,Paula,172.0,female,1999-04-07,5,Libero,Germany,5.0
+1819,Women,2012,VCO Berlin,Noack,Juliane,193.0,female,2000-05-10,4,Middle block,Germany,4.0
+1819,Women,2012,VCO Berlin,Schieder,Hanna-Marie,190.0,female,2001-03-21,18,Outside spiker,Germany,18.0
+1819,Women,2012,VCO Berlin,Schmidt,Edina,185.0,female,2000-09-02,11,Outside spiker,Germany,11.0
+1819,Women,2012,VCO Berlin,Stemmler,Lydia,185.0,female,2001-07-20,13,Diagonal,Germany,13.0
+1516,Women,2013,Nawaro Straubing,Aulenbrock,Carina,191.0,female,1994-09-22,10,Diagonal,Germany,10.0
+1516,Women,2013,Nawaro Straubing,Bertalanitsch,Michaela,163.0,female,1991-01-06,8,Libero,Germany,8.0
+1516,Women,2013,Nawaro Straubing,Dibbern,Alyssa Rene,187.0,female,1990-10-23,4,Diagonal,United States,4.0
+1516,Women,2013,Nawaro Straubing,Emonts,Laura,180.0,female,1991-04-04,17,Outside spiker,Germany,17.0
+1516,Women,2013,Nawaro Straubing,Gadelha de Souza,Wivian Carine,187.0,female,1984-04-29,3,Middle block,Brazil,3.0
+1516,Women,2013,Nawaro Straubing,Hahn,Kristen,165.0,female,1992-01-19,1,Libero,United States,1.0
+1516,Women,2013,Nawaro Straubing,Heimrich,Mira,183.0,female,1995-10-23,16,Middle block,Germany,16.0
+1516,Women,2013,Nawaro Straubing,Kocar,Karmen,180.0,female,1982-12-01,11,Setter,Slovenia,11.0
+1516,Women,2013,Nawaro Straubing,Lepesteur Gianlorenco,Bruna,171.0,female,1988-10-27,12,Outside spiker,Brazil,12.0
+1516,Women,2013,Nawaro Straubing,Nosekova,Martina,182.0,female,1985-04-01,14,Outside spiker,Slovakia,14.0
+1516,Women,2013,Nawaro Straubing,Purchartova,Barbora,189.0,female,1992-05-09,13,Middle block,Czechia,13.0
+1516,Women,2013,Nawaro Straubing,Swiechowska,Marta,180.0,female,1988-01-08,6,Setter,Poland,6.0
+1516,Women,2013,Nawaro Straubing,Terrell,Malina,180.0,female,1992-12-03,15,Outside spiker,United States,15.0
+1819,Women,2013,Nawaro Straubing,Dreblow,Sophie,168.0,female,1998-07-09,16,Libero,Germany,16.0
+1819,Women,2013,Nawaro Straubing,Doehnert,Jil,183.0,female,1985-08-27,6,Middle block,Germany,6.0
+1819,Women,2013,Nawaro Straubing,Grosse Scharmann,Lena,184.0,female,1998-04-24,10,Diagonal,Germany,10.0
+1819,Women,2013,Nawaro Straubing,Ismaili,Valbona,180.0,female,2003-02-24,7,Universal,Germany,7.0
+1819,Women,2013,Nawaro Straubing,Izquierdo-Mocasqui,Lisa,177.0,female,1994-08-29,13,Outside spiker,Germany,13.0
+1819,Women,2013,Nawaro Straubing,Liebschner,Franziska,174.0,female,1998-08-19,12,Outside spiker,Germany,12.0
+1819,Women,2013,Nawaro Straubing,Markovi?,Danica,180.0,female,1991-03-16,8,Outside spiker,Serbia,8.0
+1819,Women,2013,Nawaro Straubing,Meis,Lisanne,173.0,female,1996-12-31,3,Setter,Germany,3.0
+1819,Women,2013,Nawaro Straubing,Neuhaus,Frauke,185.0,female,1993-04-20,4,Diagonal,Germany,4.0
+1819,Women,2013,Nawaro Straubing,Schmit,Dana,178.0,female,1997-07-20,17,Setter,Austria,17.0
+1819,Women,2013,Nawaro Straubing,Sipic,Lorena,190.0,female,1990-11-11,11,Middle block,Croatia,11.0
+1819,Women,2013,Nawaro Straubing,Stoehr,Celin,192.0,female,1993-11-22,2,Middle block,Germany,2.0
+1819,Women,2013,Nawaro Straubing,Wenzel,Julia,179.0,female,1998-01-12,5,Outside spiker,Germany,5.0
+1617,Women,2014,Schwarz-Weiss Erfurt,Belitz,Marie,170.0,female,1998-03-25,13,Universal,Germany,13.0
+1617,Women,2014,Schwarz-Weiss Erfurt,Brabetz,Friederike,175.0,female,1999-12-01,10,Outside spiker,Germany,10.0
+1617,Women,2014,Schwarz-Weiss Erfurt,Hetmann,Selma Theresa,188.0,female,1995-10-27,1,Middle block,Germany,1.0
+1617,Women,2014,Schwarz-Weiss Erfurt,Kullerkann,Liis,190.0,female,1991-05-02,5,Middle block,Estonia,5.0
+1617,Women,2014,Schwarz-Weiss Erfurt,Niemczyk,Natascha,182.0,female,1990-02-07,8,Outside spiker,Germany,8.0
+1617,Women,2014,Schwarz-Weiss Erfurt,Piest,Madleen,186.0,female,1995-06-15,15,Diagonal,Germany,15.0
+1617,Women,2014,Schwarz-Weiss Erfurt,Skayhan,Alison,183.0,female,1992-08-06,12,Setter,United States,12.0
+1617,Women,2014,Schwarz-Weiss Erfurt,Stautz,Antonia,180.0,female,1993-12-15,6,Outside spiker,Germany,6.0
+1617,Women,2014,Schwarz-Weiss Erfurt,Stock,Lisa,168.0,female,1994-06-06,14,Libero,Germany,14.0
+1617,Women,2014,Schwarz-Weiss Erfurt,Ubben,Macy Lanae,188.0,female,1991-06-24,7,Outside spiker,United States,7.0
+1617,Women,2014,Schwarz-Weiss Erfurt,Wessely,Michaela,179.0,female,1995-11-01,11,Setter,Germany,11.0
+1617,Women,2014,Schwarz-Weiss Erfurt,Winters,Katlin Marie,190.0,female,1992-06-22,2,Middle block,United States,2.0
+1617,Women,2014,Schwarz-Weiss Erfurt,Wolf,Luise,182.0,female,1997-11-14,3,Outside spiker,Germany,3.0
+1718,Women,2014,Schwarz-Weiss Erfurt,Brabetz,Friederike,175.0,female,1999-12-01,5,Outside spiker,Germany,5.0
+1718,Women,2014,Schwarz-Weiss Erfurt,Casault,Margaret,180.0,female,1994-05-22,16,Outside spiker,Canada,16.0
+1718,Women,2014,Schwarz-Weiss Erfurt,Gadelha de Souza,Wivian Carine,187.0,female,1984-04-29,6,Middle block,Brazil,6.0
+1718,Women,2014,Schwarz-Weiss Erfurt,Graetz,Annalena,182.0,female,1997-03-22,8,Outside spiker,Germany,8.0
+1718,Women,2014,Schwarz-Weiss Erfurt,McCoy,Evyn Kaelee,188.0,female,1992-10-07,14,Middle block,United States,14.0
+1718,Women,2014,Schwarz-Weiss Erfurt,Mercado Chavez,Erika Andreina,186.0,female,1992-02-27,7,Diagonal,Ecuador,7.0
+1718,Women,2014,Schwarz-Weiss Erfurt,Nichol,Bailey Marie,182.0,female,1995-07-27,1,Setter,United States,1.0
+1718,Women,2014,Schwarz-Weiss Erfurt,Piest,Madleen,186.0,female,1995-06-15,15,Diagonal,Germany,15.0
+1718,Women,2014,Schwarz-Weiss Erfurt,Reinisch,Paula-Katharina,179.0,female,1998-10-07,4,Outside spiker,Germany,4.0
+1718,Women,2014,Schwarz-Weiss Erfurt,Saita,An,158.0,female,1993-01-27,10,Libero,Japan,10.0
+1718,Women,2014,Schwarz-Weiss Erfurt,Thater,Emily Grace,191.0,female,1995-02-01,2,Middle block,United States,2.0
+1718,Women,2014,Schwarz-Weiss Erfurt,Wessely,Michaela,179.0,female,1995-11-01,11,Setter,Germany,11.0
+1819,Women,2014,Schwarz-Weiss Erfurt,Finley,Canace,193.0,female,1994-03-11,11,Diagonal,United States,11.0
+1819,Women,2014,Schwarz-Weiss Erfurt,Gadelha de Souza,Wivian Carine,187.0,female,1984-04-29,6,Middle block,Brazil,6.0
+1819,Women,2014,Schwarz-Weiss Erfurt,Greskamp,Antonia,180.0,female,2000-02-09,9,Setter,Germany,9.0
+1819,Women,2014,Schwarz-Weiss Erfurt,Kan,Carly,178.0,female,1995-01-16,3,Libero,United States,3.0
+1819,Women,2014,Schwarz-Weiss Erfurt,Krause,Sabrina,197.0,female,1998-12-18,5,Middle block,Germany,5.0
+1819,Women,2014,Schwarz-Weiss Erfurt,Lenz,Sindy,185.0,female,1998-10-03,8,Outside spiker,Germany,8.0
+1819,Women,2014,Schwarz-Weiss Erfurt,Reinisch,Paula-Katharina,179.0,female,1998-10-07,4,Outside spiker,Germany,4.0
+1819,Women,2014,Schwarz-Weiss Erfurt,Rountree,Tess,188.0,female,1993-08-14,10,Outside spiker,United States,10.0
+1819,Women,2014,Schwarz-Weiss Erfurt,Sagardia,Clarisa,175.0,female,1989-06-29,1,Setter,Argentina,1.0
+1819,Women,2014,Schwarz-Weiss Erfurt,Thater,Emily Grace,191.0,female,1995-02-01,2,Middle block,United States,2.0

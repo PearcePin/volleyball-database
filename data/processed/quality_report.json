@@ -1,0 +1,89 @@
+{
+  "raw_rows": {
+    "players": 1853,
+    "matches": 3392,
+    "sets": 12660,
+    "matchstats": 32755
+  },
+  "missing_values": {
+    "players": {
+      "season_id": 0,
+      "league_gender": 0,
+      "team_id": 0,
+      "team_name": 0,
+      "lastname": 0,
+      "firstname": 0,
+      "height": 0,
+      "gender": 0,
+      "birthdate": 0,
+      "shirt_number": 2,
+      "position": 0,
+      "nationality": 0,
+      "player_id": 2
+    },
+    "matches": {
+      "league_gender": 0,
+      "season_id": 0,
+      "competition_stage": 0,
+      "match_id": 0,
+      "match": 0,
+      "match_day": 524,
+      "date_time": 0,
+      "spectators": 0,
+      "match_duration": 18,
+      "team_id": 0,
+      "team_name": 0,
+      "set_won": 0
+    },
+    "sets": {
+      "league_gender": 0,
+      "season_id": 0,
+      "match_id": 0,
+      "match": 0,
+      "team_id": 0,
+      "team_name": 0,
+      "set": 0,
+      "set_duration": 66,
+      "pt_set": 0
+    },
+    "matchstats": {
+      "league_gender": 0,
+      "season_id": 0,
+      "match_id": 0,
+      "team_id": 0,
+      "player_id": 0,
+      "shirt_number": 0,
+      "vote": 12764,
+      "pt_tot": 0,
+      "pt_bp": 0,
+      "pt_profloss": 0,
+      "serv_tot": 0,
+      "serv_err": 0,
+      "serv_pt": 0,
+      "rec_tot": 0,
+      "rec_err": 0,
+      "rec_pos": 0,
+      "rec_per": 0,
+      "att_tot": 0,
+      "att_err": 0,
+      "att_blo": 0,
+      "att_pt": 0,
+      "att_per": 0,
+      "blo_pt": 0
+    }
+  },
+  "exact_duplicate_stats_removed": 4,
+  "quarantined_stats": 268,
+  "table_rows": {
+    "League": 2,
+    "Season": 12,
+    "Team": 32,
+    "Player": 940,
+    "Season_Team": 137,
+    "Player_Team_Season": 1853,
+    "Match": 1696,
+    "Match_Set": 6330,
+    "Player_Match_Stats": 32483
+  },
+  "policy": "No invented records. Identity = normalized gender + first/last name + birthdate. Name changes remain separate unless reviewed. Missing stats are not zeros."
+}

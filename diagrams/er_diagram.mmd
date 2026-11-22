@@ -1,0 +1,76 @@
+erDiagram
+ League ||--o{ Season : contains
+ Season ||--o{ Season_Team : includes
+ Team ||--o{ Season_Team : participates
+ Player ||--o{ Player_Team_Season : has
+ Season_Team ||--o{ Player_Team_Season : registers
+ Season_Team ||--o{ Match : home
+ Season_Team ||--o{ Match : away
+ Match ||--|{ Match_Set : contains
+ Match ||--o{ Player_Match_Stats : records
+ Player_Team_Season ||--o{ Player_Match_Stats : contributes
+ League {
+  int league_id PK
+  varchar league_name UK
+  varchar country
+ }
+ Season {
+  int season_id PK
+  int league_id FK
+  int source_season_id
+  varchar season_name
+ }
+ Team {
+  int team_id PK
+  varchar team_name
+ }
+ Player {
+  int player_id PK
+  varchar identity_key UK
+  varchar player_name
+  varchar gender
+  date birthdate
+ }
+ Season_Team {
+  int season_id PK,FK
+  int team_id PK,FK
+  varchar season_team_name
+ }
+ Player_Team_Season {
+  int player_id PK,FK
+  int team_id PK,FK
+  int season_id PK,FK
+  int source_player_id
+  int shirt_number
+  varchar position
+ }
+ Match {
+  int match_id PK
+  int season_id FK
+  int source_match_id
+  int home_team_id FK
+  int away_team_id FK
+  datetime match_date
+  varchar competition_stage
+  int home_sets_won
+  int away_sets_won
+ }
+ Match_Set {
+  int match_id PK,FK
+  int set_number PK
+  int home_points
+  int away_points
+ }
+ Player_Match_Stats {
+  int match_id PK,FK
+  int player_id PK,FK
+  int team_id PK,FK
+  int season_id FK
+  int total_points
+  int attacks
+  int attack_points
+  int blocks
+  int aces
+  int serve_errors
+  int serves
+ }

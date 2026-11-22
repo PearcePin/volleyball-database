@@ -1,0 +1,941 @@
+player_id,identity_key,player_name,gender,birthdate
+1,female|aida|rejzovic|1987-12-14,Aida Rejzovic,female,1987-12-14
+2,female|aisha|skinner|1999-04-16,Aisha Skinner,female,1999-04-16
+3,female|aiyana|whitney|1993-04-06,Aiyana Whitney,female,1993-04-06
+4,female|aleksandra|jegdic|1994-10-09,Aleksandra Jegdic,female,1994-10-09
+5,female|alessandra|jovy-heuser|1991-09-22,Alessandra Jovy-Heuser,female,1991-09-22
+6,female|alexa marie|dannemiller|1993-06-09,Alexa Marie Dannemiller,female,1993-06-09
+7,female|alexandra lindsay|malloy|1994-04-16,Alexandra Lindsay Malloy,female,1994-04-16
+8,female|alexa|kaminski|2000-02-17,Alexa Kaminski,female,2000-02-17
+9,female|alexis|mathews|1991-01-23,Alexis Mathews,female,1991-01-23
+10,female|alexis|olgard|1991-05-27,Alexis Olgard,female,1991-05-27
+11,female|alice|blom|1980-04-07,Alice Blom,female,1980-04-07
+12,female|alisha|ossowski|1995-03-26,Alisha Ossowski,female,1995-03-26
+13,female|alison|skayhan|1992-08-06,Alison Skayhan,female,1992-08-06
+14,female|alyssa rene|dibbern|1990-10-23,Alyssa Rene Dibbern,female,1990-10-23
+15,female|alyssa|longo|1991-10-04,Alyssa Longo,female,1991-10-04
+16,female|alyssa|valentine|1990-06-11,Alyssa Valentine,female,1990-06-11
+17,female|amanda susanne|benson|1995-03-09,Amanda Susanne Benson,female,1995-03-09
+18,female|amanda|sa|1983-06-25,Amanda Sa,female,1983-06-25
+19,female|amber|rolfzen|1994-08-25,Amber Rolfzen,female,1994-08-25
+20,female|amelie|busch|2002-10-23,Amelie Busch,female,2002-10-23
+21,female|andrea|lakovi?|1989-02-20,Andrea Lakovi?,female,1989-02-20
+22,female|anika|brinkmann|1986-08-04,Anika Brinkmann,female,1986-08-04
+23,female|anisa|sarac|1995-06-05,Anisa Sarac,female,1995-06-05
+24,female|anja|brandt|1990-02-15,Anja Brandt,female,1990-02-15
+25,female|anja|zdovc|1987-08-24,Anja Zdovc,female,1987-08-24
+26,female|ann-marie|knauf|1992-11-20,Ann-Marie Knauf,female,1992-11-20
+27,female|anna maria|bajde|1994-12-08,Anna Maria Bajde,female,1994-12-08
+28,female|annalena|graetz|1997-03-22,Annalena Graetz,female,1997-03-22
+29,female|annalena|mach|1995-06-01,Annalena Mach,female,1995-06-01
+30,female|anna|hoja|1992-03-25,Anna Hoja,female,1992-03-25
+31,female|anna|kalinovskaya-guengoer|1985-05-17,Anna Kalinovskaya-Guengoer,female,1985-05-17
+32,female|anna|pogany|1994-07-21,Anna Pogany,female,1994-07-21
+33,female|annegret|hoelzig|1997-05-29,Annegret Hoelzig,female,1997-05-29
+34,female|anne|paape|1989-12-28,Anne Paape,female,1989-12-28
+35,female|anniek|siebring|1997-05-13,Anniek Siebring,female,1997-05-13
+36,female|annie|cesar|1997-04-26,Annie Cesar,female,1997-04-26
+37,female|annika|kummer|1992-08-08,Annika Kummer,female,1992-08-08
+38,female|antonia|greskamp|2000-02-09,Antonia Greskamp,female,2000-02-09
+39,female|antonia|klamke|1990-04-29,Antonia Klamke,female,1990-04-29
+40,female|antonia|stautz|1993-12-15,Antonia Stautz,female,1993-12-15
+41,female|an|saita|1993-01-27,An Saita,female,1993-01-27
+42,female|ariel|gebhardt|1991-08-01,Ariel Gebhardt,female,1991-08-01
+43,female|ashley nichole|mariani|1994-09-07,Ashley Nichole Mariani,female,1994-09-07
+44,female|ashley|benson|1989-02-20,Ashley Benson,female,1989-02-20
+45,female|ashley|frazier|1989-12-15,Ashley Frazier,female,1989-12-15
+46,female|athina|dimitriadis|2000-06-23,Athina Dimitriadis,female,2000-06-23
+47,female|athina|papafotiou|1989-08-23,Athina Papafotiou,female,1989-08-23
+48,female|aziliz|divoux|1995-01-03,Aziliz Divoux,female,1995-01-03
+49,female|bailey marie|nichol|1995-07-27,Bailey Marie Nichol,female,1995-07-27
+50,female|barbara roxana|wezorke|1993-04-12,Barbara Roxana Wezorke,female,1993-04-12
+51,female|barbora|purchartova|1992-05-09,Barbora Purchartova,female,1992-05-09
+52,female|bernarda|cutuk|1990-12-22,Bernarda Cutuk,female,1990-12-22
+53,female|beta|dumancic|1991-03-20,Beta Dumancic,female,1991-03-20
+54,female|beth|carey|1990-09-28,Beth Carey,female,1990-09-28
+55,female|bianca|gruetze|1995-03-27,Bianca Gruetze,female,1995-03-27
+56,female|bianca|rowland|1990-09-05,Bianca Rowland,female,1990-09-05
+57,female|bogdana|anisova|1992-03-16,Bogdana Anisova,female,1992-03-16
+58,female|brittnee|cooper|1988-02-26,Brittnee Cooper,female,1988-02-26
+59,female|brittney|page|1984-02-04,Brittney Page,female,1984-02-04
+60,female|britt|bongaerts|1996-11-03,Britt Bongaerts,female,1996-11-03
+61,female|bruna|lepesteur gianlorenco|1988-10-27,Bruna Lepesteur Gianlorenco,female,1988-10-27
+62,female|camilla|weitzel|2000-06-11,Camilla Weitzel,female,2000-06-11
+63,female|canace|finley|1994-03-11,Canace Finley,female,1994-03-11
+64,female|carina|aulenbrock|1994-09-22,Carina Aulenbrock,female,1994-09-22
+65,female|carly|kan|1995-01-16,Carly Kan,female,1995-01-16
+66,female|caroline|jarmoc|1991-06-18,Caroline Jarmoc,female,1991-06-18
+67,female|catharina|wiesner|1998-08-11,Catharina Wiesner,female,1998-08-11
+68,female|celin|stoehr|1993-11-22,Celin Stoehr,female,1993-11-22
+69,female|channon|thompson|1994-03-29,Channon Thompson,female,1994-03-29
+70,female|charlotte|otto|2001-02-13,Charlotte Otto,female,2001-02-13
+71,female|chiara|hoenhorst|1997-01-09,Chiara Hoenhorst,female,1997-01-09
+72,female|chloe|ferrari|1992-07-21,Chloe Ferrari,female,1992-07-21
+73,female|christina|speer|1987-06-29,Christina Speer,female,1987-06-29
+74,female|claire|bertram|1996-05-15,Claire Bertram,female,1996-05-15
+75,female|clarisa|sagardia|1989-06-29,Clarisa Sagardia,female,1989-06-29
+76,female|claudia|steger|1990-03-10,Claudia Steger,female,1990-03-10
+77,female|constance|plath|1996-04-16,Constance Plath,female,1996-04-16
+78,female|corina|glaab|2000-05-25,Corina Glaab,female,2000-05-25
+79,female|corina|ssuschke-voigt|1983-05-09,Corina Ssuschke-Voigt,female,1983-05-09
+80,female|courtney reigh|felinski|1992-10-04,Courtney Reigh Felinski,female,1992-10-04
+81,female|cristina|alves oliveira ferreira|1982-06-30,Cristina Alves Oliveira Ferreira,female,1982-06-30
+82,female|cursty|jackson|1990-09-11,Cursty Jackson,female,1990-09-11
+83,female|dana|cranston|1991-12-05,Dana Cranston,female,1991-12-05
+84,female|dana|schmit|1997-07-20,Dana Schmit,female,1997-07-20
+85,female|danica|markovi?|1991-03-16,Danica Markovi?,female,1991-03-16
+86,female|danica|radenkovic|1992-10-09,Danica Radenkovic,female,1992-10-09
+87,female|daria|przybylak|1991-08-30,Daria Przybylak,female,1991-08-30
+88,female|dayana patricia|segovia elles|1996-03-24,Dayana Patricia Segovia elles,female,1996-03-24
+89,female|deborah|scholz|2000-02-09,Deborah Scholz,female,2000-02-09
+90,female|deborah|van daelen|1989-03-24,Deborah van Daelen,female,1989-03-24
+91,female|delainey|aigner-swesey|1992-03-14,Delainey Aigner-Swesey,female,1992-03-14
+92,female|denise|hanke|1989-08-31,Denise Hanke,female,1989-08-31
+93,female|denise|imoudu|1995-12-14,Denise Imoudu,female,1995-12-14
+94,female|diana|arrechea|1994-09-14,Diana Arrechea,female,1994-09-14
+95,female|diana|nenova|1985-04-16,Diana Nenova,female,1985-04-16
+96,female|dominice|steffen|1987-12-17,Dominice Steffen,female,1987-12-17
+97,female|dominika|drobnakova|1992-06-04,Dominika Drobnakova,female,1992-06-04
+98,female|dominika|strumilo|1996-12-26,Dominika Strumilo,female,1996-12-26
+99,female|dominika|valachova|1986-06-04,Dominika Valachova,female,1986-06-04
+100,female|dominique|lamb|1985-12-05,Dominique Lamb,female,1985-12-05
+101,female|dora|grozer|1995-11-21,Dora Grozer,female,1995-11-21
+102,female|doreen|engel|1982-02-08,Doreen Engel,female,1982-02-08
+103,female|edina|dobi|1987-10-22,Edina Dobi,female,1987-10-22
+104,female|edina|schmidt|2000-09-02,Edina Schmidt,female,2000-09-02
+105,female|elena|koemmling|2000-01-01,Elena Koemmling,female,2000-01-01
+106,female|elena|steinemann|1994-12-08,Elena Steinemann,female,1994-12-08
+107,female|elies|goos|1989-01-13,Elies Goos,female,1989-01-13
+108,female|elina|salomaeki|1981-10-19,Elina Salomaeki,female,1981-10-19
+109,female|elisabeth|lowke|1997-02-22,Elisabeth Lowke,female,1997-02-22
+110,female|elisa|lohmann|1998-07-22,Elisa Lohmann,female,1998-07-22
+111,female|elisa|muri|1984-06-10,Elisa Muri,female,1984-06-10
+112,female|eliza karley|hynes|1992-01-29,Eliza Karley Hynes,female,1992-01-29
+113,female|elizabeth ann|mc mahon|1993-02-27,Elizabeth Ann Mc Mahon,female,1993-02-27
+114,female|elizabeth|field|1990-12-04,Elizabeth Field,female,1990-12-04
+115,female|elizabeth|hintemann|1984-07-06,Elizabeth Hintemann,female,1984-07-06
+116,female|emani brenita-rea|sims|1992-04-28,Emani Brenita-Rea Sims,female,1992-04-28
+117,female|emilia|weske|2001-03-26,Emilia Weske,female,2001-03-26
+118,female|emily grace|thater|1995-02-01,Emily Grace Thater,female,1995-02-01
+119,female|emma|cyris|2001-04-09,Emma Cyris,female,2001-04-09
+120,female|erica|wilson|1991-05-26,Erica Wilson,female,1991-05-26
+121,female|erika andreina|mercado chavez|1992-02-27,Erika Andreina Mercado Chavez,female,1992-02-27
+122,female|erika|salancoiva|1991-06-14,Erika Salancoiva,female,1991-06-14
+123,female|erin|johnson|1990-12-27,Erin Johnson,female,1990-12-27
+124,female|esther|van berkel|1990-08-31,Esther Van Berkel,female,1990-08-31
+125,female|eszter|nagy|1991-11-01,Eszter Nagy,female,1991-11-01
+126,female|eva|hodanova|1993-12-18,Eva Hodanova,female,1993-12-18
+127,female|eva|michalski|1989-12-15,Eva Michalski,female,1989-12-15
+128,female|eva|rutarova|1989-09-14,Eva Rutarova,female,1989-09-14
+129,female|evelyn cristina|lourenco delogu|1981-02-06,Evelyn Cristina Lourenco Delogu,female,1981-02-06
+130,female|evyn kaelee|mccoy|1992-10-07,Evyn Kaelee McCoy,female,1992-10-07
+131,female|femke|stoltenborg|1991-07-30,Femke Stoltenborg,female,1991-07-30
+132,female|florentina|buettner|1988-09-07,Florentina Buettner,female,1988-09-07
+133,female|frances|kauffmann|2000-08-14,Frances Kauffmann,female,2000-08-14
+134,female|franziska|bremer|1985-06-27,Franziska Bremer,female,1985-06-27
+135,female|franziska|liebschner|1998-08-19,Franziska Liebschner,female,1998-08-19
+136,female|franziska|nitsche|2000-05-11,Franziska Nitsche,female,2000-05-11
+137,female|frauke|neuhaus|1993-04-20,Frauke Neuhaus,female,1993-04-20
+138,female|friederike|brabetz|1999-12-01,Friederike Brabetz,female,1999-12-01
+139,female|gina|koeppen|1998-12-04,Gina Koeppen,female,1998-12-04
+140,female|gina|mancuso|1991-05-31,Gina Mancuso,female,1991-05-31
+141,female|giulia|carraro|1994-07-25,Giulia Carraro,female,1994-07-25
+142,female|greta|szakmary|1991-12-31,Greta Szakmary,female,1991-12-31
+143,female|hanna-marie|schieder|2001-03-21,Hanna-Marie Schieder,female,2001-03-21
+144,female|hannah|tapp|1995-06-21,Hannah Tapp,female,1995-06-21
+145,female|hanna|orthmann|1998-10-03,Hanna Orthmann,female,1998-10-03
+146,female|hanne haugen|aas|1988-02-29,Hanne Haugen Aas,female,1988-02-29
+147,female|hawari|shannon|1989-10-30,Hawari Shannon,female,1989-10-30
+148,female|heather|meyers|1989-04-18,Heather Meyers,female,1989-04-18
+149,female|iane|henke|2002-07-11,Iane Henke,female,2002-07-11
+150,female|ilka|van de vyver|1993-01-26,Ilka van de Vyver,female,1993-01-26
+151,female|imke|wedekind|1984-06-23,Imke Wedekind,female,1984-06-23
+152,female|ines|bathen|1990-08-27,Ines Bathen,female,1990-08-27
+153,female|ioana maria|baciu|1990-01-04,Ioana Maria Baciu,female,1990-01-04
+154,female|irena|mishonova|1988-12-09,Irena Mishonova,female,1988-12-09
+155,female|irina|kemmsies|1996-05-14,Irina Kemmsies,female,1996-05-14
+156,female|iris|scholten|1999-11-15,Iris Scholten,female,1999-11-15
+157,female|isabelle|liebchen|1996-10-03,Isabelle Liebchen,female,1996-10-03
+158,female|ivana|isailovic|1986-01-01,Ivana Isailovic,female,1986-01-01
+159,female|ivana|mrdak|1993-09-15,Ivana Mrdak,female,1993-09-15
+160,female|ivana|vanjak|1995-05-30,Ivana Vanjak,female,1995-05-30
+161,female|iveta|halbichova|1989-12-19,Iveta Halbichova,female,1989-12-19
+162,female|ivona|svobodnikova|1991-04-01,Ivona Svobodnikova,female,1991-04-01
+163,female|ivonne daniela|montano|1995-11-12,Ivonne Daniela Montano,female,1995-11-12
+164,female|izabela|sliwa|1990-12-11,Izabela Sliwa,female,1990-12-11
+165,female|jana franziska|poll|1988-05-07,Jana Franziska Poll,female,1988-05-07
+166,female|janine|carli|1991-09-19,Janine Carli,female,1991-09-19
+167,female|janisa|johnson|1991-09-22,Janisa Johnson,female,1991-09-22
+168,female|jaroslava|pencova|1990-06-24,Jaroslava Pencova,female,1990-06-24
+169,female|jeanine|stoeten|1991-11-20,Jeanine Stoeten,female,1991-11-20
+170,female|jelena|oluic|1994-01-15,Jelena Oluic,female,1994-01-15
+171,female|jelena|unji?|1994-01-04,Jelena unji?,female,1994-01-04
+172,female|jelena|wlk|1993-04-16,Jelena Wlk,female,1993-04-16
+173,female|jenna|hagglund|1989-05-28,Jenna Hagglund,female,1989-05-28
+174,female|jenna|potts|1994-02-28,Jenna Potts,female,1994-02-28
+175,female|jennifer|cross|1992-07-04,Jennifer Cross,female,1992-07-04
+176,female|jennifer|geerties|1994-04-05,Jennifer Geerties,female,1994-04-05
+177,female|jennifer|hamson|1992-01-23,Jennifer Hamson,female,1992-01-23
+178,female|jennifer|keddy|1991-10-28,Jennifer Keddy,female,1991-10-28
+179,female|jennifer|lundquist|1991-09-10,Jennifer Lundquist,female,1991-09-10
+180,female|jennifer|pettke|1989-05-29,Jennifer Pettke,female,1989-05-29
+181,female|jenni|liu|2000-05-29,Jenni Liu,female,2000-05-29
+182,female|jessica|goepner|1990-12-11,Jessica Goepner,female,1990-12-11
+183,female|jessica|rivero|1995-03-15,Jessica Rivero,female,1995-03-15
+184,female|jil|doehnert|1985-08-27,Jil Doehnert,female,1985-08-27
+185,female|jocelynn michelle|birks|1993-08-21,Jocelynn Michelle Birks,female,1993-08-21
+186,female|jodie|guilliams|1997-04-26,Jodie Guilliams,female,1997-04-26
+187,female|jordan joann|burgess|1994-07-20,Jordan Joann Burgess,female,1994-07-20
+188,female|jordanne|scott|1990-10-02,Jordanne Scott,female,1990-10-02
+189,female|josefin|bluhm|2000-03-10,Josefin Bluhm,female,2000-03-10
+190,female|josepha|bock|2000-01-23,Josepha Bock,female,2000-01-23
+191,female|josephine|doerfler|1987-07-09,Josephine Doerfler,female,1987-07-09
+192,female|josephine|suhr|1997-03-20,Josephine Suhr,female,1997-03-20
+193,female|jovana|gogic|1993-03-31,Jovana Gogic,female,1993-03-31
+194,female|juliana lia|valongo de castro|1985-06-30,Juliana Lia Valongo de Castro,female,1985-06-30
+195,female|juliane|becher|1997-06-12,Juliane Becher,female,1997-06-12
+196,female|juliane|langgemach|1994-11-06,Juliane Langgemach,female,1994-11-06
+197,female|juliane|noack|2000-05-10,Juliane Noack,female,2000-05-10
+198,female|julia|hero|1992-10-20,Julia Hero,female,1992-10-20
+199,female|julia|osterloh|1986-04-09,Julia Osterloh,female,1986-04-09
+200,female|julia|schaefer|1996-07-03,Julia Schaefer,female,1996-07-03
+201,female|julia|van den berghen|1995-10-12,Julia Van den Berghen,female,1995-10-12
+202,female|julia|wenzel|1998-01-12,Julia Wenzel,female,1998-01-12
+203,female|juliet|lohuis|1996-09-10,Juliet Lohuis,female,1996-09-10
+204,female|kadie|rolfzen|1994-08-25,Kadie Rolfzen,female,1994-08-25
+205,female|kaisa|alanko|1993-01-03,Kaisa Alanko,female,1993-01-03
+206,female|kaja|grobelna|1995-01-04,Kaja Grobelna,female,1995-01-04
+207,female|kaleigh|nelson|1992-08-04,Kaleigh Nelson,female,1992-08-04
+208,female|karen|lisson|1991-07-09,Karen Lisson,female,1991-07-09
+209,female|karine|muijlwijk|1988-02-16,Karine Muijlwijk,female,1988-02-16
+210,female|karmen|kocar|1982-12-01,Karmen Kocar,female,1982-12-01
+211,female|karolina|bednarova|1986-07-20,Karolina Bednarova,female,1986-07-20
+212,female|karolina|pi?la|1996-05-08,Karolina Pi?la,female,1996-05-08
+213,female|katarina|osadchuk|1991-11-18,Katarina Osadchuk,female,1991-11-18
+214,female|katarzyna|bryda|1990-04-30,Katarzyna Bryda,female,1990-04-30
+215,female|katharina maria|haferkamp|2002-02-12,Katharina Maria Haferkamp,female,2002-02-12
+216,female|katharina|holzer|1998-06-29,Katharina Holzer,female,1998-06-29
+217,female|katharina|schwabe|1993-04-29,Katharina Schwabe,female,1993-04-29
+218,female|katherine|harms|1990-11-29,Katherine Harms,female,1990-11-29
+219,female|kathleen elizabeth|slay|1991-11-04,Kathleen Elizabeth Slay,female,1991-11-04
+220,female|kathy|radzuweit|1982-03-02,Kathy Radzuweit,female,1982-03-02
+221,female|katja|kylmaeaho|1994-04-21,Katja Kylmaeaho,female,1994-04-21
+222,female|katlin marie|winters|1992-06-22,Katlin Marie Winters,female,1992-06-22
+223,female|kazmiere telonna|brown|1996-10-17,Kazmiere Telonna Brown,female,1996-10-17
+224,female|kerley liana|lehnen becker|1986-09-20,Kerley Liana Lehnen Becker,female,1986-09-20
+225,female|keylla|fabrino ramos|1986-05-13,Keylla Fabrino Ramos,female,1986-05-13
+226,female|kimberly|drewniok|1997-08-11,Kimberly Drewniok,female,1997-08-11
+227,female|kim|renkema|1987-06-28,Kim Renkema,female,1987-06-28
+228,female|kim|robitaille|1991-10-16,Kim Robitaille,female,1991-10-16
+229,female|kindra|carlson|1987-11-12,Kindra Carlson,female,1987-11-12
+230,female|kirsten|knip|1992-09-14,Kirsten Knip,female,1992-09-14
+231,female|klaudia|konieczna|1995-09-07,Klaudia Konieczna,female,1995-09-07
+232,female|krista marie|degeest|1990-01-10,Krista Marie DeGeest,female,1990-01-10
+233,female|kristen|hahn|1992-01-19,Kristen Hahn,female,1992-01-19
+234,female|kristina|bognar|1983-03-03,Kristina Bognar,female,1983-03-03
+235,female|kristina|mikhailenko|1992-03-26,Kristina Mikhailenko,female,1992-03-26
+236,female|krystal|rivers|1994-05-23,Krystal Rivers,female,1994-05-23
+237,female|ksenija|ivanovic|1986-05-22,Ksenija Ivanovic,female,1986-05-22
+238,female|kyla elizabeth|richey|1989-06-20,Kyla Elizabeth Richey,female,1989-06-20
+239,female|kylin|munoz|1991-08-08,Kylin Munoz,female,1991-08-08
+240,female|laetitia crescence|moma bassoko|1993-10-09,Laetitia Crescence Moma Bassoko,female,1993-10-09
+241,female|lara|berger|2001-11-02,Lara Berger,female,2001-11-02
+242,female|lara|kretschmer|2001-08-29,Lara Kretschmer,female,2001-08-29
+243,female|laura|dijkema|1990-02-18,Laura Dijkema,female,1990-02-18
+244,female|laura|emonts|1991-04-04,Laura Emonts,female,1991-04-04
+245,female|laura|kuenzler|1996-12-25,Laura Kuenzler,female,1996-12-25
+246,female|laura|kurtze|1998-07-23,Laura Kurtze,female,1998-07-23
+247,female|laura|mathias|1995-02-28,Laura Mathias,female,1995-02-28
+248,female|laura|pihlajamaeki|1990-08-15,Laura Pihlajamaeki,female,1990-08-15
+249,female|lauren|barfield|1990-03-15,Lauren Barfield,female,1990-03-15
+250,female|lauren|plum|1992-09-17,Lauren Plum,female,1992-09-17
+251,female|lauriane|truchetet|1984-04-07,Lauriane Truchetet,female,1984-04-07
+252,female|laurianne|delabarre|1987-04-24,Laurianne Delabarre,female,1987-04-24
+253,female|lea|ambrosius|2000-05-22,Lea Ambrosius,female,2000-05-22
+254,female|lena|grosse scharmann|1998-04-24,Lena Grosse Scharmann,female,1998-04-24
+255,female|lena|gschwendtner|1992-10-03,Lena Gschwendtner,female,1992-10-03
+256,female|lena|moellers|1990-01-06,Lena Moellers,female,1990-01-06
+257,female|lena|stigrot|1994-12-20,Lena Stigrot,female,1994-12-20
+258,female|lena|vedder|1995-08-12,Lena Vedder,female,1995-08-12
+259,female|lene|scheuschner|1996-07-12,Lene Scheuschner,female,1996-07-12
+260,female|lenka|duerr|1990-12-10,Lenka Duerr,female,1990-12-10
+261,female|leonie|schwertmann|1994-01-12,Leonie Schwertmann,female,1994-01-12
+262,female|lia-tabea|mertens|1994-05-31,Lia-Tabea Mertens,female,1994-05-31
+263,female|liana|mesa luaces|1977-12-26,Liana Mesa Luaces,female,1977-12-26
+264,female|liis|kullerkann|1991-05-02,Liis Kullerkann,female,1991-05-02
+265,female|lina-marie|lieb|2001-07-30,Lina-Marie Lieb,female,2001-07-30
+266,female|lina|alsmeier|2000-06-29,Lina Alsmeier,female,2000-06-29
+267,female|linda|bock|2000-05-27,Linda Bock,female,2000-05-27
+268,female|linda|broeske|1996-09-16,Linda Broeske,female,1996-09-16
+269,female|linda|doerendahl|1984-07-20,Linda Doerendahl,female,1984-07-20
+270,female|linda|helterhoff|1992-11-26,Linda Helterhoff,female,1992-11-26
+271,female|lindsay|dowd|1991-05-14,Lindsay Dowd,female,1991-05-14
+272,female|lindsay|stalzer|1984-07-25,Lindsay Stalzer,female,1984-07-25
+273,female|lisanne|meis|1996-12-31,Lisanne Meis,female,1996-12-31
+274,female|lisa|gruending|1991-12-02,Lisa Gruending,female,1991-12-02
+275,female|lisa|izquierdo-mocasqui|1994-08-29,Lisa Izquierdo-Mocasqui,female,1994-08-29
+276,female|lisa|ruehl|1989-09-22,Lisa Ruehl,female,1989-09-22
+277,female|lisa|senger|1998-07-06,Lisa Senger,female,1998-07-06
+278,female|lisa|stein|1994-01-12,Lisa Stein,female,1994-01-12
+279,female|lisa|stock|1994-06-06,Lisa Stock,female,1994-06-06
+280,female|lisa|thomsen|1985-08-20,Lisa Thomsen,female,1985-08-20
+281,female|litara|keil|1993-04-10,Litara Keil,female,1993-04-10
+282,female|liza|kastrup|1999-10-05,Liza Kastrup,female,1999-10-05
+283,female|lizbeth seomara|sainz|1995-12-14,Lizbeth Seomara Sainz,female,1995-12-14
+284,female|ljubica|kecman|1993-12-10,Ljubica Kecman,female,1993-12-10
+285,female|lonneke|sloeetjes|1990-11-15,Lonneke Sloeetjes,female,1990-11-15
+286,female|lorena alexandra|zuleta garcia|1981-01-16,Lorena Alexandra Zuleta Garcia,female,1981-01-16
+287,female|lorena|sipic|1990-11-11,Lorena Sipic,female,1990-11-11
+288,female|louisa|lippmann|1994-09-23,Louisa Lippmann,female,1994-09-23
+289,female|lousiane penha|souza ziegler|1985-07-30,Lousiane Penha Souza Ziegler,female,1985-07-30
+290,female|lucia daniela|fresco|1991-05-14,Lucia Daniela Fresco,female,1991-05-14
+291,female|lucie|smutna|1991-04-14,Lucie Smutna,female,1991-04-14
+292,female|lucille|charuk|1989-08-13,Lucille Charuk,female,1989-08-13
+293,female|luisa|keller|2001-08-25,Luisa Keller,female,2001-08-25
+294,female|luisa|sydlik|1996-12-24,Luisa Sydlik,female,1996-12-24
+295,female|luise|klein|1999-01-15,Luise Klein,female,1999-01-15
+296,female|luise|wolf|1997-11-14,Luise Wolf,female,1997-11-14
+297,female|luna veronica|carocci|1988-07-10,Luna Veronica Carocci,female,1988-07-10
+298,female|lydia|stemmler|2001-07-20,Lydia Stemmler,female,2001-07-20
+299,female|macy lanae|ubben|1991-06-24,Macy Lanae Ubben,female,1991-06-24
+300,female|madison jo|farrell|1996-04-22,Madison Jo Farrell,female,1996-04-22
+301,female|madison|bugg|1994-08-04,Madison Bugg,female,1994-08-04
+302,female|madisson|mahaffey|1993-08-09,Madisson Mahaffey,female,1993-08-09
+303,female|madleen|piest|1995-06-15,Madleen Piest,female,1995-06-15
+304,female|magdalena|gryka|1994-03-28,Magdalena Gryka,female,1994-03-28
+305,female|maiara|basso|1996-01-03,Maiara Basso,female,1996-01-03
+306,female|maike|herzog|1999-12-10,Maike Herzog,female,1999-12-10
+307,female|maja|burazer|1988-03-20,Maja Burazer,female,1988-03-20
+308,female|maja|storck|1998-10-08,Maja Storck,female,1998-10-08
+309,female|malina|terrell|1992-12-03,Malina Terrell,female,1992-12-03
+310,female|malin|schaefer|1998-12-04,Malin Schaefer,female,1998-12-04
+311,female|mallory grace|mccage|1994-02-02,Mallory Grace McCage,female,1994-02-02
+312,female|manuela|roani|1983-02-13,Manuela Roani,female,1983-02-13
+313,female|mareen|von roemer|1987-03-26,Mareen von Roemer,female,1987-03-26
+314,female|mareike|hindriksen|1987-11-14,Mareike Hindriksen,female,1987-11-14
+315,female|maren|fromm|1986-07-10,Maren Fromm,female,1986-07-10
+316,female|margaret|casault|1994-05-22,Margaret Casault,female,1994-05-22
+317,female|maria|dancheva|1995-12-04,Maria Dancheva,female,1995-12-04
+318,female|maria|kirsten|1996-05-08,Maria Kirsten,female,1996-05-08
+319,female|maria|segura palleres|1992-06-10,Maria Segura Palleres,female,1992-06-10
+320,female|marie-pier|murray methot|1986-03-23,Marie-Pier Murray Methot,female,1986-03-23
+321,female|marie|belitz|1998-03-25,Marie Belitz,female,1998-03-25
+322,female|marie|haenle|2002-09-08,Marie Haenle,female,2002-09-08
+323,female|marie|holstein|1997-04-15,Marie Holstein,female,1997-04-15
+324,female|marie|schoelzel|1997-08-01,Marie Schoelzel,female,1997-08-01
+325,female|marija|pucarevic|1990-08-20,Marija Pucarevic,female,1990-08-20
+326,female|marina|katic|1983-10-01,Marina Katic,female,1983-10-01
+327,female|marisa daralene|field|1987-07-10,Marisa Daralene Field,female,1987-07-10
+328,female|marlies|wagendorp|1993-11-10,Marlies Wagendorp,female,1993-11-10
+329,female|marrit|jasper|1996-02-28,Marrit Jasper,female,1996-02-28
+330,female|marta|drpa|1989-04-20,Marta Drpa,female,1989-04-20
+331,female|marta|swiechowska|1988-01-08,Marta Swiechowska,female,1988-01-08
+332,female|martenne julia|bettendorf|1994-04-01,Martenne Julia Bettendorf,female,1994-04-01
+333,female|martina|boscoscuro|1988-09-02,Martina Boscoscuro,female,1988-09-02
+334,female|martina|jelinkova|1989-05-01,Martina Jelinkova,female,1989-05-01
+335,female|martina|malevic|1990-12-07,Martina Malevic,female,1990-12-07
+336,female|martina|nosekova|1985-04-01,Martina Nosekova,female,1985-04-01
+337,female|martina|utla|1985-07-17,Martina Utla,female,1985-07-17
+338,female|martina|viestova|1984-05-21,Martina Viestova,female,1984-05-21
+339,female|matea|magdic|1991-11-16,Matea Magdic,female,1991-11-16
+340,female|mckenzie|adams|1992-02-13,Mckenzie Adams,female,1992-02-13
+341,female|mckenzie|jacobson|1995-01-17,McKenzie Jacobson,female,1995-01-17
+342,female|megan|cyr|1990-06-01,Megan Cyr,female,1990-06-01
+343,female|melanie|horn|1990-09-22,Melanie Horn,female,1990-09-22
+344,female|merle|weidt|1999-07-20,Merle Weidt,female,1999-07-20
+345,female|michaela|bertalanitsch|1991-01-06,Michaela Bertalanitsch,female,1991-01-06
+346,female|michaela|mlejnkova|1996-07-26,Michaela Mlejnkova,female,1996-07-26
+347,female|michaela|wessely|1995-11-01,Michaela Wessely,female,1995-11-01
+348,female|michala|kvapilova|1990-02-08,Michala Kvapilova,female,1990-02-08
+349,female|micheli|tomazela pissinato|1984-03-28,Micheli Tomazela Pissinato,female,1984-03-28
+350,female|michelle|bartsch|1990-02-12,Michelle Bartsch,female,1990-02-12
+351,female|michelle|petter|1997-02-04,Michelle Petter,female,1997-02-04
+352,female|miloslava|lauerova|1978-06-11,Miloslava Lauerova,female,1978-06-11
+353,female|mira|heimrich|1995-10-23,Mira Heimrich,female,1995-10-23
+354,female|miroslava|kuciakova|1989-01-31,Miroslava Kuciakova,female,1989-01-31
+355,female|moana|behrens|1995-07-02,Moana Behrens,female,1995-07-02
+356,female|molly|kreklow|1992-02-17,Molly Kreklow,female,1992-02-17
+357,female|mona|elwassimy|1990-02-07,Mona Elwassimy,female,1990-02-07
+358,female|monique|strubbe|2001-07-05,Monique Strubbe,female,2001-07-05
+359,female|morgan|bergren|1993-12-23,Morgan Bergren,female,1993-12-23
+360,female|myrthe mathilde|schoot|1988-08-29,Myrthe Mathilde Schoot,female,1988-08-29
+361,female|nadja|schaus|1984-11-08,Nadja Schaus,female,1984-11-08
+362,female|nanaka|sakamoto|1996-09-06,Nanaka Sakamoto,female,1996-09-06
+363,female|naoko|hashimoto|1984-07-11,Naoko Hashimoto,female,1984-07-11
+364,female|naomi|janetzke|2001-08-15,Naomi Janetzke,female,2001-08-15
+365,female|natalia|cukseeva|1990-01-22,Natalia Cukseeva,female,1990-01-22
+366,female|natalie|sabrowske|1998-10-17,Natalie Sabrowske,female,1998-10-17
+367,female|natalie|wilczek|2000-03-09,Natalie Wilczek,female,2000-03-09
+368,female|natasa|cikiriz|1995-06-26,Natasa Cikiriz,female,1995-06-26
+369,female|natascha|niemczyk|1990-02-07,Natascha Niemczyk,female,1990-02-07
+370,female|nathalie|lemmens|1995-03-12,Nathalie Lemmens,female,1995-03-12
+371,female|nele|barber|1994-10-27,Nele Barber,female,1994-10-27
+372,female|nele|iwohn|1996-09-15,Nele Iwohn,female,1996-09-15
+373,female|nia|grant|1993-05-08,Nia Grant,female,1993-05-08
+374,female|nichole|lindow|1992-08-06,Nichole Lindow,female,1992-08-06
+375,female|nicole|oude luttikhuis|1997-12-26,Nicole Oude Luttikhuis,female,1997-12-26
+376,female|nika|daalderop|1998-11-29,Nika Daalderop,female,1998-11-29
+377,female|nikola|nemcova|1991-04-24,Nikola Nemcova,female,1991-04-24
+378,female|nikola|radosova|1992-05-03,Nikola Radosova,female,1992-05-03
+379,female|nikoleta|perovic|1994-11-01,Nikoleta Perovic,female,1994-11-01
+380,female|nikolina|jelic|1991-11-09,Nikolina Jelic,female,1991-11-09
+381,female|nikol|sajdova|1988-07-20,Nikol Sajdova,female,1988-07-20
+382,female|nina|braack|1993-07-05,Nina Braack,female,1993-07-05
+383,female|nneka|onyejekwe|1989-08-18,Nneka Onyejekwe,female,1989-08-18
+384,female|norisha|campbell|1980-09-21,Norisha Campbell,female,1980-09-21
+385,female|nuria|lopes da silva|1991-12-26,Nuria Lopes da Silva,female,1991-12-26
+386,female|nynke|oud|1994-03-29,Nynke Oud,female,1994-03-29
+387,female|paige|tapp|1995-06-21,Paige Tapp,female,1995-06-21
+388,female|patricia|grohmann|1990-01-27,Patricia Grohmann,female,1990-01-27
+389,female|patricia|nestler|2001-05-17,Patricia Nestler,female,2001-05-17
+390,female|paula-katharina|reinisch|1998-10-07,Paula-Katharina Reinisch,female,1998-10-07
+391,female|paula|hoetschl|2000-09-07,Paula Hoetschl,female,2000-09-07
+392,female|paula|morgenroth|1999-04-07,Paula Morgenroth,female,1999-04-07
+393,female|pauliina|vilponen|1992-02-20,Pauliina Vilponen,female,1992-02-20
+394,female|pauline|kunkler|1997-09-30,Pauline Kunkler,female,1997-09-30
+395,female|pia philippa|weiand|1992-11-24,Pia Philippa Weiand,female,1992-11-24
+396,female|pia|kaestner|1998-06-29,Pia Kaestner,female,1998-06-29
+397,female|pia|leweling|1998-01-04,Pia Leweling,female,1998-01-04
+398,female|pia|riedel|1990-09-09,Pia Riedel,female,1990-09-09
+399,female|piia|korhonen|1997-01-12,Piia Korhonen,female,1997-01-12
+400,female|quirine|oosterveld|1990-03-05,Quirine Oosterveld,female,1990-03-05
+401,female|ralina|doshkova|1995-06-07,Ralina Doshkova,female,1995-06-07
+402,female|rebecca|pavan|1990-04-17,Rebecca Pavan,female,1990-04-17
+403,female|rebecca|perry|1988-12-29,Rebecca Perry,female,1988-12-29
+404,female|rebecca|schaeperklaus|1992-07-02,Rebecca Schaeperklaus,female,1992-07-02
+405,female|rebecka|lazic|1994-09-24,Rebecka Lazic,female,1994-09-24
+406,female|regina|mapeli burchardt|1983-07-01,Regina Mapeli Burchardt,female,1983-07-01
+407,female|renata|sandor|1990-12-15,Renata Sandor,female,1990-12-15
+408,female|rene|sain|1997-04-23,Rene Sain,female,1997-04-23
+409,female|rica|maase|1999-11-22,Rica Maase,female,1999-11-22
+410,female|riikka|tiilikainen|1990-10-09,Riikka Tiilikainen,female,1990-10-09
+411,female|romana|stankova|1991-04-13,Romana Stankova,female,1991-04-13
+412,female|romy|jatzko|2000-01-26,Romy Jatzko,female,2000-01-26
+413,female|ron|ponte|1988-07-14,Ron Ponte,female,1988-07-14
+414,female|roosa|koskelo|1991-08-20,Roosa Koskelo,female,1991-08-20
+415,female|roosa|laakkonen|1994-06-04,Roosa Laakkonen,female,1994-06-04
+416,female|roslandy|acosta alvarado|1992-02-25,Roslandy Acosta Alvarado,female,1992-02-25
+417,female|ruth keao anuenue|burdine|1983-01-02,Ruth Keao Anuenue Burdine,female,1983-01-02
+418,female|saana|koljonen|1988-08-22,Saana Koljonen,female,1988-08-22
+419,female|sabrina|krause|1998-12-18,Sabrina Krause,female,1998-12-18
+420,female|sandra|szaboova|1996-07-22,Sandra Szaboova,female,1996-07-22
+421,female|sarah|ammerman|1987-10-07,Sarah Ammerman,female,1987-10-07
+422,female|sarah|funk|1986-10-15,Sarah Funk,female,1986-10-15
+423,female|sarah|petrausch|1990-07-31,Sarah Petrausch,female,1990-07-31
+424,female|sarah|wickstrom|1993-04-05,Sarah Wickstrom,female,1993-04-05
+425,female|sarah|wilhite|1995-07-30,Sarah Wilhite,female,1995-07-30
+426,female|sara|shaw|1991-12-19,Sara Shaw,female,1991-12-19
+427,female|sasa|planinsec|1995-06-02,Sasa Planinsec,female,1995-06-02
+428,female|saskia|hippe|1991-01-16,Saskia Hippe,female,1991-01-16
+429,female|saskia|radzuweit|1991-05-12,Saskia Radzuweit,female,1991-05-12
+430,female|selina|conrad|1996-09-26,Selina Conrad,female,1996-09-26
+431,female|selma theresa|hetmann|1995-10-27,Selma Theresa Hetmann,female,1995-10-27
+432,female|shanice|marcelle|1990-05-28,Shanice Marcelle,female,1990-05-28
+433,female|shany|peham|1993-03-03,Shany Peham,female,1993-03-03
+434,female|silvana elisabet|olivera capelli|1984-08-05,Silvana Elisabet Olivera Capelli,female,1984-08-05
+435,female|silvana|chausheva|1995-05-19,Silvana Chausheva,female,1995-05-19
+436,female|silvia|baradel|1991-06-02,Silvia Baradel,female,1991-06-02
+437,female|silvia|sperl|1991-10-02,Silvia Sperl,female,1991-10-02
+438,female|simona|ciganikova|1998-09-03,Simona Ciganikova,female,1998-09-03
+439,female|simona|kosova|1992-03-27,Simona Kosova,female,1992-03-27
+440,female|sina|fuchs|1992-09-28,Sina Fuchs,female,1992-09-28
+441,female|sindy|lenz|1998-10-03,Sindy Lenz,female,1998-10-03
+442,female|sophie|dreblow|1998-07-09,Sophie Dreblow,female,1998-07-09
+443,female|sophie|schubert|1997-02-26,Sophie Schubert,female,1997-02-26
+444,female|sophie|tauchert|2000-12-24,Sophie Tauchert,female,2000-12-24
+445,female|srna|markovic|1996-06-06,Srna Markovic,female,1996-06-06
+446,female|stefanie|golla|1985-09-18,Stefanie Golla,female,1985-09-18
+447,female|stefanie|karg|1986-10-22,Stefanie Karg,female,1986-10-22
+448,female|steffi|kuhn|1996-05-12,Steffi Kuhn,female,1996-05-12
+449,female|susanne|besa|1994-07-29,Susanne Besa,female,1994-07-29
+450,female|svenja|engelhardt|1988-04-20,Svenja Engelhardt,female,1988-04-20
+451,female|svenja|enning|1999-10-24,Svenja Enning,female,1999-10-24
+452,female|tabitha|love|1991-09-11,Tabitha Love,female,1991-09-11
+453,female|tamari|miyashiro|1987-07-08,Tamari Miyashiro,female,1987-07-08
+454,female|tanja|grosser|1993-11-27,Tanja Grosser,female,1993-11-27
+455,female|tanja|joachim|1992-10-29,Tanja Joachim,female,1992-10-29
+456,female|tanja|sredic|1991-10-11,Tanja Sredic,female,1991-10-11
+457,female|tatiana|crkonova|1992-01-07,Tatiana Crkonova,female,1992-01-07
+458,female|tatjana|zautys|1980-05-04,Tatjana Zautys,female,1980-05-04
+459,female|tatyana|mudritskaya|1985-01-17,Tatyana Mudritskaya,female,1985-01-17
+460,female|taylor|agost|1996-05-31,Taylor Agost,female,1996-05-31
+461,female|taylor|bruns|1991-07-17,Taylor Bruns,female,1991-07-17
+462,female|taylor|milton|1992-08-22,Taylor Milton,female,1992-08-22
+463,female|teodora|pusic|1993-03-12,Teodora Pusic,female,1993-03-12
+464,female|teresa|mersmann|1990-04-18,Teresa Mersmann,female,1990-04-18
+465,female|tereza|patockova|1994-08-02,Tereza Patockova,female,1994-08-02
+466,female|tessa|polder|1997-10-10,Tessa Polder,female,1997-10-10
+467,female|tess|rountree|1993-08-14,Tess Rountree,female,1993-08-14
+468,female|tess|von piekartz|1992-07-24,Tess von Piekartz,female,1992-07-24
+469,female|valbona|ismaili|2003-02-24,Valbona Ismaili,female,2003-02-24
+470,female|valerie|courtois|1990-11-01,Valerie Courtois,female,1990-11-01
+471,female|valerie|nichol|1993-04-29,Valerie Nichol,female,1993-04-29
+472,female|vanessa|agbortabi|1998-12-04,Vanessa Agbortabi,female,1998-12-04
+473,female|vendula|merkova|1988-03-03,Vendula Merkova,female,1988-03-03
+474,female|veronika|hroncekova|1990-01-02,Veronika Hroncekova,female,1990-01-02
+475,female|veronika|kettenbach|1992-01-10,Veronika Kettenbach,female,1992-01-10
+476,female|veronika|trnkova|1995-10-13,Veronika Trnkova,female,1995-10-13
+477,female|veronik|skorupka|1988-08-25,Veronik Skorupka,female,1988-08-25
+478,female|victoria|bura|1996-09-14,Victoria Bura,female,1996-09-14
+479,female|wanna|buakaew|1981-01-02,Wanna Buakaew,female,1981-01-02
+480,female|whitney|little|1993-04-03,Whitney Little,female,1993-04-03
+481,female|wiebke|silge|1996-07-16,Wiebke Silge,female,1996-07-16
+482,female|wivian carine|gadelha de souza|1984-04-29,Wivian Carine Gadelha de Souza,female,1984-04-29
+483,female|yuki|shoji|1981-11-19,Yuki Shoji,female,1981-11-19
+484,female|yvon|belien|1993-12-28,Yvon Belien,female,1993-12-28
+485,female|zoe|liedtke|1999-05-14,Zoe Liedtke,female,1999-05-14
+486,male|adam|kocian|1995-04-01,Adam Kocian,male,1995-04-01
+487,male|adam|schriemer|1995-08-17,Adam Schriemer,male,1995-08-17
+488,male|adam|white|1989-11-08,Adam White,male,1989-11-08
+489,male|adrian radu|gontariu|1984-05-14,Adrian Radu Gontariu,male,1984-05-14
+490,male|aitor|canca fernandez|1982-11-30,Aitor Canca Fernandez,male,1982-11-30
+491,male|akhrorjon|sobirov|1990-04-06,Akhrorjon Sobirov,male,1990-04-06
+492,male|alan|wasilewski|1991-07-23,Alan Wasilewski,male,1991-07-23
+493,male|aleksandar|milovancevic|1986-04-29,Aleksandar Milovancevic,male,1986-04-29
+494,male|aleksandar|okolic|1993-06-26,Aleksandar Okolic,male,1993-06-26
+495,male|aleksandar|spirovski|1978-08-16,Aleksandar Spirovski,male,1978-08-16
+496,male|alexey|nalobin|1989-10-03,Alexey Nalobin,male,1989-10-03
+497,male|alex|duncan-thibault|1994-05-04,Alex Duncan-Thibault,male,1994-05-04
+498,male|alpar jozsef|szabo|1990-07-26,Alpar Jozsef Szabo,male,1990-07-26
+499,male|andreas|fragkos|1989-12-21,Andreas Fragkos,male,1989-12-21
+500,male|andreas|takvam|1993-06-04,Andreas Takvam,male,1993-06-04
+501,male|andrew|benz|1994-04-21,Andrew Benz,male,1994-04-21
+502,male|andrew|nally|1988-06-07,Andrew Nally,male,1988-06-07
+503,male|andre|brown|1990-08-24,Andre Brown,male,1990-08-24
+504,male|andre|illmer|1997-03-20,Andre Illmer,male,1997-03-20
+505,male|andri|aganits|1993-09-07,Andri Aganits,male,1993-09-07
+506,male|angel|trinidad de haro|1993-03-27,Angel Trinidad de Haro,male,1993-03-27
+507,male|anton|brehme|1999-08-10,Anton Brehme,male,1999-08-10
+508,male|anton|frank|2000-02-07,Anton Frank,male,2000-02-07
+509,male|anton|qafarena|1997-06-11,Anton Qafarena,male,1997-06-11
+510,male|antti|poikela|1989-04-06,Antti Poikela,male,1989-04-06
+511,male|antwain|aguillard|1989-08-22,Antwain Aguillard,male,1989-08-22
+512,male|ariel|katzenelson|1993-09-09,Ariel Katzenelson,male,1993-09-09
+513,male|armin|mustedanovic|1986-04-26,Armin Mustedanovic,male,1986-04-26
+514,male|arpad|baroti|1991-10-23,Arpad Baroti,male,1991-10-23
+515,male|arran|chambers|1995-04-12,Arran Chambers,male,1995-04-12
+516,male|artem|sushko|1993-12-24,Artem Sushko,male,1993-12-24
+517,male|artur bartosz|augustyn|1983-01-06,Artur Bartosz Augustyn,male,1983-01-06
+518,male|arvid|kinder|1980-12-06,Arvid Kinder,male,1980-12-06
+519,male|aske|soerensen moerkeberg|1993-04-20,Aske Soerensen Moerkeberg,male,1993-04-20
+520,male|athanasios|protopsaltis|1993-09-12,Athanasios Protopsaltis,male,1993-09-12
+521,male|axel|jacobsen|1984-07-10,Axel Jacobsen,male,1984-07-10
+522,male|baptiste|geiler|1987-03-12,Baptiste Geiler,male,1987-03-12
+523,male|bartlomiej|bolqdzl|1994-09-28,Bartlomiej Bolqdzl,male,1994-09-28
+524,male|bartosz|kaczmarek|1991-01-17,Bartosz Kaczmarek,male,1991-01-17
+525,male|bartosz|pietruczuk|1993-02-26,Bartosz Pietruczuk,male,1993-02-26
+526,male|bartosz|sufa|1987-08-11,Bartosz Sufa,male,1987-08-11
+527,male|bastian|ellerkmann|1996-02-03,Bastian Ellerkmann,male,1996-02-03
+528,male|bas|van bemmelen|1989-08-18,Bas van Bemmelen,male,1989-08-18
+529,male|benedikt|doranth|1987-12-28,Benedikt Doranth,male,1987-12-28
+530,male|benedikt|sagstetter|2000-12-30,Benedikt Sagstetter,male,2000-12-30
+531,male|benjamin|kucera|1980-09-03,Benjamin Kucera,male,1980-09-03
+532,male|benjamin|patch|1994-06-21,Benjamin Patch,male,1994-06-21
+533,male|benjamin|toniutti|1989-10-30,Benjamin Toniutti,male,1989-10-30
+534,male|benny|nibbrig|1990-07-19,Benny Nibbrig,male,1990-07-19
+535,male|bjoern|andrae|1981-05-14,Bjoern Andrae,male,1981-05-14
+536,male|bjoern|hoehne|1991-03-27,Bjoern Hoehne,male,1991-03-27
+537,male|blair|bann|1988-02-26,Blair Bann,male,1988-02-26
+538,male|brook|sedore|1993-04-22,Brook Sedore,male,1993-04-22
+539,male|bruno|lima|1996-02-04,Bruno Lima,male,1996-02-04
+540,male|bryan joseph|fraser|1991-01-31,Bryan Joseph Fraser,male,1991-01-31
+541,male|carlos|mora sabate|1990-03-19,Carlos Mora Sabate,male,1990-03-19
+542,male|casey adam|schouten|1994-03-29,Casey Adam Schouten,male,1994-03-29
+543,male|casper|munk christiansen|1986-06-25,Casper Munk Christiansen,male,1986-06-25
+544,male|christian|duennes|1984-06-16,Christian Duennes,male,1984-06-16
+545,male|christian|gosmann|1992-07-02,Christian Gosmann,male,1992-07-02
+546,male|christian|heymann|1986-09-20,Christian Heymann,male,1986-09-20
+547,male|christoph|marks|1997-04-16,Christoph Marks,male,1997-04-16
+548,male|chris|zuidberg|1994-09-02,Chris Zuidberg,male,1994-09-02
+549,male|ciaran|mcgovern|1989-06-05,Ciaran McGovern,male,1989-06-05
+550,male|cody|kessel|1991-12-03,Cody Kessel,male,1991-12-03
+551,male|corbin|balster|1997-03-03,Corbin Balster,male,1997-03-03
+552,male|daan|van haarlem|1989-03-15,Daan van Haarlem,male,1989-03-15
+553,male|daniel|ford|1994-08-26,Daniel Ford,male,1994-08-26
+554,male|daniel|heinecke|1986-06-28,Daniel Heinecke,male,1986-06-28
+555,male|daniel|koncal|1982-09-16,Daniel Koncal,male,1982-09-16
+556,male|daniel|malescha|1994-04-28,Daniel Malescha,male,1994-04-28
+557,male|danilo|gelinski|1990-03-13,Danilo Gelinski,male,1990-03-13
+558,male|davic|meder|1992-10-17,Davic Meder,male,1992-10-17
+559,male|david oliver|martin|1995-03-30,David Oliver Martin,male,1995-03-30
+560,male|david|molnar|1984-11-22,David Molnar,male,1984-11-22
+561,male|david|pettersson|1994-01-21,David Pettersson,male,1994-01-21
+562,male|david|seybering|1995-12-19,David Seybering,male,1995-12-19
+563,male|david|sossenheimer|1996-06-21,David Sossenheimer,male,1996-06-21
+564,male|dejan|skocic|1983-05-09,Dejan Skocic,male,1983-05-09
+565,male|dennis|barthel|1996-03-21,Dennis Barthel,male,1996-03-21
+566,male|dennis|hefter|1993-03-04,Dennis Hefter,male,1993-03-04
+567,male|diego|ferreira guardiano|1982-01-11,Diego Ferreira Guardiano,male,1982-01-11
+568,male|dirk|mehlberg|1985-01-10,Dirk Mehlberg,male,1985-01-10
+569,male|dirk|pietzonka|1991-12-14,Dirk Pietzonka,male,1991-12-14
+570,male|dirk|westphal|1986-01-31,Dirk Westphal,male,1986-01-31
+571,male|douglas|duarte souza da silva|1983-09-24,Douglas Duarte Souza Da Silva,male,1983-09-24
+572,male|dustin|watten|1986-10-27,Dustin Watten,male,1986-10-27
+573,male|dylan|davis|1991-04-06,Dylan Davis,male,1991-04-06
+574,male|eder|pinheiro|1984-01-24,Eder Pinheiro,male,1984-01-24
+575,male|edvarts|buivids|1993-12-04,Edvarts Buivids,male,1993-12-04
+576,male|egor|bogachev|1997-04-06,Egor Bogachev,male,1997-04-06
+577,male|enrico|ehrhardt|1983-12-04,Enrico Ehrhardt,male,1983-12-04
+578,male|eric|burggraef|1999-03-10,Eric Burggraef,male,1999-03-10
+579,male|eric|fitterer|1993-04-26,Eric Fitterer,male,1993-04-26
+580,male|eric|grosche|1989-01-24,Eric Grosche,male,1989-01-24
+581,male|erik john|mattson|1990-12-18,Erik John Mattson,male,1990-12-18
+582,male|erik|niederluecke|1999-04-25,Erik Niederluecke,male,1999-04-25
+583,male|erik|roehrs|2001-04-24,Erik Roehrs,male,2001-04-24
+584,male|erik|shoji|1989-08-24,Erik Shoji,male,1989-08-24
+585,male|eugenio|dolfo|1987-06-23,Eugenio Dolfo,male,1987-06-23
+586,male|evan|barry|1990-05-10,Evan Barry,male,1990-05-10
+587,male|ewoud|gommans|1990-11-17,Ewoud Gommans,male,1990-11-17
+588,male|fabian|breinbauer|1993-11-14,Fabian Breinbauer,male,1993-11-14
+589,male|falko|steinke|1985-03-26,Falko Steinke,male,1985-03-26
+590,male|federico|cipollone|1994-05-04,Federico Cipollone,male,1994-05-04
+591,male|felix|fischer|1983-02-27,Felix Fischer,male,1983-02-27
+592,male|felix|goebert|1996-10-04,Felix Goebert,male,1996-10-04
+593,male|felix|isaak|1989-09-02,Felix Isaak,male,1989-09-02
+594,male|felix|orthmann|1996-06-01,Felix Orthmann,male,1996-06-01
+595,male|ferdinand|tille|1988-12-08,Ferdinand Tille,male,1988-12-08
+596,male|ferenc|nemeth|1987-05-16,Ferenc Nemeth,male,1987-05-16
+597,male|filip|gavenda|1996-01-13,Filip Gavenda,male,1996-01-13
+598,male|filip|palgut|1991-09-23,Filip Palgut,male,1991-09-23
+599,male|finn|dittelbach|1990-04-13,Finn Dittelbach,male,1990-04-13
+600,male|florian|hecht|1993-05-30,Florian Hecht,male,1993-05-30
+601,male|florian|krage|1997-01-11,Florian Krage,male,1997-01-11
+602,male|florian|lacassie|1990-11-16,Florian Lacassie,male,1990-11-16
+603,male|florian|lueddemann|1997-04-13,Florian Lueddemann,male,1997-04-13
+604,male|florian|malescha|1988-03-31,Florian Malescha,male,1988-03-31
+605,male|florian|ringseis|1992-07-09,Florian Ringseis,male,1992-07-09
+606,male|florian|voelker|1991-05-06,Florian Voelker,male,1991-05-06
+607,male|francesco|de marchi|1986-06-17,Francesco De Marchi,male,1986-06-17
+608,male|friederich|nagel|1993-09-29,Friederich Nagel,male,1993-09-29
+609,male|genadi|sokolov|1992-05-14,Genadi Sokolov,male,1992-05-14
+610,male|georgi veselinov|topalov|1993-03-23,Georgi Veselinov Topalov,male,1993-03-23
+611,male|georg|escher|1994-12-08,Georg Escher,male,1994-12-08
+612,male|georg|klein|1991-08-22,Georg Klein,male,1991-08-22
+613,male|georg|zobel|1995-10-11,Georg Zobel,male,1995-10-11
+614,male|german|johansen|1995-09-02,German Johansen,male,1995-09-02
+615,male|gerrard|lipscombe|1993-06-04,Gerrard Lipscombe,male,1993-06-04
+616,male|gijs|van solkema|1998-05-21,Gijs van Solkema,male,1998-05-21
+617,male|gilles|braas|1992-03-17,Gilles Braas,male,1992-03-17
+618,male|graham|mc ilvaine|1992-08-02,Graham Mc Ilvaine,male,1992-08-02
+619,male|graham|vigrass|1989-06-17,Graham Vigrass,male,1989-06-17
+620,male|griffin|shields|1995-02-18,Griffin Shields,male,1995-02-18
+621,male|hans-peter|nuernberger|1985-07-25,Hans-Peter Nuernberger,male,1985-07-25
+622,male|hans|cipowicz|1989-09-25,Hans Cipowicz,male,1989-09-25
+623,male|hauke|wagner|1987-05-30,Hauke Wagner,male,1987-05-30
+624,male|henrik|behmenburg|1997-08-11,Henrik Behmenburg,male,1997-08-11
+625,male|hugo|de leon guimaraes da silva|1990-07-04,Hugo De Leon Guimaraes Da Silva,male,1990-07-04
+626,male|huib|den boer|1981-11-11,Huib den Boer,male,1981-11-11
+627,male|humberto|machacon|1989-10-05,Humberto Machacon,male,1989-10-05
+628,male|idner faustino|lima martins|1978-12-19,Idner Faustino Lima Martins,male,1978-12-19
+629,male|igor oskar|grobelny|1993-06-08,Igor Oskar Grobelny,male,1993-06-08
+630,male|ilya|zhilin|1985-05-10,Ilya Zhilin,male,1985-05-10
+631,male|immo|brueggemann|1991-01-17,Immo Brueggemann,male,1991-01-17
+632,male|irvan|brar|1995-04-24,Irvan Brar,male,1995-04-24
+633,male|issei|otake|1995-12-03,Issei Otake,male,1995-12-03
+634,male|itamar|stein|1983-02-12,Itamar Stein,male,1983-02-12
+635,male|iurgen|hummes specht|1991-12-21,Iurgen Hummes Specht,male,1991-12-21
+636,male|iurii|kruzhkov|1994-03-14,Iurii Kruzhkov,male,1994-03-14
+637,male|ivan|batanov|2000-04-25,Ivan Batanov,male,2000-04-25
+638,male|ivaylo bozhidarov|ivanov|1997-04-12,Ivaylo Bozhidarov Ivanov,male,1997-04-12
+639,male|iven fietje|ferch|1997-09-18,Iven Fietje Ferch,male,1997-09-18
+640,male|jacob edward|arnitz|1995-07-15,Jacob Edward Arnitz,male,1995-07-15
+641,male|jairo joshua armand|hooi|1978-03-13,Jairo Joshua Armand Hooi,male,1978-03-13
+642,male|jakob|guenthoer|1995-09-21,Jakob Guenthoer,male,1995-09-21
+643,male|jakub|janouch|1990-06-13,Jakub Janouch,male,1990-06-13
+644,male|jan-philipp|krabel|1998-03-24,Jan-Philipp Krabel,male,1998-03-24
+645,male|jan-philipp|marks|1992-04-03,Jan-Philipp Marks,male,1992-04-03
+646,male|jani|sippola|1990-05-04,Jani Sippola,male,1990-05-04
+647,male|jannik|poerner|1994-07-13,Jannik Poerner,male,1994-07-13
+648,male|jannis|hopt|1996-08-03,Jannis Hopt,male,1996-08-03
+649,male|janusz|gorski|1992-04-02,Janusz Gorski,male,1992-04-02
+650,male|jan|jalowietzki|1996-02-16,Jan Jalowietzki,male,1996-02-16
+651,male|jan|klobucar|1992-12-11,Jan Klobucar,male,1992-12-11
+652,male|jan|krol|1989-08-23,Jan Krol,male,1989-08-23
+653,male|jan|roeling|1999-09-15,Jan Roeling,male,1999-09-15
+654,male|jan|wenke|1989-11-01,Jan Wenke,male,1989-11-01
+655,male|jan|zimmermann|1993-02-12,Jan Zimmermann,male,1993-02-12
+656,male|jaromir|zachrich|1985-04-14,Jaromir Zachrich,male,1985-04-14
+657,male|jaroslaw|lech|1984-07-29,Jaroslaw Lech,male,1984-07-29
+658,male|jay|blankenau|1989-09-27,Jay Blankenau,male,1989-09-27
+659,male|jeffrey|jendryk ii|1995-09-15,Jeffrey Jendryk II,male,1995-09-15
+660,male|jelle|hilarius|1988-10-10,Jelle Hilarius,male,1988-10-10
+661,male|jenia|grebennikov|1990-08-13,Jenia Grebennikov,male,1990-08-13
+662,male|jens|sandmeier|1995-08-16,Jens Sandmeier,male,1995-08-16
+663,male|jerôme|clere|1990-08-02,Jerôme Clere,male,1990-08-02
+664,male|johannes|bontje|1981-05-12,Johannes Bontje,male,1981-05-12
+665,male|johannes|elsaesser|1994-07-12,Johannes Elsaesser,male,1994-07-12
+666,male|johannes|engel|1991-05-18,Johannes Engel,male,1991-05-18
+667,male|johannes|kessler|1992-03-28,Johannes Kessler,male,1992-03-28
+668,male|johannes|moennich|1997-11-10,Johannes Moennich,male,1997-11-10
+669,male|johannes|schief|1997-10-03,Johannes Schief,male,1997-10-03
+670,male|johannes|tille|1997-05-07,Johannes Tille,male,1997-05-07
+671,male|jonas|ickerott|1989-06-29,Jonas Ickerott,male,1989-06-29
+672,male|jonas|kaminski|1996-05-08,Jonas Kaminski,male,1996-05-08
+673,male|jonas|sagstetter|1999-04-21,Jonas Sagstetter,male,1999-04-21
+674,male|jordan|or|1992-06-18,Jordan Or,male,1992-06-18
+675,male|joren|zeeman|1989-05-31,Joren Zeeman,male,1989-05-31
+676,male|jose pedro|gomes|1994-10-21,Jose Pedro Gomes,male,1994-10-21
+677,male|joseph|sunder|1989-05-18,Joseph Sunder,male,1989-05-18
+678,male|juan ignacio|finoli|1991-11-05,Juan Ignacio Finoli,male,1991-11-05
+679,male|juan pablo|moreno mosquera|1997-11-11,Juan Pablo Moreno Mosquera,male,1997-11-11
+680,male|julian|hoyer|2001-09-18,Julian Hoyer,male,2001-09-18
+681,male|julian|meissner|1999-03-04,Julian Meissner,male,1999-03-04
+682,male|julian|zenger|1997-08-26,Julian Zenger,male,1997-08-26
+683,male|julius|firkal|1998-01-14,Julius Firkal,male,1998-01-14
+684,male|julius|hoefer|1992-03-10,Julius Hoefer,male,1992-03-10
+685,male|julius|thole|1997-05-17,Julius Thole,male,1997-05-17
+686,male|kamil|ratajczak|1985-09-24,Kamil Ratajczak,male,1985-09-24
+687,male|karli|allik|1996-09-25,Karli Allik,male,1996-09-25
+688,male|kawika|shoji|1987-11-11,Kawika Shoji,male,1987-11-11
+689,male|kenneth michael|rooney|1994-04-01,Kenneth Michael Rooney,male,1994-04-01
+690,male|kevin|foyer|1990-10-11,Kevin Foyer,male,1990-10-11
+691,male|kirill|klets|1998-03-15,Kirill Klets,male,1998-03-15
+692,male|konrad|thole|1999-09-14,Konrad Thole,male,1999-09-14
+693,male|konstantin|shumov|1985-02-15,Konstantin Shumov,male,1985-02-15
+694,male|kristen|clero|1990-09-24,Kristen Clero,male,1990-09-24
+695,male|kyle|russell|1993-08-25,Kyle Russell,male,1993-08-25
+696,male|lars|wilmsen|1993-07-14,Lars Wilmsen,male,1993-07-14
+697,male|lennart|bevers|1993-07-10,Lennart Bevers,male,1993-07-10
+698,male|leonhard|tille|1995-03-17,Leonhard Tille,male,1995-03-17
+699,male|leon|dervisaj|1996-09-07,Leon Dervisaj,male,1996-09-07
+700,male|leon|meier|2002-01-28,Leon Meier,male,2002-01-28
+701,male|levin|gust|1999-03-16,Levin Gust,male,1999-03-16
+702,male|lincoln alexander|williams|1993-10-06,Lincoln Alexander Williams,male,1993-10-06
+703,male|linus|weber|1999-11-01,Linus Weber,male,1999-11-01
+704,male|lorenz|karlitzek|1999-02-17,Lorenz Karlitzek,male,1999-02-17
+705,male|louis|brehme|1999-08-10,Louis Brehme,male,1999-08-10
+706,male|louis|kunstmann|2000-09-10,Louis Kunstmann,male,2000-09-10
+707,male|lubos|kostolani|1990-11-28,Lubos Kostolani,male,1990-11-28
+708,male|lucas|coleman|1995-01-14,Lucas Coleman,male,1995-01-14
+709,male|lucas|provenzano joao de deus|1987-01-26,Lucas Provenzano Joao De Deus,male,1987-01-26
+710,male|lucas|van berkel|1991-11-29,Lucas Van Berkel,male,1991-11-29
+711,male|luis fernando joventino|venceslau|1989-09-25,Luis Fernando Joventino Venceslau,male,1989-09-25
+712,male|lukasz|szablewski|1988-10-05,Lukasz Szablewski,male,1988-10-05
+713,male|lukasz|szarek|1990-02-22,Lukasz Szarek,male,1990-02-22
+714,male|lukas|bauer|1989-02-26,Lukas Bauer,male,1989-02-26
+715,male|lukas|maase|1998-08-28,Lukas Maase,male,1998-08-28
+716,male|lukas|pfretzschner|2000-01-13,Lukas Pfretzschner,male,2000-01-13
+717,male|lukas|radzuweit|1997-01-31,Lukas Radzuweit,male,1997-01-31
+718,male|lukas|schattenberg|1995-09-11,Lukas Schattenberg,male,1995-09-11
+719,male|luke thomas a.|herr|1994-07-18,Luke Thomas A. Herr,male,1994-07-18
+720,male|luke|perry|1995-11-20,Luke Perry,male,1995-11-20
+721,male|luke|smith|1990-08-30,Luke Smith,male,1990-08-30
+722,male|maarten|van garderen|1990-01-24,Maarten van Garderen,male,1990-01-24
+723,male|maciej|polanski|1993-12-18,Maciej Polanski,male,1993-12-18
+724,male|mads|moellgaard|1995-05-07,Mads Moellgaard,male,1995-05-07
+725,male|magloire|mayaula nzeza|1993-06-06,Magloire Mayaula Nzeza,male,1993-06-06
+726,male|maksim|buculjevic|1991-09-20,Maksim Buculjevic,male,1991-09-20
+727,male|malte|neubert|1996-06-17,Malte Neubert,male,1996-06-17
+728,male|manuel|rieke|1982-10-23,Manuel Rieke,male,1982-10-23
+729,male|marc anthony|honore|1984-06-12,Marc Anthony Honore,male,1984-06-12
+730,male|marcin|brzezinski|1991-07-01,Marcin Brzezinski,male,1991-07-01
+731,male|marcus|boehme|1985-08-25,Marcus Boehme,male,1985-08-25
+732,male|marek|beer|1988-05-24,Marek Beer,male,1988-05-24
+733,male|marien|moreau|1983-10-25,Marien Moreau,male,1983-10-25
+734,male|mario|schmidgall|1998-05-02,Mario Schmidgall,male,1998-05-02
+735,male|marius|appel|1992-11-18,Marius Appel,male,1992-11-18
+736,male|markus|pielmeier|1987-10-06,Markus Pielmeier,male,1987-10-06
+737,male|markus|steuerwald|1989-03-07,Markus Steuerwald,male,1989-03-07
+738,male|mark|plotyczer|1987-02-19,Mark Plotyczer,male,1987-02-19
+739,male|martin|atanasov|1996-09-27,Martin Atanasov,male,1996-09-27
+740,male|martin|kross|1993-04-12,Martin Kross,male,1993-04-12
+741,male|martin|krueger|1994-01-10,Martin Krueger,male,1994-01-10
+742,male|martin|krystof|1982-10-11,Martin Krystof,male,1982-10-11
+743,male|martin|merkel|1989-12-27,Martin Merkel,male,1989-12-27
+744,male|martti|juhkami|1988-06-06,Martti Juhkami,male,1988-06-06
+745,male|mart|van werkhoven|1991-12-11,Mart van Werkhoven,male,1991-12-11
+746,male|marvin|prolingheuer|1990-06-29,Marvin Prolingheuer,male,1990-06-29
+747,male|masahiro|yanagida|1992-07-06,Masahiro Yanagida,male,1992-07-06
+748,male|mathaeus|jurkovics|1998-04-27,Mathaeus Jurkovics,male,1998-04-27
+749,male|matthew alan|seifert|1992-12-11,Matthew Alan Seifert,male,1992-12-11
+750,male|matthew william|leske|1991-05-17,Matthew William Leske,male,1991-05-17
+751,male|matthew|pollock|1990-04-26,Matthew Pollock,male,1990-04-26
+752,male|matthew|tarantino|1993-07-05,Matthew Tarantino,male,1993-07-05
+753,male|matthew|west|1993-10-01,Matthew West,male,1993-10-01
+754,male|matthias|boehme|1987-07-23,Matthias Boehme,male,1987-07-23
+755,male|matthias|penk|1988-02-11,Matthias Penk,male,1988-02-11
+756,male|matthias|pompe|1984-02-15,Matthias Pompe,male,1984-02-15
+757,male|matti|binder|1998-10-02,Matti Binder,male,1998-10-02
+758,male|maximiliano|gauna|1989-04-29,Maximiliano Gauna,male,1989-04-29
+759,male|maximilian|auste|1997-01-27,Maximilian Auste,male,1997-01-27
+760,male|maximilian|horn|1996-08-07,Maximilian Horn,male,1996-08-07
+761,male|maximilian|meuter|1989-11-24,Maximilian Meuter,male,1989-11-24
+762,male|maximilian|stroebl|1997-03-04,Maximilian Stroebl,male,1997-03-04
+763,male|max|guenthoer|1985-08-09,Max Guenthoer,male,1985-08-09
+764,male|max|kessel|1992-05-02,Max Kessel,male,1992-05-02
+765,male|merten|krueger|1990-11-08,Merten Krueger,male,1990-11-08
+766,male|michael|amoroso|1989-05-10,Michael Amoroso,male,1989-05-10
+767,male|michael|andrei|1985-08-06,Michael Andrei,male,1985-08-06
+768,male|michael|brinkley|1992-10-15,Michael Brinkley,male,1992-10-15
+769,male|michael|neumeister|1985-06-06,Michael Neumeister,male,1985-06-06
+770,male|michael|parkinson|1991-11-23,Michael Parkinson,male,1991-11-23
+771,male|michael|wehl|1990-07-27,Michael Wehl,male,1990-07-27
+772,male|michal|finger|1993-09-02,Michal Finger,male,1993-09-02
+773,male|michal|krisko|1988-11-23,Michal Krisko,male,1988-11-23
+774,male|michal|petras|1996-12-05,Michal Petras,male,1996-12-05
+775,male|michal|sladecek|1980-02-12,Michal Sladecek,male,1980-02-12
+776,male|michel|schlien|1992-03-05,Michel Schlien,male,1992-03-05
+777,male|milan|hrinak|1985-10-15,Milan Hrinak,male,1985-10-15
+778,male|milija|mrdak|1991-10-26,Milija Mrdak,male,1991-10-26
+779,male|mitchell peter|tulley|1996-10-15,Mitchell Peter Tulley,male,1996-10-15
+780,male|mitchell steven|penning|1995-05-26,Mitchell Steven Penning,male,1995-05-26
+781,male|moritz|karlitzek|1996-08-12,Moritz Karlitzek,male,1996-08-12
+782,male|moritz|mueller|1988-04-29,Moritz Mueller,male,1988-04-29
+783,male|moritz|rauber|1997-02-16,Moritz Rauber,male,1997-02-16
+784,male|moritz|reichert|1995-03-15,Moritz Reichert,male,1995-03-15
+785,male|nehemiah alesana|mote|1993-06-21,Nehemiah Alesana Mote,male,1993-06-21
+786,male|nenad|sormaz|1992-03-19,Nenad Sormaz,male,1992-03-19
+787,male|nicholas bernhard|west|1991-10-09,Nicholas Bernhard West,male,1991-10-09
+788,male|nicholas|del bianco|1992-02-06,Nicholas Del Bianco,male,1992-02-06
+789,male|nicholas|vogel|1990-02-05,Nicholas Vogel,male,1990-02-05
+790,male|nicolai|grabmueller|1996-04-18,Nicolai Grabmueller,male,1996-04-18
+791,male|nicolas|le goff|1992-02-15,Nicolas Le Goff,male,1992-02-15
+792,male|nicolas|marks|1994-09-23,Nicolas Marks,male,1994-09-23
+793,male|nicolas|rossard|1990-05-23,Nicolas Rossard,male,1990-05-23
+794,male|nico|zager|1994-03-05,Nico Zager,male,1994-03-05
+795,male|niklas|kronthaler|1994-05-14,Niklas Kronthaler,male,1994-05-14
+796,male|niklas|lichtenauer|2000-11-13,Niklas Lichtenauer,male,2000-11-13
+797,male|niklas|rudolf|1996-03-06,Niklas Rudolf,male,1996-03-06
+798,male|niklas|trogisch|1997-01-17,Niklas Trogisch,male,1997-01-17
+799,male|nikolas|rukavina|1989-04-28,Nikolas Rukavina,male,1989-04-28
+800,male|nikola|jovovic|1992-02-13,Nikola Jovovic,male,1992-02-13
+801,male|nikola|poluga|1986-03-01,Nikola Poluga,male,1986-03-01
+802,male|nils|ehlers|1994-02-04,Nils Ehlers,male,1994-02-04
+803,male|noah|baxpoehler|1993-08-13,Noah Baxpoehler,male,1993-08-13
+804,male|norbert|engemann|1997-09-17,Norbert Engemann,male,1997-09-17
+805,male|oleksandr|dmytriiev|1987-07-20,Oleksandr Dmytriiev,male,1987-07-20
+806,male|ole|schwarmann|1999-05-15,Ole Schwarmann,male,1999-05-15
+807,male|oliver|gies|1985-06-28,Oliver Gies,male,1985-06-28
+808,male|oliver|staab|1987-11-11,Oliver Staab,male,1987-11-11
+809,male|oscar|rodriguez capel|1982-06-08,Oscar Rodriguez Capel,male,1982-06-08
+810,male|oskar|klingner|1991-03-15,Oskar Klingner,male,1991-03-15
+811,male|oskar|wetter|1995-06-14,Oskar Wetter,male,1995-06-14
+812,male|ossi|rumpunen|1989-04-18,Ossi Rumpunen,male,1989-04-18
+813,male|patrick|kruse|1988-09-06,Patrick Kruse,male,1988-09-06
+814,male|patrick|speta|1991-11-15,Patrick Speta,male,1991-11-15
+815,male|patrick|steuerwald|1986-03-03,Patrick Steuerwald,male,1986-03-03
+816,male|paul|buchegger|1996-03-04,Paul Buchegger,male,1996-03-04
+817,male|paul|carroll|1986-05-16,Paul Carroll,male,1986-05-16
+818,male|paul|henning|1997-09-28,Paul Henning,male,1997-09-28
+819,male|paul|lohrisch|1987-04-11,Paul Lohrisch,male,1987-04-11
+820,male|paul|lotman|1985-11-03,Paul Lotman,male,1985-11-03
+821,male|paul|sprung|1991-03-05,Paul Sprung,male,1991-03-05
+822,male|pawel|halaba|1995-12-14,Pawel Halaba,male,1995-12-14
+823,male|pedro henrique|frances|1989-06-30,Pedro Henrique Frances,male,1989-06-30
+824,male|pedro|rangel|1988-09-16,Pedro Rangel,male,1988-09-16
+825,male|peter james|russell|1992-02-22,Peter James Russell,male,1992-02-22
+826,male|peter|itzigehl|1988-03-24,Peter Itzigehl,male,1988-03-24
+827,male|peter|mlynarcik|1991-11-29,Peter Mlynarcik,male,1991-11-29
+828,male|peter|nagy|1984-05-15,Peter Nagy,male,1984-05-15
+829,male|peter|ondrovic|1995-03-28,Peter Ondrovic,male,1995-03-28
+830,male|peter|wolf|1992-06-14,Peter Wolf,male,1992-06-14
+831,male|philipp|collin|1990-10-28,Philipp Collin,male,1990-10-28
+832,male|philipp|jankowski|1991-10-15,Philipp Jankowski,male,1991-10-15
+833,male|philip|heckmann|1987-02-19,Philip Heckmann,male,1987-02-19
+834,male|phillip|trenkler|1993-03-05,Phillip Trenkler,male,1993-03-05
+835,male|pierre|pujol|1984-07-13,Pierre Pujol,male,1984-07-13
+836,male|privat - ausgeblendet|privat - ausgeblendet|1985-03-30,privat - ausgeblendet privat - ausgeblendet,male,1985-03-30
+837,male|rafael|redwitz|1980-08-12,Rafael Redwitz,male,1980-08-12
+838,male|ramon renaldo|martinez gion|1990-09-12,Ramon Renaldo Martinez Gion,male,1990-09-12
+839,male|raphael|moellers|1985-10-09,Raphael Moellers,male,1985-10-09
+840,male|raymond|szeto|1991-07-22,Raymond Szeto,male,1991-07-22
+841,male|rene|bahlburg|1988-06-09,Rene Bahlburg,male,1988-06-09
+842,male|ricardo|galandi|1989-05-18,Ricardo Galandi,male,1989-05-18
+843,male|richard|mauler|1989-09-28,Richard Mauler,male,1989-09-28
+844,male|richard|peemueller|1998-02-08,Richard Peemueller,male,1998-02-08
+845,male|robert adrian|aciobanitei|1997-08-24,Robert Adrian Aciobanitei,male,1997-08-24
+846,male|robert john|boldog|1991-08-01,Robert John Boldog,male,1991-08-01
+847,male|robert|bene|1995-10-17,Robert Bene,male,1995-10-17
+848,male|robert|kromm|1984-03-09,Robert Kromm,male,1984-03-09
+849,male|robert|schramm|1989-12-16,Robert Schramm,male,1989-12-16
+850,male|robert|went|1990-05-13,Robert Went,male,1990-05-13
+851,male|robin|hafemann|1995-11-02,Robin Hafemann,male,1995-11-02
+852,male|roko|sikiric|1981-08-22,Roko Sikiric,male,1981-08-22
+853,male|roland|gergye|1993-02-24,Roland Gergye,male,1993-02-24
+854,male|romans|sauss|1989-06-27,Romans Sauss,male,1989-06-27
+855,male|roy|ching|1993-02-02,Roy Ching,male,1993-02-02
+856,male|roy|friedrich|1988-02-01,Roy Friedrich,male,1988-02-01
+857,male|ruben|schott|1994-07-08,Ruben Schott,male,1994-07-08
+858,male|rudy pieter|verhoeff|1989-06-24,Rudy Pieter Verhoeff,male,1989-06-24
+859,male|rudy|schneider|2000-10-07,Rudy Schneider,male,2000-10-07
+860,male|rutger|zoodsma|1995-07-16,Rutger Zoodsma,male,1995-07-16
+861,male|ryan|sclater|1994-02-10,Ryan Sclater,male,1994-02-10
+862,male|ryan|thompson|1990-10-15,Ryan Thompson,male,1990-10-15
+863,male|samuele|tuia|1986-07-24,Samuele Tuia,male,1986-07-24
+864,male|samuel|boehm|1988-03-04,Samuel Boehm,male,1988-03-04
+865,male|samuel|rodiek|1995-07-10,Samuel Rodiek,male,1995-07-10
+866,male|santino|rost|1990-06-26,Santino Rost,male,1990-06-26
+867,male|sascha uwe|kaleck|1997-04-08,Sascha Uwe Kaleck,male,1997-04-08
+868,male|scott joseph|touzinsky|1982-04-22,Scott Joseph Touzinsky,male,1982-04-22
+869,male|scott michael|kevorken|1991-02-16,Scott Michael Kevorken,male,1991-02-16
+870,male|sebastian|gevert|1988-06-23,Sebastian Gevert,male,1988-06-23
+871,male|sebastian|krause|1989-10-16,Sebastian Krause,male,1989-10-16
+872,male|sebastian|kuehner|1987-03-15,Sebastian Kuehner,male,1987-03-15
+873,male|sebastian|pruesener|1982-05-26,Sebastian Pruesener,male,1982-05-26
+874,male|sebastian|schwarz|1985-10-02,Sebastian Schwarz,male,1985-10-02
+875,male|sergei|grankin|1985-01-21,Sergei Grankin,male,1985-01-21
+876,male|shibo|yu|1987-12-06,Shibo Yu,male,1987-12-06
+877,male|simon|gallas|2001-10-01,Simon Gallas,male,2001-10-01
+878,male|simon|hirsch|1992-04-03,Simon Hirsch,male,1992-04-03
+879,male|simon|pfretzschner|2002-02-06,Simon Pfretzschner,male,2002-02-06
+880,male|simon|tischer|1982-04-24,Simon Tischer,male,1982-04-24
+881,male|slawomir|jungiewicz|1989-06-21,Slawomir Jungiewicz,male,1989-06-21
+882,male|slawomir|zemlik|1992-11-03,Slawomir Zemlik,male,1992-11-03
+883,male|srecko|lisinac|1992-05-17,Srecko Lisinac,male,1992-05-17
+884,"male|stefan,|lukowsky|1967-08-24","Stefan, Lukowsky",male,1967-08-24
+885,male|stefan|chrtiansky|1989-08-17,Stefan Chrtiansky,male,1989-08-17
+886,male|stefan|koehler|1989-04-29,Stefan Koehler,male,1989-04-29
+887,male|stefan|thiel|1997-10-15,Stefan Thiel,male,1997-10-15
+888,male|steven|hunt|1990-04-16,Steven Hunt,male,1990-04-16
+889,male|steven|marshall|1989-11-23,Steven Marshall,male,1989-11-23
+890,male|stijn|d'hulst|1991-04-24,Stijn D'Hulst,male,1991-04-24
+891,male|sven|doerendahl|1973-08-31,Sven Doerendahl,male,1973-08-31
+892,male|sven|kellermann|1987-07-17,Sven Kellermann,male,1987-07-17
+893,male|sven|metzger|1992-01-07,Sven Metzger,male,1992-01-07
+894,male|svetoslav|gotsev|1990-08-31,Svetoslav Gotsev,male,1990-08-31
+895,male|tanner|syftestad|1995-01-28,Tanner Syftestad,male,1995-01-28
+896,male|taylor douglas|hammond|1992-10-27,Taylor Douglas Hammond,male,1992-10-27
+897,male|theo|timmermann|1996-09-14,Theo Timmermann,male,1996-09-14
+898,male|thiago jose|welter|1988-04-04,Thiago Jose Welter,male,1988-04-04
+899,male|thilo|spaeth-westerholt|1987-06-08,Thilo Spaeth-Westerholt,male,1987-06-08
+900,male|thomas eric|hodges|1994-07-04,Thomas Eric Hodges,male,1994-07-04
+901,male|thomas|ranner|1987-07-31,Thomas Ranner,male,1987-07-31
+902,male|thomas|schober|1990-08-12,Thomas Schober,male,1990-08-12
+903,male|tibor|filo|1984-04-10,Tibor Filo,male,1984-04-10
+904,male|tijmen|laane|1988-02-02,Tijmen Laane,male,1988-02-02
+905,male|timon|schippmann|1995-09-06,Timon Schippmann,male,1995-09-06
+906,male|timo|schlag|1995-08-04,Timo Schlag,male,1995-08-04
+907,male|tim|broshog|1987-12-02,Tim Broshog,male,1987-12-02
+908,male|tim|elsner|1984-02-05,Tim Elsner,male,1984-02-05
+909,male|tim|grozer|1998-10-14,Tim Grozer,male,1998-10-14
+910,male|tim|peter|1997-09-08,Tim Peter,male,1997-09-08
+911,male|tim|stoehr|1996-08-03,Tim Stoehr,male,1996-08-03
+912,male|tino|walter|1988-02-05,Tino Walter,male,1988-02-05
+913,male|tobias|krick|1998-10-22,Tobias Krick,male,1998-10-22
+914,male|tobias|neumann|1988-09-07,Tobias Neumann,male,1988-09-07
+915,male|tomas|halanda|1992-04-25,Tomas Halanda,male,1992-04-25
+916,male|tomas|kmet|1981-12-01,Tomas Kmet,male,1981-12-01
+917,male|tomas|kocian|1988-03-27,Tomas Kocian,male,1988-03-27
+918,male|tomas|rousseaux|1994-03-31,Tomas Rousseaux,male,1994-03-31
+919,male|tomas|ruiz|1992-04-16,Tomas Ruiz,male,1992-04-16
+920,male|tomi|rumpunen|1987-04-11,Tomi Rumpunen,male,1987-04-11
+921,male|tom|strohbach|1992-05-27,Tom Strohbach,male,1992-05-27
+922,male|tom|weber|1989-10-27,Tom Weber,male,1989-10-27
+923,male|toni|mester|1989-08-15,Toni Mester,male,1989-08-15
+924,male|tsimafei|zhukouski|1989-12-18,Tsimafei Zhukouski,male,1989-12-18
+925,male|tyler|koslowsky|1993-10-13,Tyler Koslowsky,male,1993-10-13
+926,male|ugo|buzzelli|1994-05-07,Ugo Buzzelli,male,1994-05-07
+927,male|urban|toman|1997-10-21,Urban Toman,male,1997-10-21
+928,male|valentin|bratoev|1987-10-21,Valentin Bratoev,male,1987-10-21
+929,male|valters|lagzdins|1989-03-03,Valters Lagzdins,male,1989-03-03
+930,male|vasilis|kostopoulos|1995-02-16,Vasilis Kostopoulos,male,1995-02-16
+931,male|ventceslav|simeonov|1977-02-03,Ventceslav Simeonov,male,1977-02-03
+932,male|viktor|yosifov|1985-10-16,Viktor Yosifov,male,1985-10-16
+933,male|vuk|karanovic|1987-12-18,Vuk Karanovic,male,1987-12-18
+934,male|wilhelm|nilsson|1994-02-17,Wilhelm Nilsson,male,1994-02-17
+935,male|willy|belizer|1985-11-30,Willy Belizer,male,1985-11-30
+936,male|wojciech|kwiecien|1994-05-26,Wojciech Kwiecien,male,1994-05-26
+937,male|wouter|ter maat|1991-05-07,Wouter ter Maat,male,1991-05-07
+938,male|yaniel|garay gomez|1980-11-20,Yaniel Garay Gomez,male,1980-11-20
+939,male|yannick|goralik|1997-10-23,Yannick Goralik,male,1997-10-23
+940,male|yannick|harms|1994-01-14,Yannick Harms,male,1994-01-14

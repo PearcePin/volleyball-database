@@ -1,0 +1,138 @@
+season_id,team_id,season_team_name
+101617,1001,Solingen Volleys
+101718,1001,Bergische Volleys
+101314,1002,Berlin Recycling Volleys
+101415,1002,Berlin Recycling Volleys
+101516,1002,Berlin Recycling Volleys
+101617,1002,Berlin Recycling Volleys
+101718,1002,Berlin Recycling Volleys
+101819,1002,Berlin Recycling Volleys
+101314,1003,CV Mitteldeutschland
+101415,1003,CV Mitteldeutschland
+101516,1003,CV Mitteldeutschland
+101314,1004,Evivo Dueren
+101415,1004,SWD Powervolleys Dueren
+101516,1004,SWD Powervolleys Dueren
+101617,1004,SWD Powervolleys Dueren
+101718,1004,SWD Powervolleys Dueren
+101819,1004,SWD Powervolleys Dueren
+101314,1005,Generalli Haching
+101718,1006,Hypo Tirol AlpenVolleys Haching
+101819,1006,Hypo Tirol AlpenVolleys Haching
+101314,1007,Moerser SC
+101415,1008,Netzhoppers KW-Bestensee
+101516,1008,Netzhoppers KW-Bestensee
+101617,1008,Netzhoppers SolWo Koenigspark KW
+101718,1008,Netzhoppers SolWo Koenigspark KW
+101819,1008,Netzhoppers SolWo Koenigspark KW
+101415,1009,SVG Lueneburg
+101516,1009,SVG Lueneburg
+101617,1009,SVG Lueneburg
+101718,1009,SVG Lueneburg
+101819,1009,SVG Lueneburg
+101415,1010,TSV Herrsching
+101516,1010,TSV Herrsching
+101617,1010,TSV Herrsching
+101718,1010,TSV Herrsching
+101819,1010,TSV Herrsching
+101314,1011,TV Ingersoll Buehl
+101415,1011,TV Ingersoll Buehl
+101516,1011,TV Ingersoll Buehl
+101617,1011,TV Ingersoll Buehl
+101718,1011,Volleyball Bisons Buehl
+101819,1011,Volleyball Bisons Buehl
+101314,1012,TV Rottenburg
+101415,1012,TV Rottenburg
+101516,1012,TV Rottenburg
+101617,1012,TV Rottenburg
+101718,1012,TV Rottenburg
+101819,1012,TV Rottenburg
+101516,1013,United Volleys RheinMain
+101617,1013,United Volleys RheinMain
+101718,1013,United Volleys RheinMain
+101819,1013,United Volleys Frankfurt
+101314,1014,VC Dresden
+101415,1015,VCO Berlin
+101617,1015,VCO Berlin
+101819,1015,VCO Berlin
+101314,1016,VfB Friedrichshafen
+101415,1016,VfB Friedrichshafen
+101516,1016,VfB Friedrichshafen
+101617,1016,VfB Friedrichshafen
+101718,1016,VfB Friedrichshafen
+101819,1016,VfB Friedrichshafen
+101314,1018,VSG Coburg/Grub
+101415,1018,VSG Coburg/Grub
+101516,1018,VSG Coburg/Grub
+101819,1019,Helios Grizzlys Giesen
+201314,2001,Allianz MTV Stuttgart
+201415,2001,Allianz MTV Stuttgart
+201516,2001,Allianz MTV Stuttgart
+201617,2001,Allianz MTV Stuttgart
+201718,2001,Allianz MTV Stuttgart
+201819,2001,Allianz MTV Stuttgart
+201314,2002,Dresdner SC
+201415,2002,Dresdner SC
+201516,2002,Dresdner SC
+201617,2002,Dresdner SC
+201718,2002,Dresdner SC
+201819,2002,Dresdner SC
+201314,2003,Koepenicker SC
+201415,2003,Koepenicker SC
+201516,2003,Koepenicker SC
+201617,2003,Koepenicker SC
+201314,2004,Ladies in Black Aachen
+201415,2004,Ladies in Black Aachen
+201516,2004,Ladies in Black Aachen
+201617,2004,Ladies in Black Aachen
+201718,2004,Ladies in Black Aachen
+201819,2004,Ladies in Black Aachen
+201314,2005,Rote Raben Vilsbiburg
+201415,2005,Rote Raben Vilsbiburg
+201516,2005,Rote Raben Vilsbiburg
+201617,2005,Rote Raben Vilsbiburg
+201718,2005,Rote Raben Vilsbiburg
+201819,2005,Rote Raben Vilsbiburg
+201314,2006,SC Potsdam
+201415,2006,SC Potsdam
+201516,2006,SC Potsdam
+201617,2006,SC Potsdam
+201718,2006,SC Potsdam
+201819,2006,SC Potsdam
+201314,2007,SSC Schwerin
+201415,2007,SSC Schwerin
+201516,2007,SSC Schwerin
+201617,2007,SSC Schwerin
+201718,2007,SSC Schwerin
+201819,2007,SSC Schwerin
+201314,2008,USC Muenster
+201415,2008,USC Muenster
+201516,2008,USC Muenster
+201617,2008,USC Muenster
+201718,2008,USC Muenster
+201819,2008,USC Muenster
+201314,2009,VC Wiesbaden
+201415,2009,VC Wiesbaden
+201516,2009,VC Wiesbaden
+201617,2009,VC Wiesbaden
+201718,2009,VC Wiesbaden
+201819,2009,VC Wiesbaden
+201314,2010,VT Aurubis Hamburg
+201415,2010,VT Aurubis Hamburg
+201516,2010,VT Aurubis Hamburg
+201314,2011,Volleystars Thueringen
+201415,2011,Volleystars Thueringen
+201516,2011,Volleystars Thueringen
+201617,2011,Volleystars Thueringen
+201718,2011,Volleystars Thueringen
+201819,2011,Volleystars Thueringen
+201415,2012,VCO Berlin
+201516,2012,VCO Berlin
+201617,2012,VCO Berlin
+201718,2012,VCO Berlin
+201819,2012,VCO Berlin
+201516,2013,Nawaro Straubing
+201819,2013,Nawaro Straubing
+201617,2014,Schwarz-Weiss Erfurt
+201718,2014,Schwarz-Weiss Erfurt
+201819,2014,Schwarz-Weiss Erfurt

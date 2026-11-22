@@ -1,0 +1,1854 @@
+league_gender,season_id,team_id,player_id,new_player_id,player_name,birthdate,identity_key
+Men,1617,1001,10.0,697,Lennart Bevers,1993-07-10,male|lennart|bevers|1993-07-10
+Men,1617,1001,2.0,626,Huib den Boer,1981-11-11,male|huib|den boer|1981-11-11
+Men,1617,1001,3.0,807,Oliver Gies,1985-06-28,male|oliver|gies|1985-06-28
+Men,1617,1001,6.0,545,Christian Gosmann,1992-07-02,male|christian|gosmann|1992-07-02
+Men,1617,1001,4.0,760,Maximilian Horn,1996-08-07,male|maximilian|horn|1996-08-07
+Men,1617,1001,15.0,547,Christoph Marks,1997-04-16,male|christoph|marks|1997-04-16
+Men,1617,1001,7.0,923,Toni Mester,1989-08-15,male|toni|mester|1989-08-15
+Men,1617,1001,8.0,534,Benny Nibbrig,1990-07-19,male|benny|nibbrig|1990-07-19
+Men,1617,1001,13.0,569,Dirk Pietzonka,1991-12-14,male|dirk|pietzonka|1991-12-14
+Men,1617,1001,5.0,762,Maximilian Stroebl,1997-03-04,male|maximilian|stroebl|1997-03-04
+Men,1617,1001,9.0,492,Alan Wasilewski,1991-07-23,male|alan|wasilewski|1991-07-23
+Men,1718,1001,13.0,847,Robert Bene,1995-10-17,male|robert|bene|1995-10-17
+Men,1718,1001,1.0,501,Andrew Benz,1994-04-21,male|andrew|benz|1994-04-21
+Men,1718,1001,4.0,864,Samuel Boehm,1988-03-04,male|samuel|boehm|1988-03-04
+Men,1718,1001,3.0,807,Oliver Gies,1985-06-28,male|oliver|gies|1985-06-28
+Men,1718,1001,10.0,635,Iurgen Hummes Specht,1991-12-21,male|iurgen|hummes specht|1991-12-21
+Men,1718,1001,5.0,615,Gerrard Lipscombe,1993-06-04,male|gerrard|lipscombe|1993-06-04
+Men,1718,1001,8.0,812,Ossi Rumpunen,1989-04-18,male|ossi|rumpunen|1989-04-18
+Men,1718,1001,6.0,670,Johannes Tille,1997-05-07,male|johannes|tille|1997-05-07
+Men,1718,1001,9.0,745,Mart van Werkhoven,1991-12-11,male|mart|van werkhoven|1991-12-11
+Men,1718,1001,7.0,860,Rutger Zoodsma,1995-07-16,male|rutger|zoodsma|1995-07-16
+Men,1314,1002,12.0,817,Paul Carroll,1986-05-16,male|paul|carroll|1986-05-16
+Men,1314,1002,6.0,591,Felix Fischer,1983-02-27,male|felix|fischer|1983-02-27
+Men,1314,1002,9.0,842,Ricardo Galandi,1989-05-18,male|ricardo|galandi|1989-05-18
+Men,1314,1002,13.0,600,Florian Hecht,1993-05-30,male|florian|hecht|1993-05-30
+Men,1314,1002,14.0,916,Tomas Kmet,1981-12-01,male|tomas|kmet|1981-12-01
+Men,1314,1002,3.0,848,Robert Kromm,1984-03-09,male|robert|kromm|1984-03-09
+Men,1314,1002,11.0,742,Martin Krystof,1982-10-11,male|martin|krystof|1982-10-11
+Men,1314,1002,10.0,872,Sebastian Kuehner,1987-03-15,male|sebastian|kuehner|1987-03-15
+Men,1314,1002,17.0,883,Srecko Lisinac,1992-05-17,male|srecko|lisinac|1992-05-17
+Men,1314,1002,15.0,857,Ruben Schott,1994-07-08,male|ruben|schott|1994-07-08
+Men,1314,1002,2.0,688,Kawika Shoji,1987-11-11,male|kawika|shoji|1987-11-11
+Men,1314,1002,7.0,852,Roko Sikiric,1981-08-22,male|roko|sikiric|1981-08-22
+Men,1314,1002,4.0,495,Aleksandar Spirovski,1978-08-16,male|aleksandar|spirovski|1978-08-16
+Men,1314,1002,1.0,868,Scott Joseph Touzinsky,1982-04-22,male|scott joseph|touzinsky|1982-04-22
+Men,1314,1002,18.0,811,Oskar Wetter,1995-06-14,male|oskar|wetter|1995-06-14
+Men,1415,1002,9.0,576,Egor Bogachev,1997-04-06,male|egor|bogachev|1997-04-06
+Men,1415,1002,17.0,664,Johannes Bontje,1981-05-12,male|johannes|bontje|1981-05-12
+Men,1415,1002,12.0,817,Paul Carroll,1986-05-16,male|paul|carroll|1986-05-16
+Men,1415,1002,18.0,607,Francesco De Marchi,1986-06-17,male|francesco|de marchi|1986-06-17
+Men,1415,1002,16.0,544,Christian Duennes,1984-06-16,male|christian|duennes|1984-06-16
+Men,1415,1002,6.0,591,Felix Fischer,1983-02-27,male|felix|fischer|1983-02-27
+Men,1415,1002,14.0,916,Tomas Kmet,1981-12-01,male|tomas|kmet|1981-12-01
+Men,1415,1002,3.0,848,Robert Kromm,1984-03-09,male|robert|kromm|1984-03-09
+Men,1415,1002,11.0,742,Martin Krystof,1982-10-11,male|martin|krystof|1982-10-11
+Men,1415,1002,10.0,872,Sebastian Kuehner,1987-03-15,male|sebastian|kuehner|1987-03-15
+Men,1415,1002,2.0,584,Erik Shoji,1989-08-24,male|erik|shoji|1989-08-24
+Men,1415,1002,7.0,688,Kawika Shoji,1987-11-11,male|kawika|shoji|1987-11-11
+Men,1415,1002,4.0,495,Aleksandar Spirovski,1978-08-16,male|aleksandar|spirovski|1978-08-16
+Men,1415,1002,1.0,868,Scott Joseph Touzinsky,1982-04-22,male|scott joseph|touzinsky|1982-04-22
+Men,1516,1002,15.0,759,Maximilian Auste,1997-01-27,male|maximilian|auste|1997-01-27
+Men,1516,1002,8.0,514,Arpad Baroti,1991-10-23,male|arpad|baroti|1991-10-23
+Men,1516,1002,17.0,576,Egor Bogachev,1997-04-06,male|egor|bogachev|1997-04-06
+Men,1516,1002,12.0,817,Paul Carroll,1986-05-16,male|paul|carroll|1986-05-16
+Men,1516,1002,18.0,607,Francesco De Marchi,1986-06-17,male|francesco|de marchi|1986-06-17
+Men,1516,1002,6.0,591,Felix Fischer,1983-02-27,male|felix|fischer|1983-02-27
+Men,1516,1002,14.0,916,Tomas Kmet,1981-12-01,male|tomas|kmet|1981-12-01
+Men,1516,1002,3.0,848,Robert Kromm,1984-03-09,male|robert|kromm|1984-03-09
+Men,1516,1002,10.0,872,Sebastian Kuehner,1987-03-15,male|sebastian|kuehner|1987-03-15
+Men,1516,1002,7.0,791,Nicolas Le Goff,1992-02-15,male|nicolas|le goff|1992-02-15
+Men,1516,1002,9.0,820,Paul Lotman,1985-11-03,male|paul|lotman|1985-11-03
+Men,1516,1002,13.0,857,Ruben Schott,1994-07-08,male|ruben|schott|1994-07-08
+Men,1516,1002,2.0,584,Erik Shoji,1989-08-24,male|erik|shoji|1989-08-24
+Men,1516,1002,11.0,924,Tsimafei Zhukouski,1989-12-18,male|tsimafei|zhukouski|1989-12-18
+Men,1617,1002,15.0,759,Maximilian Auste,1997-01-27,male|maximilian|auste|1997-01-27
+Men,1617,1002,17.0,576,Egor Bogachev,1997-04-06,male|egor|bogachev|1997-04-06
+Men,1617,1002,12.0,817,Paul Carroll,1986-05-16,male|paul|carroll|1986-05-16
+Men,1617,1002,6.0,591,Felix Fischer,1983-02-27,male|felix|fischer|1983-02-27
+Men,1617,1002,3.0,848,Robert Kromm,1984-03-09,male|robert|kromm|1984-03-09
+Men,1617,1002,10.0,872,Sebastian Kuehner,1987-03-15,male|sebastian|kuehner|1987-03-15
+Men,1617,1002,2.0,889,Steven Marshall,1989-11-23,male|steven|marshall|1989-11-23
+Men,1617,1002,1.0,494,Aleksandar Okolic,1993-06-26,male|aleksandar|okolic|1993-06-26
+Men,1617,1002,4.0,720,Luke Perry,1995-11-20,male|luke|perry|1995-11-20
+Men,1617,1002,13.0,857,Ruben Schott,1994-07-08,male|ruben|schott|1994-07-08
+Men,1617,1002,16.0,937,Wouter ter Maat,1991-05-07,male|wouter|ter maat|1991-05-07
+Men,1617,1002,8.0,619,Graham Vigrass,1989-06-17,male|graham|vigrass|1989-06-17
+Men,1617,1002,11.0,924,Tsimafei Zhukouski,1989-12-18,male|tsimafei|zhukouski|1989-12-18
+Men,1718,1002,13.0,757,Matti Binder,1998-10-02,male|matti|binder|1998-10-02
+Men,1718,1002,17.0,576,Egor Bogachev,1997-04-06,male|egor|bogachev|1997-04-06
+Men,1718,1002,12.0,817,Paul Carroll,1986-05-16,male|paul|carroll|1986-05-16
+Men,1718,1002,7.0,612,Georg Klein,1991-08-22,male|georg|klein|1991-08-22
+Men,1718,1002,3.0,848,Robert Kromm,1984-03-09,male|robert|kromm|1984-03-09
+Men,1718,1002,10.0,872,Sebastian Kuehner,1987-03-15,male|sebastian|kuehner|1987-03-15
+Men,1718,1002,2.0,889,Steven Marshall,1989-11-23,male|steven|marshall|1989-11-23
+Men,1718,1002,1.0,494,Aleksandar Okolic,1993-06-26,male|aleksandar|okolic|1993-06-26
+Men,1718,1002,4.0,720,Luke Perry,1995-11-20,male|luke|perry|1995-11-20
+Men,1718,1002,18.0,835,Pierre Pujol,1984-07-13,male|pierre|pujol|1984-07-13
+Men,1718,1002,15.0,695,Kyle Russell,1993-08-25,male|kyle|russell|1993-08-25
+Men,1718,1002,9.0,552,Daan van Haarlem,1989-03-15,male|daan|van haarlem|1989-03-15
+Men,1718,1002,8.0,619,Graham Vigrass,1989-06-17,male|graham|vigrass|1989-06-17
+Men,1718,1002,5.0,703,Linus Weber,1999-11-01,male|linus|weber|1999-11-01
+Men,1718,1002,11.0,488,Adam White,1989-11-08,male|adam|white|1989-11-08
+Men,1819,1002,17.0,576,Egor Bogachev,1997-04-06,male|egor|bogachev|1997-04-06
+Men,1819,1002,8.0,507,Anton Brehme,1999-08-10,male|anton|brehme|1999-08-10
+Men,1819,1002,6.0,875,Sergei Grankin,1985-01-21,male|sergei|grankin|1985-01-21
+Men,1819,1002,4.0,659,Jeffrey Jendryk II,1995-09-15,male|jeffrey|jendryk ii|1995-09-15
+Men,1819,1002,7.0,612,Georg Klein,1991-08-22,male|georg|klein|1991-08-22
+Men,1819,1002,10.0,872,Sebastian Kuehner,1987-03-15,male|sebastian|kuehner|1987-03-15
+Men,1819,1002,14.0,791,Nicolas Le Goff,1992-02-15,male|nicolas|le goff|1992-02-15
+Men,1819,1002,13.0,532,Benjamin Patch,1994-06-21,male|benjamin|patch|1994-06-21
+Men,1819,1002,5.0,784,Moritz Reichert,1995-03-15,male|moritz|reichert|1995-03-15
+Men,1819,1002,16.0,793,Nicolas Rossard,1990-05-23,male|nicolas|rossard|1990-05-23
+Men,1819,1002,15.0,695,Kyle Russell,1993-08-25,male|kyle|russell|1993-08-25
+Men,1819,1002,12.0,863,Samuele Tuia,1986-07-24,male|samuele|tuia|1986-07-24
+Men,1819,1002,3.0,572,Dustin Watten,1986-10-27,male|dustin|watten|1986-10-27
+Men,1819,1002,18.0,703,Linus Weber,1999-11-01,male|linus|weber|1999-11-01
+Men,1819,1002,11.0,488,Adam White,1989-11-08,male|adam|white|1989-11-08
+Men,1819,1002,9.0,655,Jan Zimmermann,1993-02-12,male|jan|zimmermann|1993-02-12
+Men,1314,1003,18.0,517,Artur Bartosz Augustyn,1983-01-06,male|artur bartosz|augustyn|1983-01-06
+Men,1314,1003,9.0,577,Enrico Ehrhardt,1983-12-04,male|enrico|ehrhardt|1983-12-04
+Men,1314,1003,8.0,915,Tomas Halanda,1992-04-25,male|tomas|halanda|1992-04-25
+Men,1314,1003,14.0,566,Dennis Hefter,1993-03-04,male|dennis|hefter|1993-03-04
+Men,1314,1003,10.0,641,Jairo Joshua Armand Hooi,1978-03-13,male|jairo joshua armand|hooi|1978-03-13
+Men,1314,1003,4.0,543,Casper Munk Christiansen,1986-06-25,male|casper|munk christiansen|1986-06-25
+Men,1314,1003,2.0,598,Filip Palgut,1991-09-23,male|filip|palgut|1991-09-23
+Men,1314,1003,11.0,519,Aske Soerensen Moerkeberg,1993-04-20,male|aske|soerensen moerkeberg|1993-04-20
+Men,1314,1003,12.0,834,Phillip Trenkler,1993-03-05,male|phillip|trenkler|1993-03-05
+Men,1314,1003,17.0,606,Florian Voelker,1991-05-06,male|florian|voelker|1991-05-06
+Men,1314,1003,3.0,675,Joren Zeeman,1989-05-31,male|joren|zeeman|1989-05-31
+Men,1415,1003,13.0,766,Michael Amoroso,1989-05-10,male|michael|amoroso|1989-05-10
+Men,1415,1003,18.0,517,Artur Bartosz Augustyn,1983-01-06,male|artur bartosz|augustyn|1983-01-06
+Men,1415,1003,15.0,846,Robert John Boldog,1991-08-01,male|robert john|boldog|1991-08-01
+Men,1415,1003,1.0,730,Marcin Brzezinski,1991-07-01,male|marcin|brzezinski|1991-07-01
+Men,1415,1003,9.0,577,Enrico Ehrhardt,1983-12-04,male|enrico|ehrhardt|1983-12-04
+Men,1415,1003,3.0,940,Yannick Harms,1994-01-14,male|yannick|harms|1994-01-14
+Men,1415,1003,14.0,566,Dennis Hefter,1993-03-04,male|dennis|hefter|1993-03-04
+Men,1415,1003,4.0,648,Jannis Hopt,1996-08-03,male|jannis|hopt|1996-08-03
+Men,1415,1003,6.0,652,Jan Krol,1989-08-23,male|jan|krol|1989-08-23
+Men,1415,1003,7.0,857,Ruben Schott,1994-07-08,male|ruben|schott|1994-07-08
+Men,1415,1003,2.0,564,Dejan Skocic,1983-05-09,male|dejan|skocic|1983-05-09
+Men,1415,1003,12.0,834,Phillip Trenkler,1993-03-05,male|phillip|trenkler|1993-03-05
+Men,1415,1003,17.0,606,Florian Voelker,1991-05-06,male|florian|voelker|1991-05-06
+Men,1516,1003,18.0,517,Artur Bartosz Augustyn,1983-01-06,male|artur bartosz|augustyn|1983-01-06
+Men,1516,1003,1.0,730,Marcin Brzezinski,1991-07-01,male|marcin|brzezinski|1991-07-01
+Men,1516,1003,7.0,926,Ugo Buzzelli,1994-05-07,male|ugo|buzzelli|1994-05-07
+Men,1516,1003,12.0,649,Janusz Gorski,1992-04-02,male|janusz|gorski|1992-04-02
+Men,1516,1003,11.0,657,Jaroslaw Lech,1984-07-29,male|jaroslaw|lech|1984-07-29
+Men,1516,1003,4.0,750,Matthew William Leske,1991-05-17,male|matthew william|leske|1991-05-17
+Men,1516,1003,5.0,838,Ramon Renaldo Martinez Gion,1990-09-12,male|ramon renaldo|martinez gion|1990-09-12
+Men,1516,1003,6.0,723,Maciej Polanski,1993-12-18,male|maciej|polanski|1993-12-18
+Men,1516,1003,10.0,906,Timo Schlag,1995-08-04,male|timo|schlag|1995-08-04
+Men,1516,1003,8.0,786,Nenad Sormaz,1992-03-19,male|nenad|sormaz|1992-03-19
+Men,1516,1003,2.0,526,Bartosz Sufa,1987-08-11,male|bartosz|sufa|1987-08-11
+Men,1516,1003,13.0,712,Lukasz Szablewski,1988-10-05,male|lukasz|szablewski|1988-10-05
+Men,1314,1004,2.0,586,Evan Barry,1990-05-10,male|evan|barry|1990-05-10
+Men,1314,1004,5.0,565,Dennis Barthel,1996-03-21,male|dennis|barthel|1996-03-21
+Men,1314,1004,12.0,903,Tibor Filo,1984-04-10,male|tibor|filo|1984-04-10
+Men,1314,1004,13.0,870,Sebastian Gevert,1988-06-23,male|sebastian|gevert|1988-06-23
+Men,1314,1004,4.0,660,Jelle Hilarius,1988-10-10,male|jelle|hilarius|1988-10-10
+Men,1314,1004,3.0,888,Steven Hunt,1990-04-16,male|steven|hunt|1990-04-16
+Men,1314,1004,6.0,612,Georg Klein,1991-08-22,male|georg|klein|1991-08-22
+Men,1314,1004,1.0,581,Erik John Mattson,1990-12-18,male|erik john|mattson|1990-12-18
+Men,1314,1004,15.0,549,Ciaran McGovern,1989-06-05,male|ciaran|mcgovern|1989-06-05
+Men,1314,1004,18.0,502,Andrew Nally,1988-06-07,male|andrew|nally|1988-06-07
+Men,1314,1004,10.0,756,Matthias Pompe,1984-02-15,male|matthias|pompe|1984-02-15
+Men,1314,1004,14.0,656,Jaromir Zachrich,1985-04-14,male|jaromir|zachrich|1985-04-14
+Men,1415,1004,1.0,537,Blair Bann,1988-02-26,male|blair|bann|1988-02-26
+Men,1415,1004,5.0,565,Dennis Barthel,1996-03-21,male|dennis|barthel|1996-03-21
+Men,1415,1004,13.0,870,Sebastian Gevert,1988-06-23,male|sebastian|gevert|1988-06-23
+Men,1415,1004,8.0,888,Steven Hunt,1990-04-16,male|steven|hunt|1990-04-16
+Men,1415,1004,6.0,612,Georg Klein,1991-08-22,male|georg|klein|1991-08-22
+Men,1415,1004,7.0,810,Oskar Klingner,1991-03-15,male|oskar|klingner|1991-03-15
+Men,1415,1004,17.0,917,Tomas Kocian,1988-03-27,male|tomas|kocian|1988-03-27
+Men,1415,1004,18.0,645,Jan-Philipp Marks,1992-04-03,male|jan-philipp|marks|1992-04-03
+Men,1415,1004,15.0,549,Ciaran McGovern,1989-06-05,male|ciaran|mcgovern|1989-06-05
+Men,1415,1004,11.0,558,Davic Meder,1992-10-17,male|davic|meder|1992-10-17
+Men,1415,1004,10.0,756,Matthias Pompe,1984-02-15,male|matthias|pompe|1984-02-15
+Men,1415,1004,9.0,746,Marvin Prolingheuer,1990-06-29,male|marvin|prolingheuer|1990-06-29
+Men,1415,1004,14.0,656,Jaromir Zachrich,1985-04-14,male|jaromir|zachrich|1985-04-14
+Men,1516,1004,1.0,537,Blair Bann,1988-02-26,male|blair|bann|1988-02-26
+Men,1516,1004,5.0,565,Dennis Barthel,1996-03-21,male|dennis|barthel|1996-03-21
+Men,1516,1004,13.0,870,Sebastian Gevert,1988-06-23,male|sebastian|gevert|1988-06-23
+Men,1516,1004,16.0,884,"Stefan, Lukowsky",1967-08-24,"male|stefan,|lukowsky|1967-08-24"
+Men,1516,1004,18.0,645,Jan-Philipp Marks,1992-04-03,male|jan-philipp|marks|1992-04-03
+Men,1516,1004,12.0,770,Michael Parkinson,1991-11-23,male|michael|parkinson|1991-11-23
+Men,1516,1004,10.0,756,Matthias Pompe,1984-02-15,male|matthias|pompe|1984-02-15
+Men,1516,1004,9.0,746,Marvin Prolingheuer,1990-06-29,male|marvin|prolingheuer|1990-06-29
+Men,1516,1004,11.0,538,Brook Sedore,1993-04-22,male|brook|sedore|1993-04-22
+Men,1516,1004,8.0,528,Bas van Bemmelen,1989-08-18,male|bas|van bemmelen|1989-08-18
+Men,1516,1004,2.0,858,Rudy Pieter Verhoeff,1989-06-24,male|rudy pieter|verhoeff|1989-06-24
+Men,1516,1004,4.0,753,Matthew West,1993-10-01,male|matthew|west|1993-10-01
+Men,1516,1004,6.0,876,Shibo Yu,1987-12-06,male|shibo|yu|1987-12-06
+Men,1516,1004,14.0,656,Jaromir Zachrich,1985-04-14,male|jaromir|zachrich|1985-04-14
+Men,1617,1004,11.0,767,Michael Andrei,1985-08-06,male|michael|andrei|1985-08-06
+Men,1617,1004,1.0,537,Blair Bann,1988-02-26,male|blair|bann|1988-02-26
+Men,1617,1004,5.0,565,Dennis Barthel,1996-03-21,male|dennis|barthel|1996-03-21
+Men,1617,1004,9.0,658,Jay Blankenau,1989-09-27,male|jay|blankenau|1989-09-27
+Men,1617,1004,3.0,907,Tim Broshog,1987-12-02,male|tim|broshog|1987-12-02
+Men,1617,1004,8.0,746,Marvin Prolingheuer,1990-06-29,male|marvin|prolingheuer|1990-06-29
+Men,1617,1004,6.0,812,Ossi Rumpunen,1989-04-18,male|ossi|rumpunen|1989-04-18
+Men,1617,1004,4.0,920,Tomi Rumpunen,1987-04-11,male|tomi|rumpunen|1987-04-11
+Men,1617,1004,7.0,854,Romans Sauss,1989-06-27,male|romans|sauss|1989-06-27
+Men,1617,1004,17.0,646,Jani Sippola,1990-05-04,male|jani|sippola|1990-05-04
+Men,1617,1004,2.0,858,Rudy Pieter Verhoeff,1989-06-24,male|rudy pieter|verhoeff|1989-06-24
+Men,1617,1004,14.0,656,Jaromir Zachrich,1985-04-14,male|jaromir|zachrich|1985-04-14
+Men,1718,1004,6.0,687,Karli Allik,1996-09-25,male|karli|allik|1996-09-25
+Men,1718,1004,11.0,767,Michael Andrei,1985-08-06,male|michael|andrei|1985-08-06
+Men,1718,1004,1.0,537,Blair Bann,1988-02-26,male|blair|bann|1988-02-26
+Men,1718,1004,12.0,617,Gilles Braas,1992-03-17,male|gilles|braas|1992-03-17
+Men,1718,1004,3.0,907,Tim Broshog,1987-12-02,male|tim|broshog|1987-12-02
+Men,1718,1004,4.0,575,Edvarts Buivids,1993-12-04,male|edvarts|buivids|1993-12-04
+Men,1718,1004,5.0,890,Stijn D'Hulst,1991-04-24,male|stijn|d'hulst|1991-04-24
+Men,1718,1004,2.0,683,Julius Firkal,1998-01-14,male|julius|firkal|1998-01-14
+Men,1718,1004,8.0,746,Marvin Prolingheuer,1990-06-29,male|marvin|prolingheuer|1990-06-29
+Men,1718,1004,7.0,854,Romans Sauss,1989-06-27,male|romans|sauss|1989-06-27
+Men,1718,1004,10.0,859,Rudy Schneider,2000-10-07,male|rudy|schneider|2000-10-07
+Men,1718,1004,9.0,570,Dirk Westphal,1986-01-31,male|dirk|westphal|1986-01-31
+Men,1718,1004,14.0,656,Jaromir Zachrich,1985-04-14,male|jaromir|zachrich|1985-04-14
+Men,1819,1004,1.0,535,Bjoern Andrae,1981-05-14,male|bjoern|andrae|1981-05-14
+Men,1819,1004,11.0,767,Michael Andrei,1985-08-06,male|michael|andrei|1985-08-06
+Men,1819,1004,4.0,632,Irvan Brar,1995-04-24,male|irvan|brar|1995-04-24
+Men,1819,1004,3.0,907,Tim Broshog,1987-12-02,male|tim|broshog|1987-12-02
+Men,1819,1004,9.0,708,Lucas Coleman,1995-01-14,male|lucas|coleman|1995-01-14
+Men,1819,1004,5.0,553,Daniel Ford,1994-08-26,male|daniel|ford|1994-08-26
+Men,1819,1004,13.0,870,Sebastian Gevert,1988-06-23,male|sebastian|gevert|1988-06-23
+Men,1819,1004,17.0,917,Tomas Kocian,1988-03-27,male|tomas|kocian|1988-03-27
+Men,1819,1004,6.0,602,Florian Lacassie,1990-11-16,male|florian|lacassie|1990-11-16
+Men,1819,1004,8.0,715,Lukas Maase,1998-08-28,male|lukas|maase|1998-08-28
+Men,1819,1004,2.0,674,Jordan Or,1992-06-18,male|jordan|or|1992-06-18
+Men,1819,1004,7.0,854,Romans Sauss,1989-06-27,male|romans|sauss|1989-06-27
+Men,1314,1005,8.0,731,Marcus Boehme,1985-08-25,male|marcus|boehme|1985-08-25
+Men,1314,1005,9.0,587,Ewoud Gommans,1990-11-17,male|ewoud|gommans|1990-11-17
+Men,1314,1005,11.0,878,Simon Hirsch,1992-04-03,male|simon|hirsch|1992-04-03
+Men,1314,1005,3.0,832,Philipp Jankowski,1991-10-15,male|philipp|jankowski|1991-10-15
+Men,1314,1005,15.0,645,Jan-Philipp Marks,1992-04-03,male|jan-philipp|marks|1992-04-03
+Men,1314,1005,13.0,733,Marien Moreau,1983-10-25,male|marien|moreau|1983-10-25
+Men,1314,1005,10.0,874,Sebastian Schwarz,1985-10-02,male|sebastian|schwarz|1985-10-02
+Men,1314,1005,12.0,693,Konstantin Shumov,1985-02-15,male|konstantin|shumov|1985-02-15
+Men,1314,1005,18.0,609,Genadi Sokolov,1992-05-14,male|genadi|sokolov|1992-05-14
+Men,1314,1005,5.0,563,David Sossenheimer,1996-06-21,male|david|sossenheimer|1996-06-21
+Men,1314,1005,14.0,921,Tom Strohbach,1992-05-27,male|tom|strohbach|1992-05-27
+Men,1314,1005,7.0,595,Ferdinand Tille,1988-12-08,male|ferdinand|tille|1988-12-08
+Men,1314,1005,1.0,924,Tsimafei Zhukouski,1989-12-18,male|tsimafei|zhukouski|1989-12-18
+Men,1718,1006,1.0,732,Marek Beer,1988-05-24,male|marek|beer|1988-05-24
+Men,1718,1006,13.0,885,Stefan Chrtiansky,1989-08-17,male|stefan|chrtiansky|1989-08-17
+Men,1718,1006,14.0,571,Douglas Duarte Souza Da Silva,1983-09-24,male|douglas|duarte souza da silva|1983-09-24
+Men,1718,1006,11.0,823,Pedro Henrique Frances,1989-06-30,male|pedro henrique|frances|1989-06-30
+Men,1718,1006,6.0,557,Danilo Gelinski,1990-03-13,male|danilo|gelinski|1990-03-13
+Men,1718,1006,7.0,629,Igor Oskar Grobelny,1993-06-08,male|igor oskar|grobelny|1993-06-08
+Men,1718,1006,16.0,555,Daniel Koncal,1982-09-16,male|daniel|koncal|1982-09-16
+Men,1718,1006,15.0,795,Niklas Kronthaler,1994-05-14,male|niklas|kronthaler|1994-05-14
+Men,1718,1006,3.0,827,Peter Mlynarcik,1991-11-29,male|peter|mlynarcik|1991-11-29
+Men,1718,1006,5.0,679,Juan Pablo Moreno Mosquera,1997-11-11,male|juan pablo|moreno mosquera|1997-11-11
+Men,1718,1006,8.0,525,Bartosz Pietruczuk,1993-02-26,male|bartosz|pietruczuk|1993-02-26
+Men,1718,1006,2.0,709,Lucas Provenzano Joao De Deus,1987-01-26,male|lucas|provenzano joao de deus|1987-01-26
+Men,1718,1006,4.0,673,Jonas Sagstetter,1999-04-21,male|jonas|sagstetter|1999-04-21
+Men,1718,1006,9.0,610,Georgi Veselinov Topalov,1993-03-23,male|georgi veselinov|topalov|1993-03-23
+Men,1718,1006,10.0,858,Rudy Pieter Verhoeff,1989-06-24,male|rudy pieter|verhoeff|1989-06-24
+Men,1819,1006,10.0,625,Hugo De Leon Guimaraes Da Silva,1990-07-04,male|hugo|de leon guimaraes da silva|1990-07-04
+Men,1819,1006,14.0,571,Douglas Duarte Souza Da Silva,1983-09-24,male|douglas|duarte souza da silva|1983-09-24
+Men,1819,1006,11.0,823,Pedro Henrique Frances,1989-06-30,male|pedro henrique|frances|1989-06-30
+Men,1819,1006,6.0,557,Danilo Gelinski,1990-03-13,male|danilo|gelinski|1990-03-13
+Men,1819,1006,13.0,822,Pawel Halaba,1995-12-14,male|pawel|halaba|1995-12-14
+Men,1819,1006,2.0,900,Thomas Eric Hodges,1994-07-04,male|thomas eric|hodges|1994-07-04
+Men,1819,1006,7.0,614,German Johansen,1995-09-02,male|german|johansen|1995-09-02
+Men,1819,1006,3.0,691,Kirill Klets,1998-03-15,male|kirill|klets|1998-03-15
+Men,1819,1006,16.0,555,Daniel Koncal,1982-09-16,male|daniel|koncal|1982-09-16
+Men,1819,1006,15.0,795,Niklas Kronthaler,1994-05-14,male|niklas|kronthaler|1994-05-14
+Men,1819,1006,4.0,751,Matthew Pollock,1990-04-26,male|matthew|pollock|1990-04-26
+Men,1819,1006,1.0,605,Florian Ringseis,1992-07-09,male|florian|ringseis|1992-07-09
+Men,1819,1006,5.0,673,Jonas Sagstetter,1999-04-21,male|jonas|sagstetter|1999-04-21
+Men,1314,1007,10.0,803,Noah Baxpoehler,1993-08-13,male|noah|baxpoehler|1993-08-13
+Men,1314,1007,3.0,907,Tim Broshog,1987-12-02,male|tim|broshog|1987-12-02
+Men,1314,1007,9.0,908,Tim Elsner,1984-02-05,male|tim|elsner|1984-02-05
+Men,1314,1007,7.0,810,Oskar Klingner,1991-03-15,male|oskar|klingner|1991-03-15
+Men,1314,1007,11.0,792,Nicolas Marks,1994-09-23,male|nicolas|marks|1994-09-23
+Men,1314,1007,5.0,782,Moritz Mueller,1988-04-29,male|moritz|mueller|1988-04-29
+Men,1314,1007,1.0,914,Tobias Neumann,1988-09-07,male|tobias|neumann|1988-09-07
+Men,1314,1007,14.0,738,Mark Plotyczer,1987-02-19,male|mark|plotyczer|1987-02-19
+Men,1314,1007,13.0,824,Pedro Rangel,1988-09-16,male|pedro|rangel|1988-09-16
+Men,1314,1007,4.0,809,Oscar Rodriguez Capel,1982-06-08,male|oscar|rodriguez capel|1982-06-08
+Men,1314,1007,12.0,718,Lukas Schattenberg,1995-09-11,male|lukas|schattenberg|1995-09-11
+Men,1314,1007,2.0,634,Itamar Stein,1983-02-12,male|itamar|stein|1983-02-12
+Men,1314,1007,8.0,922,Tom Weber,1989-10-27,male|tom|weber|1989-10-27
+Men,1415,1008,18.0,754,Matthias Boehme,1987-07-23,male|matthias|boehme|1987-07-23
+Men,1415,1008,8.0,599,Finn Dittelbach,1990-04-13,male|finn|dittelbach|1990-04-13
+Men,1415,1008,4.0,527,Bastian Ellerkmann,1996-02-03,male|bastian|ellerkmann|1996-02-03
+Men,1415,1008,15.0,611,Georg Escher,1994-12-08,male|georg|escher|1994-12-08
+Men,1415,1008,12.0,554,Daniel Heinecke,1986-06-28,male|daniel|heinecke|1986-06-28
+Men,1415,1008,6.0,518,Arvid Kinder,1980-12-06,male|arvid|kinder|1980-12-06
+Men,1415,1008,2.0,819,Paul Lohrisch,1987-04-11,male|paul|lohrisch|1987-04-11
+Men,1415,1008,1.0,755,Matthias Penk,1988-02-11,male|matthias|penk|1988-02-11
+Men,1415,1008,10.0,686,Kamil Ratajczak,1985-09-24,male|kamil|ratajczak|1985-09-24
+Men,1415,1008,13.0,728,Manuel Rieke,1982-10-23,male|manuel|rieke|1982-10-23
+Men,1415,1008,14.0,821,Paul Sprung,1991-03-05,male|paul|sprung|1991-03-05
+Men,1415,1008,11.0,897,Theo Timmermann,1996-09-14,male|theo|timmermann|1996-09-14
+Men,1516,1008,8.0,754,Matthias Boehme,1987-07-23,male|matthias|boehme|1987-07-23
+Men,1516,1008,15.0,802,Nils Ehlers,1994-02-04,male|nils|ehlers|1994-02-04
+Men,1516,1008,7.0,851,Robin Hafemann,1995-11-02,male|robin|hafemann|1995-11-02
+Men,1516,1008,3.0,600,Florian Hecht,1993-05-30,male|florian|hecht|1993-05-30
+Men,1516,1008,12.0,554,Daniel Heinecke,1986-06-28,male|daniel|heinecke|1986-06-28
+Men,1516,1008,5.0,826,Peter Itzigehl,1988-03-24,male|peter|itzigehl|1988-03-24
+Men,1516,1008,2.0,638,Ivaylo Bozhidarov Ivanov,1997-04-12,male|ivaylo bozhidarov|ivanov|1997-04-12
+Men,1516,1008,9.0,871,Sebastian Krause,1989-10-16,male|sebastian|krause|1989-10-16
+Men,1516,1008,1.0,755,Matthias Penk,1988-02-11,male|matthias|penk|1988-02-11
+Men,1516,1008,10.0,686,Kamil Ratajczak,1985-09-24,male|kamil|ratajczak|1985-09-24
+Men,1516,1008,13.0,728,Manuel Rieke,1982-10-23,male|manuel|rieke|1982-10-23
+Men,1516,1008,14.0,821,Paul Sprung,1991-03-05,male|paul|sprung|1991-03-05
+Men,1516,1008,11.0,897,Theo Timmermann,1996-09-14,male|theo|timmermann|1996-09-14
+Men,1617,1008,8.0,535,Bjoern Andrae,1981-05-14,male|bjoern|andrae|1981-05-14
+Men,1617,1008,5.0,639,Iven Fietje Ferch,1997-09-18,male|iven fietje|ferch|1997-09-18
+Men,1617,1008,2.0,597,Filip Gavenda,1996-01-13,male|filip|gavenda|1996-01-13
+Men,1617,1008,7.0,851,Robin Hafemann,1995-11-02,male|robin|hafemann|1995-11-02
+Men,1617,1008,3.0,896,Taylor Douglas Hammond,1992-10-27,male|taylor douglas|hammond|1992-10-27
+Men,1617,1008,12.0,554,Daniel Heinecke,1986-06-28,male|daniel|heinecke|1986-06-28
+Men,1617,1008,4.0,867,Sascha Uwe Kaleck,1997-04-08,male|sascha uwe|kaleck|1997-04-08
+Men,1617,1008,1.0,755,Matthias Penk,1988-02-11,male|matthias|penk|1988-02-11
+Men,1617,1008,10.0,686,Kamil Ratajczak,1985-09-24,male|kamil|ratajczak|1985-09-24
+Men,1617,1008,9.0,849,Robert Schramm,1989-12-16,male|robert|schramm|1989-12-16
+Men,1617,1008,14.0,821,Paul Sprung,1991-03-05,male|paul|sprung|1991-03-05
+Men,1617,1008,11.0,897,Theo Timmermann,1996-09-14,male|theo|timmermann|1996-09-14
+Men,1718,1008,8.0,535,Bjoern Andrae,1981-05-14,male|bjoern|andrae|1981-05-14
+Men,1718,1008,5.0,639,Iven Fietje Ferch,1997-09-18,male|iven fietje|ferch|1997-09-18
+Men,1718,1008,2.0,597,Filip Gavenda,1996-01-13,male|filip|gavenda|1996-01-13
+Men,1718,1008,15.0,701,Levin Gust,1999-03-16,male|levin|gust|1999-03-16
+Men,1718,1008,7.0,851,Robin Hafemann,1995-11-02,male|robin|hafemann|1995-11-02
+Men,1718,1008,12.0,554,Daniel Heinecke,1986-06-28,male|daniel|heinecke|1986-06-28
+Men,1718,1008,1.0,719,Luke Thomas A. Herr,1994-07-18,male|luke thomas a.|herr|1994-07-18
+Men,1718,1008,4.0,867,Sascha Uwe Kaleck,1997-04-08,male|sascha uwe|kaleck|1997-04-08
+Men,1718,1008,9.0,644,Jan-Philipp Krabel,1998-03-24,male|jan-philipp|krabel|1998-03-24
+Men,1718,1008,16.0,801,Nikola Poluga,1986-03-01,male|nikola|poluga|1986-03-01
+Men,1718,1008,10.0,686,Kamil Ratajczak,1985-09-24,male|kamil|ratajczak|1985-09-24
+Men,1718,1008,3.0,906,Timo Schlag,1995-08-04,male|timo|schlag|1995-08-04
+Men,1718,1008,14.0,821,Paul Sprung,1991-03-05,male|paul|sprung|1991-03-05
+Men,1718,1008,11.0,897,Theo Timmermann,1996-09-14,male|theo|timmermann|1996-09-14
+Men,1819,1008,9.0,759,Maximilian Auste,1997-01-27,male|maximilian|auste|1997-01-27
+Men,1819,1008,12.0,515,Arran Chambers,1995-04-12,male|arran|chambers|1995-04-12
+Men,1819,1008,5.0,639,Iven Fietje Ferch,1997-09-18,male|iven fietje|ferch|1997-09-18
+Men,1819,1008,15.0,701,Levin Gust,1999-03-16,male|levin|gust|1999-03-16
+Men,1819,1008,1.0,719,Luke Thomas A. Herr,1994-07-18,male|luke thomas a.|herr|1994-07-18
+Men,1819,1008,2.0,650,Jan Jalowietzki,1996-02-16,male|jan|jalowietzki|1996-02-16
+Men,1819,1008,4.0,867,Sascha Uwe Kaleck,1997-04-08,male|sascha uwe|kaleck|1997-04-08
+Men,1819,1008,17.0,741,Martin Krueger,1994-01-10,male|martin|krueger|1994-01-10
+Men,1819,1008,10.0,686,Kamil Ratajczak,1985-09-24,male|kamil|ratajczak|1985-09-24
+Men,1819,1008,14.0,689,Kenneth Michael Rooney,1994-04-01,male|kenneth michael|rooney|1994-04-01
+Men,1819,1008,3.0,542,Casey Adam Schouten,1994-03-29,male|casey adam|schouten|1994-03-29
+Men,1819,1008,11.0,897,Theo Timmermann,1996-09-14,male|theo|timmermann|1996-09-14
+Men,1819,1008,8.0,570,Dirk Westphal,1986-01-31,male|dirk|westphal|1986-01-31
+Men,1415,1009,5.0,841,Rene Bahlburg,1988-06-09,male|rene|bahlburg|1988-06-09
+Men,1415,1009,2.0,631,Immo Brueggemann,1991-01-17,male|immo|brueggemann|1991-01-17
+Men,1415,1009,6.0,585,Eugenio Dolfo,1987-06-23,male|eugenio|dolfo|1987-06-23
+Men,1415,1009,3.0,869,Scott Michael Kevorken,1991-02-16,male|scott michael|kevorken|1991-02-16
+Men,1415,1009,18.0,813,Patrick Kruse,1988-09-06,male|patrick|kruse|1988-09-06
+Men,1415,1009,13.0,886,Stefan Koehler,1989-04-29,male|stefan|koehler|1989-04-29
+Men,1415,1009,4.0,904,Tijmen Laane,1988-02-02,male|tijmen|laane|1988-02-02
+Men,1415,1009,11.0,792,Nicolas Marks,1994-09-23,male|nicolas|marks|1994-09-23
+Men,1415,1009,1.0,581,Erik John Mattson,1990-12-18,male|erik john|mattson|1990-12-18
+Men,1415,1009,16.0,541,Carlos Mora Sabate,1990-03-19,male|carlos|mora sabate|1990-03-19
+Men,1415,1009,7.0,647,Jannik Poerner,1994-07-13,male|jannik|poerner|1994-07-13
+Men,1415,1009,14.0,776,Michel Schlien,1992-03-05,male|michel|schlien|1992-03-05
+Men,1415,1009,8.0,562,David Seybering,1995-12-19,male|david|seybering|1995-12-19
+Men,1415,1009,9.0,589,Falko Steinke,1985-03-26,male|falko|steinke|1985-03-26
+Men,1415,1009,15.0,685,Julius Thole,1997-05-17,male|julius|thole|1997-05-17
+Men,1516,1009,5.0,841,Rene Bahlburg,1988-06-09,male|rene|bahlburg|1988-06-09
+Men,1516,1009,2.0,631,Immo Brueggemann,1991-01-17,male|immo|brueggemann|1991-01-17
+Men,1516,1009,15.0,788,Nicholas Del Bianco,1992-02-06,male|nicholas|del bianco|1992-02-06
+Men,1516,1009,3.0,869,Scott Michael Kevorken,1991-02-16,male|scott michael|kevorken|1991-02-16
+Men,1516,1009,13.0,810,Oskar Klingner,1991-03-15,male|oskar|klingner|1991-03-15
+Men,1516,1009,6.0,486,Adam Kocian,1995-04-01,male|adam|kocian|1995-04-01
+Men,1516,1009,18.0,813,Patrick Kruse,1988-09-06,male|patrick|kruse|1988-09-06
+Men,1516,1009,11.0,792,Nicolas Marks,1994-09-23,male|nicolas|marks|1994-09-23
+Men,1516,1009,10.0,889,Steven Marshall,1989-11-23,male|steven|marshall|1989-11-23
+Men,1516,1009,1.0,581,Erik John Mattson,1990-12-18,male|erik john|mattson|1990-12-18
+Men,1516,1009,16.0,541,Carlos Mora Sabate,1990-03-19,male|carlos|mora sabate|1990-03-19
+Men,1516,1009,7.0,647,Jannik Poerner,1994-07-13,male|jannik|poerner|1994-07-13
+Men,1516,1009,14.0,776,Michel Schlien,1992-03-05,male|michel|schlien|1992-03-05
+Men,1516,1009,9.0,589,Falko Steinke,1985-03-26,male|falko|steinke|1985-03-26
+Men,1617,1009,1.0,768,Michael Brinkley,1992-10-15,male|michael|brinkley|1992-10-15
+Men,1617,1009,2.0,631,Immo Brueggemann,1991-01-17,male|immo|brueggemann|1991-01-17
+Men,1617,1009,9.0,579,Eric Fitterer,1993-04-26,male|eric|fitterer|1993-04-26
+Men,1617,1009,5.0,550,Cody Kessel,1991-12-03,male|cody|kessel|1991-12-03
+Men,1617,1009,3.0,869,Scott Michael Kevorken,1991-02-16,male|scott michael|kevorken|1991-02-16
+Men,1617,1009,8.0,486,Adam Kocian,1995-04-01,male|adam|kocian|1995-04-01
+Men,1617,1009,12.0,601,Florian Krage,1997-01-11,male|florian|krage|1997-01-11
+Men,1617,1009,18.0,813,Patrick Kruse,1988-09-06,male|patrick|kruse|1988-09-06
+Men,1617,1009,16.0,541,Carlos Mora Sabate,1990-03-19,male|carlos|mora sabate|1990-03-19
+Men,1617,1009,15.0,724,Mads Moellgaard,1995-05-07,male|mads|moellgaard|1995-05-07
+Men,1617,1009,10.0,756,Matthias Pompe,1984-02-15,male|matthias|pompe|1984-02-15
+Men,1617,1009,7.0,647,Jannik Poerner,1994-07-13,male|jannik|poerner|1994-07-13
+Men,1617,1009,13.0,717,Lukas Radzuweit,1997-01-31,male|lukas|radzuweit|1997-01-31
+Men,1617,1009,14.0,776,Michel Schlien,1992-03-05,male|michel|schlien|1992-03-05
+Men,1718,1009,4.0,803,Noah Baxpoehler,1993-08-13,male|noah|baxpoehler|1993-08-13
+Men,1718,1009,18.0,855,Roy Ching,1993-02-02,male|roy|ching|1993-02-02
+Men,1718,1009,5.0,550,Cody Kessel,1991-12-03,male|cody|kessel|1991-12-03
+Men,1718,1009,8.0,486,Adam Kocian,1995-04-01,male|adam|kocian|1995-04-01
+Men,1718,1009,1.0,925,Tyler Koslowsky,1993-10-13,male|tyler|koslowsky|1993-10-13
+Men,1718,1009,12.0,601,Florian Krage,1997-01-11,male|florian|krage|1997-01-11
+Men,1718,1009,10.0,756,Matthias Pompe,1984-02-15,male|matthias|pompe|1984-02-15
+Men,1718,1009,7.0,647,Jannik Poerner,1994-07-13,male|jannik|poerner|1994-07-13
+Men,1718,1009,14.0,776,Michel Schlien,1992-03-05,male|michel|schlien|1992-03-05
+Men,1718,1009,15.0,861,Ryan Sclater,1994-02-10,male|ryan|sclater|1994-02-10
+Men,1718,1009,11.0,840,Raymond Szeto,1991-07-22,male|raymond|szeto|1991-07-22
+Men,1718,1009,16.0,692,Konrad Thole,1999-09-14,male|konrad|thole|1999-09-14
+Men,1718,1009,2.0,616,Gijs van Solkema,1998-05-21,male|gijs|van solkema|1998-05-21
+Men,1819,1009,4.0,803,Noah Baxpoehler,1993-08-13,male|noah|baxpoehler|1993-08-13
+Men,1819,1009,5.0,550,Cody Kessel,1991-12-03,male|cody|kessel|1991-12-03
+Men,1819,1009,1.0,925,Tyler Koslowsky,1993-10-13,male|tyler|koslowsky|1993-10-13
+Men,1819,1009,12.0,601,Florian Krage,1997-01-11,male|florian|krage|1997-01-11
+Men,1819,1009,10.0,756,Matthias Pompe,1984-02-15,male|matthias|pompe|1984-02-15
+Men,1819,1009,7.0,647,Jannik Poerner,1994-07-13,male|jannik|poerner|1994-07-13
+Men,1819,1009,14.0,776,Michel Schlien,1992-03-05,male|michel|schlien|1992-03-05
+Men,1819,1009,3.0,487,Adam Schriemer,1995-08-17,male|adam|schriemer|1995-08-17
+Men,1819,1009,15.0,861,Ryan Sclater,1994-02-10,male|ryan|sclater|1994-02-10
+Men,1819,1009,11.0,840,Raymond Szeto,1991-07-22,male|raymond|szeto|1991-07-22
+Men,1819,1009,16.0,692,Konrad Thole,1999-09-14,male|konrad|thole|1999-09-14
+Men,1819,1009,2.0,616,Gijs van Solkema,1998-05-21,male|gijs|van solkema|1998-05-21
+Men,1415,1010,2.0,588,Fabian Breinbauer,1993-11-14,male|fabian|breinbauer|1993-11-14
+Men,1415,1010,1.0,529,Benedikt Doranth,1987-12-28,male|benedikt|doranth|1987-12-28
+Men,1415,1010,15.0,856,Roy Friedrich,1988-02-01,male|roy|friedrich|1988-02-01
+Men,1415,1010,10.0,833,Philip Heckmann,1987-02-19,male|philip|heckmann|1987-02-19
+Men,1415,1010,5.0,684,Julius Hoefer,1992-03-10,male|julius|hoefer|1992-03-10
+Men,1415,1010,11.0,556,Daniel Malescha,1994-04-28,male|daniel|malescha|1994-04-28
+Men,1415,1010,6.0,604,Florian Malescha,1988-03-31,male|florian|malescha|1988-03-31
+Men,1415,1010,9.0,914,Tobias Neumann,1988-09-07,male|tobias|neumann|1988-09-07
+Men,1415,1010,18.0,873,Sebastian Pruesener,1982-05-26,male|sebastian|pruesener|1982-05-26
+Men,1415,1010,12.0,901,Thomas Ranner,1987-07-31,male|thomas|ranner|1987-07-31
+Men,1415,1010,16.0,721,Luke Smith,1990-08-30,male|luke|smith|1990-08-30
+Men,1415,1010,8.0,771,Michael Wehl,1990-07-27,male|michael|wehl|1990-07-27
+Men,1415,1010,7.0,654,Jan Wenke,1989-11-01,male|jan|wenke|1989-11-01
+Men,1516,1010,1.0,529,Benedikt Doranth,1987-12-28,male|benedikt|doranth|1987-12-28
+Men,1516,1010,15.0,856,Roy Friedrich,1988-02-01,male|roy|friedrich|1988-02-01
+Men,1516,1010,5.0,684,Julius Hoefer,1992-03-10,male|julius|hoefer|1992-03-10
+Men,1516,1010,14.0,667,Johannes Kessler,1992-03-28,male|johannes|kessler|1992-03-28
+Men,1516,1010,11.0,556,Daniel Malescha,1994-04-28,male|daniel|malescha|1994-04-28
+Men,1516,1010,6.0,604,Florian Malescha,1988-03-31,male|florian|malescha|1988-03-31
+Men,1516,1010,9.0,914,Tobias Neumann,1988-09-07,male|tobias|neumann|1988-09-07
+Men,1516,1010,13.0,829,Peter Ondrovic,1995-03-28,male|peter|ondrovic|1995-03-28
+Men,1516,1010,18.0,901,Thomas Ranner,1987-07-31,male|thomas|ranner|1987-07-31
+Men,1516,1010,4.0,815,Patrick Steuerwald,1986-03-03,male|patrick|steuerwald|1986-03-03
+Men,1516,1010,7.0,595,Ferdinand Tille,1988-12-08,male|ferdinand|tille|1988-12-08
+Men,1516,1010,12.0,834,Phillip Trenkler,1993-03-05,male|phillip|trenkler|1993-03-05
+Men,1516,1010,8.0,771,Michael Wehl,1990-07-27,male|michael|wehl|1990-07-27
+Men,1516,1010,17.0,654,Jan Wenke,1989-11-01,male|jan|wenke|1989-11-01
+Men,1617,1010,1.0,529,Benedikt Doranth,1987-12-28,male|benedikt|doranth|1987-12-28
+Men,1617,1010,15.0,856,Roy Friedrich,1988-02-01,male|roy|friedrich|1988-02-01
+Men,1617,1010,17.0,790,Nicolai Grabmueller,1996-04-18,male|nicolai|grabmueller|1996-04-18
+Men,1617,1010,5.0,684,Julius Hoefer,1992-03-10,male|julius|hoefer|1992-03-10
+Men,1617,1010,6.0,604,Florian Malescha,1988-03-31,male|florian|malescha|1988-03-31
+Men,1617,1010,2.0,493,Aleksandar Milovancevic,1986-04-29,male|aleksandar|milovancevic|1986-04-29
+Men,1617,1010,9.0,914,Tobias Neumann,1988-09-07,male|tobias|neumann|1988-09-07
+Men,1617,1010,13.0,829,Peter Ondrovic,1995-03-28,male|peter|ondrovic|1995-03-28
+Men,1617,1010,4.0,815,Patrick Steuerwald,1986-03-03,male|patrick|steuerwald|1986-03-03
+Men,1617,1010,10.0,921,Tom Strohbach,1992-05-27,male|tom|strohbach|1992-05-27
+Men,1617,1010,11.0,752,Matthew Tarantino,1993-07-05,male|matthew|tarantino|1993-07-05
+Men,1617,1010,7.0,595,Ferdinand Tille,1988-12-08,male|ferdinand|tille|1988-12-08
+Men,1718,1010,18.0,503,Andre Brown,1990-08-24,male|andre|brown|1990-08-24
+Men,1718,1010,16.0,676,Jose Pedro Gomes,1994-10-21,male|jose pedro|gomes|1994-10-21
+Men,1718,1010,17.0,790,Nicolai Grabmueller,1996-04-18,male|nicolai|grabmueller|1996-04-18
+Men,1718,1010,14.0,667,Johannes Kessler,1992-03-28,male|johannes|kessler|1992-03-28
+Men,1718,1010,5.0,741,Martin Krueger,1994-01-10,male|martin|krueger|1994-01-10
+Men,1718,1010,6.0,604,Florian Malescha,1988-03-31,male|florian|malescha|1988-03-31
+Men,1718,1010,15.0,547,Christoph Marks,1997-04-16,male|christoph|marks|1997-04-16
+Men,1718,1010,9.0,934,Wilhelm Nilsson,1994-02-17,male|wilhelm|nilsson|1994-02-17
+Men,1718,1010,4.0,910,Tim Peter,1997-09-08,male|tim|peter|1997-09-08
+Men,1718,1010,12.0,775,Michal Sladecek,1980-02-12,male|michal|sladecek|1980-02-12
+Men,1718,1010,10.0,921,Tom Strohbach,1992-05-27,male|tom|strohbach|1992-05-27
+Men,1718,1010,7.0,595,Ferdinand Tille,1988-12-08,male|ferdinand|tille|1988-12-08
+Men,1718,1010,8.0,771,Michael Wehl,1990-07-27,male|michael|wehl|1990-07-27
+Men,1718,1010,2.0,882,Slawomir Zemlik,1992-11-03,male|slawomir|zemlik|1992-11-03
+Men,1819,1010,5.0,714,Lukas Bauer,1989-02-26,male|lukas|bauer|1989-02-26
+Men,1819,1010,14.0,699,Leon Dervisaj,1996-09-07,male|leon|dervisaj|1996-09-07
+Men,1819,1010,10.0,804,Norbert Engemann,1997-09-17,male|norbert|engemann|1997-09-17
+Men,1819,1010,2.0,540,Bryan Joseph Fraser,1991-01-31,male|bryan joseph|fraser|1991-01-31
+Men,1819,1010,17.0,627,Humberto Machacon,1989-10-05,male|humberto|machacon|1989-10-05
+Men,1819,1010,4.0,910,Tim Peter,1997-09-08,male|tim|peter|1997-09-08
+Men,1819,1010,18.0,530,Benedikt Sagstetter,2000-12-30,male|benedikt|sagstetter|2000-12-30
+Men,1819,1010,15.0,620,Griffin Shields,1995-02-18,male|griffin|shields|1995-02-18
+Men,1819,1010,3.0,516,Artem Sushko,1993-12-24,male|artem|sushko|1993-12-24
+Men,1819,1010,1.0,498,Alpar Jozsef Szabo,1990-07-26,male|alpar jozsef|szabo|1990-07-26
+Men,1819,1010,7.0,595,Ferdinand Tille,1988-12-08,male|ferdinand|tille|1988-12-08
+Men,1819,1010,6.0,670,Johannes Tille,1997-05-07,male|johannes|tille|1997-05-07
+Men,1819,1010,9.0,787,Nicholas Bernhard West,1991-10-09,male|nicholas bernhard|west|1991-10-09
+Men,1314,1011,12.0,505,Andri Aganits,1993-09-07,male|andri|aganits|1993-09-07
+Men,1314,1011,10.0,536,Bjoern Hoehne,1991-03-27,male|bjoern|hoehne|1991-03-27
+Men,1314,1011,6.0,521,Axel Jacobsen,1984-07-10,male|axel|jacobsen|1984-07-10
+Men,1314,1011,1.0,744,Martti Juhkami,1988-06-06,male|martti|juhkami|1988-06-06
+Men,1314,1011,5.0,917,Tomas Kocian,1988-03-27,male|tomas|kocian|1988-03-27
+Men,1314,1011,3.0,929,Valters Lagzdins,1989-03-03,male|valters|lagzdins|1989-03-03
+Men,1314,1011,11.0,560,David Molnar,1984-11-22,male|david|molnar|1984-11-22
+Men,1314,1011,8.0,746,Marvin Prolingheuer,1990-06-29,male|marvin|prolingheuer|1990-06-29
+Men,1314,1011,14.0,605,Florian Ringseis,1992-07-09,male|florian|ringseis|1992-07-09
+Men,1314,1011,17.0,677,Joseph Sunder,1989-05-18,male|joseph|sunder|1989-05-18
+Men,1314,1011,2.0,713,Lukasz Szarek,1990-02-22,male|lukasz|szarek|1990-02-22
+Men,1314,1011,7.0,789,Nicholas Vogel,1990-02-05,male|nicholas|vogel|1990-02-05
+Men,1314,1011,4.0,696,Lars Wilmsen,1993-07-14,male|lars|wilmsen|1993-07-14
+Men,1415,1011,17.0,816,Paul Buchegger,1996-03-04,male|paul|buchegger|1996-03-04
+Men,1415,1011,9.0,694,Kristen Clero,1990-09-24,male|kristen|clero|1990-09-24
+Men,1415,1011,18.0,707,Lubos Kostolani,1990-11-28,male|lubos|kostolani|1990-11-28
+Men,1415,1011,3.0,843,Richard Mauler,1989-09-28,male|richard|mauler|1989-09-28
+Men,1415,1011,7.0,725,Magloire Mayaula Nzeza,1993-06-06,male|magloire|mayaula nzeza|1993-06-06
+Men,1415,1011,11.0,560,David Molnar,1984-11-22,male|david|molnar|1984-11-22
+Men,1415,1011,12.0,785,Nehemiah Alesana Mote,1993-06-21,male|nehemiah alesana|mote|1993-06-21
+Men,1415,1011,14.0,738,Mark Plotyczer,1987-02-19,male|mark|plotyczer|1987-02-19
+Men,1415,1011,10.0,662,Jens Sandmeier,1995-08-16,male|jens|sandmeier|1995-08-16
+Men,1415,1011,13.0,849,Robert Schramm,1989-12-16,male|robert|schramm|1989-12-16
+Men,1415,1011,5.0,563,David Sossenheimer,1996-06-21,male|david|sossenheimer|1996-06-21
+Men,1415,1011,2.0,506,Angel Trinidad de Haro,1993-03-27,male|angel|trinidad de haro|1993-03-27
+Men,1415,1011,15.0,811,Oskar Wetter,1995-06-14,male|oskar|wetter|1995-06-14
+Men,1516,1011,17.0,816,Paul Buchegger,1996-03-04,male|paul|buchegger|1996-03-04
+Men,1516,1011,9.0,694,Kristen Clero,1990-09-24,male|kristen|clero|1990-09-24
+Men,1516,1011,7.0,725,Magloire Mayaula Nzeza,1993-06-06,male|magloire|mayaula nzeza|1993-06-06
+Men,1516,1011,1.0,618,Graham Mc Ilvaine,1992-08-02,male|graham|mc ilvaine|1992-08-02
+Men,1516,1011,11.0,560,David Molnar,1984-11-22,male|david|molnar|1984-11-22
+Men,1516,1011,12.0,785,Nehemiah Alesana Mote,1993-06-21,male|nehemiah alesana|mote|1993-06-21
+Men,1516,1011,8.0,828,Peter Nagy,1984-05-15,male|peter|nagy|1984-05-15
+Men,1516,1011,14.0,825,Peter James Russell,1992-02-22,male|peter james|russell|1992-02-22
+Men,1516,1011,10.0,662,Jens Sandmeier,1995-08-16,male|jens|sandmeier|1995-08-16
+Men,1516,1011,13.0,849,Robert Schramm,1989-12-16,male|robert|schramm|1989-12-16
+Men,1516,1011,5.0,563,David Sossenheimer,1996-06-21,male|david|sossenheimer|1996-06-21
+Men,1617,1011,4.0,803,Noah Baxpoehler,1993-08-13,male|noah|baxpoehler|1993-08-13
+Men,1617,1011,9.0,694,Kristen Clero,1990-09-24,male|kristen|clero|1990-09-24
+Men,1617,1011,10.0,678,Juan Ignacio Finoli,1991-11-05,male|juan ignacio|finoli|1991-11-05
+Men,1617,1011,1.0,881,Slawomir Jungiewicz,1989-06-21,male|slawomir|jungiewicz|1989-06-21
+Men,1617,1011,3.0,524,Bartosz Kaczmarek,1991-01-17,male|bartosz|kaczmarek|1991-01-17
+Men,1617,1011,7.0,725,Magloire Mayaula Nzeza,1993-06-06,male|magloire|mayaula nzeza|1993-06-06
+Men,1617,1011,12.0,594,Felix Orthmann,1996-06-01,male|felix|orthmann|1996-06-01
+Men,1617,1011,8.0,662,Jens Sandmeier,1995-08-16,male|jens|sandmeier|1995-08-16
+Men,1617,1011,15.0,491,Akhrorjon Sobirov,1990-04-06,male|akhrorjon|sobirov|1990-04-06
+Men,1617,1011,2.0,911,Tim Stoehr,1996-08-03,male|tim|stoehr|1996-08-03
+Men,1617,1011,6.0,630,Ilya Zhilin,1985-05-10,male|ilya|zhilin|1985-05-10
+Men,1718,1011,17.0,551,Corbin Balster,1997-03-03,male|corbin|balster|1997-03-03
+Men,1718,1011,3.0,805,Oleksandr Dmytriiev,1987-07-20,male|oleksandr|dmytriiev|1987-07-20
+Men,1718,1011,4.0,939,Yannick Goralik,1997-10-23,male|yannick|goralik|1997-10-23
+Men,1718,1011,1.0,636,Iurii Kruzhkov,1994-03-14,male|iurii|kruzhkov|1994-03-14
+Men,1718,1011,7.0,725,Magloire Mayaula Nzeza,1993-06-06,male|magloire|mayaula nzeza|1993-06-06
+Men,1718,1011,16.0,700,Leon Meier,2002-01-28,male|leon|meier|2002-01-28
+Men,1718,1011,12.0,594,Felix Orthmann,1996-06-01,male|felix|orthmann|1996-06-01
+Men,1718,1011,9.0,561,David Pettersson,1994-01-21,male|david|pettersson|1994-01-21
+Men,1718,1011,14.0,509,Anton Qafarena,1997-06-11,male|anton|qafarena|1997-06-11
+Men,1718,1011,5.0,919,Tomas Ruiz,1992-04-16,male|tomas|ruiz|1992-04-16
+Men,1718,1011,13.0,734,Mario Schmidgall,1998-05-02,male|mario|schmidgall|1998-05-02
+Men,1718,1011,2.0,911,Tim Stoehr,1996-08-03,male|tim|stoehr|1996-08-03
+Men,1718,1011,8.0,747,Masahiro Yanagida,1992-07-06,male|masahiro|yanagida|1992-07-06
+Men,1718,1011,6.0,548,Chris Zuidberg,1994-09-02,male|chris|zuidberg|1994-09-02
+Men,1819,1011,7.0,640,Jacob Edward Arnitz,1995-07-15,male|jacob edward|arnitz|1995-07-15
+Men,1819,1011,17.0,551,Corbin Balster,1997-03-03,male|corbin|balster|1997-03-03
+Men,1819,1011,18.0,877,Simon Gallas,2001-10-01,male|simon|gallas|2001-10-01
+Men,1819,1011,4.0,939,Yannick Goralik,1997-10-23,male|yannick|goralik|1997-10-23
+Men,1819,1011,1.0,539,Bruno Lima,1996-02-04,male|bruno|lima|1996-02-04
+Men,1819,1011,8.0,559,David Oliver Martin,1995-03-30,male|david oliver|martin|1995-03-30
+Men,1819,1011,12.0,594,Felix Orthmann,1996-06-01,male|felix|orthmann|1996-06-01
+Men,1819,1011,14.0,509,Anton Qafarena,1997-06-11,male|anton|qafarena|1997-06-11
+Men,1819,1011,5.0,919,Tomas Ruiz,1992-04-16,male|tomas|ruiz|1992-04-16
+Men,1819,1011,13.0,734,Mario Schmidgall,1998-05-02,male|mario|schmidgall|1998-05-02
+Men,1819,1011,9.0,749,Matthew Alan Seifert,1992-12-11,male|matthew alan|seifert|1992-12-11
+Men,1819,1011,15.0,491,Akhrorjon Sobirov,1990-04-06,male|akhrorjon|sobirov|1990-04-06
+Men,1819,1011,2.0,911,Tim Stoehr,1996-08-03,male|tim|stoehr|1996-08-03
+Men,1819,1011,3.0,887,Stefan Thiel,1997-10-15,male|stefan|thiel|1997-10-15
+Men,1314,1012,14.0,841,Rene Bahlburg,1988-06-09,male|rene|bahlburg|1988-06-09
+Men,1314,1012,15.0,935,Willy Belizer,1985-11-30,male|willy|belizer|1985-11-30
+Men,1314,1012,9.0,490,Aitor Canca Fernandez,1982-11-30,male|aitor|canca fernandez|1982-11-30
+Men,1314,1012,4.0,590,Federico Cipollone,1994-05-04,male|federico|cipollone|1994-05-04
+Men,1314,1012,5.0,622,Hans Cipowicz,1989-09-25,male|hans|cipowicz|1989-09-25
+Men,1314,1012,8.0,593,Felix Isaak,1989-09-02,male|felix|isaak|1989-09-02
+Men,1314,1012,1.0,568,Dirk Mehlberg,1985-01-10,male|dirk|mehlberg|1985-01-10
+Men,1314,1012,7.0,893,Sven Metzger,1992-01-07,male|sven|metzger|1992-01-07
+Men,1314,1012,6.0,608,Friederich Nagel,1993-09-29,male|friederich|nagel|1993-09-29
+Men,1314,1012,3.0,769,Michael Neumeister,1985-06-06,male|michael|neumeister|1985-06-06
+Men,1314,1012,13.0,736,Markus Pielmeier,1987-10-06,male|markus|pielmeier|1987-10-06
+Men,1314,1012,11.0,799,Nikolas Rukavina,1989-04-28,male|nikolas|rukavina|1989-04-28
+Men,1314,1012,10.0,794,Nico Zager,1994-03-05,male|nico|zager|1994-03-05
+Men,1415,1012,15.0,935,Willy Belizer,1985-11-30,male|willy|belizer|1985-11-30
+Men,1415,1012,4.0,590,Federico Cipollone,1994-05-04,male|federico|cipollone|1994-05-04
+Men,1415,1012,11.0,665,Johannes Elsaesser,1994-07-12,male|johannes|elsaesser|1994-07-12
+Men,1415,1012,12.0,567,Diego Ferreira Guardiano,1982-01-11,male|diego|ferreira guardiano|1982-01-11
+Men,1415,1012,8.0,593,Felix Isaak,1989-09-02,male|felix|isaak|1989-09-02
+Men,1415,1012,3.0,832,Philipp Jankowski,1991-10-15,male|philipp|jankowski|1991-10-15
+Men,1415,1012,1.0,568,Dirk Mehlberg,1985-01-10,male|dirk|mehlberg|1985-01-10
+Men,1415,1012,7.0,893,Sven Metzger,1992-01-07,male|sven|metzger|1992-01-07
+Men,1415,1012,6.0,608,Friederich Nagel,1993-09-29,male|friederich|nagel|1993-09-29
+Men,1415,1012,2.0,905,Timon Schippmann,1995-09-06,male|timon|schippmann|1995-09-06
+Men,1415,1012,13.0,808,Oliver Staab,1987-11-11,male|oliver|staab|1987-11-11
+Men,1415,1012,10.0,921,Tom Strohbach,1992-05-27,male|tom|strohbach|1992-05-27
+Men,1415,1012,9.0,696,Lars Wilmsen,1993-07-14,male|lars|wilmsen|1993-07-14
+Men,1516,1012,15.0,935,Willy Belizer,1985-11-30,male|willy|belizer|1985-11-30
+Men,1516,1012,4.0,590,Federico Cipollone,1994-05-04,male|federico|cipollone|1994-05-04
+Men,1516,1012,16.0,665,Johannes Elsaesser,1994-07-12,male|johannes|elsaesser|1994-07-12
+Men,1516,1012,8.0,593,Felix Isaak,1989-09-02,male|felix|isaak|1989-09-02
+Men,1516,1012,3.0,832,Philipp Jankowski,1991-10-15,male|philipp|jankowski|1991-10-15
+Men,1516,1012,13.0,781,Moritz Karlitzek,1996-08-12,male|moritz|karlitzek|1996-08-12
+Men,1516,1012,1.0,568,Dirk Mehlberg,1985-01-10,male|dirk|mehlberg|1985-01-10
+Men,1516,1012,7.0,893,Sven Metzger,1992-01-07,male|sven|metzger|1992-01-07
+Men,1516,1012,6.0,608,Friederich Nagel,1993-09-29,male|friederich|nagel|1993-09-29
+Men,1516,1012,12.0,594,Felix Orthmann,1996-06-01,male|felix|orthmann|1996-06-01
+Men,1516,1012,14.0,669,Johannes Schief,1997-10-03,male|johannes|schief|1997-10-03
+Men,1516,1012,10.0,921,Tom Strohbach,1992-05-27,male|tom|strohbach|1992-05-27
+Men,1516,1012,9.0,696,Lars Wilmsen,1993-07-14,male|lars|wilmsen|1993-07-14
+Men,1617,1012,4.0,590,Federico Cipollone,1994-05-04,male|federico|cipollone|1994-05-04
+Men,1617,1012,16.0,665,Johannes Elsaesser,1994-07-12,male|johannes|elsaesser|1994-07-12
+Men,1617,1012,18.0,909,Tim Grozer,1998-10-14,male|tim|grozer|1998-10-14
+Men,1617,1012,8.0,593,Felix Isaak,1989-09-02,male|felix|isaak|1989-09-02
+Men,1617,1012,3.0,832,Philipp Jankowski,1991-10-15,male|philipp|jankowski|1991-10-15
+Men,1617,1012,13.0,781,Moritz Karlitzek,1996-08-12,male|moritz|karlitzek|1996-08-12
+Men,1617,1012,1.0,568,Dirk Mehlberg,1985-01-10,male|dirk|mehlberg|1985-01-10
+Men,1617,1012,7.0,893,Sven Metzger,1992-01-07,male|sven|metzger|1992-01-07
+Men,1617,1012,6.0,608,Friederich Nagel,1993-09-29,male|friederich|nagel|1993-09-29
+Men,1617,1012,10.0,596,Ferenc Nemeth,1987-05-16,male|ferenc|nemeth|1987-05-16
+Men,1617,1012,14.0,669,Johannes Schief,1997-10-03,male|johannes|schief|1997-10-03
+Men,1617,1012,12.0,834,Phillip Trenkler,1993-03-05,male|phillip|trenkler|1993-03-05
+Men,1617,1012,9.0,696,Lars Wilmsen,1993-07-14,male|lars|wilmsen|1993-07-14
+Men,1718,1012,4.0,590,Federico Cipollone,1994-05-04,male|federico|cipollone|1994-05-04
+Men,1718,1012,16.0,665,Johannes Elsaesser,1994-07-12,male|johannes|elsaesser|1994-07-12
+Men,1718,1012,18.0,909,Tim Grozer,1998-10-14,male|tim|grozer|1998-10-14
+Men,1718,1012,8.0,818,Paul Henning,1997-09-28,male|paul|henning|1997-09-28
+Men,1718,1012,3.0,832,Philipp Jankowski,1991-10-15,male|philipp|jankowski|1991-10-15
+Men,1718,1012,11.0,628,Idner Faustino Lima Martins,1978-12-19,male|idner faustino|lima martins|1978-12-19
+Men,1718,1012,1.0,568,Dirk Mehlberg,1985-01-10,male|dirk|mehlberg|1985-01-10
+Men,1718,1012,7.0,668,Johannes Moennich,1997-11-10,male|johannes|moennich|1997-11-10
+Men,1718,1012,6.0,608,Friederich Nagel,1993-09-29,male|friederich|nagel|1993-09-29
+Men,1718,1012,10.0,596,Ferenc Nemeth,1987-05-16,male|ferenc|nemeth|1987-05-16
+Men,1718,1012,14.0,669,Johannes Schief,1997-10-03,male|johannes|schief|1997-10-03
+Men,1718,1012,5.0,905,Timon Schippmann,1995-09-06,male|timon|schippmann|1995-09-06
+Men,1718,1012,12.0,834,Phillip Trenkler,1993-03-05,male|phillip|trenkler|1993-03-05
+Men,1718,1012,9.0,696,Lars Wilmsen,1993-07-14,male|lars|wilmsen|1993-07-14
+Men,1819,1012,18.0,497,Alex Duncan-Thibault,1994-05-04,male|alex|duncan-thibault|1994-05-04
+Men,1819,1012,16.0,665,Johannes Elsaesser,1994-07-12,male|johannes|elsaesser|1994-07-12
+Men,1819,1012,9.0,909,Tim Grozer,1998-10-14,male|tim|grozer|1998-10-14
+Men,1819,1012,17.0,648,Jannis Hopt,1996-08-03,male|jannis|hopt|1996-08-03
+Men,1819,1012,13.0,748,Mathaeus Jurkovics,1998-04-27,male|mathaeus|jurkovics|1998-04-27
+Men,1819,1012,12.0,796,Niklas Lichtenauer,2000-11-13,male|niklas|lichtenauer|2000-11-13
+Men,1819,1012,11.0,628,Idner Faustino Lima Martins,1978-12-19,male|idner faustino|lima martins|1978-12-19
+Men,1819,1012,7.0,668,Johannes Moennich,1997-11-10,male|johannes|moennich|1997-11-10
+Men,1819,1012,6.0,608,Friederich Nagel,1993-09-29,male|friederich|nagel|1993-09-29
+Men,1819,1012,3.0,844,Richard Peemueller,1998-02-08,male|richard|peemueller|1998-02-08
+Men,1819,1012,2.0,780,Mitchell Steven Penning,1995-05-26,male|mitchell steven|penning|1995-05-26
+Men,1819,1012,10.0,653,Jan Roeling,1999-09-15,male|jan|roeling|1999-09-15
+Men,1819,1012,14.0,669,Johannes Schief,1997-10-03,male|johannes|schief|1997-10-03
+Men,1819,1012,8.0,905,Timon Schippmann,1995-09-06,male|timon|schippmann|1995-09-06
+Men,1516,1013,5.0,714,Lukas Bauer,1989-02-26,male|lukas|bauer|1989-02-26
+Men,1516,1013,16.0,544,Christian Duennes,1984-06-16,male|christian|duennes|1984-06-16
+Men,1516,1013,9.0,611,Georg Escher,1994-12-08,male|georg|escher|1994-12-08
+Men,1516,1013,2.0,540,Bryan Joseph Fraser,1991-01-31,male|bryan joseph|fraser|1991-01-31
+Men,1516,1013,7.0,648,Jannis Hopt,1996-08-03,male|jannis|hopt|1996-08-03
+Men,1516,1013,8.0,651,Jan Klobucar,1992-12-11,male|jan|klobucar|1992-12-11
+Men,1516,1013,11.0,913,Tobias Krick,1998-10-22,male|tobias|krick|1998-10-22
+Men,1516,1013,10.0,784,Moritz Reichert,1995-03-15,male|moritz|reichert|1995-03-15
+Men,1516,1013,1.0,605,Florian Ringseis,1992-07-09,male|florian|ringseis|1992-07-09
+Men,1516,1013,3.0,887,Stefan Thiel,1997-10-15,male|stefan|thiel|1997-10-15
+Men,1516,1013,14.0,830,Peter Wolf,1992-06-14,male|peter|wolf|1992-06-14
+Men,1516,1013,17.0,655,Jan Zimmermann,1993-02-12,male|jan|zimmermann|1993-02-12
+Men,1617,1013,6.0,845,Robert Adrian Aciobanitei,1997-08-24,male|robert adrian|aciobanitei|1997-08-24
+Men,1617,1013,5.0,714,Lukas Bauer,1989-02-26,male|lukas|bauer|1989-02-26
+Men,1617,1013,16.0,544,Christian Duennes,1984-06-16,male|christian|duennes|1984-06-16
+Men,1617,1013,9.0,611,Georg Escher,1994-12-08,male|georg|escher|1994-12-08
+Men,1617,1013,7.0,648,Jannis Hopt,1996-08-03,male|jannis|hopt|1996-08-03
+Men,1617,1013,8.0,651,Jan Klobucar,1992-12-11,male|jan|klobucar|1992-12-11
+Men,1617,1013,11.0,913,Tobias Krick,1998-10-22,male|tobias|krick|1998-10-22
+Men,1617,1013,10.0,784,Moritz Reichert,1995-03-15,male|moritz|reichert|1995-03-15
+Men,1617,1013,1.0,605,Florian Ringseis,1992-07-09,male|florian|ringseis|1992-07-09
+Men,1617,1013,3.0,779,Mitchell Peter Tulley,1996-10-15,male|mitchell peter|tulley|1996-10-15
+Men,1617,1013,14.0,830,Peter Wolf,1992-06-14,male|peter|wolf|1992-06-14
+Men,1617,1013,17.0,655,Jan Zimmermann,1993-02-12,male|jan|zimmermann|1993-02-12
+Men,1718,1013,6.0,845,Robert Adrian Aciobanitei,1997-08-24,male|robert adrian|aciobanitei|1997-08-24
+Men,1718,1013,5.0,714,Lukas Bauer,1989-02-26,male|lukas|bauer|1989-02-26
+Men,1718,1013,9.0,611,Georg Escher,1994-12-08,male|georg|escher|1994-12-08
+Men,1718,1013,7.0,648,Jannis Hopt,1996-08-03,male|jannis|hopt|1996-08-03
+Men,1718,1013,8.0,704,Lorenz Karlitzek,1999-02-17,male|lorenz|karlitzek|1999-02-17
+Men,1718,1013,13.0,781,Moritz Karlitzek,1996-08-12,male|moritz|karlitzek|1996-08-12
+Men,1718,1013,11.0,913,Tobias Krick,1998-10-22,male|tobias|krick|1998-10-22
+Men,1718,1013,12.0,633,Issei Otake,1995-12-03,male|issei|otake|1995-12-03
+Men,1718,1013,16.0,874,Sebastian Schwarz,1985-10-02,male|sebastian|schwarz|1985-10-02
+Men,1718,1013,4.0,815,Patrick Steuerwald,1986-03-03,male|patrick|steuerwald|1986-03-03
+Men,1718,1013,18.0,702,Lincoln Alexander Williams,1993-10-06,male|lincoln alexander|williams|1993-10-06
+Men,1718,1013,10.0,682,Julian Zenger,1997-08-26,male|julian|zenger|1997-08-26
+Men,1819,1013,1.0,726,Maksim Buculjevic,1991-09-20,male|maksim|buculjevic|1991-09-20
+Men,1819,1013,9.0,611,Georg Escher,1994-12-08,male|georg|escher|1994-12-08
+Men,1819,1013,3.0,499,Andreas Fragkos,1989-12-21,male|andreas|fragkos|1989-12-21
+Men,1819,1013,6.0,818,Paul Henning,1997-09-28,male|paul|henning|1997-09-28
+Men,1819,1013,8.0,704,Lorenz Karlitzek,1999-02-17,male|lorenz|karlitzek|1999-02-17
+Men,1819,1013,13.0,781,Moritz Karlitzek,1996-08-12,male|moritz|karlitzek|1996-08-12
+Men,1819,1013,18.0,486,Adam Kocian,1995-04-01,male|adam|kocian|1995-04-01
+Men,1819,1013,17.0,930,Vasilis Kostopoulos,1995-02-16,male|vasilis|kostopoulos|1995-02-16
+Men,1819,1013,11.0,913,Tobias Krick,1998-10-22,male|tobias|krick|1998-10-22
+Men,1819,1013,7.0,706,Louis Kunstmann,2000-09-10,male|louis|kunstmann|2000-09-10
+Men,1819,1013,15.0,778,Milija Mrdak,1991-10-26,male|milija|mrdak|1991-10-26
+Men,1819,1013,16.0,874,Sebastian Schwarz,1985-10-02,male|sebastian|schwarz|1985-10-02
+Men,1819,1013,4.0,815,Patrick Steuerwald,1986-03-03,male|patrick|steuerwald|1986-03-03
+Men,1819,1013,2.0,895,Tanner Syftestad,1995-01-28,male|tanner|syftestad|1995-01-28
+Men,1819,1013,12.0,710,Lucas Van Berkel,1991-11-29,male|lucas|van berkel|1991-11-29
+Men,1819,1013,10.0,682,Julian Zenger,1997-08-26,male|julian|zenger|1997-08-26
+Men,1314,1014,1.0,891,Sven Doerendahl,1973-08-31,male|sven|doerendahl|1973-08-31
+Men,1314,1014,18.0,938,Yaniel Garay Gomez,1980-11-20,male|yaniel|garay gomez|1980-11-20
+Men,1314,1014,5.0,580,Eric Grosche,1989-01-24,male|eric|grosche|1989-01-24
+Men,1314,1014,12.0,546,Christian Heymann,1986-09-20,male|christian|heymann|1986-09-20
+Men,1314,1014,100.0,740,Martin Kross,1993-04-12,male|martin|kross|1993-04-12
+Men,1314,1014,3.0,743,Martin Merkel,1989-12-27,male|martin|merkel|1989-12-27
+Men,1314,1014,15.0,839,Raphael Moellers,1985-10-09,male|raphael|moellers|1985-10-09
+Men,1314,1014,101.0,574,Eder Pinheiro,1984-01-24,male|eder|pinheiro|1984-01-24
+Men,1314,1014,4.0,866,Santino Rost,1990-06-26,male|santino|rost|1990-06-26
+Men,1314,1014,9.0,902,Thomas Schober,1990-08-12,male|thomas|schober|1990-08-12
+Men,1314,1014,13.0,849,Robert Schramm,1989-12-16,male|robert|schramm|1989-12-16
+Men,1314,1014,7.0,912,Tino Walter,1988-02-05,male|tino|walter|1988-02-05
+Men,1314,1014,11.0,492,Alan Wasilewski,1991-07-23,male|alan|wasilewski|1991-07-23
+Men,1314,1014,2.0,850,Robert Went,1990-05-13,male|robert|went|1990-05-13
+Men,1314,1014,6.0,613,Georg Zobel,1995-10-11,male|georg|zobel|1995-10-11
+Men,1415,1015,12.0,759,Maximilian Auste,1997-01-27,male|maximilian|auste|1997-01-27
+Men,1415,1015,17.0,551,Corbin Balster,1997-03-03,male|corbin|balster|1997-03-03
+Men,1415,1015,5.0,639,Iven Fietje Ferch,1997-09-18,male|iven fietje|ferch|1997-09-18
+Men,1415,1015,18.0,592,Felix Goebert,1996-10-04,male|felix|goebert|1996-10-04
+Men,1415,1015,8.0,851,Robin Hafemann,1995-11-02,male|robin|hafemann|1995-11-02
+Men,1415,1015,6.0,760,Maximilian Horn,1996-08-07,male|maximilian|horn|1996-08-07
+Men,1415,1015,9.0,672,Jonas Kaminski,1996-05-08,male|jonas|kaminski|1996-05-08
+Men,1415,1015,15.0,547,Christoph Marks,1997-04-16,male|christoph|marks|1997-04-16
+Men,1415,1015,14.0,865,Samuel Rodiek,1995-07-10,male|samuel|rodiek|1995-07-10
+Men,1415,1015,3.0,797,Niklas Rudolf,1996-03-06,male|niklas|rudolf|1996-03-06
+Men,1415,1015,16.0,905,Timon Schippmann,1995-09-06,male|timon|schippmann|1995-09-06
+Men,1415,1015,1.0,906,Timo Schlag,1995-08-04,male|timo|schlag|1995-08-04
+Men,1415,1015,13.0,562,David Seybering,1995-12-19,male|david|seybering|1995-12-19
+Men,1415,1015,7.0,698,Leonhard Tille,1995-03-17,male|leonhard|tille|1995-03-17
+Men,1415,1015,4.0,798,Niklas Trogisch,1997-01-17,male|niklas|trogisch|1997-01-17
+Men,1617,1015,12.0,759,Maximilian Auste,1997-01-27,male|maximilian|auste|1997-01-27
+Men,1617,1015,17.0,551,Corbin Balster,1997-03-03,male|corbin|balster|1997-03-03
+Men,1617,1015,7.0,757,Matti Binder,1998-10-02,male|matti|binder|1998-10-02
+Men,1617,1015,9.0,576,Egor Bogachev,1997-04-06,male|egor|bogachev|1997-04-06
+Men,1617,1015,2.0,507,Anton Brehme,1999-08-10,male|anton|brehme|1999-08-10
+Men,1617,1015,4.0,939,Yannick Goralik,1997-10-23,male|yannick|goralik|1997-10-23
+Men,1617,1015,8.0,818,Paul Henning,1997-09-28,male|paul|henning|1997-09-28
+Men,1617,1015,1.0,504,Andre Illmer,1997-03-20,male|andre|illmer|1997-03-20
+Men,1617,1015,11.0,603,Florian Lueddemann,1997-04-13,male|florian|lueddemann|1997-04-13
+Men,1617,1015,14.0,681,Julian Meissner,1999-03-04,male|julian|meissner|1999-03-04
+Men,1617,1015,10.0,668,Johannes Moennich,1997-11-10,male|johannes|moennich|1997-11-10
+Men,1617,1015,5.0,783,Moritz Rauber,1997-02-16,male|moritz|rauber|1997-02-16
+Men,1617,1015,3.0,887,Stefan Thiel,1997-10-15,male|stefan|thiel|1997-10-15
+Men,1617,1015,6.0,670,Johannes Tille,1997-05-07,male|johannes|tille|1997-05-07
+Men,1617,1015,15.0,703,Linus Weber,1999-11-01,male|linus|weber|1999-11-01
+Men,1617,1015,16.0,682,Julian Zenger,1997-08-26,male|julian|zenger|1997-08-26
+Men,1819,1015,1.0,637,Ivan Batanov,2000-04-25,male|ivan|batanov|2000-04-25
+Men,1819,1015,12.0,507,Anton Brehme,1999-08-10,male|anton|brehme|1999-08-10
+Men,1819,1015,13.0,705,Louis Brehme,1999-08-10,male|louis|brehme|1999-08-10
+Men,1819,1015,4.0,578,Eric Burggraef,1999-03-10,male|eric|burggraef|1999-03-10
+Men,1819,1015,6.0,508,Anton Frank,2000-02-07,male|anton|frank|2000-02-07
+Men,1819,1015,7.0,680,Julian Hoyer,2001-09-18,male|julian|hoyer|2001-09-18
+Men,1819,1015,9.0,706,Louis Kunstmann,2000-09-10,male|louis|kunstmann|2000-09-10
+Men,1819,1015,8.0,681,Julian Meissner,1999-03-04,male|julian|meissner|1999-03-04
+Men,1819,1015,3.0,582,Erik Niederluecke,1999-04-25,male|erik|niederluecke|1999-04-25
+Men,1819,1015,14.0,716,Lukas Pfretzschner,2000-01-13,male|lukas|pfretzschner|2000-01-13
+Men,1819,1015,5.0,879,Simon Pfretzschner,2002-02-06,male|simon|pfretzschner|2002-02-06
+Men,1819,1015,16.0,583,Erik Roehrs,2001-04-24,male|erik|roehrs|2001-04-24
+Men,1819,1015,15.0,806,Ole Schwarmann,1999-05-15,male|ole|schwarmann|1999-05-15
+Men,1819,1015,11.0,703,Linus Weber,1999-11-01,male|linus|weber|1999-11-01
+Men,1314,1016,4.0,928,Valentin Bratoev,1987-10-21,male|valentin|bratoev|1987-10-21
+Men,1314,1016,16.0,544,Christian Duennes,1984-06-16,male|christian|duennes|1984-06-16
+Men,1314,1016,14.0,522,Baptiste Geiler,1987-03-12,male|baptiste|geiler|1987-03-12
+Men,1314,1016,11.0,853,Roland Gergye,1993-02-24,male|roland|gergye|1993-02-24
+Men,1314,1016,5.0,894,Svetoslav Gotsev,1990-08-31,male|svetoslav|gotsev|1990-08-31
+Men,1314,1016,10.0,661,Jenia Grebennikov,1990-08-13,male|jenia|grebennikov|1990-08-13
+Men,1314,1016,8.0,763,Max Guenthoer,1985-08-09,male|max|guenthoer|1985-08-09
+Men,1314,1016,18.0,940,Yannick Harms,1994-01-14,male|yannick|harms|1994-01-14
+Men,1314,1016,100.0,648,Jannis Hopt,1996-08-03,male|jannis|hopt|1996-08-03
+Men,1314,1016,9.0,800,Nikola Jovovic,1992-02-13,male|nikola|jovovic|1992-02-13
+Men,1314,1016,13.0,931,Ventceslav Simeonov,1977-02-03,male|ventceslav|simeonov|1977-02-03
+Men,1314,1016,3.0,899,Thilo Spaeth-Westerholt,1987-06-08,male|thilo|spaeth-westerholt|1987-06-08
+Men,1314,1016,12.0,932,Viktor Yosifov,1985-10-16,male|viktor|yosifov|1985-10-16
+Men,1314,1016,17.0,655,Jan Zimmermann,1993-02-12,male|jan|zimmermann|1993-02-12
+Men,1415,1016,6.0,772,Michal Finger,1993-09-02,male|michal|finger|1993-09-02
+Men,1415,1016,2.0,758,Maximiliano Gauna,1989-04-29,male|maximiliano|gauna|1989-04-29
+Men,1415,1016,14.0,522,Baptiste Geiler,1987-03-12,male|baptiste|geiler|1987-03-12
+Men,1415,1016,11.0,853,Roland Gergye,1993-02-24,male|roland|gergye|1993-02-24
+Men,1415,1016,13.0,489,Adrian Radu Gontariu,1984-05-14,male|adrian radu|gontariu|1984-05-14
+Men,1415,1016,10.0,661,Jenia Grebennikov,1990-08-13,male|jenia|grebennikov|1990-08-13
+Men,1415,1016,100.0,642,Jakob Guenthoer,1995-09-21,male|jakob|guenthoer|1995-09-21
+Men,1415,1016,8.0,763,Max Guenthoer,1985-08-09,male|max|guenthoer|1985-08-09
+Men,1415,1016,9.0,784,Moritz Reichert,1995-03-15,male|moritz|reichert|1995-03-15
+Men,1415,1016,3.0,899,Thilo Spaeth-Westerholt,1987-06-08,male|thilo|spaeth-westerholt|1987-06-08
+Men,1415,1016,5.0,880,Simon Tischer,1982-04-24,male|simon|tischer|1982-04-24
+Men,1415,1016,16.0,533,Benjamin Toniutti,1989-10-30,male|benjamin|toniutti|1989-10-30
+Men,1415,1016,4.0,722,Maarten van Garderen,1990-01-24,male|maarten|van garderen|1990-01-24
+Men,1415,1016,7.0,789,Nicholas Vogel,1990-02-05,male|nicholas|vogel|1990-02-05
+Men,1415,1016,1.0,492,Alan Wasilewski,1991-07-23,male|alan|wasilewski|1991-07-23
+Men,1415,1016,17.0,655,Jan Zimmermann,1993-02-12,male|jan|zimmermann|1993-02-12
+Men,1516,1016,15.0,845,Robert Adrian Aciobanitei,1997-08-24,male|robert adrian|aciobanitei|1997-08-24
+Men,1516,1016,8.0,535,Bjoern Andrae,1981-05-14,male|bjoern|andrae|1981-05-14
+Men,1516,1016,6.0,772,Michal Finger,1993-09-02,male|michal|finger|1993-09-02
+Men,1516,1016,2.0,758,Maximiliano Gauna,1989-04-29,male|maximiliano|gauna|1989-04-29
+Men,1516,1016,14.0,522,Baptiste Geiler,1987-03-12,male|baptiste|geiler|1987-03-12
+Men,1516,1016,13.0,489,Adrian Radu Gontariu,1984-05-14,male|adrian radu|gontariu|1984-05-14
+Men,1516,1016,12.0,642,Jakob Guenthoer,1995-09-21,male|jakob|guenthoer|1995-09-21
+Men,1516,1016,9.0,729,Marc Anthony Honore,1984-06-12,male|marc anthony|honore|1984-06-12
+Men,1516,1016,17.0,917,Tomas Kocian,1988-03-27,male|tomas|kocian|1988-03-27
+Men,1516,1016,5.0,496,Alexey Nalobin,1989-10-03,male|alexey|nalobin|1989-10-03
+Men,1516,1016,11.0,720,Luke Perry,1995-11-20,male|luke|perry|1995-11-20
+Men,1516,1016,3.0,899,Thilo Spaeth-Westerholt,1987-06-08,male|thilo|spaeth-westerholt|1987-06-08
+Men,1516,1016,10.0,880,Simon Tischer,1982-04-24,male|simon|tischer|1982-04-24
+Men,1516,1016,4.0,711,Luis Fernando Joventino Venceslau,1989-09-25,male|luis fernando joventino|venceslau|1989-09-25
+Men,1516,1016,1.0,682,Julian Zenger,1997-08-26,male|julian|zenger|1997-08-26
+Men,1617,1016,6.0,772,Michal Finger,1993-09-02,male|michal|finger|1993-09-02
+Men,1617,1016,12.0,642,Jakob Guenthoer,1995-09-21,male|jakob|guenthoer|1995-09-21
+Men,1617,1016,8.0,612,Georg Klein,1991-08-22,male|georg|klein|1991-08-22
+Men,1617,1016,17.0,917,Tomas Kocian,1988-03-27,male|tomas|kocian|1988-03-27
+Men,1617,1016,11.0,556,Daniel Malescha,1994-04-28,male|daniel|malescha|1994-04-28
+Men,1617,1016,15.0,513,Armin Mustedanovic,1986-04-26,male|armin|mustedanovic|1986-04-26
+Men,1617,1016,7.0,520,Athanasios Protopsaltis,1993-09-12,male|athanasios|protopsaltis|1993-09-12
+Men,1617,1016,14.0,918,Tomas Rousseaux,1994-03-31,male|tomas|rousseaux|1994-03-31
+Men,1617,1016,5.0,563,David Sossenheimer,1996-06-21,male|david|sossenheimer|1996-06-21
+Men,1617,1016,3.0,899,Thilo Spaeth-Westerholt,1987-06-08,male|thilo|spaeth-westerholt|1987-06-08
+Men,1617,1016,13.0,737,Markus Steuerwald,1989-03-07,male|markus|steuerwald|1989-03-07
+Men,1617,1016,4.0,500,Andreas Takvam,1993-06-04,male|andreas|takvam|1993-06-04
+Men,1617,1016,10.0,880,Simon Tischer,1982-04-24,male|simon|tischer|1982-04-24
+Men,1617,1016,16.0,682,Julian Zenger,1997-08-26,male|julian|zenger|1997-08-26
+Men,1718,1016,8.0,739,Martin Atanasov,1996-09-27,male|martin|atanasov|1996-09-27
+Men,1718,1016,1.0,523,Bartlomiej Bolqdzl,1994-09-28,male|bartlomiej|bolqdzl|1994-09-28
+Men,1718,1016,9.0,831,Philipp Collin,1990-10-28,male|philipp|collin|1990-10-28
+Men,1718,1016,12.0,642,Jakob Guenthoer,1995-09-21,male|jakob|guenthoer|1995-09-21
+Men,1718,1016,16.0,869,Scott Michael Kevorken,1991-02-16,male|scott michael|kevorken|1991-02-16
+Men,1718,1016,17.0,917,Tomas Kocian,1988-03-27,male|tomas|kocian|1988-03-27
+Men,1718,1016,11.0,556,Daniel Malescha,1994-04-28,male|daniel|malescha|1994-04-28
+Men,1718,1016,7.0,520,Athanasios Protopsaltis,1993-09-12,male|athanasios|protopsaltis|1993-09-12
+Men,1718,1016,5.0,563,David Sossenheimer,1996-06-21,male|david|sossenheimer|1996-06-21
+Men,1718,1016,3.0,899,Thilo Spaeth-Westerholt,1987-06-08,male|thilo|spaeth-westerholt|1987-06-08
+Men,1718,1016,13.0,737,Markus Steuerwald,1989-03-07,male|markus|steuerwald|1989-03-07
+Men,1718,1016,4.0,500,Andreas Takvam,1993-06-04,male|andreas|takvam|1993-06-04
+Men,1718,1016,10.0,880,Simon Tischer,1982-04-24,male|simon|tischer|1982-04-24
+Men,1819,1016,6.0,845,Robert Adrian Aciobanitei,1997-08-24,male|robert adrian|aciobanitei|1997-08-24
+Men,1819,1016,1.0,523,Bartlomiej Bolqdzl,1994-09-28,male|bartlomiej|bolqdzl|1994-09-28
+Men,1819,1016,9.0,831,Philipp Collin,1990-10-28,male|philipp|collin|1990-10-28
+Men,1819,1016,12.0,642,Jakob Guenthoer,1995-09-21,male|jakob|guenthoer|1995-09-21
+Men,1819,1016,8.0,643,Jakub Janouch,1990-06-13,male|jakub|janouch|1990-06-13
+Men,1819,1016,11.0,556,Daniel Malescha,1994-04-28,male|daniel|malescha|1994-04-28
+Men,1819,1016,14.0,774,Michal Petras,1996-12-05,male|michal|petras|1996-12-05
+Men,1819,1016,7.0,520,Athanasios Protopsaltis,1993-09-12,male|athanasios|protopsaltis|1993-09-12
+Men,1819,1016,15.0,837,Rafael Redwitz,1980-08-12,male|rafael|redwitz|1980-08-12
+Men,1819,1016,5.0,563,David Sossenheimer,1996-06-21,male|david|sossenheimer|1996-06-21
+Men,1819,1016,3.0,899,Thilo Spaeth-Westerholt,1987-06-08,male|thilo|spaeth-westerholt|1987-06-08
+Men,1819,1016,13.0,737,Markus Steuerwald,1989-03-07,male|markus|steuerwald|1989-03-07
+Men,1819,1016,4.0,500,Andreas Takvam,1993-06-04,male|andreas|takvam|1993-06-04
+Men,1314,1018,3.0,666,Johannes Engel,1991-05-18,male|johannes|engel|1991-05-18
+Men,1314,1018,7.0,690,Kevin Foyer,1990-10-11,male|kevin|foyer|1990-10-11
+Men,1314,1018,12.0,671,Jonas Ickerott,1989-06-29,male|jonas|ickerott|1989-06-29
+Men,1314,1018,10.0,892,Sven Kellermann,1987-07-17,male|sven|kellermann|1987-07-17
+Men,1314,1018,5.0,764,Max Kessel,1992-05-02,male|max|kessel|1992-05-02
+Men,1314,1018,18.0,486,Adam Kocian,1995-04-01,male|adam|kocian|1995-04-01
+Men,1314,1018,4.0,765,Merten Krueger,1990-11-08,male|merten|krueger|1990-11-08
+Men,1314,1018,8.0,531,Benjamin Kucera,1980-09-03,male|benjamin|kucera|1980-09-03
+Men,1314,1018,2.0,819,Paul Lohrisch,1987-04-11,male|paul|lohrisch|1987-04-11
+Men,1314,1018,11.0,556,Daniel Malescha,1994-04-28,male|daniel|malescha|1994-04-28
+Men,1314,1018,6.0,761,Maximilian Meuter,1989-11-24,male|maximilian|meuter|1989-11-24
+Men,1314,1018,9.0,621,Hans-Peter Nuernberger,1985-07-25,male|hans-peter|nuernberger|1985-07-25
+Men,1314,1018,1.0,801,Nikola Poluga,1986-03-01,male|nikola|poluga|1986-03-01
+Men,1314,1018,13.0,836,privat - ausgeblendet privat - ausgeblendet,1985-03-30,male|privat - ausgeblendet|privat - ausgeblendet|1985-03-30
+Men,1415,1018,4.0,803,Noah Baxpoehler,1993-08-13,male|noah|baxpoehler|1993-08-13
+Men,1415,1018,16.0,760,Maximilian Horn,1996-08-07,male|maximilian|horn|1996-08-07
+Men,1415,1018,5.0,933,Vuk Karanovic,1987-12-18,male|vuk|karanovic|1987-12-18
+Men,1415,1018,13.0,781,Moritz Karlitzek,1996-08-12,male|moritz|karlitzek|1996-08-12
+Men,1415,1018,10.0,892,Sven Kellermann,1987-07-17,male|sven|kellermann|1987-07-17
+Men,1415,1018,18.0,486,Adam Kocian,1995-04-01,male|adam|kocian|1995-04-01
+Men,1415,1018,6.0,761,Maximilian Meuter,1989-11-24,male|maximilian|meuter|1989-11-24
+Men,1415,1018,9.0,621,Hans-Peter Nuernberger,1985-07-25,male|hans-peter|nuernberger|1985-07-25
+Men,1415,1018,1.0,801,Nikola Poluga,1986-03-01,male|nikola|poluga|1986-03-01
+Men,1415,1018,12.0,814,Patrick Speta,1991-11-15,male|patrick|speta|1991-11-15
+Men,1415,1018,2.0,634,Itamar Stein,1983-02-12,male|itamar|stein|1983-02-12
+Men,1415,1018,17.0,698,Leonhard Tille,1995-03-17,male|leonhard|tille|1995-03-17
+Men,1415,1018,7.0,898,Thiago Jose Welter,1988-04-04,male|thiago jose|welter|1988-04-04
+Men,1516,1018,4.0,803,Noah Baxpoehler,1993-08-13,male|noah|baxpoehler|1993-08-13
+Men,1516,1018,3.0,573,Dylan Davis,1991-04-06,male|dylan|davis|1991-04-06
+Men,1516,1018,16.0,777,Milan Hrinak,1985-10-15,male|milan|hrinak|1985-10-15
+Men,1516,1018,2.0,512,Ariel Katzenelson,1993-09-09,male|ariel|katzenelson|1993-09-09
+Men,1516,1018,18.0,707,Lubos Kostolani,1990-11-28,male|lubos|kostolani|1990-11-28
+Men,1516,1018,1.0,531,Benjamin Kucera,1980-09-03,male|benjamin|kucera|1980-09-03
+Men,1516,1018,15.0,936,Wojciech Kwiecien,1994-05-26,male|wojciech|kwiecien|1994-05-26
+Men,1516,1018,13.0,843,Richard Mauler,1989-09-28,male|richard|mauler|1989-09-28
+Men,1516,1018,12.0,718,Lukas Schattenberg,1995-09-11,male|lukas|schattenberg|1995-09-11
+Men,1516,1018,14.0,905,Timon Schippmann,1995-09-06,male|timon|schippmann|1995-09-06
+Men,1516,1018,6.0,862,Ryan Thompson,1990-10-15,male|ryan|thompson|1990-10-15
+Men,1516,1018,7.0,698,Leonhard Tille,1995-03-17,male|leonhard|tille|1995-03-17
+Men,1516,1018,8.0,922,Tom Weber,1989-10-27,male|tom|weber|1989-10-27
+Men,1819,1019,10.0,511,Antwain Aguillard,1989-08-22,male|antwain|aguillard|1989-08-22
+Men,1819,1019,3.0,735,Marius Appel,1992-11-18,male|marius|appel|1992-11-18
+Men,1819,1019,9.0,624,Henrik Behmenburg,1997-08-11,male|henrik|behmenburg|1997-08-11
+Men,1819,1019,12.0,663,Jerôme Clere,1990-08-02,male|jerôme|clere|1990-08-02
+Men,1819,1019,16.0,777,Milan Hrinak,1985-10-15,male|milan|hrinak|1985-10-15
+Men,1819,1019,11.0,504,Andre Illmer,1997-03-20,male|andre|illmer|1997-03-20
+Men,1819,1019,18.0,773,Michal Krisko,1988-11-23,male|michal|krisko|1988-11-23
+Men,1819,1019,7.0,725,Magloire Mayaula Nzeza,1993-06-06,male|magloire|mayaula nzeza|1993-06-06
+Men,1819,1019,8.0,727,Malte Neubert,1996-06-17,male|malte|neubert|1996-06-17
+Men,1819,1019,2.0,598,Filip Palgut,1991-09-23,male|filip|palgut|1991-09-23
+Men,1819,1019,4.0,510,Antti Poikela,1989-04-06,male|antti|poikela|1989-04-06
+Men,1819,1019,13.0,849,Robert Schramm,1989-12-16,male|robert|schramm|1989-12-16
+Men,1819,1019,6.0,762,Maximilian Stroebl,1997-03-04,male|maximilian|stroebl|1997-03-04
+Men,1819,1019,1.0,927,Urban Toman,1997-10-21,male|urban|toman|1997-10-21
+Men,1819,1019,5.0,623,Hauke Wagner,1987-05-30,male|hauke|wagner|1987-05-30
+Women,1314,2001,9.0,134,Franziska Bremer,1985-06-27,female|franziska|bremer|1985-06-27
+Women,1314,2001,10.0,342,Megan Cyr,1990-06-01,female|megan|cyr|1990-06-01
+Women,1314,2001,17.0,450,Svenja Engelhardt,1988-04-20,female|svenja|engelhardt|1988-04-20
+Women,1314,2001,6.0,255,Lena Gschwendtner,1992-10-03,female|lena|gschwendtner|1992-10-03
+Women,1314,2001,16.0,5,Alessandra Jovy-Heuser,1991-09-22,female|alessandra|jovy-heuser|1991-09-22
+Women,1314,2001,18.0,129,Evelyn Cristina Lourenco Delogu,1981-02-06,female|evelyn cristina|lourenco delogu|1981-02-06
+Women,1314,2001,5.0,402,Rebecca Pavan,1990-04-17,female|rebecca|pavan|1990-04-17
+Women,1314,2001,7.0,272,Lindsay Stalzer,1984-07-25,female|lindsay|stalzer|1984-07-25
+Women,1314,2001,11.0,251,Lauriane Truchetet,1984-04-07,female|lauriane|truchetet|1984-04-07
+Women,1314,2001,4.0,90,Deborah van Daelen,1989-03-24,female|deborah|van daelen|1989-03-24
+Women,1314,2001,2.0,395,Pia Philippa Weiand,1992-11-24,female|pia philippa|weiand|1992-11-24
+Women,1314,2001,3.0,172,Jelena Wlk,1993-04-16,female|jelena|wlk|1993-04-16
+Women,1314,2001,13.0,458,Tatjana Zautys,1980-05-04,female|tatjana|zautys|1980-05-04
+Women,1415,2001,8.0,218,Katherine Harms,1990-11-29,female|katherine|harms|1990-11-29
+Women,1415,2001,2.0,314,Mareike Hindriksen,1987-11-14,female|mareike|hindriksen|1987-11-14
+Women,1415,2001,16.0,5,Alessandra Jovy-Heuser,1991-09-22,female|alessandra|jovy-heuser|1991-09-22
+Women,1415,2001,15.0,374,Nichole Lindow,1992-08-06,female|nichole|lindow|1992-08-06
+Women,1415,2001,4.0,335,Martina Malevic,1990-12-07,female|martina|malevic|1990-12-07
+Women,1415,2001,10.0,148,Heather Meyers,1989-04-18,female|heather|meyers|1989-04-18
+Women,1415,2001,11.0,453,Tamari Miyashiro,1987-07-08,female|tamari|miyashiro|1987-07-08
+Women,1415,2001,12.0,47,Athina Papafotiou,1989-08-23,female|athina|papafotiou|1989-08-23
+Women,1415,2001,5.0,227,Kim Renkema,1987-06-28,female|kim|renkema|1987-06-28
+Women,1415,2001,7.0,407,Renata Sandor,1990-12-15,female|renata|sandor|1990-12-15
+Women,1415,2001,3.0,349,Micheli Tomazela Pissinato,1984-03-28,female|micheli|tomazela pissinato|1984-03-28
+Women,1415,2001,1.0,172,Jelena Wlk,1993-04-16,female|jelena|wlk|1993-04-16
+Women,1516,2001,8.0,206,Kaja Grobelna,1995-01-04,female|kaja|grobelna|1995-01-04
+Women,1516,2001,9.0,66,Caroline Jarmoc,1991-06-18,female|caroline|jarmoc|1991-06-18
+Women,1516,2001,15.0,374,Nichole Lindow,1992-08-06,female|nichole|lindow|1992-08-06
+Women,1516,2001,16.0,346,Michaela Mlejnkova,1996-07-26,female|michaela|mlejnkova|1996-07-26
+Women,1516,2001,4.0,471,Valerie Nichol,1993-04-29,female|valerie|nichol|1993-04-29
+Women,1516,2001,5.0,227,Kim Renkema,1987-06-28,female|kim|renkema|1987-06-28
+Women,1516,2001,7.0,407,Renata Sandor,1990-12-15,female|renata|sandor|1990-12-15
+Women,1516,2001,2.0,131,Femke Stoltenborg,1991-07-30,female|femke|stoltenborg|1991-07-30
+Women,1516,2001,11.0,280,Lisa Thomsen,1985-08-20,female|lisa|thomsen|1985-08-20
+Women,1516,2001,3.0,349,Micheli Tomazela Pissinato,1984-03-28,female|micheli|tomazela pissinato|1984-03-28
+Women,1516,2001,12.0,90,Deborah van Daelen,1989-03-24,female|deborah|van daelen|1989-03-24
+Women,1516,2001,1.0,172,Jelena Wlk,1993-04-16,female|jelena|wlk|1993-04-16
+Women,1617,2001,1.0,479,Wanna Buakaew,1981-01-02,female|wanna|buakaew|1981-01-02
+Women,1617,2001,17.0,373,Nia Grant,1993-05-08,female|nia|grant|1993-05-08
+Women,1617,2001,11.0,210,Karmen Kocar,1982-12-01,female|karmen|kocar|1982-12-01
+Women,1617,2001,16.0,346,Michaela Mlejnkova,1996-07-26,female|michaela|mlejnkova|1996-07-26
+Women,1617,2001,4.0,471,Valerie Nichol,1993-04-29,female|valerie|nichol|1993-04-29
+Women,1617,2001,15.0,180,Jennifer Pettke,1989-05-29,female|jennifer|pettke|1989-05-29
+Women,1617,2001,5.0,227,Kim Renkema,1987-06-28,female|kim|renkema|1987-06-28
+Women,1617,2001,7.0,407,Renata Sandor,1990-12-15,female|renata|sandor|1990-12-15
+Women,1617,2001,8.0,200,Julia Schaefer,1996-07-03,female|julia|schaefer|1996-07-03
+Women,1617,2001,3.0,349,Micheli Tomazela Pissinato,1984-03-28,female|micheli|tomazela pissinato|1984-03-28
+Women,1617,2001,12.0,90,Deborah van Daelen,1989-03-24,female|deborah|van daelen|1989-03-24
+Women,1617,2001,2.0,202,Julia Wenzel,1998-01-12,female|julia|wenzel|1998-01-12
+Women,1617,2001,14.0,3,Aiyana Whitney,1993-04-06,female|aiyana|whitney|1993-04-06
+Women,1718,2001,6.0,36,Annie Cesar,1997-04-26,female|annie|cesar|1997-04-26
+Women,1718,2001,9.0,376,Nika Daalderop,1998-11-29,female|nika|daalderop|1998-11-29
+Women,1718,2001,10.0,396,Pia Kaestner,1998-06-29,female|pia|kaestner|1998-06-29
+Women,1718,2001,5.0,311,Mallory Grace McCage,1994-02-02,female|mallory grace|mccage|1994-02-02
+Women,1718,2001,16.0,346,Michaela Mlejnkova,1996-07-26,female|michaela|mlejnkova|1996-07-26
+Women,1718,2001,1.0,379,Nikoleta Perovic,1994-11-01,female|nikoleta|perovic|1994-11-01
+Women,1718,2001,14.0,174,Jenna Potts,1994-02-28,female|jenna|potts|1994-02-28
+Women,1718,2001,11.0,463,Teodora Pusic,1993-03-12,female|teodora|pusic|1993-03-12
+Women,1718,2001,7.0,407,Renata Sandor,1990-12-15,female|renata|sandor|1990-12-15
+Women,1718,2001,8.0,200,Julia Schaefer,1996-07-03,female|julia|schaefer|1996-07-03
+Women,1718,2001,2.0,131,Femke Stoltenborg,1991-07-30,female|femke|stoltenborg|1991-07-30
+Women,1718,2001,17.0,387,Paige Tapp,1995-06-21,female|paige|tapp|1995-06-21
+Women,1718,2001,3.0,349,Micheli Tomazela Pissinato,1984-03-28,female|micheli|tomazela pissinato|1984-03-28
+Women,1718,2001,12.0,90,Deborah van Daelen,1989-03-24,female|deborah|van daelen|1989-03-24
+Women,1819,2001,4.0,301,Madison Bugg,1994-08-04,female|madison|bugg|1994-08-04
+Women,1819,2001,6.0,36,Annie Cesar,1997-04-26,female|annie|cesar|1997-04-26
+Women,1819,2001,16.0,149,Iane Henke,2002-07-11,female|iane|henke|2002-07-11
+Women,1819,2001,15.0,322,Marie Haenle,2002-09-08,female|marie|haenle|2002-09-08
+Women,1819,2001,1.0,414,Roosa Koskelo,1991-08-20,female|roosa|koskelo|1991-08-20
+Women,1819,2001,10.0,396,Pia Kaestner,1998-06-29,female|pia|kaestner|1998-06-29
+Women,1819,2001,5.0,311,Mallory Grace McCage,1994-02-02,female|mallory grace|mccage|1994-02-02
+Women,1819,2001,9.0,165,Jana Franziska Poll,1988-05-07,female|jana franziska|poll|1988-05-07
+Women,1819,2001,13.0,236,Krystal Rivers,1994-05-23,female|krystal|rivers|1994-05-23
+Women,1819,2001,7.0,407,Renata Sandor,1990-12-15,female|renata|sandor|1990-12-15
+Women,1819,2001,8.0,200,Julia Schaefer,1996-07-03,female|julia|schaefer|1996-07-03
+Women,1819,2001,17.0,387,Paige Tapp,1995-06-21,female|paige|tapp|1995-06-21
+Women,1819,2001,3.0,349,Micheli Tomazela Pissinato,1984-03-28,female|micheli|tomazela pissinato|1984-03-28
+Women,1819,2001,12.0,90,Deborah van Daelen,1989-03-24,female|deborah|van daelen|1989-03-24
+Women,1819,2001,2.0,425,Sarah Wilhite,1995-07-30,female|sarah|wilhite|1995-07-30
+Women,1314,2002,11.0,107,Elies Goos,1989-01-13,female|elies|goos|1989-01-13
+Women,1314,2002,100.0,55,Bianca Gruetze,1995-03-27,female|bianca|gruetze|1995-03-27
+Women,1314,2002,13.0,275,Lisa Izquierdo-Mocasqui,1994-08-29,female|lisa|izquierdo-mocasqui|1994-08-29
+Women,1314,2002,4.0,447,Stefanie Karg,1986-10-22,female|stefanie|karg|1986-10-22
+Women,1314,2002,101.0,318,Maria Kirsten,1996-05-08,female|maria|kirsten|1996-05-08
+Women,1314,2002,17.0,448,Steffi Kuhn,1996-05-12,female|steffi|kuhn|1996-05-12
+Women,1314,2002,12.0,196,Juliane Langgemach,1994-11-06,female|juliane|langgemach|1994-11-06
+Women,1314,2002,18.0,432,Shanice Marcelle,1990-05-28,female|shanice|marcelle|1990-05-28
+Women,1314,2002,3.0,235,Kristina Mikhailenko,1992-03-26,female|kristina|mikhailenko|1992-03-26
+Women,1314,2002,6.0,168,Jaroslava Pencova,1990-06-24,female|jaroslava|pencova|1990-06-24
+Women,1314,2002,8.0,403,Rebecca Perry,1988-12-29,female|rebecca|perry|1988-12-29
+Women,1314,2002,102.0,351,Michelle Petter,1997-02-04,female|michelle|petter|1997-02-04
+Women,1314,2002,103.0,77,Constance Plath,1996-04-16,female|constance|plath|1996-04-16
+Women,1314,2002,9.0,360,Myrthe Mathilde Schoot,1988-08-29,female|myrthe mathilde|schoot|1988-08-29
+Women,1314,2002,16.0,217,Katharina Schwabe,1993-04-29,female|katharina|schwabe|1993-04-29
+Women,1314,2002,10.0,79,Corina Ssuschke-Voigt,1983-05-09,female|corina|ssuschke-voigt|1983-05-09
+Women,1314,2002,14.0,279,Lisa Stock,1994-06-06,female|lisa|stock|1994-06-06
+Women,1314,2002,2.0,313,Mareen von Roemer,1987-03-26,female|mareen|von roemer|1987-03-26
+Women,1314,2002,104.0,296,Luise Wolf,1997-11-14,female|luise|wolf|1997-11-14
+Women,1415,2002,15.0,350,Michelle Bartsch,1990-02-12,female|michelle|bartsch|1990-02-12
+Women,1415,2002,7.0,243,Laura Dijkema,1990-02-18,female|laura|dijkema|1990-02-18
+Women,1415,2002,11.0,72,Chloe Ferrari,1992-07-21,female|chloe|ferrari|1992-07-21
+Women,1415,2002,13.0,275,Lisa Izquierdo-Mocasqui,1994-08-29,female|lisa|izquierdo-mocasqui|1994-08-29
+Women,1415,2002,10.0,82,Cursty Jackson,1990-09-11,female|cursty|jackson|1990-09-11
+Women,1415,2002,100.0,318,Maria Kirsten,1996-05-08,female|maria|kirsten|1996-05-08
+Women,1415,2002,1.0,356,Molly Kreklow,1992-02-17,female|molly|kreklow|1992-02-17
+Women,1415,2002,17.0,448,Steffi Kuhn,1996-05-12,female|steffi|kuhn|1996-05-12
+Women,1415,2002,12.0,196,Juliane Langgemach,1994-11-06,female|juliane|langgemach|1994-11-06
+Women,1415,2002,8.0,288,Louisa Lippmann,1994-09-23,female|louisa|lippmann|1994-09-23
+Women,1415,2002,18.0,432,Shanice Marcelle,1990-05-28,female|shanice|marcelle|1990-05-28
+Women,1415,2002,3.0,235,Kristina Mikhailenko,1992-03-26,female|kristina|mikhailenko|1992-03-26
+Women,1415,2002,6.0,168,Jaroslava Pencova,1990-06-24,female|jaroslava|pencova|1990-06-24
+Women,1415,2002,101.0,351,Michelle Petter,1997-02-04,female|michelle|petter|1997-02-04
+Women,1415,2002,102.0,77,Constance Plath,1996-04-16,female|constance|plath|1996-04-16
+Women,1415,2002,9.0,360,Myrthe Mathilde Schoot,1988-08-29,female|myrthe mathilde|schoot|1988-08-29
+Women,1415,2002,16.0,217,Katharina Schwabe,1993-04-29,female|katharina|schwabe|1993-04-29
+Women,1415,2002,14.0,279,Lisa Stock,1994-06-06,female|lisa|stock|1994-06-06
+Women,1415,2002,103.0,296,Luise Wolf,1997-11-14,female|luise|wolf|1997-11-14
+Women,1516,2002,15.0,350,Michelle Bartsch,1990-02-12,female|michelle|bartsch|1990-02-12
+Women,1516,2002,18.0,470,Valerie Courtois,1990-11-01,female|valerie|courtois|1990-11-01
+Women,1516,2002,12.0,175,Jennifer Cross,1992-07-04,female|jennifer|cross|1992-07-04
+Women,1516,2002,7.0,243,Laura Dijkema,1990-02-18,female|laura|dijkema|1990-02-18
+Women,1516,2002,1.0,314,Mareike Hindriksen,1987-11-14,female|mareike|hindriksen|1987-11-14
+Women,1516,2002,13.0,275,Lisa Izquierdo-Mocasqui,1994-08-29,female|lisa|izquierdo-mocasqui|1994-08-29
+Women,1516,2002,8.0,288,Louisa Lippmann,1994-09-23,female|louisa|lippmann|1994-09-23
+Women,1516,2002,11.0,480,Whitney Little,1993-04-03,female|whitney|little|1993-04-03
+Women,1516,2002,100.0,109,Elisabeth Lowke,1997-02-22,female|elisabeth|lowke|1997-02-22
+Women,1516,2002,17.0,140,Gina Mancuso,1991-05-31,female|gina|mancuso|1991-05-31
+Women,1516,2002,3.0,235,Kristina Mikhailenko,1992-03-26,female|kristina|mikhailenko|1992-03-26
+Women,1516,2002,103.0,383,Nneka Onyejekwe,1989-08-18,female|nneka|onyejekwe|1989-08-18
+Women,1516,2002,101.0,77,Constance Plath,1996-04-16,female|constance|plath|1996-04-16
+Women,1516,2002,9.0,360,Myrthe Mathilde Schoot,1988-08-29,female|myrthe mathilde|schoot|1988-08-29
+Women,1516,2002,16.0,217,Katharina Schwabe,1993-04-29,female|katharina|schwabe|1993-04-29
+Women,1516,2002,10.0,219,Kathleen Elizabeth Slay,1991-11-04,female|kathleen elizabeth|slay|1991-11-04
+Women,1516,2002,14.0,279,Lisa Stock,1994-06-06,female|lisa|stock|1994-06-06
+Women,1516,2002,102.0,296,Luise Wolf,1997-11-14,female|luise|wolf|1997-11-14
+Women,1617,2002,3.0,185,Jocelynn Michelle Birks,1993-08-21,female|jocelynn michelle|birks|1993-08-21
+Women,1617,2002,1.0,58,Brittnee Cooper,1988-02-26,female|brittnee|cooper|1988-02-26
+Women,1617,2002,11.0,470,Valerie Courtois,1990-11-01,female|valerie|courtois|1990-11-01
+Women,1617,2002,12.0,175,Jennifer Cross,1992-07-04,female|jennifer|cross|1992-07-04
+Women,1617,2002,13.0,126,Eva Hodanova,1993-12-18,female|eva|hodanova|1993-12-18
+Women,1617,2002,18.0,123,Erin Johnson,1990-12-27,female|erin|johnson|1990-12-27
+Women,1617,2002,100.0,105,Elena Koemmling,2000-01-01,female|elena|koemmling|2000-01-01
+Women,1617,2002,10.0,409,Rica Maase,1999-11-22,female|rica|maase|1999-11-22
+Women,1617,2002,102.0,140,Gina Mancuso,1991-05-31,female|gina|mancuso|1991-05-31
+Women,1617,2002,14.0,113,Elizabeth Ann Mc Mahon,1993-02-27,female|elizabeth ann|mc mahon|1993-02-27
+Women,1617,2002,8.0,51,Barbora Purchartova,1992-05-09,female|barbora|purchartova|1992-05-09
+Women,1617,2002,17.0,19,Amber Rolfzen,1994-08-25,female|amber|rolfzen|1994-08-25
+Women,1617,2002,15.0,204,Kadie Rolfzen,1994-08-25,female|kadie|rolfzen|1994-08-25
+Women,1617,2002,9.0,360,Myrthe Mathilde Schoot,1988-08-29,female|myrthe mathilde|schoot|1988-08-29
+Women,1617,2002,16.0,217,Katharina Schwabe,1993-04-29,female|katharina|schwabe|1993-04-29
+Women,1617,2002,6.0,291,Lucie Smutna,1991-04-14,female|lucie|smutna|1991-04-14
+Women,1617,2002,7.0,98,Dominika Strumilo,1996-12-26,female|dominika|strumilo|1996-12-26
+Women,1617,2002,2.0,313,Mareen von Roemer,1987-03-26,female|mareen|von roemer|1987-03-26
+Women,1617,2002,101.0,62,Camilla Weitzel,2000-06-11,female|camilla|weitzel|2000-06-11
+Women,1718,2002,10.0,301,Madison Bugg,1994-08-04,female|madison|bugg|1994-08-04
+Women,1718,2002,13.0,126,Eva Hodanova,1993-12-18,female|eva|hodanova|1993-12-18
+Women,1718,2002,8.0,329,Marrit Jasper,1996-02-28,female|marrit|jasper|1996-02-28
+Women,1718,2002,12.0,399,Piia Korhonen,1997-01-12,female|piia|korhonen|1997-01-12
+Women,1718,2002,100.0,105,Elena Koemmling,2000-01-01,female|elena|koemmling|2000-01-01
+Women,1718,2002,11.0,409,Rica Maase,1999-11-22,female|rica|maase|1999-11-22
+Women,1718,2002,15.0,159,Ivana Mrdak,1993-09-15,female|ivana|mrdak|1993-09-15
+Women,1718,2002,101.0,389,Patricia Nestler,2001-05-17,female|patricia|nestler|2001-05-17
+Women,1718,2002,102.0,136,Franziska Nitsche,2000-05-11,female|franziska|nitsche|2000-05-11
+Women,1718,2002,6.0,351,Michelle Petter,1997-02-04,female|michelle|petter|1997-02-04
+Women,1718,2002,18.0,427,Sasa Planinsec,1995-06-02,female|sasa|planinsec|1995-06-02
+Women,1718,2002,103.0,89,Deborah Scholz,2000-02-09,female|deborah|scholz|2000-02-09
+Women,1718,2002,9.0,360,Myrthe Mathilde Schoot,1988-08-29,female|myrthe mathilde|schoot|1988-08-29
+Women,1718,2002,16.0,217,Katharina Schwabe,1993-04-29,female|katharina|schwabe|1993-04-29
+Women,1718,2002,104.0,298,Lydia Stemmler,2001-07-20,female|lydia|stemmler|2001-07-20
+Women,1718,2002,7.0,98,Dominika Strumilo,1996-12-26,female|dominika|strumilo|1996-12-26
+Women,1718,2002,2.0,313,Mareen von Roemer,1987-03-26,female|mareen|von roemer|1987-03-26
+Women,1718,2002,17.0,62,Camilla Weitzel,2000-06-11,female|camilla|weitzel|2000-06-11
+Women,1718,2002,1.0,50,Barbara Roxana Wezorke,1993-04-12,female|barbara roxana|wezorke|1993-04-12
+Women,1819,2002,1.0,17,Amanda Susanne Benson,1995-03-09,female|amanda susanne|benson|1995-03-09
+Women,1819,2002,12.0,399,Piia Korhonen,1997-01-12,female|piia|korhonen|1997-01-12
+Women,1819,2002,100.0,265,Lina-Marie Lieb,2001-07-30,female|lina-marie|lieb|2001-07-30
+Women,1819,2002,11.0,409,Rica Maase,1999-11-22,female|rica|maase|1999-11-22
+Women,1819,2002,15.0,159,Ivana Mrdak,1993-09-15,female|ivana|mrdak|1993-09-15
+Women,1819,2002,9.0,256,Lena Moellers,1990-01-06,female|lena|moellers|1990-01-06
+Women,1819,2002,101.0,389,Patricia Nestler,2001-05-17,female|patricia|nestler|2001-05-17
+Women,1819,2002,6.0,351,Michelle Petter,1997-02-04,female|michelle|petter|1997-02-04
+Women,1819,2002,18.0,427,Sasa Planinsec,1995-06-02,female|sasa|planinsec|1995-06-02
+Women,1819,2002,14.0,378,Nikola Radosova,1992-05-03,female|nikola|radosova|1992-05-03
+Women,1819,2002,102.0,89,Deborah Scholz,2000-02-09,female|deborah|scholz|2000-02-09
+Women,1819,2002,16.0,217,Katharina Schwabe,1993-04-29,female|katharina|schwabe|1993-04-29
+Women,1819,2002,13.0,319,Maria Segura Palleres,1992-06-10,female|maria|segura palleres|1992-06-10
+Women,1819,2002,10.0,257,Lena Stigrot,1994-12-20,female|lena|stigrot|1994-12-20
+Women,1819,2002,103.0,358,Monique Strubbe,2001-07-05,female|monique|strubbe|2001-07-05
+Women,1819,2002,2.0,313,Mareen von Roemer,1987-03-26,female|mareen|von roemer|1987-03-26
+Women,1819,2002,17.0,62,Camilla Weitzel,2000-06-11,female|camilla|weitzel|2000-06-11
+Women,1819,2002,7.0,50,Barbara Roxana Wezorke,1993-04-12,female|barbara roxana|wezorke|1993-04-12
+Women,1314,2003,12.0,146,Hanne Haugen Aas,1988-02-29,female|hanne haugen|aas|1988-02-29
+Women,1314,2003,1.0,449,Susanne Besa,1994-07-29,female|susanne|besa|1994-07-29
+Women,1314,2003,11.0,132,Florentina Buettner,1988-09-07,female|florentina|buettner|1988-09-07
+Women,1314,2003,6.0,45,Ashley Frazier,1989-12-15,female|ashley|frazier|1989-12-15
+Women,1314,2003,4.0,388,Patricia Grohmann,1990-01-27,female|patricia|grohmann|1990-01-27
+Women,1314,2003,7.0,182,Jessica Goepner,1990-12-11,female|jessica|goepner|1990-12-11
+Women,1314,2003,9.0,198,Julia Hero,1992-10-20,female|julia|hero|1992-10-20
+Women,1314,2003,8.0,26,Ann-Marie Knauf,1992-11-20,female|ann-marie|knauf|1992-11-20
+Women,1314,2003,5.0,433,Shany Peham,1993-03-03,female|shany|peham|1993-03-03
+Women,1314,2003,3.0,429,Saskia Radzuweit,1991-05-12,female|saskia|radzuweit|1991-05-12
+Women,1314,2003,17.0,398,Pia Riedel,1990-09-09,female|pia|riedel|1990-09-09
+Women,1314,2003,10.0,147,Hawari Shannon,1989-10-30,female|hawari|shannon|1989-10-30
+Women,1415,2003,12.0,249,Lauren Barfield,1990-03-15,female|lauren|barfield|1990-03-15
+Women,1415,2003,4.0,234,Kristina Bognar,1983-03-03,female|kristina|bognar|1983-03-03
+Women,1415,2003,5.0,229,Kindra Carlson,1987-11-12,female|kindra|carlson|1987-11-12
+Women,1415,2003,7.0,182,Jessica Goepner,1990-12-11,female|jessica|goepner|1990-12-11
+Women,1415,2003,9.0,198,Julia Hero,1992-10-20,female|julia|hero|1992-10-20
+Women,1415,2003,8.0,26,Ann-Marie Knauf,1992-11-20,female|ann-marie|knauf|1992-11-20
+Women,1415,2003,3.0,429,Saskia Radzuweit,1991-05-12,female|saskia|radzuweit|1991-05-12
+Women,1415,2003,17.0,398,Pia Riedel,1990-09-09,female|pia|riedel|1990-09-09
+Women,1415,2003,6.0,361,Nadja Schaus,1984-11-08,female|nadja|schaus|1984-11-08
+Women,1415,2003,15.0,443,Sophie Schubert,1997-02-26,female|sophie|schubert|1997-02-26
+Women,1415,2003,11.0,120,Erica Wilson,1991-05-26,female|erica|wilson|1991-05-26
+Women,1516,2003,12.0,249,Lauren Barfield,1990-03-15,female|lauren|barfield|1990-03-15
+Women,1516,2003,2.0,28,Annalena Graetz,1997-03-22,female|annalena|graetz|1997-03-22
+Women,1516,2003,11.0,182,Jessica Goepner,1990-12-11,female|jessica|goepner|1990-12-11
+Women,1516,2003,9.0,198,Julia Hero,1992-10-20,female|julia|hero|1992-10-20
+Women,1516,2003,15.0,372,Nele Iwohn,1996-09-15,female|nele|iwohn|1996-09-15
+Women,1516,2003,1.0,167,Janisa Johnson,1991-09-22,female|janisa|johnson|1991-09-22
+Women,1516,2003,8.0,26,Ann-Marie Knauf,1992-11-20,female|ann-marie|knauf|1992-11-20
+Women,1516,2003,6.0,207,Kaleigh Nelson,1992-08-04,female|kaleigh|nelson|1992-08-04
+Women,1516,2003,16.0,34,Anne Paape,1989-12-28,female|anne|paape|1989-12-28
+Women,1516,2003,7.0,32,Anna Pogany,1994-07-21,female|anna|pogany|1994-07-21
+Women,1516,2003,17.0,398,Pia Riedel,1990-09-09,female|pia|riedel|1990-09-09
+Women,1516,2003,4.0,128,Eva Rutarova,1989-09-14,female|eva|rutarova|1989-09-14
+Women,1516,2003,100.0,277,Lisa Senger,1998-07-06,female|lisa|senger|1998-07-06
+Women,1516,2003,5.0,96,Dominice Steffen,1987-12-17,female|dominice|steffen|1987-12-17
+Women,1516,2003,10.0,424,Sarah Wickstrom,1993-04-05,female|sarah|wickstrom|1993-04-05
+Women,1516,2003,14.0,67,Catharina Wiesner,1998-08-11,female|catharina|wiesner|1998-08-11
+Women,1617,2003,8.0,28,Annalena Graetz,1997-03-22,female|annalena|graetz|1997-03-22
+Women,1617,2003,11.0,182,Jessica Goepner,1990-12-11,female|jessica|goepner|1990-12-11
+Women,1617,2003,9.0,198,Julia Hero,1992-10-20,female|julia|hero|1992-10-20
+Women,1617,2003,12.0,323,Marie Holstein,1997-04-15,female|marie|holstein|1997-04-15
+Women,1617,2003,15.0,372,Nele Iwohn,1996-09-15,female|nele|iwohn|1996-09-15
+Women,1617,2003,6.0,295,Luise Klein,1999-01-15,female|luise|klein|1999-01-15
+Women,1617,2003,16.0,385,Nuria Lopes da Silva,1991-12-26,female|nuria|lopes da silva|1991-12-26
+Women,1617,2003,7.0,32,Anna Pogany,1994-07-21,female|anna|pogany|1994-07-21
+Women,1617,2003,17.0,398,Pia Riedel,1990-09-09,female|pia|riedel|1990-09-09
+Women,1617,2003,5.0,96,Dominice Steffen,1987-12-17,female|dominice|steffen|1987-12-17
+Women,1617,2003,2.0,68,Celin Stoehr,1993-11-22,female|celin|stoehr|1993-11-22
+Women,1617,2003,10.0,424,Sarah Wickstrom,1993-04-05,female|sarah|wickstrom|1993-04-05
+Women,1314,2004,13.0,211,Karolina Bednarova,1986-07-20,female|karolina|bednarova|1986-07-20
+Women,1314,2004,4.0,484,Yvon Belien,1993-12-28,female|yvon|belien|1993-12-28
+Women,1314,2004,1.0,457,Tatiana Crkonova,1992-01-07,female|tatiana|crkonova|1992-01-07
+Women,1314,2004,17.0,244,Laura Emonts,1991-04-04,female|laura|emonts|1991-04-04
+Women,1314,2004,15.0,413,Ron Ponte,1988-07-14,female|ron|ponte|1988-07-14
+Women,1314,2004,3.0,1,Aida Rejzovic,1987-12-14,female|aida|rejzovic|1987-12-14
+Women,1314,2004,11.0,108,Elina Salomaeki,1981-10-19,female|elina|salomaeki|1981-10-19
+Women,1314,2004,8.0,188,Jordanne Scott,1990-10-02,female|jordanne|scott|1990-10-02
+Women,1314,2004,9.0,411,Romana Stankova,1991-04-13,female|romana|stankova|1991-04-13
+Women,1314,2004,2.0,131,Femke Stoltenborg,1991-07-30,female|femke|stoltenborg|1991-07-30
+Women,1314,2004,14.0,99,Dominika Valachova,1986-06-04,female|dominika|valachova|1986-06-04
+Women,1314,2004,18.0,201,Julia Van den Berghen,1995-10-12,female|julia|van den berghen|1995-10-12
+Women,1415,2004,13.0,211,Karolina Bednarova,1986-07-20,female|karolina|bednarova|1986-07-20
+Women,1415,2004,2.0,307,Maja Burazer,1988-03-20,female|maja|burazer|1988-03-20
+Women,1415,2004,1.0,457,Tatiana Crkonova,1992-01-07,female|tatiana|crkonova|1992-01-07
+Women,1415,2004,8.0,101,Dora Grozer,1995-11-21,female|dora|grozer|1995-11-21
+Women,1415,2004,11.0,439,Simona Kosova,1992-03-27,female|simona|kosova|1992-03-27
+Women,1415,2004,16.0,445,Srna Markovic,1996-06-06,female|srna|markovic|1996-06-06
+Women,1415,2004,15.0,413,Ron Ponte,1988-07-14,female|ron|ponte|1988-07-14
+Women,1415,2004,12.0,325,Marija Pucarevic,1990-08-20,female|marija|pucarevic|1990-08-20
+Women,1415,2004,9.0,411,Romana Stankova,1991-04-13,female|romana|stankova|1991-04-13
+Women,1415,2004,5.0,162,Ivona Svobodnikova,1991-04-01,female|ivona|svobodnikova|1991-04-01
+Women,1415,2004,14.0,99,Dominika Valachova,1986-06-04,female|dominika|valachova|1986-06-04
+Women,1516,2004,3.0,436,Silvia Baradel,1991-06-02,female|silvia|baradel|1991-06-02
+Women,1516,2004,4.0,60,Britt Bongaerts,1996-11-03,female|britt|bongaerts|1996-11-03
+Women,1516,2004,1.0,457,Tatiana Crkonova,1992-01-07,female|tatiana|crkonova|1992-01-07
+Women,1516,2004,9.0,101,Dora Grozer,1995-11-21,female|dora|grozer|1995-11-21
+Women,1516,2004,11.0,439,Simona Kosova,1992-03-27,female|simona|kosova|1992-03-27
+Women,1516,2004,2.0,354,Miroslava Kuciakova,1989-01-31,female|miroslava|kuciakova|1989-01-31
+Women,1516,2004,12.0,196,Juliane Langgemach,1994-11-06,female|juliane|langgemach|1994-11-06
+Women,1516,2004,15.0,485,Zoe Liedtke,1999-05-14,female|zoe|liedtke|1999-05-14
+Women,1516,2004,6.0,259,Lene Scheuschner,1996-07-12,female|lene|scheuschner|1996-07-12
+Women,1516,2004,5.0,162,Ivona Svobodnikova,1991-04-01,female|ivona|svobodnikova|1991-04-01
+Women,1516,2004,14.0,99,Dominika Valachova,1986-06-04,female|dominika|valachova|1986-06-04
+Women,1617,2004,13.0,340,Mckenzie Adams,1992-02-13,female|mckenzie|adams|1992-02-13
+Women,1617,2004,11.0,153,Ioana Maria Baciu,1990-01-04,female|ioana maria|baciu|1990-01-04
+Women,1617,2004,9.0,376,Nika Daalderop,1998-11-29,female|nika|daalderop|1998-11-29
+Women,1617,2004,2.0,271,Lindsay Dowd,1991-05-14,female|lindsay|dowd|1991-05-14
+Women,1617,2004,4.0,31,Anna Kalinovskaya-Guengoer,1985-05-17,female|anna|kalinovskaya-guengoer|1985-05-17
+Women,1617,2004,1.0,230,Kirsten Knip,1992-09-14,female|kirsten|knip|1992-09-14
+Women,1617,2004,6.0,137,Frauke Neuhaus,1993-04-20,female|frauke|neuhaus|1993-04-20
+Women,1617,2004,10.0,375,Nicole Oude Luttikhuis,1997-12-26,female|nicole|oude luttikhuis|1997-12-26
+Women,1617,2004,5.0,466,Tessa Polder,1997-10-10,female|tessa|polder|1997-10-10
+Women,1617,2004,8.0,169,Jeanine Stoeten,1991-11-20,female|jeanine|stoeten|1991-11-20
+Women,1617,2004,12.0,131,Femke Stoltenborg,1991-07-30,female|femke|stoltenborg|1991-07-30
+Women,1718,2004,13.0,340,Mckenzie Adams,1992-02-13,female|mckenzie|adams|1992-02-13
+Women,1718,2004,12.0,60,Britt Bongaerts,1996-11-03,female|britt|bongaerts|1996-11-03
+Women,1718,2004,2.0,271,Lindsay Dowd,1991-05-14,female|lindsay|dowd|1991-05-14
+Women,1718,2004,4.0,31,Anna Kalinovskaya-Guengoer,1985-05-17,female|anna|kalinovskaya-guengoer|1985-05-17
+Women,1718,2004,1.0,230,Kirsten Knip,1992-09-14,female|kirsten|knip|1992-09-14
+Women,1718,2004,6.0,137,Frauke Neuhaus,1993-04-20,female|frauke|neuhaus|1993-04-20
+Women,1718,2004,10.0,375,Nicole Oude Luttikhuis,1997-12-26,female|nicole|oude luttikhuis|1997-12-26
+Women,1718,2004,9.0,212,Karolina Pi?la,1996-05-08,female|karolina|pi?la|1996-05-08
+Women,1718,2004,5.0,466,Tessa Polder,1997-10-10,female|tessa|polder|1997-10-10
+Women,1718,2004,8.0,169,Jeanine Stoeten,1991-11-20,female|jeanine|stoeten|1991-11-20
+Women,1718,2004,11.0,171,Jelena unji?,1994-01-04,female|jelena|unji?|1994-01-04
+Women,1819,2004,4.0,460,Taylor Agost,1996-05-31,female|taylor|agost|1996-05-31
+Women,1819,2004,18.0,232,Krista Marie DeGeest,1990-01-10,female|krista marie|degeest|1990-01-10
+Women,1819,2004,2.0,48,Aziliz Divoux,1995-01-03,female|aziliz|divoux|1995-01-03
+Women,1819,2004,8.0,300,Madison Jo Farrell,1996-04-22,female|madison jo|farrell|1996-04-22
+Women,1819,2004,9.0,274,Lisa Gruending,1991-12-02,female|lisa|gruending|1991-12-02
+Women,1819,2004,5.0,186,Jodie Guilliams,1997-04-26,female|jodie|guilliams|1997-04-26
+Women,1819,2004,14.0,93,Denise Imoudu,1995-12-14,female|denise|imoudu|1995-12-14
+Women,1819,2004,6.0,329,Marrit Jasper,1996-02-28,female|marrit|jasper|1996-02-28
+Women,1819,2004,1.0,230,Kirsten Knip,1992-09-14,female|kirsten|knip|1992-09-14
+Women,1819,2004,10.0,375,Nicole Oude Luttikhuis,1997-12-26,female|nicole|oude luttikhuis|1997-12-26
+Women,1819,2004,11.0,308,Maja Storck,1998-10-08,female|maja|storck|1998-10-08
+Women,1314,2005,1.0,81,Cristina Alves Oliveira Ferreira,1982-06-30,female|cristina|alves oliveira ferreira|1982-06-30
+Women,1314,2005,4.0,350,Michelle Bartsch,1990-02-12,female|michelle|bartsch|1990-02-12
+Women,1314,2005,17.0,384,Norisha Campbell,1980-09-21,female|norisha|campbell|1980-09-21
+Women,1314,2005,15.0,176,Jennifer Geerties,1994-04-05,female|jennifer|geerties|1994-04-05
+Women,1314,2005,16.0,173,Jenna Hagglund,1989-05-28,female|jenna|hagglund|1989-05-28
+Women,1314,2005,8.0,270,Linda Helterhoff,1992-11-26,female|linda|helterhoff|1992-11-26
+Women,1314,2005,2.0,100,Dominique Lamb,1985-12-05,female|dominique|lamb|1985-12-05
+Women,1314,2005,11.0,263,Liana Mesa Luaces,1977-12-26,female|liana|mesa luaces|1977-12-26
+Women,1314,2005,12.0,32,Anna Pogany,1994-07-21,female|anna|pogany|1994-07-21
+Women,1314,2005,7.0,437,Silvia Sperl,1991-10-02,female|silvia|sperl|1991-10-02
+Women,1314,2005,14.0,257,Lena Stigrot,1994-12-20,female|lena|stigrot|1994-12-20
+Women,1314,2005,6.0,68,Celin Stoehr,1993-11-22,female|celin|stoehr|1993-11-22
+Women,1415,2005,9.0,103,Edina Dobi,1987-10-22,female|edina|dobi|1987-10-22
+Women,1415,2005,15.0,357,Mona Elwassimy,1990-02-07,female|mona|elwassimy|1990-02-07
+Women,1415,2005,2.0,225,Keylla Fabrino Ramos,1986-05-13,female|keylla|fabrino ramos|1986-05-13
+Women,1415,2005,8.0,270,Linda Helterhoff,1992-11-26,female|linda|helterhoff|1992-11-26
+Women,1415,2005,3.0,405,Rebecka Lazic,1994-09-24,female|rebecka|lazic|1994-09-24
+Women,1415,2005,11.0,263,Liana Mesa Luaces,1977-12-26,female|liana|mesa luaces|1977-12-26
+Women,1415,2005,1.0,434,Silvana Elisabet Olivera Capelli,1984-08-05,female|silvana elisabet|olivera capelli|1984-08-05
+Women,1415,2005,5.0,400,Quirine Oosterveld,1990-03-05,female|quirine|oosterveld|1990-03-05
+Women,1415,2005,12.0,32,Anna Pogany,1994-07-21,female|anna|pogany|1994-07-21
+Women,1415,2005,7.0,238,Kyla Elizabeth Richey,1989-06-20,female|kyla elizabeth|richey|1989-06-20
+Women,1415,2005,4.0,381,Nikol Sajdova,1988-07-20,female|nikol|sajdova|1988-07-20
+Women,1415,2005,14.0,257,Lena Stigrot,1994-12-20,female|lena|stigrot|1994-12-20
+Women,1415,2005,6.0,68,Celin Stoehr,1993-11-22,female|celin|stoehr|1993-11-22
+Women,1516,2005,9.0,416,Roslandy Acosta Alvarado,1992-02-25,female|roslandy|acosta alvarado|1992-02-25
+Women,1516,2005,17.0,292,Lucille Charuk,1989-08-13,female|lucille|charuk|1989-08-13
+Women,1516,2005,15.0,357,Mona Elwassimy,1990-02-07,female|mona|elwassimy|1990-02-07
+Women,1516,2005,3.0,230,Kirsten Knip,1992-09-14,female|kirsten|knip|1992-09-14
+Women,1516,2005,12.0,157,Isabelle Liebchen,1996-10-03,female|isabelle|liebchen|1996-10-03
+Women,1516,2005,8.0,339,Matea Magdic,1991-11-16,female|matea|magdic|1991-11-16
+Women,1516,2005,6.0,445,Srna Markovic,1996-06-06,female|srna|markovic|1996-06-06
+Women,1516,2005,11.0,263,Liana Mesa Luaces,1977-12-26,female|liana|mesa luaces|1977-12-26
+Women,1516,2005,5.0,400,Quirine Oosterveld,1990-03-05,female|quirine|oosterveld|1990-03-05
+Women,1516,2005,4.0,381,Nikol Sajdova,1988-07-20,female|nikol|sajdova|1988-07-20
+Women,1516,2005,1.0,116,Emani Brenita-Rea Sims,1992-04-28,female|emani brenita-rea|sims|1992-04-28
+Women,1516,2005,14.0,257,Lena Stigrot,1994-12-20,female|lena|stigrot|1994-12-20
+Women,1516,2005,2.0,468,Tess von Piekartz,1992-07-24,female|tess|von piekartz|1992-07-24
+Women,1516,2005,7.0,50,Barbara Roxana Wezorke,1993-04-12,female|barbara roxana|wezorke|1993-04-12
+Women,1617,2005,1.0,472,Vanessa Agbortabi,1998-12-04,female|vanessa|agbortabi|1998-12-04
+Women,1617,2005,8.0,417,Ruth Keao Anuenue Burdine,1983-01-02,female|ruth keao anuenue|burdine|1983-01-02
+Women,1617,2005,15.0,357,Mona Elwassimy,1990-02-07,female|mona|elwassimy|1990-02-07
+Women,1617,2005,16.0,80,Courtney Reigh Felinski,1992-10-04,female|courtney reigh|felinski|1992-10-04
+Women,1617,2005,5.0,78,Corina Glaab,2000-05-25,female|corina|glaab|2000-05-25
+Women,1617,2005,17.0,363,Naoko Hashimoto,1984-07-11,female|naoko|hashimoto|1984-07-11
+Women,1617,2005,4.0,418,Saana Koljonen,1988-08-22,female|saana|koljonen|1988-08-22
+Women,1617,2005,2.0,224,Kerley Liana Lehnen Becker,1986-09-20,female|kerley liana|lehnen becker|1986-09-20
+Women,1617,2005,12.0,157,Isabelle Liebchen,1996-10-03,female|isabelle|liebchen|1996-10-03
+Women,1617,2005,6.0,445,Srna Markovic,1996-06-06,female|srna|markovic|1996-06-06
+Women,1617,2005,11.0,263,Liana Mesa Luaces,1977-12-26,female|liana|mesa luaces|1977-12-26
+Women,1617,2005,3.0,250,Lauren Plum,1992-09-17,female|lauren|plum|1992-09-17
+Women,1617,2005,14.0,257,Lena Stigrot,1994-12-20,female|lena|stigrot|1994-12-20
+Women,1617,2005,9.0,328,Marlies Wagendorp,1993-11-10,female|marlies|wagendorp|1993-11-10
+Women,1617,2005,7.0,50,Barbara Roxana Wezorke,1993-04-12,female|barbara roxana|wezorke|1993-04-12
+Women,1718,2005,1.0,472,Vanessa Agbortabi,1998-12-04,female|vanessa|agbortabi|1998-12-04
+Women,1718,2005,6.0,345,Michaela Bertalanitsch,1991-01-06,female|michaela|bertalanitsch|1991-01-06
+Women,1718,2005,16.0,353,Mira Heimrich,1995-10-23,female|mira|heimrich|1995-10-23
+Women,1718,2005,7.0,391,Paula Hoetschl,2000-09-07,female|paula|hoetschl|2000-09-07
+Women,1718,2005,5.0,245,Laura Kuenzler,1996-12-25,female|laura|kuenzler|1996-12-25
+Women,1718,2005,15.0,180,Jennifer Pettke,1989-05-29,female|jennifer|pettke|1989-05-29
+Women,1718,2005,12.0,75,Clarisa Sagardia,1989-06-29,female|clarisa|sagardia|1989-06-29
+Women,1718,2005,18.0,261,Leonie Schwertmann,1994-01-12,female|leonie|schwertmann|1994-01-12
+Women,1718,2005,3.0,88,Dayana Patricia Segovia elles,1996-03-24,female|dayana patricia|segovia elles|1996-03-24
+Women,1718,2005,14.0,257,Lena Stigrot,1994-12-20,female|lena|stigrot|1994-12-20
+Women,1718,2005,8.0,150,Ilka van de Vyver,1993-01-26,female|ilka|van de vyver|1993-01-26
+Women,1718,2005,9.0,328,Marlies Wagendorp,1993-11-10,female|marlies|wagendorp|1993-11-10
+Women,1718,2005,11.0,25,Anja Zdovc,1987-08-24,female|anja|zdovc|1987-08-24
+Women,1819,2005,1.0,472,Vanessa Agbortabi,1998-12-04,female|vanessa|agbortabi|1998-12-04
+Women,1819,2005,16.0,20,Amelie Busch,2002-10-23,female|amelie|busch|2002-10-23
+Women,1819,2005,12.0,317,Maria Dancheva,1995-12-04,female|maria|dancheva|1995-12-04
+Women,1819,2005,4.0,260,Lenka Duerr,1990-12-10,female|lenka|duerr|1990-12-10
+Women,1819,2005,6.0,78,Corina Glaab,2000-05-25,female|corina|glaab|2000-05-25
+Women,1819,2005,14.0,391,Paula Hoetschl,2000-09-07,female|paula|hoetschl|2000-09-07
+Women,1819,2005,17.0,364,Naomi Janetzke,2001-08-15,female|naomi|janetzke|2001-08-15
+Women,1819,2005,11.0,37,Annika Kummer,1992-08-08,female|annika|kummer|1992-08-08
+Women,1819,2005,5.0,245,Laura Kuenzler,1996-12-25,female|laura|kuenzler|1996-12-25
+Women,1819,2005,3.0,125,Eszter Nagy,1991-11-01,female|eszter|nagy|1991-11-01
+Women,1819,2005,15.0,180,Jennifer Pettke,1989-05-29,female|jennifer|pettke|1989-05-29
+Women,1819,2005,2.0,87,Daria Przybylak,1991-08-30,female|daria|przybylak|1991-08-30
+Women,1819,2005,7.0,156,Iris Scholten,1999-11-15,female|iris|scholten|1999-11-15
+Women,1819,2005,9.0,360,Myrthe Mathilde Schoot,1988-08-29,female|myrthe mathilde|schoot|1988-08-29
+Women,1819,2005,18.0,261,Leonie Schwertmann,1994-01-12,female|leonie|schwertmann|1994-01-12
+Women,1819,2005,13.0,69,Channon Thompson,1994-03-29,female|channon|thompson|1994-03-29
+Women,1819,2005,8.0,150,Ilka van de Vyver,1993-01-26,female|ilka|van de vyver|1993-01-26
+Women,1314,2006,13.0,234,Kristina Bognar,1983-03-03,female|kristina|bognar|1983-03-03
+Women,1314,2006,14.0,52,Bernarda Cutuk,1990-12-22,female|bernarda|cutuk|1990-12-22
+Women,1314,2006,11.0,442,Sophie Dreblow,1998-07-09,female|sophie|dreblow|1998-07-09
+Women,1314,2006,12.0,191,Josephine Doerfler,1987-07-09,female|josephine|doerfler|1987-07-09
+Women,1314,2006,10.0,102,Doreen Engel,1982-02-08,female|doreen|engel|1982-02-08
+Women,1314,2006,5.0,290,Lucia Daniela Fresco,1991-05-14,female|lucia daniela|fresco|1991-05-14
+Women,1314,2006,9.0,274,Lisa Gruending,1991-12-02,female|lisa|gruending|1991-12-02
+Women,1314,2006,8.0,380,Nikolina Jelic,1991-11-09,female|nikolina|jelic|1991-11-09
+Women,1314,2006,7.0,111,Elisa Muri,1984-06-10,female|elisa|muri|1984-06-10
+Women,1314,2006,17.0,320,Marie-Pier Murray Methot,1986-03-23,female|marie-pier|murray methot|1986-03-23
+Women,1314,2006,15.0,59,Brittney Page,1984-02-04,female|brittney|page|1984-02-04
+Women,1314,2006,16.0,378,Nikola Radosova,1992-05-03,female|nikola|radosova|1992-05-03
+Women,1314,2006,2.0,220,Kathy Radzuweit,1982-03-02,female|kathy|radzuweit|1982-03-02
+Women,1314,2006,18.0,183,Jessica Rivero,1995-03-15,female|jessica|rivero|1995-03-15
+Women,1314,2006,3.0,276,Lisa Ruehl,1989-09-22,female|lisa|ruehl|1989-09-22
+Women,1314,2006,4.0,381,Nikol Sajdova,1988-07-20,female|nikol|sajdova|1988-07-20
+Women,1415,2006,1.0,141,Giulia Carraro,1994-07-25,female|giulia|carraro|1994-07-25
+Women,1415,2006,7.0,52,Bernarda Cutuk,1990-12-22,female|bernarda|cutuk|1990-12-22
+Women,1415,2006,11.0,442,Sophie Dreblow,1998-07-09,female|sophie|dreblow|1998-07-09
+Women,1415,2006,10.0,102,Doreen Engel,1982-02-08,female|doreen|engel|1982-02-08
+Women,1415,2006,9.0,274,Lisa Gruending,1991-12-02,female|lisa|gruending|1991-12-02
+Women,1415,2006,5.0,39,Antonia Klamke,1990-04-29,female|antonia|klamke|1990-04-29
+Women,1415,2006,4.0,348,Michala Kvapilova,1990-02-08,female|michala|kvapilova|1990-02-08
+Women,1415,2006,17.0,163,Ivonne Daniela Montano,1995-11-12,female|ivonne daniela|montano|1995-11-12
+Women,1415,2006,12.0,378,Nikola Radosova,1992-05-03,female|nikola|radosova|1992-05-03
+Women,1415,2006,2.0,220,Kathy Radzuweit,1982-03-02,female|kathy|radzuweit|1982-03-02
+Women,1415,2006,18.0,183,Jessica Rivero,1995-03-15,female|jessica|rivero|1995-03-15
+Women,1415,2006,3.0,276,Lisa Ruehl,1989-09-22,female|lisa|ruehl|1989-09-22
+Women,1415,2006,16.0,283,Lizbeth Seomara Sainz,1995-12-14,female|lizbeth seomara|sainz|1995-12-14
+Women,1415,2006,6.0,361,Nadja Schaus,1984-11-08,female|nadja|schaus|1984-11-08
+Women,1415,2006,8.0,277,Lisa Senger,1998-07-06,female|lisa|senger|1998-07-06
+Women,1415,2006,14.0,294,Luisa Sydlik,1996-12-24,female|luisa|sydlik|1996-12-24
+Women,1516,2006,2.0,94,Diana Arrechea,1994-09-14,female|diana|arrechea|1994-09-14
+Women,1516,2006,11.0,442,Sophie Dreblow,1998-07-09,female|sophie|dreblow|1998-07-09
+Women,1516,2006,4.0,226,Kimberly Drewniok,1997-08-11,female|kimberly|drewniok|1997-08-11
+Women,1516,2006,9.0,274,Lisa Gruending,1991-12-02,female|lisa|gruending|1991-12-02
+Women,1516,2006,13.0,428,Saskia Hippe,1991-01-16,female|saskia|hippe|1991-01-16
+Women,1516,2006,8.0,33,Annegret Hoelzig,1997-05-29,female|annegret|hoelzig|1997-05-29
+Women,1516,2006,5.0,326,Marina Katic,1983-10-01,female|marina|katic|1983-10-01
+Women,1516,2006,15.0,406,Regina Mapeli Burchardt,1983-07-01,female|regina|mapeli burchardt|1983-07-01
+Women,1516,2006,12.0,163,Ivonne Daniela Montano,1995-11-12,female|ivonne daniela|montano|1995-11-12
+Women,1516,2006,16.0,220,Kathy Radzuweit,1982-03-02,female|kathy|radzuweit|1982-03-02
+Women,1516,2006,14.0,312,Manuela Roani,1983-02-13,female|manuela|roani|1983-02-13
+Women,1516,2006,3.0,276,Lisa Ruehl,1989-09-22,female|lisa|ruehl|1989-09-22
+Women,1516,2006,6.0,361,Nadja Schaus,1984-11-08,female|nadja|schaus|1984-11-08
+Women,1516,2006,10.0,481,Wiebke Silge,1996-07-16,female|wiebke|silge|1996-07-16
+Women,1516,2006,7.0,294,Luisa Sydlik,1996-12-24,female|luisa|sydlik|1996-12-24
+Women,1617,2006,17.0,416,Roslandy Acosta Alvarado,1992-02-25,female|roslandy|acosta alvarado|1992-02-25
+Women,1617,2006,11.0,442,Sophie Dreblow,1998-07-09,female|sophie|dreblow|1998-07-09
+Women,1617,2006,8.0,226,Kimberly Drewniok,1997-08-11,female|kimberly|drewniok|1997-08-11
+Women,1617,2006,1.0,330,Marta Drpa,1989-04-20,female|marta|drpa|1989-04-20
+Women,1617,2006,9.0,274,Lisa Gruending,1991-12-02,female|lisa|gruending|1991-12-02
+Women,1617,2006,10.0,33,Annegret Hoelzig,1997-05-29,female|annegret|hoelzig|1997-05-29
+Women,1617,2006,14.0,93,Denise Imoudu,1995-12-14,female|denise|imoudu|1995-12-14
+Women,1617,2006,15.0,284,Ljubica Kecman,1993-12-10,female|ljubica|kecman|1993-12-10
+Women,1617,2006,6.0,26,Ann-Marie Knauf,1992-11-20,female|ann-marie|knauf|1992-11-20
+Women,1617,2006,3.0,276,Lisa Ruehl,1989-09-22,female|lisa|ruehl|1989-09-22
+Women,1617,2006,12.0,481,Wiebke Silge,1996-07-16,female|wiebke|silge|1996-07-16
+Women,1617,2006,5.0,162,Ivona Svobodnikova,1991-04-01,female|ivona|svobodnikova|1991-04-01
+Women,1718,2006,18.0,368,Natasa Cikiriz,1995-06-26,female|natasa|cikiriz|1995-06-26
+Women,1718,2006,11.0,442,Sophie Dreblow,1998-07-09,female|sophie|dreblow|1998-07-09
+Women,1718,2006,1.0,330,Marta Drpa,1989-04-20,female|marta|drpa|1989-04-20
+Women,1718,2006,9.0,274,Lisa Gruending,1991-12-02,female|lisa|gruending|1991-12-02
+Women,1718,2006,10.0,33,Annegret Hoelzig,1997-05-29,female|annegret|hoelzig|1997-05-29
+Women,1718,2006,14.0,93,Denise Imoudu,1995-12-14,female|denise|imoudu|1995-12-14
+Women,1718,2006,15.0,284,Ljubica Kecman,1993-12-10,female|ljubica|kecman|1993-12-10
+Women,1718,2006,6.0,26,Ann-Marie Knauf,1992-11-20,female|ann-marie|knauf|1992-11-20
+Women,1718,2006,8.0,40,Antonia Stautz,1993-12-15,female|antonia|stautz|1993-12-15
+Women,1718,2006,5.0,162,Ivona Svobodnikova,1991-04-01,female|ivona|svobodnikova|1991-04-01
+Women,1718,2006,7.0,117,Emilia Weske,2001-03-26,female|emilia|weske|2001-03-26
+Women,1718,2006,3.0,367,Natalie Wilczek,2000-03-09,female|natalie|wilczek|2000-03-09
+Women,1819,2006,18.0,435,Silvana Chausheva,1995-05-19,female|silvana|chausheva|1995-05-19
+Women,1819,2006,5.0,6,Alexa Marie Dannemiller,1993-06-09,female|alexa marie|dannemiller|1993-06-09
+Women,1819,2006,1.0,330,Marta Drpa,1989-04-20,female|marta|drpa|1989-04-20
+Women,1819,2006,7.0,373,Nia Grant,1993-05-08,female|nia|grant|1993-05-08
+Women,1819,2006,9.0,304,Magdalena Gryka,1994-03-28,female|magdalena|gryka|1994-03-28
+Women,1819,2006,12.0,126,Eva Hodanova,1993-12-18,female|eva|hodanova|1993-12-18
+Women,1819,2006,10.0,33,Annegret Hoelzig,1997-05-29,female|annegret|hoelzig|1997-05-29
+Women,1819,2006,15.0,4,Aleksandra Jegdic,1994-10-09,female|aleksandra|jegdic|1994-10-09
+Women,1819,2006,13.0,133,Frances Kauffmann,2000-08-14,female|frances|kauffmann|2000-08-14
+Women,1819,2006,6.0,40,Antonia Stautz,1993-12-15,female|antonia|stautz|1993-12-15
+Women,1819,2006,14.0,420,Sandra Szaboova,1996-07-22,female|sandra|szaboova|1996-07-22
+Women,1819,2006,11.0,117,Emilia Weske,2001-03-26,female|emilia|weske|2001-03-26
+Women,1819,2006,3.0,367,Natalie Wilczek,2000-03-09,female|natalie|wilczek|2000-03-09
+Women,1314,2007,11.0,64,Carina Aulenbrock,1994-09-22,female|carina|aulenbrock|1994-09-22
+Women,1314,2007,12.0,24,Anja Brandt,1990-02-15,female|anja|brandt|1990-02-15
+Women,1314,2007,13.0,166,Janine Carli,1991-09-19,female|janine|carli|1991-09-19
+Women,1314,2007,5.0,428,Saskia Hippe,1991-01-16,female|saskia|hippe|1991-01-16
+Women,1314,2007,17.0,474,Veronika Hroncekova,1990-01-02,female|veronika|hroncekova|1990-01-02
+Women,1314,2007,7.0,93,Denise Imoudu,1995-12-14,female|denise|imoudu|1995-12-14
+Women,1314,2007,9.0,158,Ivana Isailovic,1986-01-01,female|ivana|isailovic|1986-01-01
+Women,1314,2007,2.0,455,Tanja Joachim,1992-10-29,female|tanja|joachim|1992-10-29
+Women,1314,2007,14.0,240,Laetitia Crescence Moma Bassoko,1993-10-09,female|laetitia crescence|moma bassoko|1993-10-09
+Women,1314,2007,18.0,459,Tatyana Mudritskaya,1985-01-17,female|tatyana|mudritskaya|1985-01-17
+Women,1314,2007,3.0,248,Laura Pihlajamaeki,1990-08-15,female|laura|pihlajamaeki|1990-08-15
+Women,1314,2007,8.0,165,Jana Franziska Poll,1988-05-07,female|jana franziska|poll|1988-05-07
+Women,1314,2007,10.0,86,Danica Radenkovic,1992-10-09,female|danica|radenkovic|1992-10-09
+Women,1314,2007,,278,Lisa Stein,1994-01-12,female|lisa|stein|1994-01-12
+Women,1314,2007,4.0,393,Pauliina Vilponen,1992-02-20,female|pauliina|vilponen|1992-02-20
+Women,1415,2007,11.0,64,Carina Aulenbrock,1994-09-22,female|carina|aulenbrock|1994-09-22
+Women,1415,2007,3.0,484,Yvon Belien,1993-12-28,female|yvon|belien|1993-12-28
+Women,1415,2007,12.0,24,Anja Brandt,1990-02-15,female|anja|brandt|1990-02-15
+Women,1415,2007,13.0,166,Janine Carli,1991-09-19,female|janine|carli|1991-09-19
+Women,1415,2007,14.0,244,Laura Emonts,1991-04-04,female|laura|emonts|1991-04-04
+Women,1415,2007,6.0,176,Jennifer Geerties,1994-04-05,female|jennifer|geerties|1994-04-05
+Women,1415,2007,18.0,446,Stefanie Golla,1985-09-18,female|stefanie|golla|1985-09-18
+Women,1415,2007,17.0,428,Saskia Hippe,1991-01-16,female|saskia|hippe|1991-01-16
+Women,1415,2007,15.0,323,Marie Holstein,1997-04-15,female|marie|holstein|1997-04-15
+Women,1415,2007,4.0,474,Veronika Hroncekova,1990-01-02,female|veronika|hroncekova|1990-01-02
+Women,1415,2007,7.0,93,Denise Imoudu,1995-12-14,female|denise|imoudu|1995-12-14
+Women,1415,2007,16.0,419,Sabrina Krause,1998-12-18,female|sabrina|krause|1998-12-18
+Women,1415,2007,2.0,139,Gina Koeppen,1998-12-04,female|gina|koeppen|1998-12-04
+Women,1415,2007,9.0,110,Elisa Lohmann,1998-07-22,female|elisa|lohmann|1998-07-22
+Women,1415,2007,10.0,95,Diana Nenova,1985-04-16,female|diana|nenova|1985-04-16
+Women,1415,2007,8.0,165,Jana Franziska Poll,1988-05-07,female|jana franziska|poll|1988-05-07
+Women,1415,2007,5.0,285,Lonneke Sloeetjes,1990-11-15,female|lonneke|sloeetjes|1990-11-15
+Women,1415,2007,1.0,289,Lousiane Penha Souza Ziegler,1985-07-30,female|lousiane penha|souza ziegler|1985-07-30
+Women,1516,2007,15.0,11,Alice Blom,1980-04-07,female|alice|blom|1980-04-07
+Women,1516,2007,12.0,24,Anja Brandt,1990-02-15,female|anja|brandt|1990-02-15
+Women,1516,2007,13.0,166,Janine Carli,1991-09-19,female|janine|carli|1991-09-19
+Women,1516,2007,8.0,42,Ariel Gebhardt,1991-08-01,female|ariel|gebhardt|1991-08-01
+Women,1516,2007,6.0,176,Jennifer Geerties,1994-04-05,female|jennifer|geerties|1994-04-05
+Women,1516,2007,18.0,446,Stefanie Golla,1985-09-18,female|stefanie|golla|1985-09-18
+Women,1516,2007,10.0,92,Denise Hanke,1989-08-31,female|denise|hanke|1989-08-31
+Women,1516,2007,17.0,323,Marie Holstein,1997-04-15,female|marie|holstein|1997-04-15
+Women,1516,2007,4.0,474,Veronika Hroncekova,1990-01-02,female|veronika|hroncekova|1990-01-02
+Women,1516,2007,2.0,455,Tanja Joachim,1992-10-29,female|tanja|joachim|1992-10-29
+Women,1516,2007,5.0,419,Sabrina Krause,1998-12-18,female|sabrina|krause|1998-12-18
+Women,1516,2007,7.0,139,Gina Koeppen,1998-12-04,female|gina|koeppen|1998-12-04
+Women,1516,2007,14.0,110,Elisa Lohmann,1998-07-22,female|elisa|lohmann|1998-07-22
+Women,1516,2007,9.0,452,Tabitha Love,1991-09-11,female|tabitha|love|1991-09-11
+Women,1516,2007,16.0,324,Marie Schoelzel,1997-08-01,female|marie|schoelzel|1997-08-01
+Women,1516,2007,1.0,289,Lousiane Penha Souza Ziegler,1985-07-30,female|lousiane penha|souza ziegler|1985-07-30
+Women,1516,2007,11.0,347,Michaela Wessely,1995-11-01,female|michaela|wessely|1995-11-01
+Women,1617,2007,11.0,249,Lauren Barfield,1990-03-15,female|lauren|barfield|1990-03-15
+Women,1617,2007,12.0,24,Anja Brandt,1990-02-15,female|anja|brandt|1990-02-15
+Women,1617,2007,15.0,6,Alexa Marie Dannemiller,1993-06-09,female|alexa marie|dannemiller|1993-06-09
+Women,1617,2007,2.0,260,Lenka Duerr,1990-12-10,female|lenka|duerr|1990-12-10
+Women,1617,2007,4.0,315,Maren Fromm,1986-07-10,female|maren|fromm|1986-07-10
+Women,1617,2007,8.0,42,Ariel Gebhardt,1991-08-01,female|ariel|gebhardt|1991-08-01
+Women,1617,2007,6.0,176,Jennifer Geerties,1994-04-05,female|jennifer|geerties|1994-04-05
+Women,1617,2007,10.0,92,Denise Hanke,1989-08-31,female|denise|hanke|1989-08-31
+Women,1617,2007,5.0,419,Sabrina Krause,1998-12-18,female|sabrina|krause|1998-12-18
+Women,1617,2007,,246,Laura Kurtze,1998-07-23,female|laura|kurtze|1998-07-23
+Women,1617,2007,3.0,288,Louisa Lippmann,1994-09-23,female|louisa|lippmann|1994-09-23
+Women,1617,2007,14.0,110,Elisa Lohmann,1998-07-22,female|elisa|lohmann|1998-07-22
+Women,1617,2007,16.0,324,Marie Schoelzel,1997-08-01,female|marie|schoelzel|1997-08-01
+Women,1617,2007,1.0,289,Lousiane Penha Souza Ziegler,1985-07-30,female|lousiane penha|souza ziegler|1985-07-30
+Women,1617,2007,9.0,144,Hannah Tapp,1995-06-21,female|hannah|tapp|1995-06-21
+Women,1718,2007,8.0,205,Kaisa Alanko,1993-01-03,female|kaisa|alanko|1993-01-03
+Women,1718,2007,12.0,249,Lauren Barfield,1990-03-15,female|lauren|barfield|1990-03-15
+Women,1718,2007,2.0,332,Martenne Julia Bettendorf,1994-04-01,female|martenne julia|bettendorf|1994-04-01
+Women,1718,2007,7.0,297,Luna Veronica Carocci,1988-07-10,female|luna veronica|carocci|1988-07-10
+Women,1718,2007,11.0,53,Beta Dumancic,1991-03-20,female|beta|dumancic|1991-03-20
+Women,1718,2007,6.0,176,Jennifer Geerties,1994-04-05,female|jennifer|geerties|1994-04-05
+Women,1718,2007,10.0,92,Denise Hanke,1989-08-31,female|denise|hanke|1989-08-31
+Women,1718,2007,5.0,419,Sabrina Krause,1998-12-18,female|sabrina|krause|1998-12-18
+Women,1718,2007,3.0,288,Louisa Lippmann,1994-09-23,female|louisa|lippmann|1994-09-23
+Women,1718,2007,14.0,110,Elisa Lohmann,1998-07-22,female|elisa|lohmann|1998-07-22
+Women,1718,2007,15.0,170,Jelena Oluic,1994-01-15,female|jelena|oluic|1994-01-15
+Women,1718,2007,16.0,324,Marie Schoelzel,1997-08-01,female|marie|schoelzel|1997-08-01
+Women,1718,2007,9.0,2,Aisha Skinner,1999-04-16,female|aisha|skinner|1999-04-16
+Women,1718,2007,1.0,142,Greta Szakmary,1991-12-31,female|greta|szakmary|1991-12-31
+Women,1819,2007,13.0,340,Mckenzie Adams,1992-02-13,female|mckenzie|adams|1992-02-13
+Women,1819,2007,18.0,253,Lea Ambrosius,2000-05-22,female|lea|ambrosius|2000-05-22
+Women,1819,2007,12.0,249,Lauren Barfield,1990-03-15,female|lauren|barfield|1990-03-15
+Women,1819,2007,7.0,60,Britt Bongaerts,1996-11-03,female|britt|bongaerts|1996-11-03
+Women,1819,2007,3.0,401,Ralina Doshkova,1995-06-07,female|ralina|doshkova|1995-06-07
+Women,1819,2007,8.0,226,Kimberly Drewniok,1997-08-11,female|kimberly|drewniok|1997-08-11
+Women,1819,2007,11.0,53,Beta Dumancic,1991-03-20,female|beta|dumancic|1991-03-20
+Women,1819,2007,2.0,315,Maren Fromm,1986-07-10,female|maren|fromm|1986-07-10
+Women,1819,2007,6.0,176,Jennifer Geerties,1994-04-05,female|jennifer|geerties|1994-04-05
+Women,1819,2007,10.0,92,Denise Hanke,1989-08-31,female|denise|hanke|1989-08-31
+Women,1819,2007,14.0,110,Elisa Lohmann,1998-07-22,female|elisa|lohmann|1998-07-22
+Women,1819,2007,4.0,32,Anna Pogany,1994-07-21,female|anna|pogany|1994-07-21
+Women,1819,2007,5.0,466,Tessa Polder,1997-10-10,female|tessa|polder|1997-10-10
+Women,1819,2007,9.0,362,Nanaka Sakamoto,1996-09-06,female|nanaka|sakamoto|1996-09-06
+Women,1819,2007,1.0,142,Greta Szakmary,1991-12-31,female|greta|szakmary|1991-12-31
+Women,1314,2008,17.0,152,Ines Bathen,1990-08-27,female|ines|bathen|1990-08-27
+Women,1314,2008,10.0,44,Ashley Benson,1989-02-20,female|ashley|benson|1989-02-20
+Women,1314,2008,14.0,269,Linda Doerendahl,1984-07-20,female|linda|doerendahl|1984-07-20
+Women,1314,2008,6.0,440,Sina Fuchs,1992-09-28,female|sina|fuchs|1992-09-28
+Women,1314,2008,2.0,155,Irina Kemmsies,1996-05-14,female|irina|kemmsies|1996-05-14
+Women,1314,2008,5.0,288,Louisa Lippmann,1994-09-23,female|louisa|lippmann|1994-09-23
+Women,1314,2008,9.0,12,Alisha Ossowski,1995-03-26,female|alisha|ossowski|1995-03-26
+Women,1314,2008,7.0,423,Sarah Petrausch,1990-07-31,female|sarah|petrausch|1990-07-31
+Women,1314,2008,16.0,200,Julia Schaefer,1996-07-03,female|julia|schaefer|1996-07-03
+Women,1314,2008,3.0,361,Nadja Schaus,1984-11-08,female|nadja|schaus|1984-11-08
+Women,1314,2008,18.0,261,Leonie Schwertmann,1994-01-12,female|leonie|schwertmann|1994-01-12
+Women,1314,2008,12.0,481,Wiebke Silge,1996-07-16,female|wiebke|silge|1996-07-16
+Women,1314,2008,4.0,468,Tess von Piekartz,1992-07-24,female|tess|von piekartz|1992-07-24
+Women,1415,2008,17.0,152,Ines Bathen,1990-08-27,female|ines|bathen|1990-08-27
+Women,1415,2008,10.0,44,Ashley Benson,1989-02-20,female|ashley|benson|1989-02-20
+Women,1415,2008,14.0,269,Linda Doerendahl,1984-07-20,female|linda|doerendahl|1984-07-20
+Women,1415,2008,6.0,440,Sina Fuchs,1992-09-28,female|sina|fuchs|1992-09-28
+Women,1415,2008,2.0,155,Irina Kemmsies,1996-05-14,female|irina|kemmsies|1996-05-14
+Women,1415,2008,9.0,12,Alisha Ossowski,1995-03-26,female|alisha|ossowski|1995-03-26
+Women,1415,2008,7.0,423,Sarah Petrausch,1990-07-31,female|sarah|petrausch|1990-07-31
+Women,1415,2008,16.0,200,Julia Schaefer,1996-07-03,female|julia|schaefer|1996-07-03
+Women,1415,2008,18.0,261,Leonie Schwertmann,1994-01-12,female|leonie|schwertmann|1994-01-12
+Women,1415,2008,12.0,481,Wiebke Silge,1996-07-16,female|wiebke|silge|1996-07-16
+Women,1415,2008,4.0,468,Tess von Piekartz,1992-07-24,female|tess|von piekartz|1992-07-24
+Women,1516,2008,17.0,152,Ines Bathen,1990-08-27,female|ines|bathen|1990-08-27
+Women,1516,2008,10.0,44,Ashley Benson,1989-02-20,female|ashley|benson|1989-02-20
+Women,1516,2008,14.0,269,Linda Doerendahl,1984-07-20,female|linda|doerendahl|1984-07-20
+Women,1516,2008,6.0,440,Sina Fuchs,1992-09-28,female|sina|fuchs|1992-09-28
+Women,1516,2008,2.0,155,Irina Kemmsies,1996-05-14,female|irina|kemmsies|1996-05-14
+Women,1516,2008,4.0,348,Michala Kvapilova,1990-02-08,female|michala|kvapilova|1990-02-08
+Women,1516,2008,1.0,21,Andrea Lakovi?,1989-02-20,female|andrea|lakovi?|1989-02-20
+Women,1516,2008,7.0,397,Pia Leweling,1998-01-04,female|pia|leweling|1998-01-04
+Women,1516,2008,12.0,145,Hanna Orthmann,1998-10-03,female|hanna|orthmann|1998-10-03
+Women,1516,2008,9.0,12,Alisha Ossowski,1995-03-26,female|alisha|ossowski|1995-03-26
+Women,1516,2008,13.0,423,Sarah Petrausch,1990-07-31,female|sarah|petrausch|1990-07-31
+Women,1516,2008,16.0,200,Julia Schaefer,1996-07-03,female|julia|schaefer|1996-07-03
+Women,1516,2008,18.0,261,Leonie Schwertmann,1994-01-12,female|leonie|schwertmann|1994-01-12
+Women,1516,2008,15.0,310,Malin Schaefer,1998-12-04,female|malin|schaefer|1998-12-04
+Women,1516,2008,5.0,18,Amanda Sa,1983-06-25,female|amanda|sa|1983-06-25
+Women,1617,2008,10.0,205,Kaisa Alanko,1993-01-03,female|kaisa|alanko|1993-01-03
+Women,1617,2008,7.0,57,Bogdana Anisova,1992-03-16,female|bogdana|anisova|1992-03-16
+Women,1617,2008,17.0,152,Ines Bathen,1990-08-27,female|ines|bathen|1990-08-27
+Women,1617,2008,4.0,60,Britt Bongaerts,1996-11-03,female|britt|bongaerts|1996-11-03
+Women,1617,2008,14.0,269,Linda Doerendahl,1984-07-20,female|linda|doerendahl|1984-07-20
+Women,1617,2008,6.0,440,Sina Fuchs,1992-09-28,female|sina|fuchs|1992-09-28
+Women,1617,2008,8.0,178,Jennifer Keddy,1991-10-28,female|jennifer|keddy|1991-10-28
+Women,1617,2008,9.0,196,Juliane Langgemach,1994-11-06,female|juliane|langgemach|1994-11-06
+Women,1617,2008,12.0,145,Hanna Orthmann,1998-10-03,female|hanna|orthmann|1998-10-03
+Women,1617,2008,18.0,261,Leonie Schwertmann,1994-01-12,female|leonie|schwertmann|1994-01-12
+Women,1617,2008,11.0,120,Erica Wilson,1991-05-26,female|erica|wilson|1991-05-26
+Women,1718,2008,8.0,266,Lina Alsmeier,2000-06-29,female|lina|alsmeier|2000-06-29
+Women,1718,2008,17.0,152,Ines Bathen,1990-08-27,female|ines|bathen|1990-08-27
+Women,1718,2008,18.0,269,Linda Doerendahl,1984-07-20,female|linda|doerendahl|1984-07-20
+Women,1718,2008,2.0,314,Mareike Hindriksen,1987-11-14,female|mareike|hindriksen|1987-11-14
+Women,1718,2008,15.0,71,Chiara Hoenhorst,1997-01-09,female|chiara|hoenhorst|1997-01-09
+Women,1718,2008,5.0,282,Liza Kastrup,1999-10-05,female|liza|kastrup|1999-10-05
+Women,1718,2008,3.0,293,Luisa Keller,2001-08-25,female|luisa|keller|2001-08-25
+Women,1718,2008,13.0,221,Katja Kylmaeaho,1994-04-21,female|katja|kylmaeaho|1994-04-21
+Women,1718,2008,6.0,415,Roosa Laakkonen,1994-06-04,female|roosa|laakkonen|1994-06-04
+Women,1718,2008,9.0,196,Juliane Langgemach,1994-11-06,female|juliane|langgemach|1994-11-06
+Women,1718,2008,4.0,203,Juliet Lohuis,1996-09-10,female|juliet|lohuis|1996-09-10
+Women,1718,2008,12.0,361,Nadja Schaus,1984-11-08,female|nadja|schaus|1984-11-08
+Women,1718,2008,1.0,280,Lisa Thomsen,1985-08-20,female|lisa|thomsen|1985-08-20
+Women,1718,2008,7.0,160,Ivana Vanjak,1995-05-30,female|ivana|vanjak|1995-05-30
+Women,1718,2008,14.0,258,Lena Vedder,1995-08-12,female|lena|vedder|1995-08-12
+Women,1819,2008,8.0,266,Lina Alsmeier,2000-06-29,female|lina|alsmeier|2000-06-29
+Women,1819,2008,12.0,267,Linda Bock,2000-05-27,female|linda|bock|2000-05-27
+Women,1819,2008,10.0,223,Kazmiere Telonna Brown,1996-10-17,female|kazmiere telonna|brown|1996-10-17
+Women,1819,2008,11.0,451,Svenja Enning,1999-10-24,female|svenja|enning|1999-10-24
+Women,1819,2008,13.0,215,Katharina Maria Haferkamp,2002-02-12,female|katharina maria|haferkamp|2002-02-12
+Women,1819,2008,2.0,314,Mareike Hindriksen,1987-11-14,female|mareike|hindriksen|1987-11-14
+Women,1819,2008,15.0,71,Chiara Hoenhorst,1997-01-09,female|chiara|hoenhorst|1997-01-09
+Women,1819,2008,5.0,282,Liza Kastrup,1999-10-05,female|liza|kastrup|1999-10-05
+Women,1819,2008,3.0,293,Luisa Keller,2001-08-25,female|luisa|keller|2001-08-25
+Women,1819,2008,9.0,196,Juliane Langgemach,1994-11-06,female|juliane|langgemach|1994-11-06
+Women,1819,2008,4.0,203,Juliet Lohuis,1996-09-10,female|juliet|lohuis|1996-09-10
+Women,1819,2008,6.0,464,Teresa Mersmann,1990-04-18,female|teresa|mersmann|1990-04-18
+Women,1819,2008,16.0,324,Marie Schoelzel,1997-08-01,female|marie|schoelzel|1997-08-01
+Women,1819,2008,1.0,280,Lisa Thomsen,1985-08-20,female|lisa|thomsen|1985-08-20
+Women,1819,2008,7.0,160,Ivana Vanjak,1995-05-30,female|ivana|vanjak|1995-05-30
+Women,1819,2008,14.0,258,Lena Vedder,1995-08-12,female|lena|vedder|1995-08-12
+Women,1314,2009,10.0,205,Kaisa Alanko,1993-01-03,female|kaisa|alanko|1993-01-03
+Women,1314,2009,9.0,333,Martina Boscoscuro,1988-09-02,female|martina|boscoscuro|1988-09-02
+Women,1314,2009,4.0,454,Tanja Grosser,1993-11-27,female|tanja|grosser|1993-11-27
+Women,1314,2009,12.0,237,Ksenija Ivanovic,1986-05-22,female|ksenija|ivanovic|1986-05-22
+Women,1314,2009,13.0,406,Regina Mapeli Burchardt,1983-07-01,female|regina|mapeli burchardt|1983-07-01
+Women,1314,2009,11.0,209,Karine Muijlwijk,1988-02-16,female|karine|muijlwijk|1988-02-16
+Women,1314,2009,8.0,199,Julia Osterloh,1986-04-09,female|julia|osterloh|1986-04-09
+Women,1314,2009,6.0,404,Rebecca Schaeperklaus,1992-07-02,female|rebecca|schaeperklaus|1992-07-02
+Women,1314,2009,3.0,483,Yuki Shoji,1981-11-19,female|yuki|shoji|1981-11-19
+Women,1314,2009,7.0,477,Veronik Skorupka,1988-08-25,female|veronik|skorupka|1988-08-25
+Women,1314,2009,5.0,338,Martina Viestova,1984-05-21,female|martina|viestova|1984-05-21
+Women,1415,2009,10.0,205,Kaisa Alanko,1993-01-03,female|kaisa|alanko|1993-01-03
+Women,1415,2009,4.0,454,Tanja Grosser,1993-11-27,female|tanja|grosser|1993-11-27
+Women,1415,2009,14.0,161,Iveta Halbichova,1989-12-19,female|iveta|halbichova|1989-12-19
+Women,1415,2009,2.0,29,Annalena Mach,1995-06-01,female|annalena|mach|1995-06-01
+Women,1415,2009,13.0,406,Regina Mapeli Burchardt,1983-07-01,female|regina|mapeli burchardt|1983-07-01
+Women,1415,2009,5.0,209,Karine Muijlwijk,1988-02-16,female|karine|muijlwijk|1988-02-16
+Women,1415,2009,8.0,199,Julia Osterloh,1986-04-09,female|julia|osterloh|1986-04-09
+Women,1415,2009,15.0,180,Jennifer Pettke,1989-05-29,female|jennifer|pettke|1989-05-29
+Women,1415,2009,6.0,404,Rebecca Schaeperklaus,1992-07-02,female|rebecca|schaeperklaus|1992-07-02
+Women,1415,2009,11.0,164,Izabela Sliwa,1990-12-11,female|izabela|sliwa|1990-12-11
+Women,1415,2009,17.0,106,Elena Steinemann,1994-12-08,female|elena|steinemann|1994-12-08
+Women,1415,2009,7.0,393,Pauliina Vilponen,1992-02-20,female|pauliina|vilponen|1992-02-20
+Women,1516,2009,16.0,91,Delainey Aigner-Swesey,1992-03-14,female|delainey|aigner-swesey|1992-03-14
+Women,1516,2009,10.0,205,Kaisa Alanko,1993-01-03,female|kaisa|alanko|1993-01-03
+Women,1516,2009,4.0,454,Tanja Grosser,1993-11-27,female|tanja|grosser|1993-11-27
+Women,1516,2009,14.0,161,Iveta Halbichova,1989-12-19,female|iveta|halbichova|1989-12-19
+Women,1516,2009,11.0,115,Elizabeth Hintemann,1984-07-06,female|elizabeth|hintemann|1984-07-06
+Women,1516,2009,5.0,15,Alyssa Longo,1991-10-04,female|alyssa|longo|1991-10-04
+Women,1516,2009,2.0,29,Annalena Mach,1995-06-01,female|annalena|mach|1995-06-01
+Women,1516,2009,15.0,180,Jennifer Pettke,1989-05-29,female|jennifer|pettke|1989-05-29
+Women,1516,2009,6.0,404,Rebecca Schaeperklaus,1992-07-02,female|rebecca|schaeperklaus|1992-07-02
+Women,1516,2009,17.0,106,Elena Steinemann,1994-12-08,female|elena|steinemann|1994-12-08
+Women,1516,2009,9.0,68,Celin Stoehr,1993-11-22,female|celin|stoehr|1993-11-22
+Women,1516,2009,7.0,124,Esther Van Berkel,1990-08-31,female|esther|van berkel|1990-08-31
+Women,1617,2009,16.0,91,Delainey Aigner-Swesey,1992-03-14,female|delainey|aigner-swesey|1992-03-14
+Women,1617,2009,13.0,211,Karolina Bednarova,1986-07-20,female|karolina|bednarova|1986-07-20
+Women,1617,2009,9.0,101,Dora Grozer,1995-11-21,female|dora|grozer|1995-11-21
+Women,1617,2009,4.0,454,Tanja Grosser,1993-11-27,female|tanja|grosser|1993-11-27
+Women,1617,2009,8.0,112,Eliza Karley Hynes,1992-01-29,female|eliza karley|hynes|1992-01-29
+Women,1617,2009,10.0,155,Irina Kemmsies,1996-05-14,female|irina|kemmsies|1996-05-14
+Women,1617,2009,11.0,439,Simona Kosova,1992-03-27,female|simona|kosova|1992-03-27
+Women,1617,2009,5.0,15,Alyssa Longo,1991-10-04,female|alyssa|longo|1991-10-04
+Women,1617,2009,2.0,29,Annalena Mach,1995-06-01,female|annalena|mach|1995-06-01
+Women,1617,2009,3.0,311,Mallory Grace McCage,1994-02-02,female|mallory grace|mccage|1994-02-02
+Women,1617,2009,14.0,262,Lia-Tabea Mertens,1994-05-31,female|lia-tabea|mertens|1994-05-31
+Women,1617,2009,12.0,125,Eszter Nagy,1991-11-01,female|eszter|nagy|1991-11-01
+Women,1718,2009,13.0,211,Karolina Bednarova,1986-07-20,female|karolina|bednarova|1986-07-20
+Women,1718,2009,8.0,226,Kimberly Drewniok,1997-08-11,female|kimberly|drewniok|1997-08-11
+Women,1718,2009,12.0,440,Sina Fuchs,1992-09-28,female|sina|fuchs|1992-09-28
+Women,1718,2009,9.0,101,Dora Grozer,1995-11-21,female|dora|grozer|1995-11-21
+Women,1718,2009,4.0,454,Tanja Grosser,1993-11-27,female|tanja|grosser|1993-11-27
+Women,1718,2009,6.0,431,Selma Theresa Hetmann,1995-10-27,female|selma theresa|hetmann|1995-10-27
+Women,1718,2009,10.0,155,Irina Kemmsies,1996-05-14,female|irina|kemmsies|1996-05-14
+Women,1718,2009,11.0,439,Simona Kosova,1992-03-27,female|simona|kosova|1992-03-27
+Women,1718,2009,7.0,29,Annalena Mach,1995-06-01,female|annalena|mach|1995-06-01
+Women,1718,2009,14.0,262,Lia-Tabea Mertens,1994-05-31,female|lia-tabea|mertens|1994-05-31
+Women,1718,2009,5.0,199,Julia Osterloh,1986-04-09,female|julia|osterloh|1986-04-09
+Women,1718,2009,17.0,456,Tanja Sredic,1991-10-11,female|tanja|sredic|1991-10-11
+Women,1718,2009,18.0,279,Lisa Stock,1994-06-06,female|lisa|stock|1994-06-06
+Women,1819,2009,2.0,371,Nele Barber,1994-10-27,female|nele|barber|1994-10-27
+Women,1819,2009,13.0,211,Karolina Bednarova,1986-07-20,female|karolina|bednarova|1986-07-20
+Women,1819,2009,16.0,359,Morgan Bergren,1993-12-23,female|morgan|bergren|1993-12-23
+Women,1819,2009,12.0,440,Sina Fuchs,1992-09-28,female|sina|fuchs|1992-09-28
+Women,1819,2009,4.0,454,Tanja Grosser,1993-11-27,female|tanja|grosser|1993-11-27
+Women,1819,2009,8.0,177,Jennifer Hamson,1992-01-23,female|jennifer|hamson|1992-01-23
+Women,1819,2009,6.0,431,Selma Theresa Hetmann,1995-10-27,female|selma theresa|hetmann|1995-10-27
+Women,1819,2009,11.0,439,Simona Kosova,1992-03-27,female|simona|kosova|1992-03-27
+Women,1819,2009,5.0,370,Nathalie Lemmens,1995-03-12,female|nathalie|lemmens|1995-03-12
+Women,1819,2009,10.0,9,Alexis Mathews,1991-01-23,female|alexis|mathews|1991-01-23
+Women,1819,2009,3.0,386,Nynke Oud,1994-03-29,female|nynke|oud|1994-03-29
+Women,1819,2009,15.0,248,Laura Pihlajamaeki,1990-08-15,female|laura|pihlajamaeki|1990-08-15
+Women,1819,2009,18.0,279,Lisa Stock,1994-06-06,female|lisa|stock|1994-06-06
+Women,1314,2010,8.0,421,Sarah Ammerman,1987-10-07,female|sarah|ammerman|1987-10-07
+Women,1314,2010,12.0,355,Moana Behrens,1995-07-02,female|moana|behrens|1995-07-02
+Women,1314,2010,7.0,382,Nina Braack,1993-07-05,female|nina|braack|1993-07-05
+Women,1314,2010,5.0,22,Anika Brinkmann,1986-08-04,female|anika|brinkmann|1986-08-04
+Women,1314,2010,14.0,422,Sarah Funk,1986-10-15,female|sarah|funk|1986-10-15
+Women,1314,2010,4.0,193,Jovana Gogic,1993-03-31,female|jovana|gogic|1993-03-31
+Women,1314,2010,3.0,127,Eva Michalski,1989-12-15,female|eva|michalski|1989-12-15
+Women,1314,2010,15.0,180,Jennifer Pettke,1989-05-29,female|jennifer|pettke|1989-05-29
+Women,1314,2010,1.0,164,Izabela Sliwa,1990-12-11,female|izabela|sliwa|1990-12-11
+Women,1314,2010,10.0,410,Riikka Tiilikainen,1990-10-09,female|riikka|tiilikainen|1990-10-09
+Women,1314,2010,9.0,16,Alyssa Valentine,1990-06-11,female|alyssa|valentine|1990-06-11
+Women,1314,2010,13.0,151,Imke Wedekind,1984-06-23,female|imke|wedekind|1984-06-23
+Women,1415,2010,7.0,382,Nina Braack,1993-07-05,female|nina|braack|1993-07-05
+Women,1415,2010,3.0,292,Lucille Charuk,1989-08-13,female|lucille|charuk|1989-08-13
+Women,1415,2010,5.0,83,Dana Cranston,1991-12-05,female|dana|cranston|1991-12-05
+Women,1415,2010,14.0,365,Natalia Cukseeva,1990-01-22,female|natalia|cukseeva|1990-01-22
+Women,1415,2010,4.0,30,Anna Hoja,1992-03-25,female|anna|hoja|1992-03-25
+Women,1415,2010,9.0,475,Veronika Kettenbach,1992-01-10,female|veronika|kettenbach|1992-01-10
+Women,1415,2010,11.0,418,Saana Koljonen,1988-08-22,female|saana|koljonen|1988-08-22
+Women,1415,2010,8.0,179,Jennifer Lundquist,1991-09-10,female|jennifer|lundquist|1991-09-10
+Women,1415,2010,13.0,247,Laura Mathias,1995-02-28,female|laura|mathias|1995-02-28
+Women,1415,2010,2.0,239,Kylin Munoz,1991-08-08,female|kylin|munoz|1991-08-08
+Women,1415,2010,1.0,10,Alexis Olgard,1991-05-27,female|alexis|olgard|1991-05-27
+Women,1415,2010,12.0,23,Anisa Sarac,1995-06-05,female|anisa|sarac|1995-06-05
+Women,1415,2010,10.0,426,Sara Shaw,1991-12-19,female|sara|shaw|1991-12-19
+Women,1516,2010,10.0,74,Claire Bertram,1996-05-15,female|claire|bertram|1996-05-15
+Women,1516,2010,7.0,382,Nina Braack,1993-07-05,female|nina|braack|1993-07-05
+Women,1516,2010,4.0,114,Elizabeth Field,1990-12-04,female|elizabeth|field|1990-12-04
+Women,1516,2010,1.0,343,Melanie Horn,1990-09-22,female|melanie|horn|1990-09-22
+Women,1516,2010,14.0,93,Denise Imoudu,1995-12-14,female|denise|imoudu|1995-12-14
+Women,1516,2010,15.0,281,Litara Keil,1993-04-10,female|litara|keil|1993-04-10
+Women,1516,2010,13.0,318,Maria Kirsten,1996-05-08,female|maria|kirsten|1996-05-08
+Women,1516,2010,12.0,462,Taylor Milton,1992-08-22,female|taylor|milton|1992-08-22
+Women,1516,2010,5.0,209,Karine Muijlwijk,1988-02-16,female|karine|muijlwijk|1988-02-16
+Women,1516,2010,8.0,165,Jana Franziska Poll,1988-05-07,female|jana franziska|poll|1988-05-07
+Women,1516,2010,3.0,429,Saskia Radzuweit,1991-05-12,female|saskia|radzuweit|1991-05-12
+Women,1314,2011,14.0,365,Natalia Cukseeva,1990-01-22,female|natalia|cukseeva|1990-01-22
+Women,1314,2011,8.0,327,Marisa Daralene Field,1987-07-10,female|marisa daralene|field|1987-07-10
+Women,1314,2011,18.0,446,Stefanie Golla,1985-09-18,female|stefanie|golla|1985-09-18
+Women,1314,2011,2.0,314,Mareike Hindriksen,1987-11-14,female|mareike|hindriksen|1987-11-14
+Women,1314,2011,3.0,208,Karen Lisson,1991-07-09,female|karen|lisson|1991-07-09
+Women,1314,2011,6.0,473,Vendula Merkova,1988-03-03,female|vendula|merkova|1988-03-03
+Women,1314,2011,10.0,377,Nikola Nemcova,1991-04-24,female|nikola|nemcova|1991-04-24
+Women,1314,2011,5.0,56,Bianca Rowland,1990-09-05,female|bianca|rowland|1990-09-05
+Women,1314,2011,15.0,73,Christina Speer,1987-06-29,female|christina|speer|1987-06-29
+Women,1314,2011,11.0,76,Claudia Steger,1990-03-10,female|claudia|steger|1990-03-10
+Women,1314,2011,7.0,337,Martina Utla,1985-07-17,female|martina|utla|1985-07-17
+Women,1415,2011,5.0,22,Anika Brinkmann,1986-08-04,female|anika|brinkmann|1986-08-04
+Women,1415,2011,8.0,255,Lena Gschwendtner,1992-10-03,female|lena|gschwendtner|1992-10-03
+Women,1415,2011,14.0,380,Nikolina Jelic,1991-11-09,female|nikolina|jelic|1991-11-09
+Women,1415,2011,7.0,334,Martina Jelinkova,1989-05-01,female|martina|jelinkova|1989-05-01
+Women,1415,2011,13.0,352,Miloslava Lauerova,1978-06-11,female|miloslava|lauerova|1978-06-11
+Women,1415,2011,4.0,262,Lia-Tabea Mertens,1994-05-31,female|lia-tabea|mertens|1994-05-31
+Women,1415,2011,3.0,154,Irena Mishonova,1988-12-09,female|irena|mishonova|1988-12-09
+Women,1415,2011,10.0,377,Nikola Nemcova,1991-04-24,female|nikola|nemcova|1991-04-24
+Women,1415,2011,15.0,73,Christina Speer,1987-06-29,female|christina|speer|1987-06-29
+Women,1415,2011,9.0,79,Corina Ssuschke-Voigt,1983-05-09,female|corina|ssuschke-voigt|1983-05-09
+Women,1415,2011,11.0,76,Claudia Steger,1990-03-10,female|claudia|steger|1990-03-10
+Women,1415,2011,6.0,286,Lorena Alexandra Zuleta Garcia,1981-01-16,female|lorena alexandra|zuleta garcia|1981-01-16
+Women,1516,2011,6.0,97,Dominika Drobnakova,1992-06-04,female|dominika|drobnakova|1992-06-04
+Women,1516,2011,7.0,334,Martina Jelinkova,1989-05-01,female|martina|jelinkova|1989-05-01
+Women,1516,2011,13.0,352,Miloslava Lauerova,1978-06-11,female|miloslava|lauerova|1978-06-11
+Women,1516,2011,9.0,302,Madisson Mahaffey,1993-08-09,female|madisson|mahaffey|1993-08-09
+Women,1516,2011,4.0,262,Lia-Tabea Mertens,1994-05-31,female|lia-tabea|mertens|1994-05-31
+Women,1516,2011,2.0,351,Michelle Petter,1997-02-04,female|michelle|petter|1997-02-04
+Women,1516,2011,5.0,122,Erika Salancoiva,1991-06-14,female|erika|salancoiva|1991-06-14
+Women,1516,2011,14.0,188,Jordanne Scott,1990-10-02,female|jordanne|scott|1990-10-02
+Women,1516,2011,15.0,73,Christina Speer,1987-06-29,female|christina|speer|1987-06-29
+Women,1516,2011,11.0,76,Claudia Steger,1990-03-10,female|claudia|steger|1990-03-10
+Women,1516,2011,3.0,476,Veronika Trnkova,1995-10-13,female|veronika|trnkova|1995-10-13
+Women,1617,2011,5.0,27,Anna Maria Bajde,1994-12-08,female|anna maria|bajde|1994-12-08
+Women,1617,2011,17.0,54,Beth Carey,1990-09-28,female|beth|carey|1990-09-28
+Women,1617,2011,8.0,252,Laurianne Delabarre,1987-04-24,female|laurianne|delabarre|1987-04-24
+Women,1617,2011,9.0,216,Katharina Holzer,1998-06-29,female|katharina|holzer|1998-06-29
+Women,1617,2011,4.0,474,Veronika Hroncekova,1990-01-02,female|veronika|hroncekova|1990-01-02
+Women,1617,2011,6.0,329,Marrit Jasper,1996-02-28,female|marrit|jasper|1996-02-28
+Women,1617,2011,13.0,352,Miloslava Lauerova,1978-06-11,female|miloslava|lauerova|1978-06-11
+Women,1617,2011,3.0,465,Tereza Patockova,1994-08-02,female|tereza|patockova|1994-08-02
+Women,1617,2011,2.0,351,Michelle Petter,1997-02-04,female|michelle|petter|1997-02-04
+Women,1617,2011,11.0,76,Claudia Steger,1990-03-10,female|claudia|steger|1990-03-10
+Women,1617,2011,10.0,194,Juliana Lia Valongo de Castro,1985-06-30,female|juliana lia|valongo de castro|1985-06-30
+Women,1718,2011,14.0,214,Katarzyna Bryda,1990-04-30,female|katarzyna|bryda|1990-04-30
+Women,1718,2011,15.0,187,Jordan Joann Burgess,1994-07-20,female|jordan joann|burgess|1994-07-20
+Women,1718,2011,18.0,232,Krista Marie DeGeest,1990-01-10,female|krista marie|degeest|1990-01-10
+Women,1718,2011,9.0,216,Katharina Holzer,1998-06-29,female|katharina|holzer|1998-06-29
+Women,1718,2011,12.0,231,Klaudia Konieczna,1995-09-07,female|klaudia|konieczna|1995-09-07
+Women,1718,2011,13.0,352,Miloslava Lauerova,1978-06-11,female|miloslava|lauerova|1978-06-11
+Women,1718,2011,8.0,7,Alexandra Lindsay Malloy,1994-04-16,female|alexandra lindsay|malloy|1994-04-16
+Women,1718,2011,4.0,43,Ashley Nichole Mariani,1994-09-07,female|ashley nichole|mariani|1994-09-07
+Women,1718,2011,10.0,213,Katarina Osadchuk,1991-11-18,female|katarina|osadchuk|1991-11-18
+Women,1718,2011,3.0,465,Tereza Patockova,1994-08-02,female|tereza|patockova|1994-08-02
+Women,1718,2011,7.0,250,Lauren Plum,1992-09-17,female|lauren|plum|1992-09-17
+Women,1718,2011,11.0,76,Claudia Steger,1990-03-10,female|claudia|steger|1990-03-10
+Women,1819,2011,10.0,305,Maiara Basso,1996-01-03,female|maiara|basso|1996-01-03
+Women,1819,2011,15.0,195,Juliane Becher,1997-06-12,female|juliane|becher|1997-06-12
+Women,1819,2011,17.0,461,Taylor Bruns,1991-07-17,female|taylor|bruns|1991-07-17
+Women,1819,2011,18.0,438,Simona Ciganikova,1998-09-03,female|simona|ciganikova|1998-09-03
+Women,1819,2011,14.0,430,Selina Conrad,1996-09-26,female|selina|conrad|1996-09-26
+Women,1819,2011,13.0,341,McKenzie Jacobson,1995-01-17,female|mckenzie|jacobson|1995-01-17
+Women,1819,2011,7.0,448,Steffi Kuhn,1996-05-12,female|steffi|kuhn|1996-05-12
+Women,1819,2011,4.0,43,Ashley Nichole Mariani,1994-09-07,female|ashley nichole|mariani|1994-09-07
+Women,1819,2011,3.0,465,Tereza Patockova,1994-08-02,female|tereza|patockova|1994-08-02
+Women,1819,2011,9.0,228,Kim Robitaille,1991-10-16,female|kim|robitaille|1991-10-16
+Women,1819,2011,1.0,408,Rene Sain,1997-04-23,female|rene|sain|1997-04-23
+Women,1819,2011,8.0,35,Anniek Siebring,1997-05-13,female|anniek|siebring|1997-05-13
+Women,1819,2011,11.0,76,Claudia Steger,1990-03-10,female|claudia|steger|1990-03-10
+Women,1819,2011,6.0,444,Sophie Tauchert,2000-12-24,female|sophie|tauchert|2000-12-24
+Women,1415,2012,1.0,472,Vanessa Agbortabi,1998-12-04,female|vanessa|agbortabi|1998-12-04
+Women,1415,2012,14.0,74,Claire Bertram,1996-05-15,female|claire|bertram|1996-05-15
+Women,1415,2012,5.0,268,Linda Broeske,1996-09-16,female|linda|broeske|1996-09-16
+Women,1415,2012,17.0,478,Victoria Bura,1996-09-14,female|victoria|bura|1996-09-14
+Women,1415,2012,13.0,226,Kimberly Drewniok,1997-08-11,female|kimberly|drewniok|1997-08-11
+Women,1415,2012,8.0,28,Annalena Graetz,1997-03-22,female|annalena|graetz|1997-03-22
+Women,1415,2012,10.0,33,Annegret Hoelzig,1997-05-29,female|annegret|hoelzig|1997-05-29
+Women,1415,2012,12.0,372,Nele Iwohn,1996-09-15,female|nele|iwohn|1996-09-15
+Women,1415,2012,6.0,394,Pauline Kunkler,1997-09-30,female|pauline|kunkler|1997-09-30
+Women,1415,2012,15.0,396,Pia Kaestner,1998-06-29,female|pia|kaestner|1998-06-29
+Women,1415,2012,16.0,441,Sindy Lenz,1998-10-03,female|sindy|lenz|1998-10-03
+Women,1415,2012,9.0,259,Lene Scheuschner,1996-07-12,female|lene|scheuschner|1996-07-12
+Women,1415,2012,11.0,443,Sophie Schubert,1997-02-26,female|sophie|schubert|1997-02-26
+Women,1415,2012,7.0,324,Marie Schoelzel,1997-08-01,female|marie|schoelzel|1997-08-01
+Women,1415,2012,2.0,192,Josephine Suhr,1997-03-20,female|josephine|suhr|1997-03-20
+Women,1415,2012,3.0,294,Luisa Sydlik,1996-12-24,female|luisa|sydlik|1996-12-24
+Women,1415,2012,4.0,344,Merle Weidt,1999-07-20,female|merle|weidt|1999-07-20
+Women,1516,2012,1.0,472,Vanessa Agbortabi,1998-12-04,female|vanessa|agbortabi|1998-12-04
+Women,1516,2012,4.0,442,Sophie Dreblow,1998-07-09,female|sophie|dreblow|1998-07-09
+Women,1516,2012,8.0,226,Kimberly Drewniok,1997-08-11,female|kimberly|drewniok|1997-08-11
+Women,1516,2012,5.0,306,Maike Herzog,1999-12-10,female|maike|herzog|1999-12-10
+Women,1516,2012,6.0,394,Pauline Kunkler,1997-09-30,female|pauline|kunkler|1997-09-30
+Women,1516,2012,15.0,396,Pia Kaestner,1998-06-29,female|pia|kaestner|1998-06-29
+Women,1516,2012,16.0,441,Sindy Lenz,1998-10-03,female|sindy|lenz|1998-10-03
+Women,1516,2012,3.0,392,Paula Morgenroth,1999-04-07,female|paula|morgenroth|1999-04-07
+Women,1516,2012,14.0,366,Natalie Sabrowske,1998-10-17,female|natalie|sabrowske|1998-10-17
+Women,1516,2012,10.0,277,Lisa Senger,1998-07-06,female|lisa|senger|1998-07-06
+Women,1516,2012,9.0,2,Aisha Skinner,1999-04-16,female|aisha|skinner|1999-04-16
+Women,1516,2012,2.0,192,Josephine Suhr,1997-03-20,female|josephine|suhr|1997-03-20
+Women,1516,2012,11.0,344,Merle Weidt,1999-07-20,female|merle|weidt|1999-07-20
+Women,1516,2012,13.0,67,Catharina Wiesner,1998-08-11,female|catharina|wiesner|1998-08-11
+Women,1617,2012,1.0,472,Vanessa Agbortabi,1998-12-04,female|vanessa|agbortabi|1998-12-04
+Women,1617,2012,13.0,189,Josefin Bluhm,2000-03-10,female|josefin|bluhm|2000-03-10
+Women,1617,2012,12.0,254,Lena Grosse Scharmann,1998-04-24,female|lena|grosse scharmann|1998-04-24
+Women,1617,2012,5.0,306,Maike Herzog,1999-12-10,female|maike|herzog|1999-12-10
+Women,1617,2012,2.0,419,Sabrina Krause,1998-12-18,female|sabrina|krause|1998-12-18
+Women,1617,2012,15.0,396,Pia Kaestner,1998-06-29,female|pia|kaestner|1998-06-29
+Women,1617,2012,7.0,139,Gina Koeppen,1998-12-04,female|gina|koeppen|1998-12-04
+Women,1617,2012,16.0,441,Sindy Lenz,1998-10-03,female|sindy|lenz|1998-10-03
+Women,1617,2012,3.0,392,Paula Morgenroth,1999-04-07,female|paula|morgenroth|1999-04-07
+Women,1617,2012,4.0,197,Juliane Noack,2000-05-10,female|juliane|noack|2000-05-10
+Women,1617,2012,10.0,277,Lisa Senger,1998-07-06,female|lisa|senger|1998-07-06
+Women,1617,2012,9.0,2,Aisha Skinner,1999-04-16,female|aisha|skinner|1999-04-16
+Women,1617,2012,11.0,344,Merle Weidt,1999-07-20,female|merle|weidt|1999-07-20
+Women,1617,2012,101.0,67,Catharina Wiesner,1998-08-11,female|catharina|wiesner|1998-08-11
+Women,1718,2012,1.0,472,Vanessa Agbortabi,1998-12-04,female|vanessa|agbortabi|1998-12-04
+Women,1718,2012,15.0,241,Lara Berger,2001-11-02,female|lara|berger|2001-11-02
+Women,1718,2012,10.0,189,Josefin Bluhm,2000-03-10,female|josefin|bluhm|2000-03-10
+Women,1718,2012,2.0,190,Josepha Bock,2000-01-23,female|josepha|bock|2000-01-23
+Women,1718,2012,13.0,119,Emma Cyris,2001-04-09,female|emma|cyris|2001-04-09
+Women,1718,2012,16.0,46,Athina Dimitriadis,2000-06-23,female|athina|dimitriadis|2000-06-23
+Women,1718,2012,5.0,306,Maike Herzog,1999-12-10,female|maike|herzog|1999-12-10
+Women,1718,2012,14.0,412,Romy Jatzko,2000-01-26,female|romy|jatzko|2000-01-26
+Women,1718,2012,6.0,295,Luise Klein,1999-01-15,female|luise|klein|1999-01-15
+Women,1718,2012,17.0,242,Lara Kretschmer,2001-08-29,female|lara|kretschmer|2001-08-29
+Women,1718,2012,7.0,139,Gina Koeppen,1998-12-04,female|gina|koeppen|1998-12-04
+Women,1718,2012,8.0,441,Sindy Lenz,1998-10-03,female|sindy|lenz|1998-10-03
+Women,1718,2012,12.0,181,Jenni Liu,2000-05-29,female|jenni|liu|2000-05-29
+Women,1718,2012,3.0,392,Paula Morgenroth,1999-04-07,female|paula|morgenroth|1999-04-07
+Women,1718,2012,4.0,197,Juliane Noack,2000-05-10,female|juliane|noack|2000-05-10
+Women,1718,2012,18.0,70,Charlotte Otto,2001-02-13,female|charlotte|otto|2001-02-13
+Women,1718,2012,100.0,143,Hanna-Marie Schieder,2001-03-21,female|hanna-marie|schieder|2001-03-21
+Women,1718,2012,9.0,2,Aisha Skinner,1999-04-16,female|aisha|skinner|1999-04-16
+Women,1718,2012,11.0,344,Merle Weidt,1999-07-20,female|merle|weidt|1999-07-20
+Women,1819,2012,15.0,241,Lara Berger,2001-11-02,female|lara|berger|2001-11-02
+Women,1819,2012,10.0,189,Josefin Bluhm,2000-03-10,female|josefin|bluhm|2000-03-10
+Women,1819,2012,2.0,190,Josepha Bock,2000-01-23,female|josepha|bock|2000-01-23
+Women,1819,2012,1.0,267,Linda Bock,2000-05-27,female|linda|bock|2000-05-27
+Women,1819,2012,3.0,119,Emma Cyris,2001-04-09,female|emma|cyris|2001-04-09
+Women,1819,2012,6.0,46,Athina Dimitriadis,2000-06-23,female|athina|dimitriadis|2000-06-23
+Women,1819,2012,17.0,306,Maike Herzog,1999-12-10,female|maike|herzog|1999-12-10
+Women,1819,2012,14.0,412,Romy Jatzko,2000-01-26,female|romy|jatzko|2000-01-26
+Women,1819,2012,9.0,8,Alexa Kaminski,2000-02-17,female|alexa|kaminski|2000-02-17
+Women,1819,2012,8.0,242,Lara Kretschmer,2001-08-29,female|lara|kretschmer|2001-08-29
+Women,1819,2012,12.0,181,Jenni Liu,2000-05-29,female|jenni|liu|2000-05-29
+Women,1819,2012,5.0,392,Paula Morgenroth,1999-04-07,female|paula|morgenroth|1999-04-07
+Women,1819,2012,4.0,197,Juliane Noack,2000-05-10,female|juliane|noack|2000-05-10
+Women,1819,2012,18.0,143,Hanna-Marie Schieder,2001-03-21,female|hanna-marie|schieder|2001-03-21
+Women,1819,2012,11.0,104,Edina Schmidt,2000-09-02,female|edina|schmidt|2000-09-02
+Women,1819,2012,13.0,298,Lydia Stemmler,2001-07-20,female|lydia|stemmler|2001-07-20
+Women,1516,2013,10.0,64,Carina Aulenbrock,1994-09-22,female|carina|aulenbrock|1994-09-22
+Women,1516,2013,8.0,345,Michaela Bertalanitsch,1991-01-06,female|michaela|bertalanitsch|1991-01-06
+Women,1516,2013,4.0,14,Alyssa Rene Dibbern,1990-10-23,female|alyssa rene|dibbern|1990-10-23
+Women,1516,2013,17.0,244,Laura Emonts,1991-04-04,female|laura|emonts|1991-04-04
+Women,1516,2013,3.0,482,Wivian Carine Gadelha de Souza,1984-04-29,female|wivian carine|gadelha de souza|1984-04-29
+Women,1516,2013,1.0,233,Kristen Hahn,1992-01-19,female|kristen|hahn|1992-01-19
+Women,1516,2013,16.0,353,Mira Heimrich,1995-10-23,female|mira|heimrich|1995-10-23
+Women,1516,2013,11.0,210,Karmen Kocar,1982-12-01,female|karmen|kocar|1982-12-01
+Women,1516,2013,12.0,61,Bruna Lepesteur Gianlorenco,1988-10-27,female|bruna|lepesteur gianlorenco|1988-10-27
+Women,1516,2013,14.0,336,Martina Nosekova,1985-04-01,female|martina|nosekova|1985-04-01
+Women,1516,2013,13.0,51,Barbora Purchartova,1992-05-09,female|barbora|purchartova|1992-05-09
+Women,1516,2013,6.0,331,Marta Swiechowska,1988-01-08,female|marta|swiechowska|1988-01-08
+Women,1516,2013,15.0,309,Malina Terrell,1992-12-03,female|malina|terrell|1992-12-03
+Women,1819,2013,16.0,442,Sophie Dreblow,1998-07-09,female|sophie|dreblow|1998-07-09
+Women,1819,2013,6.0,184,Jil Doehnert,1985-08-27,female|jil|doehnert|1985-08-27
+Women,1819,2013,10.0,254,Lena Grosse Scharmann,1998-04-24,female|lena|grosse scharmann|1998-04-24
+Women,1819,2013,7.0,469,Valbona Ismaili,2003-02-24,female|valbona|ismaili|2003-02-24
+Women,1819,2013,13.0,275,Lisa Izquierdo-Mocasqui,1994-08-29,female|lisa|izquierdo-mocasqui|1994-08-29
+Women,1819,2013,12.0,135,Franziska Liebschner,1998-08-19,female|franziska|liebschner|1998-08-19
+Women,1819,2013,8.0,85,Danica Markovi?,1991-03-16,female|danica|markovi?|1991-03-16
+Women,1819,2013,3.0,273,Lisanne Meis,1996-12-31,female|lisanne|meis|1996-12-31
+Women,1819,2013,4.0,137,Frauke Neuhaus,1993-04-20,female|frauke|neuhaus|1993-04-20
+Women,1819,2013,17.0,84,Dana Schmit,1997-07-20,female|dana|schmit|1997-07-20
+Women,1819,2013,11.0,287,Lorena Sipic,1990-11-11,female|lorena|sipic|1990-11-11
+Women,1819,2013,2.0,68,Celin Stoehr,1993-11-22,female|celin|stoehr|1993-11-22
+Women,1819,2013,5.0,202,Julia Wenzel,1998-01-12,female|julia|wenzel|1998-01-12
+Women,1617,2014,13.0,321,Marie Belitz,1998-03-25,female|marie|belitz|1998-03-25
+Women,1617,2014,10.0,138,Friederike Brabetz,1999-12-01,female|friederike|brabetz|1999-12-01
+Women,1617,2014,1.0,431,Selma Theresa Hetmann,1995-10-27,female|selma theresa|hetmann|1995-10-27
+Women,1617,2014,5.0,264,Liis Kullerkann,1991-05-02,female|liis|kullerkann|1991-05-02
+Women,1617,2014,8.0,369,Natascha Niemczyk,1990-02-07,female|natascha|niemczyk|1990-02-07
+Women,1617,2014,15.0,303,Madleen Piest,1995-06-15,female|madleen|piest|1995-06-15
+Women,1617,2014,12.0,13,Alison Skayhan,1992-08-06,female|alison|skayhan|1992-08-06
+Women,1617,2014,6.0,40,Antonia Stautz,1993-12-15,female|antonia|stautz|1993-12-15
+Women,1617,2014,14.0,279,Lisa Stock,1994-06-06,female|lisa|stock|1994-06-06
+Women,1617,2014,7.0,299,Macy Lanae Ubben,1991-06-24,female|macy lanae|ubben|1991-06-24
+Women,1617,2014,11.0,347,Michaela Wessely,1995-11-01,female|michaela|wessely|1995-11-01
+Women,1617,2014,2.0,222,Katlin Marie Winters,1992-06-22,female|katlin marie|winters|1992-06-22
+Women,1617,2014,3.0,296,Luise Wolf,1997-11-14,female|luise|wolf|1997-11-14
+Women,1718,2014,5.0,138,Friederike Brabetz,1999-12-01,female|friederike|brabetz|1999-12-01
+Women,1718,2014,16.0,316,Margaret Casault,1994-05-22,female|margaret|casault|1994-05-22
+Women,1718,2014,6.0,482,Wivian Carine Gadelha de Souza,1984-04-29,female|wivian carine|gadelha de souza|1984-04-29
+Women,1718,2014,8.0,28,Annalena Graetz,1997-03-22,female|annalena|graetz|1997-03-22
+Women,1718,2014,14.0,130,Evyn Kaelee McCoy,1992-10-07,female|evyn kaelee|mccoy|1992-10-07
+Women,1718,2014,7.0,121,Erika Andreina Mercado Chavez,1992-02-27,female|erika andreina|mercado chavez|1992-02-27
+Women,1718,2014,1.0,49,Bailey Marie Nichol,1995-07-27,female|bailey marie|nichol|1995-07-27
+Women,1718,2014,15.0,303,Madleen Piest,1995-06-15,female|madleen|piest|1995-06-15
+Women,1718,2014,4.0,390,Paula-Katharina Reinisch,1998-10-07,female|paula-katharina|reinisch|1998-10-07
+Women,1718,2014,10.0,41,An Saita,1993-01-27,female|an|saita|1993-01-27
+Women,1718,2014,2.0,118,Emily Grace Thater,1995-02-01,female|emily grace|thater|1995-02-01
+Women,1718,2014,11.0,347,Michaela Wessely,1995-11-01,female|michaela|wessely|1995-11-01
+Women,1819,2014,11.0,63,Canace Finley,1994-03-11,female|canace|finley|1994-03-11
+Women,1819,2014,6.0,482,Wivian Carine Gadelha de Souza,1984-04-29,female|wivian carine|gadelha de souza|1984-04-29
+Women,1819,2014,9.0,38,Antonia Greskamp,2000-02-09,female|antonia|greskamp|2000-02-09
+Women,1819,2014,3.0,65,Carly Kan,1995-01-16,female|carly|kan|1995-01-16
+Women,1819,2014,5.0,419,Sabrina Krause,1998-12-18,female|sabrina|krause|1998-12-18
+Women,1819,2014,8.0,441,Sindy Lenz,1998-10-03,female|sindy|lenz|1998-10-03
+Women,1819,2014,4.0,390,Paula-Katharina Reinisch,1998-10-07,female|paula-katharina|reinisch|1998-10-07
+Women,1819,2014,10.0,467,Tess Rountree,1993-08-14,female|tess|rountree|1993-08-14
+Women,1819,2014,1.0,75,Clarisa Sagardia,1989-06-29,female|clarisa|sagardia|1989-06-29
+Women,1819,2014,2.0,118,Emily Grace Thater,1995-02-01,female|emily grace|thater|1995-02-01

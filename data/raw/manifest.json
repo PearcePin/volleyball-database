@@ -1,0 +1,92 @@
+{
+  "repository": "https://github.com/bozhinvi/volleystat",
+  "commit": "c38586571a6f0d3cc3f42ebb457410020eb8898b",
+  "license_declared_in_DESCRIPTION": "CC0",
+  "files": {
+    "players": {
+      "url": "https://raw.githubusercontent.com/bozhinvi/volleystat/c38586571a6f0d3cc3f42ebb457410020eb8898b/data/players.rda",
+      "sha256": "697132721a9e06bfd94125d64cbe450e58c2984edf71e20efed29584d3237b51",
+      "rows": 1853,
+      "columns": [
+        "season_id",
+        "league_gender",
+        "team_id",
+        "team_name",
+        "lastname",
+        "firstname",
+        "height",
+        "gender",
+        "birthdate",
+        "shirt_number",
+        "position",
+        "nationality",
+        "player_id"
+      ]
+    },
+    "matches": {
+      "url": "https://raw.githubusercontent.com/bozhinvi/volleystat/c38586571a6f0d3cc3f42ebb457410020eb8898b/data/matches.rda",
+      "sha256": "6ee03f6df287327a0d05a98eaccef9d6c66b9f59e63f73250a8a3f442acce2f8",
+      "rows": 3392,
+      "columns": [
+        "league_gender",
+        "season_id",
+        "competition_stage",
+        "match_id",
+        "match",
+        "match_day",
+        "date_time",
+        "spectators",
+        "match_duration",
+        "team_id",
+        "team_name",
+        "set_won"
+      ]
+    },
+    "sets": {
+      "url": "https://raw.githubusercontent.com/bozhinvi/volleystat/c38586571a6f0d3cc3f42ebb457410020eb8898b/data/sets.rda",
+      "sha256": "58ed3e6e764fb7e891cdd340866fec0f3e42e369dbd5a7a5bc6e23f5ae0e3ab6",
+      "rows": 12660,
+      "columns": [
+        "league_gender",
+        "season_id",
+        "match_id",
+        "match",
+        "team_id",
+        "team_name",
+        "set",
+        "set_duration",
+        "pt_set"
+      ]
+    },
+    "matchstats": {
+      "url": "https://raw.githubusercontent.com/bozhinvi/volleystat/c38586571a6f0d3cc3f42ebb457410020eb8898b/data/matchstats.rda",
+      "sha256": "4d9f24dbd3356554b930d9acd6276aa550a5934a99dde679ecb57c7247657837",
+      "rows": 32755,
+      "columns": [
+        "league_gender",
+        "season_id",
+        "match_id",
+        "team_id",
+        "player_id",
+        "shirt_number",
+        "vote",
+        "pt_tot",
+        "pt_bp",
+        "pt_profloss",
+        "serv_tot",
+        "serv_err",
+        "serv_pt",
+        "rec_tot",
+        "rec_err",
+        "rec_pos",
+        "rec_per",
+        "att_tot",
+        "att_err",
+        "att_blo",
+        "att_pt",
+        "att_per",
+        "blo_pt"
+      ]
+    }
+  }
+}
