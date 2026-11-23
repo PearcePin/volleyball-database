@@ -33,15 +33,15 @@ The exact executable MySQL statements are in [queries.sql](../sql/queries.sql). 
 
 The design separates leagues, seasons, teams, players, memberships, matches, sets, and statistics. A league has many seasons. Seasons and teams have a many-to-many relationship resolved by Season_Team. Players belong to teams within seasons through Player_Team_Season. A player can therefore transfer without overwriting earlier memberships, including membership in more than one team during a season. The data does not provide reliable transfer dates, so the system does not invent exact membership intervals.
 
-A match has one home team, one away team, and several ordered sets. The two team roles reference the participating teams in the same season. Statistics connect a match with a registered player and team. Crow's Foot notation is used consistently. There is no natural one-to-one relationship, so the diagram does not add an artificial one.
+A match has one home team, one away team, and several ordered sets. The two team roles reference the participating teams in the same season. Statistics connect a match with a registered player and team. The diagram uses the textbook E-R notation from the classroom example: entity boxes containing attributes, Chen-style relationship diamonds, underlined keys, arrows toward the one side, and double participation lines. There is no natural one-to-one relationship, so the diagram does not add an artificial one.
 
 The core tables follow normalization principles by separating entities and resolving many-to-many relationships. One deliberate exception is season_id in Player_Match_Stats: it is determined by match_id but retained to enforce both match-season and player-team-season consistency through composite foreign keys. This is a documented, constrained redundancy rather than a claim of strict 3NF for every table. Position and historical team names are stored at the season level, where they can change.
 
 ## Part 2: E-R Diagram
 
-![Crow's Foot E-R diagram](../diagrams/er_diagram.png)
+![Textbook E-R diagram with entity boxes and relationship diamonds](../diagrams/er_diagram.png)
 
-The complete Mermaid source, key labels, composite-key notes, and relationships are in [er_diagram.md](../diagrams/er_diagram.md). A scalable [SVG](../diagrams/er_diagram.svg) is also provided. PK means primary key, FK means foreign key, and UK means unique key. The diagram represents all nine SQL tables. Every imported match has 3–5 sets; this minimum child count is verified by the validation program rather than by a foreign key alone.
+The symbol legend, key labels, composite-key notes, editable source links, and supplementary Mermaid reference are in [er_diagram.md](../diagrams/er_diagram.md). A scalable [SVG](../diagrams/er_diagram.svg) is also provided. PK means primary key and FK means foreign key. The diagram represents all nine SQL tables. Match_Set is drawn as a weak entity with an identifying has_set relationship; set_number is its partial key. Its SQL primary key combines match_id and set_number. Double lines indicate total participation of the child. Every imported match has 3–5 sets; the parent-side single line does not assert this minimum, which is checked by the validation program.
 
 ## Part 3: Database Schema
 

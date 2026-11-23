@@ -8,11 +8,11 @@ GitHub：[PearcePin/volleyball-database](https://github.com/PearcePin/volleyball
 
 ## ER Diagram 與 Database Schema（直接看圖）
 
-**ER Diagram：** 看各個實體怎麼連接，採 Crow's Foot 模型。PK 是主鍵，FK 是外鍵，分叉端表示多筆。
+**ER Diagram：** 採老師範例的課本畫法：淡藍表頭的實體長方形、菱形關係、底線主鍵、指向「一」端的箭頭，以及表示完全參與的雙線。雙框 Match_Set 是弱實體。
 
 ![完整 ER Diagram](diagrams/er_diagram.png)
 
-[放大 ER 圖 SVG](diagrams/er_diagram.svg) · [Mermaid 原始碼與關聯說明](diagrams/er_diagram.md)
+[放大 ER 圖 SVG](diagrams/er_diagram.svg) · [課本符號圖例與關聯說明](diagrams/er_diagram.md)
 
 **Database Schema：** 看九張表各有哪些欄位、資料型別、主鍵，以及複合外鍵指向哪裡。
 
@@ -212,8 +212,9 @@ volleyball-database/
 │   ├── run_queries.py    實際執行 SQL，輸出 Markdown 與 CSV
 │   ├── setup_local_mysql.py  安裝／啟動本機專用 MySQL
 │   ├── stop_local_mysql.py   正常關閉本機專用 MySQL
-│   └── render_diagram.py     把 Mermaid 圖轉成 SVG、PNG
-├── diagrams/             Mermaid 原始碼、Markdown、SVG、PNG
+│   ├── generate_chen_diagram.py  產生課本格式的 ER 圖
+│   └── render_diagram.py     輸出課本格式 SVG、PNG
+├── diagrams/             課本格式 ER 圖、Schema 圖、Mermaid 對照原始碼
 ├── docs/                 雙語企劃書、報告小抄、欄位說明、驗證及查詢結果
 ├── requirements.txt      Python 套件清單
 ├── .env.example          不含真實密碼的設定範例
@@ -248,17 +249,18 @@ volleyball-database/
 
 **940 一定是現實中的精確人數嗎？** 是這份來源經保守規則解析出的身分數。上游沒有全球球員 ID，未知改名或拼字差異可能仍分開，不能宣稱是官方認證人數。
 
-**要重新畫 ER 圖嗎？** 已附可直接開的 PNG/SVG，不用重新產生。若改過 schema，請同步修改 Mermaid，再依 render_diagram.py 說明安裝圖表工具並重新產生。
+**要重新畫 ER 圖嗎？** 已附可直接開的 PNG/SVG。若修改 schema，先同步更新實際 MySQL 結構並產生 metadata，再調整 generate_chen_diagram.py 的版面與關係。新版使用老師範例的課本符號。
 
 ```powershell
-# 只有重新產生圖表才需要 Node.js 與 Mermaid CLI
+# 只有重新產生 PNG 才需要 Node.js 與 Puppeteer
 winget install --exact --id OpenJS.NodeJS.LTS
 # 安裝 Node 後重新開啟終端機
-npm.cmd install -g @mermaid-js/mermaid-cli@11.4.3
+npm.cmd install --no-save --package-lock=false puppeteer@23.11.1
+python scripts/generate_schema_docs.py
 python scripts/render_diagram.py
 ```
 
-圖表在本機產生。本次使用官方 Node.js 22.16.0 與 Mermaid CLI 11.4.3；沒有依賴外部圖表服務才能檢視交付圖片。
+圖表在本機產生。本次使用官方 Node.js 22.16.0 與 Puppeteer；可編輯的 SVG 由 Python 產生。Mermaid 原始碼另外保留作為資料表關係對照。
 
 若要重新產生 **Database Schema** 圖與逐表文件，先啟動 MySQL，再執行：
 

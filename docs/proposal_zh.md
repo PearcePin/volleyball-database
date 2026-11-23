@@ -36,7 +36,7 @@ Q1 只看例行賽，依勝率與勝場排，並列共用名次，**不是官方
 
 ![完整 ER 圖](../diagrams/er_diagram.png)
 
-Mermaid 原始碼與完整說明：[er_diagram.md](../diagrams/er_diagram.md)。使用 Crow's Foot（烏鴉腳）模型：直線代表一，分叉代表多。這個應用沒有必要的一對一關係，不會為了畫圖硬造一張表。
+圖例與完整說明：[er_diagram.md](../diagrams/er_diagram.md)。採老師提供的課本樣式：長方形表示實體，菱形表示關係，主鍵加底線；箭頭指向「一」端，雙連線表示完全參與。Match_Set 用雙框表示弱實體，has_set 用雙菱形表示識別關係，set_number 的虛線底線表示部分鍵。實際 SQL 主鍵仍是 match_id＋set_number。Mermaid 原始碼另外保留作關係對照。這個應用沒有必要的一對一關係，不會為了畫圖硬造一張表。
 
 ## Part 3：資料庫 Schema
 

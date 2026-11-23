@@ -12,7 +12,9 @@ try {
 }
 (async () => {
   const root = path.resolve(__dirname, '..');
-  const input = path.join(root, 'diagrams', 'database_schema.svg');
+  const basename = process.argv[2] || 'database_schema';
+  if (!['database_schema', 'er_diagram'].includes(basename)) throw new Error('Expected database_schema or er_diagram');
+  const input = path.join(root, 'diagrams', basename + '.svg');
   const svg = fs.readFileSync(input, 'utf8');
   const width = Number(svg.match(/width="(\d+)"/)[1]);
   const height = Number(svg.match(/height="(\d+)"/)[1]);
@@ -21,8 +23,8 @@ try {
     const page = await browser.newPage();
     await page.setViewport({ width, height, deviceScaleFactor: 1 });
     await page.goto(pathToFileURL(input).href, { waitUntil: 'load' });
-    await page.screenshot({ path: path.join(root, 'diagrams', 'database_schema.png'), fullPage: true });
-    console.log('Rendered database_schema.png');
+    await page.screenshot({ path: path.join(root, 'diagrams', basename + '.png'), fullPage: true });
+    console.log('Rendered ' + basename + '.png');
   } finally {
     await browser.close();
   }
