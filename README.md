@@ -6,6 +6,15 @@
 
 GitHub：[PearcePin/volleyball-database](https://github.com/PearcePin/volleyball-database)
 
+**[下載中文版期末企劃書 PDF（6 頁，內含 ER 圖與 Database Schema）](output/pdf/Final_Project_Proposal_Part_I_zh.pdf)**
+
+PDF 可獨立閱讀，已嵌入圖表；一般文字為 A4，兩張向量圖表頁為 A3，方便放大閱讀。可編輯的 [HTML 版本](output/pdf/Final_Project_Proposal_Part_I_zh.html) 一併保留。需要重新匯出時，安裝 `requirements-pdf.txt` 與本節後方的 Node.js／Puppeteer 繪圖依賴，再執行：
+
+```powershell
+python -m pip install -r requirements-pdf.txt
+python scripts/export_proposal_pdf.py
+```
+
 ## ER Diagram 與 Database Schema（直接看圖）
 
 **ER Diagram：** 採老師範例的課本畫法：淡藍表頭的實體長方形、菱形關係、底線主鍵、指向「一」端的箭頭，以及表示完全參與的雙線。雙框 Match_Set 是弱實體。

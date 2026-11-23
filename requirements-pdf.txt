@@ -1,0 +1,4 @@
+# Optional dependencies for exporting the Chinese proposal PDF.
+Markdown>=3.7
+pypdf>=5
+reportlab>=4

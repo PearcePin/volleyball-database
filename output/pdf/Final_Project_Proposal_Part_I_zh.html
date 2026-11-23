@@ -1,0 +1,470 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><title>期末專題企劃書 - Part I（中文版）</title><style>
+    @page {size:A4 portrait; margin:17mm 17mm 20mm;}
+    @page diagram {size:A3 portrait; margin:14mm 14mm 20mm;}
+    *{box-sizing:border-box;}body{margin:0;color:#172435;font-family:"Microsoft JhengHei","Noto Sans CJK TC",Arial,sans-serif;font-size:9.8pt;line-height:1.42;}
+    h1{font-size:21pt;line-height:1.35;color:#11345c;margin:0 0 10pt;border-bottom:3px solid #9bbfdc;padding-bottom:9pt;}
+    h2{font-size:15pt;color:#11345c;margin:12pt 0 8pt;break-after:avoid;}
+    h3{font-size:11pt;color:#173f6b;margin:9pt 0 5pt;break-after:avoid;}
+    p{margin:0 0 6pt;}a{color:#174f80;text-decoration:none;}strong{font-weight:700;}
+    table{border-collapse:collapse;width:100%;font-size:8.5pt;line-height:1.5;margin:6pt 0 9pt;table-layout:fixed;}
+    thead{display:table-header-group;}th{background:#e9f1f8;color:#12375c;font-weight:700;}
+    th,td{border:1px solid #c5d3e0;padding:4pt;vertical-align:top;overflow-wrap:anywhere;}
+    tr{break-inside:avoid;}td:first-child,th:first-child{width:17%;}
+    code{font-family:Consolas,"Microsoft JhengHei",monospace;font-size:9pt;overflow-wrap:anywhere;}
+    li{margin-bottom:3pt;}ul{margin:3pt 0 8pt;padding-left:19pt;}
+    .intro h2{margin-top:12pt;}.diagram-page{page:diagram;break-before:page;break-after:page;break-inside:avoid;height:375mm;}
+    .diagram-page h2{margin-top:0;}.diagram-page svg{display:block;width:265mm;height:270mm;max-height:none;margin:0 auto;}
+    .caption{font-size:10pt;color:#526173;margin-bottom:10pt;}.diagram-notes{font-size:10pt;line-height:1.65;margin-top:10pt;}
+    .schema-page{break-before:page;}.schema-page h2{margin-top:0;}.schema-card{break-inside:avoid;border-bottom:1px solid #c5d3e0;padding-bottom:8pt;margin-bottom:10pt;}
+    .schema-card h3{margin-top:7pt;}.schema-card p{margin-bottom:5pt;}.schema-card li{font-size:9.4pt;line-height:1.5;}
+    .integrity{break-inside:avoid;font-size:9.5pt;line-height:1.6;}
+    </style></head><body><section class="prose intro"><h1>期末專題企劃書 - Part I</h1>
+<p><strong>專題名稱：排球歷史賽事與球員數據管理系統</strong></p>
+<p>Volleyball Historical Statistics Database System<br />
+課程：Database Systems</p>
+<h2>Part 1：專題介紹</h2>
+<h3>1. 背景與目的</h3>
+<p>我們把德國排球聯賽六個歷史賽季的真實資料整理進 MySQL，方便查球隊勝率、球員歷年表現、歷史交手與五局大戰。資料來自 <a href="https://github.com/bozhinvi/volleystat">volleystat</a>，不是自行編造。</p>
+<p>資料含男女聯賽，2013–2014 到 2018–2019。實際匯入 2 個聯賽、12 個聯賽賽季、32 支球隊、940 個可解析球員身分、1,853 筆球員所屬球隊賽季、1,696 場比賽、6,330 局與 32,483 筆單場球員統計。</p>
+<p>原始資料是 R 套件的 RDA，不是 CSV；我們用 Python 轉出 CSV。四筆完全重複統計去重，268 筆沒有對應名冊的統計隔離保存，沒有補假姓名。上游套件 DESCRIPTION 宣告 CC0。詳細來源、授權與缺值見 <a href="https://github.com/PearcePin/volleyball-database/blob/main/docs/data_sources.md">data_sources.md</a>。</p>
+<h3>2. 五個有用的查詢</h3>
+<table>
+<thead>
+<tr>
+<th>查詢</th>
+<th>白話問題</th>
+<th>使用方法</th>
+<th>實際例子</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Q1 球隊排名</td>
+<td>這一季哪隊勝率最高？</td>
+<td>合併主客場、加總勝負、AVG 算勝率、DENSE_RANK 排名</td>
+<td>男子 2018–2019，Haching 19 勝 3 敗，86.36%。</td>
+</tr>
+<tr>
+<td>Q2 球員跨季表現</td>
+<td>同一球員每季得分是否改變？</td>
+<td>球員 JOIN 統計與賽季，SUM 得分、攻擊、攔網與 Ace</td>
+<td>Robert Kromm 有五季紀錄；第一季 357 分，最後有紀錄的一季 259 分。</td>
+</tr>
+<tr>
+<td>Q3 歷史交手</td>
+<td>兩隊以前打過幾場、誰贏？</td>
+<td>同時找 A 主場與 B 主場，依日期排序</td>
+<td>Berlin 與 Friedrichshafen 有 37 場交手。</td>
+</tr>
+<tr>
+<td>Q4 最佳球員</td>
+<td>哪位球員攻擊得分最多？</td>
+<td>每人加總，計算攻擊、攔網與 Ace 排名</td>
+<td>男子 2018–2019，Sebastian Gevert 攻擊得分 399、Ace 47。</td>
+</tr>
+<tr>
+<td>Q5 五局大戰</td>
+<td>哪些比賽打滿五局？哪季最多？</td>
+<td>串接每局比分，計算五局場數除以總場數</td>
+<td>全部 348 場；男子 2018–2019 為 38/155＝24.52%。</td>
+</tr>
+</tbody>
+</table>
+<p>Q1 只看例行賽，依勝率與勝場排，並列共用名次，<strong>不是官方德甲積分榜</strong>。其他查詢看全部階段。球員統計因隔離紀錄可能不完整；沒有某季紀錄不代表該季得 0 分。Q4 的前十名是「攻擊得分前十」，同時附上各自在全部球員中的攔網、Ace 排名。</p>
+<h3>3. 為什麼要這樣設計 ER 圖？</h3>
+<p>聯賽底下有多個賽季；球隊可以參加多季，每季也有多隊，所以需要 Season_Team 中間表。球員可以換隊，不能在 Player 只放一個 team_id，所以用 Player_Team_Season 保留「誰、哪隊、哪季」。同一季有兩隊的紀錄也可以保存；來源沒有可靠的轉隊日期，不虛構起訖日。</p>
+<p>一場比賽有主隊與客隊，並有三到五局。每局只保存一次，透過 match_id 連回比賽。球員單場統計另外存，避免把球員所有資料在每一場反覆複製。</p>
+<p>球員原始 ID 是當季當隊的號碼，不能當全世界唯一 ID。我們以正規化姓名、性別與生日建立獨立 ID。名字不同但生日相同也不隨便合併，因為可能是不同人或雙胞胎；未確認的改名仍是限制。</p></section><section class="diagram-page"><h2>Part 2：E-R Diagram（實體關係圖）</h2><p class="caption">採課本範例的實體長方形、菱形關係、底線主鍵、箭頭與雙線表示法。</p><svg xmlns="http://www.w3.org/2000/svg" width="2400" height="2410" viewBox="0 0 2400 2410">
+<rect width="2400" height="2410" fill="white"/>
+<defs><marker id="one" viewBox="0 0 12 10" refX="11" refY="5" markerWidth="12" markerHeight="10" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L11,5 L0,10" fill="none" stroke="#222" stroke-width="1.8"/></marker></defs>
+<style>text{fill:#111;font-family:"Times New Roman",serif}.title{font-family:Arial,sans-serif;font-size:43px;font-weight:700;fill:#092c56}.sub{font-family:Arial,sans-serif;font-size:22px;fill:#475569}.entity{font-size:29px;font-style:italic}.attr{font-size:25px}.flag{font-family:Arial,sans-serif;font-size:16px;fill:#526171}.relationship{font-size:25px;font-style:italic}.cardinality{font-size:23px}.legend{font-family:Arial,sans-serif;font-size:22px}</style>
+<text x="100" y="80" class="title">E-R Diagram for a Volleyball Historical Statistics Database</text>
+<text x="100" y="124" class="sub">Textbook notation: entity boxes, relationship diamonds, key underlines, arrows and double participation lines.</text>
+<polyline points="280,395 280,335" fill="none" stroke="#222" stroke-width="2" marker-end="url(#one)"/>
+<polyline points="280,505 280,570" fill="none" stroke="#222" stroke-width="7" stroke-linejoin="miter"/>
+<polyline points="280,505 280,570" fill="none" stroke="white" stroke-width="3" stroke-linejoin="miter"/>
+<polyline points="540,650 460,650" fill="none" stroke="#222" stroke-width="2" marker-end="url(#one)"/>
+<polyline points="760,650 870,650" fill="none" stroke="#222" stroke-width="7" stroke-linejoin="miter"/>
+<polyline points="760,650 870,650" fill="none" stroke="white" stroke-width="3" stroke-linejoin="miter"/>
+<polyline points="1640,390 1950,390 1950,570" fill="none" stroke="#222" stroke-width="2" marker-end="url(#one)"/>
+<polyline points="1420,390 1250,390 1250,570" fill="none" stroke="#222" stroke-width="7" stroke-linejoin="miter"/>
+<polyline points="1420,390 1250,390 1250,570" fill="none" stroke="white" stroke-width="3" stroke-linejoin="miter"/>
+<polyline points="1105,820 1105,730" fill="none" stroke="#222" stroke-width="2" marker-end="url(#one)"/>
+<polyline points="1105,930 1105,1020" fill="none" stroke="#222" stroke-width="7" stroke-linejoin="miter"/>
+<polyline points="1105,930 1105,1020" fill="none" stroke="white" stroke-width="3" stroke-linejoin="miter"/>
+<polyline points="540,1140 500,1140" fill="none" stroke="#222" stroke-width="2" marker-end="url(#one)"/>
+<polyline points="760,1140 870,1140" fill="none" stroke="#222" stroke-width="7" stroke-linejoin="miter"/>
+<polyline points="760,1140 870,1140" fill="none" stroke="white" stroke-width="3" stroke-linejoin="miter"/>
+<polyline points="1420,615 1320,615" fill="none" stroke="#222" stroke-width="2" marker-end="url(#one)"/>
+<polyline points="1640,615 1660,615 1660,875 1880,875 1880,1020" fill="none" stroke="#222" stroke-width="7" stroke-linejoin="miter"/>
+<polyline points="1640,615 1660,615 1660,875 1880,875 1880,1020" fill="none" stroke="white" stroke-width="3" stroke-linejoin="miter"/>
+<polyline points="1400,770 1250,770 1250,730" fill="none" stroke="#222" stroke-width="2" marker-end="url(#one)"/>
+<polyline points="1510,825 1510,950 1680,950 1680,1120 1740,1120" fill="none" stroke="#222" stroke-width="7" stroke-linejoin="miter"/>
+<polyline points="1510,825 1510,950 1680,950 1680,1120 1740,1120" fill="none" stroke="white" stroke-width="3" stroke-linejoin="miter"/>
+<polyline points="1630,1530 1670,1530 1670,1260 1740,1260" fill="none" stroke="#222" stroke-width="2" marker-end="url(#one)"/>
+<polyline points="1410,1530 1360,1530 1360,1785 1340,1785" fill="none" stroke="#222" stroke-width="7" stroke-linejoin="miter"/>
+<polyline points="1410,1530 1360,1530 1360,1785 1340,1785" fill="none" stroke="white" stroke-width="3" stroke-linejoin="miter"/>
+<polyline points="1105,1425 1105,1275" fill="none" stroke="#222" stroke-width="2" marker-end="url(#one)"/>
+<polyline points="1105,1535 1105,1670" fill="none" stroke="#222" stroke-width="7" stroke-linejoin="miter"/>
+<polyline points="1105,1535 1105,1670" fill="none" stroke="white" stroke-width="3" stroke-linejoin="miter"/>
+<polyline points="1970,1545 1970,1370" fill="none" stroke="#222" stroke-width="2" marker-end="url(#one)"/>
+<polyline points="1970,1655 1970,1840" fill="none" stroke="#222" stroke-width="7" stroke-linejoin="miter"/>
+<polyline points="1970,1655 1970,1840" fill="none" stroke="white" stroke-width="3" stroke-linejoin="miter"/>
+<g id="entity-League"><rect x="100" y="190" width="340" height="145" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="101" y="191" width="338" height="39" fill="#d8edf5"/>
+<line x1="100" y1="231" x2="440" y2="231" stroke="#222" stroke-width="2"/>
+<text x="270.0" y="219" text-anchor="middle" class="entity">League</text>
+<text x="118" y="262" class="attr" text-decoration="underline">league_id</text>
+<text x="425" y="262" text-anchor="end" class="flag">PK</text>
+<text x="118" y="292" class="attr">league_name</text>
+<text x="118" y="322" class="attr">country</text>
+</g>
+<g id="entity-Season"><rect x="100" y="570" width="360" height="190" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="101" y="571" width="358" height="39" fill="#d8edf5"/>
+<line x1="100" y1="611" x2="460" y2="611" stroke="#222" stroke-width="2"/>
+<text x="280.0" y="599" text-anchor="middle" class="entity">Season</text>
+<text x="118" y="642" class="attr" text-decoration="underline">season_id</text>
+<text x="445" y="642" text-anchor="end" class="flag">PK</text>
+<text x="118" y="672" class="attr">league_id</text>
+<text x="445" y="672" text-anchor="end" class="flag">FK</text>
+<text x="118" y="702" class="attr">source_season_id</text>
+<text x="118" y="732" class="attr">season_name</text>
+</g>
+<g id="entity-Team"><rect x="1770" y="570" width="360" height="145" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="1771" y="571" width="358" height="39" fill="#d8edf5"/>
+<line x1="1770" y1="611" x2="2130" y2="611" stroke="#222" stroke-width="2"/>
+<text x="1950.0" y="599" text-anchor="middle" class="entity">Team</text>
+<text x="1788" y="642" class="attr" text-decoration="underline">team_id</text>
+<text x="2115" y="642" text-anchor="end" class="flag">PK</text>
+<text x="1788" y="672" class="attr">team_name</text>
+</g>
+<g id="entity-Season_Team"><rect x="870" y="570" width="450" height="160" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="871" y="571" width="448" height="39" fill="#d8edf5"/>
+<line x1="870" y1="611" x2="1320" y2="611" stroke="#222" stroke-width="2"/>
+<text x="1095.0" y="599" text-anchor="middle" class="entity">Season_Team</text>
+<text x="888" y="642" class="attr" text-decoration="underline">season_id</text>
+<text x="1305" y="642" text-anchor="end" class="flag">PK, FK</text>
+<text x="888" y="672" class="attr" text-decoration="underline">team_id</text>
+<text x="1305" y="672" text-anchor="end" class="flag">PK, FK</text>
+<text x="888" y="702" class="attr">season_team_name</text>
+</g>
+<g id="entity-Player"><rect x="100" y="1020" width="400" height="220" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="101" y="1021" width="398" height="39" fill="#d8edf5"/>
+<line x1="100" y1="1061" x2="500" y2="1061" stroke="#222" stroke-width="2"/>
+<text x="300.0" y="1049" text-anchor="middle" class="entity">Player</text>
+<text x="118" y="1092" class="attr" text-decoration="underline">player_id</text>
+<text x="485" y="1092" text-anchor="end" class="flag">PK</text>
+<text x="118" y="1122" class="attr">identity_key</text>
+<text x="118" y="1152" class="attr">player_name</text>
+<text x="118" y="1182" class="attr">gender</text>
+<text x="118" y="1212" class="attr">birthdate</text>
+</g>
+<g id="entity-Player_Team_Season"><rect x="870" y="1020" width="470" height="255" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="871" y="1021" width="468" height="39" fill="#d8edf5"/>
+<line x1="870" y1="1061" x2="1340" y2="1061" stroke="#222" stroke-width="2"/>
+<text x="1105.0" y="1049" text-anchor="middle" class="entity">Player_Team_Season</text>
+<text x="888" y="1092" class="attr" text-decoration="underline">player_id</text>
+<text x="1325" y="1092" text-anchor="end" class="flag">PK, FK</text>
+<text x="888" y="1122" class="attr" text-decoration="underline">team_id</text>
+<text x="1325" y="1122" text-anchor="end" class="flag">PK, FK</text>
+<text x="888" y="1152" class="attr" text-decoration="underline">season_id</text>
+<text x="1325" y="1152" text-anchor="end" class="flag">PK, FK</text>
+<text x="888" y="1182" class="attr">source_player_id</text>
+<text x="888" y="1212" class="attr">shirt_number</text>
+<text x="888" y="1242" class="attr">position</text>
+</g>
+<g id="entity-Match"><rect x="1740" y="1020" width="460" height="350" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="1741" y="1021" width="458" height="39" fill="#d8edf5"/>
+<line x1="1740" y1="1061" x2="2200" y2="1061" stroke="#222" stroke-width="2"/>
+<text x="1970.0" y="1049" text-anchor="middle" class="entity">Match</text>
+<text x="1758" y="1092" class="attr" text-decoration="underline">match_id</text>
+<text x="2185" y="1092" text-anchor="end" class="flag">PK</text>
+<text x="1758" y="1122" class="attr">season_id</text>
+<text x="2185" y="1122" text-anchor="end" class="flag">FK</text>
+<text x="1758" y="1152" class="attr">source_match_id</text>
+<text x="1758" y="1182" class="attr">home_team_id</text>
+<text x="2185" y="1182" text-anchor="end" class="flag">FK</text>
+<text x="1758" y="1212" class="attr">away_team_id</text>
+<text x="2185" y="1212" text-anchor="end" class="flag">FK</text>
+<text x="1758" y="1242" class="attr">match_date</text>
+<text x="1758" y="1272" class="attr">competition_stage</text>
+<text x="1758" y="1302" class="attr">home_sets_won</text>
+<text x="1758" y="1332" class="attr">away_sets_won</text>
+</g>
+<g id="entity-Player_Match_Stats"><rect x="870" y="1670" width="470" height="410" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="871" y="1671" width="468" height="39" fill="#d8edf5"/>
+<line x1="870" y1="1711" x2="1340" y2="1711" stroke="#222" stroke-width="2"/>
+<text x="1105.0" y="1699" text-anchor="middle" class="entity">Player_Match_Stats</text>
+<text x="888" y="1742" class="attr" text-decoration="underline">match_id</text>
+<text x="1325" y="1742" text-anchor="end" class="flag">PK, FK</text>
+<text x="888" y="1772" class="attr" text-decoration="underline">player_id</text>
+<text x="1325" y="1772" text-anchor="end" class="flag">PK, FK</text>
+<text x="888" y="1802" class="attr" text-decoration="underline">team_id</text>
+<text x="1325" y="1802" text-anchor="end" class="flag">PK, FK</text>
+<text x="888" y="1832" class="attr">season_id</text>
+<text x="1325" y="1832" text-anchor="end" class="flag">FK</text>
+<text x="888" y="1862" class="attr">total_points</text>
+<text x="888" y="1892" class="attr">attacks</text>
+<text x="888" y="1922" class="attr">attack_points</text>
+<text x="888" y="1952" class="attr">blocks</text>
+<text x="888" y="1982" class="attr">aces</text>
+<text x="888" y="2012" class="attr">serve_errors</text>
+<text x="888" y="2042" class="attr">serves</text>
+</g>
+<g id="entity-Match_Set"><rect x="1740" y="1840" width="460" height="190" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="1745" y="1845" width="450" height="180" fill="none" stroke="#222" stroke-width="2"/>
+<rect x="1746" y="1846" width="448" height="39" fill="#d8edf5"/>
+<line x1="1740" y1="1881" x2="2200" y2="1881" stroke="#222" stroke-width="2"/>
+<text x="1970.0" y="1869" text-anchor="middle" class="entity">Match_Set</text>
+<text x="1758" y="1912" class="attr" text-decoration="underline">match_id</text>
+<text x="2185" y="1912" text-anchor="end" class="flag">PK, FK</text>
+<text x="1758" y="1942" class="attr">set_number</text>
+<line x1="1758" y1="1946" x2="1875" y2="1946" stroke="#111" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="2185" y="1942" text-anchor="end" class="flag">PK</text>
+<text x="1758" y="1972" class="attr">home_points</text>
+<text x="1758" y="2002" class="attr">away_points</text>
+</g>
+<polygon points="170,450 280,395 390,450 280,505" fill="#edf7fb" stroke="#222" stroke-width="2"/>
+<text x="280" y="458" text-anchor="middle" class="relationship">in_league</text>
+<text x="305" y="370" class="cardinality">1</text>
+<text x="305" y="550" class="cardinality">N</text>
+<polygon points="540,650 650,595 760,650 650,705" fill="#edf7fb" stroke="#222" stroke-width="2"/>
+<text x="650" y="658" text-anchor="middle" class="relationship">in_season</text>
+<text x="490" y="630" class="cardinality">1</text>
+<text x="810" y="630" class="cardinality">N</text>
+<polygon points="1420,390 1530,335 1640,390 1530,445" fill="#edf7fb" stroke="#222" stroke-width="2"/>
+<text x="1530" y="398" text-anchor="middle" class="relationship">team_entry</text>
+<text x="1975" y="540" class="cardinality">1</text>
+<text x="1275" y="540" class="cardinality">N</text>
+<polygon points="995,875 1105,820 1215,875 1105,930" fill="#edf7fb" stroke="#222" stroke-width="2"/>
+<text x="1105" y="883" text-anchor="middle" class="relationship">registers</text>
+<text x="1130" y="770" class="cardinality">1</text>
+<text x="1130" y="985" class="cardinality">N</text>
+<polygon points="540,1140 650,1085 760,1140 650,1195" fill="#edf7fb" stroke="#222" stroke-width="2"/>
+<text x="650" y="1148" text-anchor="middle" class="relationship">membership</text>
+<text x="512" y="1116" class="cardinality">1</text>
+<text x="810" y="1116" class="cardinality">N</text>
+<polygon points="1420,615 1530,560 1640,615 1530,670" fill="#edf7fb" stroke="#222" stroke-width="2"/>
+<text x="1530" y="623" text-anchor="middle" class="relationship">home_team</text>
+<text x="1350" y="592" class="cardinality">1</text>
+<text x="1905" y="985" class="cardinality">N</text>
+<polygon points="1400,770 1510,715 1620,770 1510,825" fill="#edf7fb" stroke="#222" stroke-width="2"/>
+<text x="1510" y="778" text-anchor="middle" class="relationship">away_team</text>
+<text x="1225" y="759" class="cardinality">1</text>
+<text x="1708" y="1100" class="cardinality">N</text>
+<polygon points="1410,1530 1520,1475 1630,1530 1520,1585" fill="#edf7fb" stroke="#222" stroke-width="2"/>
+<text x="1520" y="1538" text-anchor="middle" class="relationship">has_stats</text>
+<text x="1705" y="1238" class="cardinality">1</text>
+<text x="1368" y="1760" class="cardinality">N</text>
+<polygon points="995,1480 1105,1425 1215,1480 1105,1535" fill="#edf7fb" stroke="#222" stroke-width="2"/>
+<text x="1105" y="1488" text-anchor="middle" class="relationship">performed_by</text>
+<text x="1130" y="1320" class="cardinality">1</text>
+<text x="1130" y="1635" class="cardinality">N</text>
+<polygon points="1860,1600 1970,1545 2080,1600 1970,1655" fill="#edf7fb" stroke="#222" stroke-width="2"/>
+<polygon points="1868,1600 1970,1553 2072,1600 1970,1647" fill="none" stroke="#222" stroke-width="2"/>
+<text x="1970" y="1608" text-anchor="middle" class="relationship">has_set</text>
+<text x="1995" y="1420" class="cardinality">1</text>
+<text x="1995" y="1805" class="cardinality">N</text>
+<line x1="100" y1="2150" x2="2200" y2="2150" stroke="#cbd5e1"/>
+<text x="100" y="2200" class="legend">Notation: blue-header box = entity; diamond = relationship; solid underline = primary-key attribute.</text>
+<text x="100" y="2242" class="legend">Arrow points to the ONE side; double line = total participation of the child in that relationship; N = many.</text>
+<text x="100" y="2284" class="legend">Double box / diamond = weak entity / identifying relationship. Dashed underline = partial key (set_number).</text>
+<text x="100" y="2326" class="legend">Match_Set SQL primary key = (match_id, set_number). FK attributes remain visible to match the implemented schema.</text>
+<text x="100" y="2370" class="sub">Nine entities; ten relationships. Every imported match has 3-5 sets (checked by validation, not implied by the parent-side line).</text>
+</svg><div class="diagram-notes"><p>圖例與完整說明：<a href="https://github.com/PearcePin/volleyball-database/blob/main/diagrams/er_diagram.md">er_diagram.md</a>。採老師提供的課本樣式：長方形表示實體，菱形表示關係，主鍵加底線；箭頭指向「一」端，雙連線表示完全參與。Match_Set 用雙框表示弱實體，has_set 用雙菱形表示識別關係，set_number 的虛線底線表示部分鍵。實際 SQL 主鍵仍是 match_id＋set_number。Mermaid 原始碼另外保留作關係對照。這個應用沒有必要的一對一關係，不會為了畫圖硬造一張表。</p></div></section><section class="diagram-page"><h2>Part 3：Database Schema（資料庫結構圖）</h2><p class="caption">九張資料表的實際欄位、型別與主外鍵。結構已核對 MySQL 與 sql/schema.sql。</p><svg xmlns="http://www.w3.org/2000/svg" width="1920" height="2065" viewBox="0 0 1920 2065">
+<rect width="100%" height="100%" fill="#f1f5f9"/>
+<style>text{font-family:Arial,sans-serif;fill:#172554}.title{font-size:38px;font-weight:700}.sub{font-size:20px;fill:#475569}.table{font-size:25px;font-weight:700;fill:white}.col{font-size:19px}.small{font-size:17px;fill:#475569}.key{font-size:17px;font-weight:700;fill:#1d4ed8}.ref{font-size:18px}</style>
+<text x="30" y="55" class="title">Volleyball Database Schema</text>
+<text x="30" y="92" class="sub">volleyball_db | 9 tables | PK = Primary Key · FK = Foreign Key · UK = Unique Key</text>
+<text x="30" y="122" class="sub">Columns and data types verified against MySQL and sql/schema.sql. Composite references are listed below.</text>
+<rect x="30" y="150" width="600" height="300" rx="12" fill="white" stroke="#cbd5e1"/>
+<path d="M42,150 H618 Q630,150 630,162 V202 H30 V162 Q30,150 42,150" fill="#1e3a8a"/>
+<text x="48" y="184" class="table">League</text>
+<text x="46" y="235" class="key">PK</text>
+<text x="125" y="235" class="col">league_id</text>
+<text x="410" y="235" class="small">INT</text>
+<text x="46" y="268" class="key">UK</text>
+<text x="125" y="268" class="col">league_name</text>
+<text x="410" y="268" class="small">VARCHAR(100)</text>
+<text x="46" y="301" class="key"></text>
+<text x="125" y="301" class="col">country</text>
+<text x="410" y="301" class="small">VARCHAR(50)</text>
+<text x="46" y="428" class="small">PK: league_id</text>
+<rect x="660" y="150" width="600" height="300" rx="12" fill="white" stroke="#cbd5e1"/>
+<path d="M672,150 H1248 Q1260,150 1260,162 V202 H660 V162 Q660,150 672,150" fill="#1e3a8a"/>
+<text x="678" y="184" class="table">Season</text>
+<text x="676" y="235" class="key">PK</text>
+<text x="755" y="235" class="col">season_id</text>
+<text x="1040" y="235" class="small">INT</text>
+<text x="676" y="268" class="key">FK</text>
+<text x="755" y="268" class="col">league_id</text>
+<text x="1040" y="268" class="small">INT</text>
+<text x="676" y="301" class="key"></text>
+<text x="755" y="301" class="col">source_season_id</text>
+<text x="1040" y="301" class="small">INT</text>
+<text x="676" y="334" class="key"></text>
+<text x="755" y="334" class="col">season_name</text>
+<text x="1040" y="334" class="small">VARCHAR(9)</text>
+<text x="676" y="428" class="small">PK: season_id</text>
+<rect x="1290" y="150" width="600" height="300" rx="12" fill="white" stroke="#cbd5e1"/>
+<path d="M1302,150 H1878 Q1890,150 1890,162 V202 H1290 V162 Q1290,150 1302,150" fill="#1e3a8a"/>
+<text x="1308" y="184" class="table">Team</text>
+<text x="1306" y="235" class="key">PK</text>
+<text x="1385" y="235" class="col">team_id</text>
+<text x="1670" y="235" class="small">INT</text>
+<text x="1306" y="268" class="key"></text>
+<text x="1385" y="268" class="col">team_name</text>
+<text x="1670" y="268" class="small">VARCHAR(150)</text>
+<text x="1306" y="428" class="small">PK: team_id</text>
+<rect x="30" y="490" width="600" height="400" rx="12" fill="white" stroke="#cbd5e1"/>
+<path d="M42,490 H618 Q630,490 630,502 V542 H30 V502 Q30,490 42,490" fill="#1e3a8a"/>
+<text x="48" y="524" class="table">Player</text>
+<text x="46" y="575" class="key">PK</text>
+<text x="125" y="575" class="col">player_id</text>
+<text x="410" y="575" class="small">INT</text>
+<text x="46" y="608" class="key">UK</text>
+<text x="125" y="608" class="col">identity_key</text>
+<text x="410" y="608" class="small">VARCHAR(255)</text>
+<text x="46" y="641" class="key"></text>
+<text x="125" y="641" class="col">player_name</text>
+<text x="410" y="641" class="small">VARCHAR(150)</text>
+<text x="46" y="674" class="key"></text>
+<text x="125" y="674" class="col">gender</text>
+<text x="410" y="674" class="small">VARCHAR(10)</text>
+<text x="46" y="707" class="key"></text>
+<text x="125" y="707" class="col">birthdate</text>
+<text x="410" y="707" class="small">DATE</text>
+<text x="46" y="868" class="small">PK: player_id</text>
+<rect x="660" y="490" width="600" height="400" rx="12" fill="white" stroke="#cbd5e1"/>
+<path d="M672,490 H1248 Q1260,490 1260,502 V542 H660 V502 Q660,490 672,490" fill="#1e3a8a"/>
+<text x="678" y="524" class="table">Season_Team</text>
+<text x="676" y="575" class="key">PK,FK</text>
+<text x="755" y="575" class="col">season_id</text>
+<text x="1040" y="575" class="small">INT</text>
+<text x="676" y="608" class="key">PK,FK</text>
+<text x="755" y="608" class="col">team_id</text>
+<text x="1040" y="608" class="small">INT</text>
+<text x="676" y="641" class="key"></text>
+<text x="755" y="641" class="col">season_team_name</text>
+<text x="1040" y="641" class="small">VARCHAR(150)</text>
+<text x="676" y="868" class="small">PK: season_id + team_id</text>
+<rect x="1290" y="490" width="600" height="400" rx="12" fill="white" stroke="#cbd5e1"/>
+<path d="M1302,490 H1878 Q1890,490 1890,502 V542 H1290 V502 Q1290,490 1302,490" fill="#1e3a8a"/>
+<text x="1308" y="524" class="table">Player_Team_Season</text>
+<text x="1306" y="575" class="key">PK,FK</text>
+<text x="1385" y="575" class="col">player_id</text>
+<text x="1670" y="575" class="small">INT</text>
+<text x="1306" y="608" class="key">PK,FK</text>
+<text x="1385" y="608" class="col">team_id</text>
+<text x="1670" y="608" class="small">INT</text>
+<text x="1306" y="641" class="key">PK,FK</text>
+<text x="1385" y="641" class="col">season_id</text>
+<text x="1670" y="641" class="small">INT</text>
+<text x="1306" y="674" class="key"></text>
+<text x="1385" y="674" class="col">source_player_id</text>
+<text x="1670" y="674" class="small">INT NULL</text>
+<text x="1306" y="707" class="key"></text>
+<text x="1385" y="707" class="col">shirt_number</text>
+<text x="1670" y="707" class="small">INT NULL</text>
+<text x="1306" y="740" class="key"></text>
+<text x="1385" y="740" class="col">position</text>
+<text x="1670" y="740" class="small">VARCHAR(40) NULL</text>
+<text x="1306" y="868" class="small">PK: player_id + team_id + season_id</text>
+<rect x="30" y="930" width="600" height="570" rx="12" fill="white" stroke="#cbd5e1"/>
+<path d="M42,930 H618 Q630,930 630,942 V982 H30 V942 Q30,930 42,930" fill="#1e3a8a"/>
+<text x="48" y="964" class="table">Match</text>
+<text x="46" y="1015" class="key">PK</text>
+<text x="125" y="1015" class="col">match_id</text>
+<text x="410" y="1015" class="small">INT</text>
+<text x="46" y="1048" class="key">FK</text>
+<text x="125" y="1048" class="col">season_id</text>
+<text x="410" y="1048" class="small">INT</text>
+<text x="46" y="1081" class="key"></text>
+<text x="125" y="1081" class="col">source_match_id</text>
+<text x="410" y="1081" class="small">INT</text>
+<text x="46" y="1114" class="key">FK</text>
+<text x="125" y="1114" class="col">home_team_id</text>
+<text x="410" y="1114" class="small">INT</text>
+<text x="46" y="1147" class="key">FK</text>
+<text x="125" y="1147" class="col">away_team_id</text>
+<text x="410" y="1147" class="small">INT</text>
+<text x="46" y="1180" class="key"></text>
+<text x="125" y="1180" class="col">match_date</text>
+<text x="410" y="1180" class="small">DATETIME</text>
+<text x="46" y="1213" class="key"></text>
+<text x="125" y="1213" class="col">competition_stage</text>
+<text x="410" y="1213" class="small">VARCHAR(30)</text>
+<text x="46" y="1246" class="key"></text>
+<text x="125" y="1246" class="col">home_sets_won</text>
+<text x="410" y="1246" class="small">INT</text>
+<text x="46" y="1279" class="key"></text>
+<text x="125" y="1279" class="col">away_sets_won</text>
+<text x="410" y="1279" class="small">INT</text>
+<text x="46" y="1478" class="small">PK: match_id</text>
+<rect x="660" y="930" width="600" height="570" rx="12" fill="white" stroke="#cbd5e1"/>
+<path d="M672,930 H1248 Q1260,930 1260,942 V982 H660 V942 Q660,930 672,930" fill="#1e3a8a"/>
+<text x="678" y="964" class="table">Match_Set</text>
+<text x="676" y="1015" class="key">PK,FK</text>
+<text x="755" y="1015" class="col">match_id</text>
+<text x="1040" y="1015" class="small">INT</text>
+<text x="676" y="1048" class="key">PK</text>
+<text x="755" y="1048" class="col">set_number</text>
+<text x="1040" y="1048" class="small">INT</text>
+<text x="676" y="1081" class="key"></text>
+<text x="755" y="1081" class="col">home_points</text>
+<text x="1040" y="1081" class="small">INT</text>
+<text x="676" y="1114" class="key"></text>
+<text x="755" y="1114" class="col">away_points</text>
+<text x="1040" y="1114" class="small">INT</text>
+<text x="676" y="1478" class="small">PK: match_id + set_number</text>
+<rect x="1290" y="930" width="600" height="570" rx="12" fill="white" stroke="#cbd5e1"/>
+<path d="M1302,930 H1878 Q1890,930 1890,942 V982 H1290 V942 Q1290,930 1302,930" fill="#1e3a8a"/>
+<text x="1308" y="964" class="table">Player_Match_Stats</text>
+<text x="1306" y="1015" class="key">PK,FK</text>
+<text x="1385" y="1015" class="col">match_id</text>
+<text x="1670" y="1015" class="small">INT</text>
+<text x="1306" y="1048" class="key">PK,FK</text>
+<text x="1385" y="1048" class="col">player_id</text>
+<text x="1670" y="1048" class="small">INT</text>
+<text x="1306" y="1081" class="key">PK,FK</text>
+<text x="1385" y="1081" class="col">team_id</text>
+<text x="1670" y="1081" class="small">INT</text>
+<text x="1306" y="1114" class="key">FK</text>
+<text x="1385" y="1114" class="col">season_id</text>
+<text x="1670" y="1114" class="small">INT</text>
+<text x="1306" y="1147" class="key"></text>
+<text x="1385" y="1147" class="col">total_points</text>
+<text x="1670" y="1147" class="small">INT NULL</text>
+<text x="1306" y="1180" class="key"></text>
+<text x="1385" y="1180" class="col">attacks</text>
+<text x="1670" y="1180" class="small">INT NULL</text>
+<text x="1306" y="1213" class="key"></text>
+<text x="1385" y="1213" class="col">attack_points</text>
+<text x="1670" y="1213" class="small">INT NULL</text>
+<text x="1306" y="1246" class="key"></text>
+<text x="1385" y="1246" class="col">blocks</text>
+<text x="1670" y="1246" class="small">INT NULL</text>
+<text x="1306" y="1279" class="key"></text>
+<text x="1385" y="1279" class="col">aces</text>
+<text x="1670" y="1279" class="small">INT NULL</text>
+<text x="1306" y="1312" class="key"></text>
+<text x="1385" y="1312" class="col">serve_errors</text>
+<text x="1670" y="1312" class="small">INT NULL</text>
+<text x="1306" y="1345" class="key"></text>
+<text x="1385" y="1345" class="col">serves</text>
+<text x="1670" y="1345" class="small">INT NULL</text>
+<text x="1306" y="1478" class="small">PK: match_id + player_id + team_id</text>
+<text x="30" y="1550" class="title">Foreign Key References</text>
+<text x="30" y="1595" class="ref">Season(league_id)  →  League(league_id)</text>
+<text x="30" y="1628" class="ref">Season_Team(season_id)  →  Season(season_id)</text>
+<text x="30" y="1661" class="ref">Season_Team(team_id)  →  Team(team_id)</text>
+<text x="30" y="1694" class="ref">Player_Team_Season(player_id)  →  Player(player_id)</text>
+<text x="30" y="1727" class="ref">Player_Team_Season(season_id, team_id)  →  Season_Team(season_id, team_id)</text>
+<text x="30" y="1760" class="ref">Match(season_id, home_team_id)  →  Season_Team(season_id, team_id)</text>
+<text x="30" y="1793" class="ref">Match(season_id, away_team_id)  →  Season_Team(season_id, team_id)</text>
+<text x="30" y="1826" class="ref">Match_Set(match_id)  →  Match(match_id)</text>
+<text x="30" y="1859" class="ref">Player_Match_Stats(match_id, season_id)  →  Match(match_id, season_id)</text>
+<text x="30" y="1892" class="ref">Player_Match_Stats(player_id, team_id, season_id)  →  Player_Team_Season(player_id, team_id, season_id)</text>
+<text x="30" y="2033" class="sub">Read composite keys as a group. UNIQUE and CHECK details: docs/database_schema.md and sql/schema.sql.</text>
+</svg><p class="diagram-notes">PK＝主鍵；FK＝外鍵；UK＝唯一約束。NULL 表示允許缺值。複合外鍵必須整組閱讀。下一頁起提供各表完整欄位、用途及主鍵選擇原因。</p></section><section class="schema-page"><h2>Part 3：Database Schema - 逐表說明</h2><article class="schema-card"><h3>1. League</h3><p>保存男子與女子聯賽。</p><p><strong>完整欄位：</strong><code>league_id</code>、<code>league_name</code>、<code>country</code></p><p><strong>Primary Key：</strong><code>(league_id)</code><br/><strong>選鍵原因：</strong>league_id 是穩定編號，不依賴可修改的名稱。</p><p><strong>Foreign Keys：</strong>無。</p></article><article class="schema-card"><h3>2. Season</h3><p>保存各聯賽的賽季。</p><p><strong>完整欄位：</strong><code>season_id</code>、<code>league_id</code>、<code>source_season_id</code>、<code>season_name</code></p><p><strong>Primary Key：</strong><code>(season_id)</code><br/><strong>選鍵原因：</strong>來源季別在男女聯賽重複，因此使用全域 season_id，並對 league_id＋source_season_id 設唯一約束。</p><p><strong>Foreign Keys：</strong></p><ul><li><code>(league_id)</code> → <code>League(league_id)</code></li></ul></article><article class="schema-card"><h3>3. Team</h3><p>保存跨季球隊身分與最新顯示名稱。</p><p><strong>完整欄位：</strong><code>team_id</code>、<code>team_name</code></p><p><strong>Primary Key：</strong><code>(team_id)</code><br/><strong>選鍵原因：</strong>沿用來源跨季穩定 team_id，球隊贊助更名不會產生另一支球隊。</p><p><strong>Foreign Keys：</strong>無。</p></article></section><section class="schema-page"><h2>Part 3：Database Schema - 逐表說明</h2><article class="schema-card"><h3>4. Player</h3><p>保存依來源解析的球員身分、姓名、性別與生日。</p><p><strong>完整欄位：</strong><code>player_id</code>、<code>identity_key</code>、<code>player_name</code>、<code>gender</code>、<code>birthdate</code></p><p><strong>Primary Key：</strong><code>(player_id)</code><br/><strong>選鍵原因：</strong>player_id 是獨立代理鍵；來源球衣號碼只在某季某隊有效，不能識別全球球員。</p><p><strong>Foreign Keys：</strong>無。</p></article><article class="schema-card"><h3>5. Season_Team</h3><p>保存球隊參與賽季與當季名稱，解決球隊與賽季的多對多關係。</p><p><strong>完整欄位：</strong><code>season_id</code>、<code>team_id</code>、<code>season_team_name</code></p><p><strong>Primary Key：</strong><code>(season_id + team_id)</code><br/><strong>選鍵原因：</strong>同一隊可參加多季，一季有多隊，所以 season_id＋team_id 合起來才唯一。</p><p><strong>Foreign Keys：</strong></p><ul><li><code>(season_id)</code> → <code>Season(season_id)</code></li><li><code>(team_id)</code> → <code>Team(team_id)</code></li></ul></article><article class="schema-card"><h3>6. Player_Team_Season</h3><p>保存球員當季所屬球隊、來源編號、球衣與位置，保留轉隊歷史。</p><p><strong>完整欄位：</strong><code>player_id</code>、<code>team_id</code>、<code>season_id</code>、<code>source_player_id</code>、<code>shirt_number</code>、<code>position</code></p><p><strong>Primary Key：</strong><code>(player_id + team_id + season_id)</code><br/><strong>選鍵原因：</strong>player_id＋team_id＋season_id 識別一次季別名冊關聯，允許同一球員同季出現在不同隊。</p><p><strong>Foreign Keys：</strong></p><ul><li><code>(player_id)</code> → <code>Player(player_id)</code></li><li><code>(season_id, team_id)</code> → <code>Season_Team(season_id, team_id)</code></li></ul></article></section><section class="schema-page"><h2>Part 3：Database Schema - 逐表說明</h2><article class="schema-card"><h3>7. Match</h3><p>保存比賽日期、階段、主客隊與最終局勝負；時間為德國當地時間。</p><p><strong>完整欄位：</strong><code>match_id</code>、<code>season_id</code>、<code>source_match_id</code>、<code>home_team_id</code>、<code>away_team_id</code>、<code>match_date</code>、<code>competition_stage</code>、<code>home_sets_won</code>、<code>away_sets_won</code></p><p><strong>Primary Key：</strong><code>(match_id)</code><br/><strong>選鍵原因：</strong>來源比賽編號跨季可能重複，所以使用全域 match_id，同時保留 source_match_id。</p><p><strong>Foreign Keys：</strong></p><ul><li><code>(season_id, home_team_id)</code> → <code>Season_Team(season_id, team_id)</code></li><li><code>(season_id, away_team_id)</code> → <code>Season_Team(season_id, team_id)</code></li></ul></article><article class="schema-card"><h3>8. Match_Set</h3><p>保存每場比賽依序排列的每局比分。</p><p><strong>完整欄位：</strong><code>match_id</code>、<code>set_number</code>、<code>home_points</code>、<code>away_points</code></p><p><strong>Primary Key：</strong><code>(match_id + set_number)</code><br/><strong>選鍵原因：</strong>每場都有第一局，所以必須用 match_id＋set_number 才能唯一識別一局。</p><p><strong>Foreign Keys：</strong></p><ul><li><code>(match_id)</code> → <code>Match(match_id)</code></li></ul></article><article class="schema-card"><h3>9. Player_Match_Stats</h3><p>保存一名球員代表一隊在一場比賽中的攻擊、攔網及發球統計。</p><p><strong>完整欄位：</strong><code>match_id</code>、<code>player_id</code>、<code>team_id</code>、<code>season_id</code>、<code>total_points</code>、<code>attacks</code>、<code>attack_points</code>、<code>blocks</code>、<code>aces</code>、<code>serve_errors</code>、<code>serves</code></p><p><strong>Primary Key：</strong><code>(match_id + player_id + team_id)</code><br/><strong>選鍵原因：</strong>match_id＋player_id＋team_id 唯一識別球員代表該隊的單場紀錄。</p><p><strong>Foreign Keys：</strong></p><ul><li><code>(match_id, season_id)</code> → <code>Match(match_id, season_id)</code></li><li><code>(player_id, team_id, season_id)</code> → <code>Player_Team_Season(player_id, team_id, season_id)</code></li></ul></article><div class="integrity"><h3>正規化、約束與實際驗證</h3><p>核心設計盡量正規化。不過統計表的 season_id 可以由 match_id 得知，我們刻意保留它，讓兩組複合外鍵能保證「球員名冊賽季＝比賽賽季」。這是少量、受約束的冗餘，不能向老師說每張表都嚴格完全符合 3NF。</p>
+<p>CHECK 限制主客不同、合法的 3 比幾結果、局號與非負統計；跨多列的規則，例如每場所有局加起來是否符合最終勝負，由匯入與驗證程式負責。實際在 MySQL 8.4.13 跑過，十項檢查全部為 0；同一資料重跑匯入，列數不增加。</p></div></section></body></html>
