@@ -6,6 +6,22 @@
 
 GitHub：[PearcePin/volleyball-database](https://github.com/PearcePin/volleyball-database)
 
+## ER Diagram 與 Database Schema（直接看圖）
+
+**ER Diagram：** 看各個實體怎麼連接，採 Crow's Foot 模型。PK 是主鍵，FK 是外鍵，分叉端表示多筆。
+
+![完整 ER Diagram](diagrams/er_diagram.png)
+
+[放大 ER 圖 SVG](diagrams/er_diagram.svg) · [Mermaid 原始碼與關聯說明](diagrams/er_diagram.md)
+
+**Database Schema：** 看九張表各有哪些欄位、資料型別、主鍵，以及複合外鍵指向哪裡。
+
+![Database Schema：九張表及主外鍵](diagrams/database_schema.png)
+
+[放大 Schema 圖 SVG](diagrams/database_schema.svg) · **[逐表欄位、PK/FK、選鍵原因](docs/database_schema.md)** · [可執行建表 SQL](sql/schema.sql)
+
+兩張圖的差別：ER 圖用連線解釋關係；Schema 圖列出實際儲存結構。Schema 說明與圖表由實際 MySQL 結構產生，並核對 schema.sql。
+
 ## 1. 這個專題到底在幹嘛？
 
 想像你有很多張比賽紀錄表。每張都寫球隊、球員、日期、比分，很容易重複或弄混。我們把不同類型的資料分開存，用「編號」連起來。
@@ -243,6 +259,17 @@ python scripts/render_diagram.py
 ```
 
 圖表在本機產生。本次使用官方 Node.js 22.16.0 與 Mermaid CLI 11.4.3；沒有依賴外部圖表服務才能檢視交付圖片。
+
+若要重新產生 **Database Schema** 圖與逐表文件，先啟動 MySQL，再執行：
+
+```powershell
+python scripts/generate_schema_docs.py
+# 若尚未安裝繪圖依賴（已附 PNG，因此一般使用不必安裝）
+npm.cmd install --no-save --package-lock=false puppeteer@23.11.1
+node scripts/render_schema.cjs
+```
+
+產生程式讀取實際 MySQL 表結構並核對 SQL；若欄位名稱、順序或型別不一致會停止。複合外鍵清單與 PK 選擇原因附在 `docs/database_schema.md`。
 
 ## 10. 報告前五分鐘檢查
 

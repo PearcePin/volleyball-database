@@ -4,6 +4,10 @@ Crow's Foot notation: `||` means exactly one, `o{` means zero or many, and `|{` 
 
 Open [er_diagram.svg](er_diagram.svg) or [er_diagram.png](er_diagram.png) for the rendered diagram.
 
+![Complete Crow's Foot E-R diagram](er_diagram.png)
+
+For the physical table layout with MySQL types, see [Database Schema](../docs/database_schema.md) and [schema image](database_schema.png).
+
 ```mermaid
 erDiagram
  League ||--o{ Season : contains

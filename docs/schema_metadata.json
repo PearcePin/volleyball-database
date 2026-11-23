@@ -1,0 +1,563 @@
+{
+  "League": {
+    "columns": [
+      {
+        "name": "league_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "league_name",
+        "type": "VARCHAR(100)",
+        "nullable": false
+      },
+      {
+        "name": "country",
+        "type": "VARCHAR(50)",
+        "nullable": false
+      }
+    ],
+    "pk": [
+      "league_id"
+    ],
+    "fks": [],
+    "uniques": [
+      {
+        "name": "league_name",
+        "column_names": [
+          "league_name"
+        ],
+        "duplicates_index": "league_name"
+      }
+    ],
+    "checks": []
+  },
+  "Season": {
+    "columns": [
+      {
+        "name": "season_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "league_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "source_season_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "season_name",
+        "type": "VARCHAR(9)",
+        "nullable": false
+      }
+    ],
+    "pk": [
+      "season_id"
+    ],
+    "fks": [
+      {
+        "name": "season_ibfk_1",
+        "constrained_columns": [
+          "league_id"
+        ],
+        "referred_schema": null,
+        "referred_table": "League",
+        "referred_columns": [
+          "league_id"
+        ],
+        "options": {}
+      }
+    ],
+    "uniques": [
+      {
+        "name": "league_id",
+        "column_names": [
+          "league_id",
+          "source_season_id"
+        ],
+        "duplicates_index": "league_id"
+      }
+    ],
+    "checks": []
+  },
+  "Team": {
+    "columns": [
+      {
+        "name": "team_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "team_name",
+        "type": "VARCHAR(150)",
+        "nullable": false
+      }
+    ],
+    "pk": [
+      "team_id"
+    ],
+    "fks": [],
+    "uniques": [],
+    "checks": []
+  },
+  "Player": {
+    "columns": [
+      {
+        "name": "player_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "identity_key",
+        "type": "VARCHAR(255)",
+        "nullable": false
+      },
+      {
+        "name": "player_name",
+        "type": "VARCHAR(150)",
+        "nullable": false
+      },
+      {
+        "name": "gender",
+        "type": "VARCHAR(10)",
+        "nullable": false
+      },
+      {
+        "name": "birthdate",
+        "type": "DATE",
+        "nullable": false
+      }
+    ],
+    "pk": [
+      "player_id"
+    ],
+    "fks": [],
+    "uniques": [
+      {
+        "name": "identity_key",
+        "column_names": [
+          "identity_key"
+        ],
+        "duplicates_index": "identity_key"
+      }
+    ],
+    "checks": []
+  },
+  "Season_Team": {
+    "columns": [
+      {
+        "name": "season_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "team_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "season_team_name",
+        "type": "VARCHAR(150)",
+        "nullable": false
+      }
+    ],
+    "pk": [
+      "season_id",
+      "team_id"
+    ],
+    "fks": [
+      {
+        "name": "season_team_ibfk_1",
+        "constrained_columns": [
+          "season_id"
+        ],
+        "referred_schema": null,
+        "referred_table": "Season",
+        "referred_columns": [
+          "season_id"
+        ],
+        "options": {}
+      },
+      {
+        "name": "season_team_ibfk_2",
+        "constrained_columns": [
+          "team_id"
+        ],
+        "referred_schema": null,
+        "referred_table": "Team",
+        "referred_columns": [
+          "team_id"
+        ],
+        "options": {}
+      }
+    ],
+    "uniques": [],
+    "checks": []
+  },
+  "Player_Team_Season": {
+    "columns": [
+      {
+        "name": "player_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "team_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "season_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "source_player_id",
+        "type": "INT",
+        "nullable": true
+      },
+      {
+        "name": "shirt_number",
+        "type": "INT",
+        "nullable": true
+      },
+      {
+        "name": "position",
+        "type": "VARCHAR(40)",
+        "nullable": true
+      }
+    ],
+    "pk": [
+      "player_id",
+      "team_id",
+      "season_id"
+    ],
+    "fks": [
+      {
+        "name": "player_team_season_ibfk_1",
+        "constrained_columns": [
+          "player_id"
+        ],
+        "referred_schema": null,
+        "referred_table": "Player",
+        "referred_columns": [
+          "player_id"
+        ],
+        "options": {}
+      },
+      {
+        "name": "player_team_season_ibfk_2",
+        "constrained_columns": [
+          "season_id",
+          "team_id"
+        ],
+        "referred_schema": null,
+        "referred_table": "Season_Team",
+        "referred_columns": [
+          "season_id",
+          "team_id"
+        ],
+        "options": {}
+      }
+    ],
+    "uniques": [
+      {
+        "name": "season_id",
+        "column_names": [
+          "season_id",
+          "team_id",
+          "source_player_id"
+        ],
+        "duplicates_index": "season_id"
+      }
+    ],
+    "checks": [
+      {
+        "name": "player_team_season_chk_1",
+        "sqltext": "((`source_player_id` is null) or (`source_player_id` > 0))"
+      },
+      {
+        "name": "player_team_season_chk_2",
+        "sqltext": "((`shirt_number` is null) or (`shirt_number` > 0))"
+      }
+    ]
+  },
+  "Match": {
+    "columns": [
+      {
+        "name": "match_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "season_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "source_match_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "home_team_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "away_team_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "match_date",
+        "type": "DATETIME",
+        "nullable": false
+      },
+      {
+        "name": "competition_stage",
+        "type": "VARCHAR(30)",
+        "nullable": false
+      },
+      {
+        "name": "home_sets_won",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "away_sets_won",
+        "type": "INT",
+        "nullable": false
+      }
+    ],
+    "pk": [
+      "match_id"
+    ],
+    "fks": [
+      {
+        "name": "match_ibfk_1",
+        "constrained_columns": [
+          "season_id",
+          "home_team_id"
+        ],
+        "referred_schema": null,
+        "referred_table": "Season_Team",
+        "referred_columns": [
+          "season_id",
+          "team_id"
+        ],
+        "options": {}
+      },
+      {
+        "name": "match_ibfk_2",
+        "constrained_columns": [
+          "season_id",
+          "away_team_id"
+        ],
+        "referred_schema": null,
+        "referred_table": "Season_Team",
+        "referred_columns": [
+          "season_id",
+          "team_id"
+        ],
+        "options": {}
+      }
+    ],
+    "uniques": [
+      {
+        "name": "match_id",
+        "column_names": [
+          "match_id",
+          "season_id"
+        ],
+        "duplicates_index": "match_id"
+      },
+      {
+        "name": "season_id",
+        "column_names": [
+          "season_id",
+          "source_match_id"
+        ],
+        "duplicates_index": "season_id"
+      }
+    ],
+    "checks": [
+      {
+        "name": "match_chk_1",
+        "sqltext": "(`home_team_id` <> `away_team_id`)"
+      },
+      {
+        "name": "match_chk_2",
+        "sqltext": "(((`home_sets_won` = 3) and (`away_sets_won` between 0 and 2)) or ((`away_sets_won` = 3) and (`home_sets_won` between 0 and 2)))"
+      }
+    ]
+  },
+  "Match_Set": {
+    "columns": [
+      {
+        "name": "match_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "set_number",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "home_points",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "away_points",
+        "type": "INT",
+        "nullable": false
+      }
+    ],
+    "pk": [
+      "match_id",
+      "set_number"
+    ],
+    "fks": [
+      {
+        "name": "match_set_ibfk_1",
+        "constrained_columns": [
+          "match_id"
+        ],
+        "referred_schema": null,
+        "referred_table": "Match",
+        "referred_columns": [
+          "match_id"
+        ],
+        "options": {}
+      }
+    ],
+    "uniques": [],
+    "checks": [
+      {
+        "name": "match_set_chk_1",
+        "sqltext": "(`set_number` between 1 and 5)"
+      },
+      {
+        "name": "match_set_chk_2",
+        "sqltext": "((`home_points` >= 0) and (`away_points` >= 0) and (`home_points` <> `away_points`))"
+      }
+    ]
+  },
+  "Player_Match_Stats": {
+    "columns": [
+      {
+        "name": "match_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "player_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "team_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "season_id",
+        "type": "INT",
+        "nullable": false
+      },
+      {
+        "name": "total_points",
+        "type": "INT",
+        "nullable": true
+      },
+      {
+        "name": "attacks",
+        "type": "INT",
+        "nullable": true
+      },
+      {
+        "name": "attack_points",
+        "type": "INT",
+        "nullable": true
+      },
+      {
+        "name": "blocks",
+        "type": "INT",
+        "nullable": true
+      },
+      {
+        "name": "aces",
+        "type": "INT",
+        "nullable": true
+      },
+      {
+        "name": "serve_errors",
+        "type": "INT",
+        "nullable": true
+      },
+      {
+        "name": "serves",
+        "type": "INT",
+        "nullable": true
+      }
+    ],
+    "pk": [
+      "match_id",
+      "player_id",
+      "team_id"
+    ],
+    "fks": [
+      {
+        "name": "player_match_stats_ibfk_1",
+        "constrained_columns": [
+          "match_id",
+          "season_id"
+        ],
+        "referred_schema": null,
+        "referred_table": "Match",
+        "referred_columns": [
+          "match_id",
+          "season_id"
+        ],
+        "options": {}
+      },
+      {
+        "name": "player_match_stats_ibfk_2",
+        "constrained_columns": [
+          "player_id",
+          "team_id",
+          "season_id"
+        ],
+        "referred_schema": null,
+        "referred_table": "Player_Team_Season",
+        "referred_columns": [
+          "player_id",
+          "team_id",
+          "season_id"
+        ],
+        "options": {}
+      }
+    ],
+    "uniques": [],
+    "checks": [
+      {
+        "name": "player_match_stats_chk_1",
+        "sqltext": "(`total_points` >= 0)"
+      },
+      {
+        "name": "player_match_stats_chk_2",
+        "sqltext": "((`attacks` >= 0) and (`attack_points` >= 0) and (`attack_points` <= `attacks`))"
+      },
+      {
+        "name": "player_match_stats_chk_3",
+        "sqltext": "((`blocks` >= 0) and (`aces` >= 0) and (`serve_errors` >= 0) and (`serves` >= 0))"
+      }
+    ]
+  }
+}

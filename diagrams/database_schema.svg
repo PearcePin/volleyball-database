@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="2065" viewBox="0 0 1920 2065">
+<rect width="100%" height="100%" fill="#f1f5f9"/>
+<style>text{font-family:Arial,sans-serif;fill:#172554}.title{font-size:38px;font-weight:700}.sub{font-size:20px;fill:#475569}.table{font-size:25px;font-weight:700;fill:white}.col{font-size:19px}.small{font-size:17px;fill:#475569}.key{font-size:17px;font-weight:700;fill:#1d4ed8}.ref{font-size:18px}</style>
+<text x="30" y="55" class="title">Volleyball Database Schema</text>
+<text x="30" y="92" class="sub">volleyball_db | 9 tables | PK = Primary Key · FK = Foreign Key · UK = Unique Key</text>
+<text x="30" y="122" class="sub">Columns and data types verified against MySQL and sql/schema.sql. Composite references are listed below.</text>
+<rect x="30" y="150" width="600" height="300" rx="12" fill="white" stroke="#cbd5e1"/>
+<path d="M42,150 H618 Q630,150 630,162 V202 H30 V162 Q30,150 42,150" fill="#1e3a8a"/>
+<text x="48" y="184" class="table">League</text>
+<text x="46" y="235" class="key">PK</text>
+<text x="125" y="235" class="col">league_id</text>
+<text x="410" y="235" class="small">INT</text>
+<text x="46" y="268" class="key">UK</text>
+<text x="125" y="268" class="col">league_name</text>
+<text x="410" y="268" class="small">VARCHAR(100)</text>
+<text x="46" y="301" class="key"></text>
+<text x="125" y="301" class="col">country</text>
+<text x="410" y="301" class="small">VARCHAR(50)</text>
+<text x="46" y="428" class="small">PK: league_id</text>
+<rect x="660" y="150" width="600" height="300" rx="12" fill="white" stroke="#cbd5e1"/>
+<path d="M672,150 H1248 Q1260,150 1260,162 V202 H660 V162 Q660,150 672,150" fill="#1e3a8a"/>
+<text x="678" y="184" class="table">Season</text>
+<text x="676" y="235" class="key">PK</text>
+<text x="755" y="235" class="col">season_id</text>
+<text x="1040" y="235" class="small">INT</text>
+<text x="676" y="268" class="key">FK</text>
+<text x="755" y="268" class="col">league_id</text>
+<text x="1040" y="268" class="small">INT</text>
+<text x="676" y="301" class="key"></text>
+<text x="755" y="301" class="col">source_season_id</text>
+<text x="1040" y="301" class="small">INT</text>
+<text x="676" y="334" class="key"></text>
+<text x="755" y="334" class="col">season_name</text>
+<text x="1040" y="334" class="small">VARCHAR(9)</text>
+<text x="676" y="428" class="small">PK: season_id</text>
+<rect x="1290" y="150" width="600" height="300" rx="12" fill="white" stroke="#cbd5e1"/>
+<path d="M1302,150 H1878 Q1890,150 1890,162 V202 H1290 V162 Q1290,150 1302,150" fill="#1e3a8a"/>
+<text x="1308" y="184" class="table">Team</text>
+<text x="1306" y="235" class="key">PK</text>
+<text x="1385" y="235" class="col">team_id</text>
+<text x="1670" y="235" class="small">INT</text>
+<text x="1306" y="268" class="key"></text>
+<text x="1385" y="268" class="col">team_name</text>
+<text x="1670" y="268" class="small">VARCHAR(150)</text>
+<text x="1306" y="428" class="small">PK: team_id</text>
+<rect x="30" y="490" width="600" height="400" rx="12" fill="white" stroke="#cbd5e1"/>
+<path d="M42,490 H618 Q630,490 630,502 V542 H30 V502 Q30,490 42,490" fill="#1e3a8a"/>
+<text x="48" y="524" class="table">Player</text>
+<text x="46" y="575" class="key">PK</text>
+<text x="125" y="575" class="col">player_id</text>
+<text x="410" y="575" class="small">INT</text>
+<text x="46" y="608" class="key">UK</text>
+<text x="125" y="608" class="col">identity_key</text>
+<text x="410" y="608" class="small">VARCHAR(255)</text>
+<text x="46" y="641" class="key"></text>
+<text x="125" y="641" class="col">player_name</text>
+<text x="410" y="641" class="small">VARCHAR(150)</text>
+<text x="46" y="674" class="key"></text>
+<text x="125" y="674" class="col">gender</text>
+<text x="410" y="674" class="small">VARCHAR(10)</text>
+<text x="46" y="707" class="key"></text>
+<text x="125" y="707" class="col">birthdate</text>
+<text x="410" y="707" class="small">DATE</text>
+<text x="46" y="868" class="small">PK: player_id</text>
+<rect x="660" y="490" width="600" height="400" rx="12" fill="white" stroke="#cbd5e1"/>
+<path d="M672,490 H1248 Q1260,490 1260,502 V542 H660 V502 Q660,490 672,490" fill="#1e3a8a"/>
+<text x="678" y="524" class="table">Season_Team</text>
+<text x="676" y="575" class="key">PK,FK</text>
+<text x="755" y="575" class="col">season_id</text>
+<text x="1040" y="575" class="small">INT</text>
+<text x="676" y="608" class="key">PK,FK</text>
+<text x="755" y="608" class="col">team_id</text>
+<text x="1040" y="608" class="small">INT</text>
+<text x="676" y="641" class="key"></text>
+<text x="755" y="641" class="col">season_team_name</text>
+<text x="1040" y="641" class="small">VARCHAR(150)</text>
+<text x="676" y="868" class="small">PK: season_id + team_id</text>
+<rect x="1290" y="490" width="600" height="400" rx="12" fill="white" stroke="#cbd5e1"/>
+<path d="M1302,490 H1878 Q1890,490 1890,502 V542 H1290 V502 Q1290,490 1302,490" fill="#1e3a8a"/>
+<text x="1308" y="524" class="table">Player_Team_Season</text>
+<text x="1306" y="575" class="key">PK,FK</text>
+<text x="1385" y="575" class="col">player_id</text>
+<text x="1670" y="575" class="small">INT</text>
+<text x="1306" y="608" class="key">PK,FK</text>
+<text x="1385" y="608" class="col">team_id</text>
+<text x="1670" y="608" class="small">INT</text>
+<text x="1306" y="641" class="key">PK,FK</text>
+<text x="1385" y="641" class="col">season_id</text>
+<text x="1670" y="641" class="small">INT</text>
+<text x="1306" y="674" class="key"></text>
+<text x="1385" y="674" class="col">source_player_id</text>
+<text x="1670" y="674" class="small">INT NULL</text>
+<text x="1306" y="707" class="key"></text>
+<text x="1385" y="707" class="col">shirt_number</text>
+<text x="1670" y="707" class="small">INT NULL</text>
+<text x="1306" y="740" class="key"></text>
+<text x="1385" y="740" class="col">position</text>
+<text x="1670" y="740" class="small">VARCHAR(40) NULL</text>
+<text x="1306" y="868" class="small">PK: player_id + team_id + season_id</text>
+<rect x="30" y="930" width="600" height="570" rx="12" fill="white" stroke="#cbd5e1"/>
+<path d="M42,930 H618 Q630,930 630,942 V982 H30 V942 Q30,930 42,930" fill="#1e3a8a"/>
+<text x="48" y="964" class="table">Match</text>
+<text x="46" y="1015" class="key">PK</text>
+<text x="125" y="1015" class="col">match_id</text>
+<text x="410" y="1015" class="small">INT</text>
+<text x="46" y="1048" class="key">FK</text>
+<text x="125" y="1048" class="col">season_id</text>
+<text x="410" y="1048" class="small">INT</text>
+<text x="46" y="1081" class="key"></text>
+<text x="125" y="1081" class="col">source_match_id</text>
+<text x="410" y="1081" class="small">INT</text>
+<text x="46" y="1114" class="key">FK</text>
+<text x="125" y="1114" class="col">home_team_id</text>
+<text x="410" y="1114" class="small">INT</text>
+<text x="46" y="1147" class="key">FK</text>
+<text x="125" y="1147" class="col">away_team_id</text>
+<text x="410" y="1147" class="small">INT</text>
+<text x="46" y="1180" class="key"></text>
+<text x="125" y="1180" class="col">match_date</text>
+<text x="410" y="1180" class="small">DATETIME</text>
+<text x="46" y="1213" class="key"></text>
+<text x="125" y="1213" class="col">competition_stage</text>
+<text x="410" y="1213" class="small">VARCHAR(30)</text>
+<text x="46" y="1246" class="key"></text>
+<text x="125" y="1246" class="col">home_sets_won</text>
+<text x="410" y="1246" class="small">INT</text>
+<text x="46" y="1279" class="key"></text>
+<text x="125" y="1279" class="col">away_sets_won</text>
+<text x="410" y="1279" class="small">INT</text>
+<text x="46" y="1478" class="small">PK: match_id</text>
+<rect x="660" y="930" width="600" height="570" rx="12" fill="white" stroke="#cbd5e1"/>
+<path d="M672,930 H1248 Q1260,930 1260,942 V982 H660 V942 Q660,930 672,930" fill="#1e3a8a"/>
+<text x="678" y="964" class="table">Match_Set</text>
+<text x="676" y="1015" class="key">PK,FK</text>
+<text x="755" y="1015" class="col">match_id</text>
+<text x="1040" y="1015" class="small">INT</text>
+<text x="676" y="1048" class="key">PK</text>
+<text x="755" y="1048" class="col">set_number</text>
+<text x="1040" y="1048" class="small">INT</text>
+<text x="676" y="1081" class="key"></text>
+<text x="755" y="1081" class="col">home_points</text>
+<text x="1040" y="1081" class="small">INT</text>
+<text x="676" y="1114" class="key"></text>
+<text x="755" y="1114" class="col">away_points</text>
+<text x="1040" y="1114" class="small">INT</text>
+<text x="676" y="1478" class="small">PK: match_id + set_number</text>
+<rect x="1290" y="930" width="600" height="570" rx="12" fill="white" stroke="#cbd5e1"/>
+<path d="M1302,930 H1878 Q1890,930 1890,942 V982 H1290 V942 Q1290,930 1302,930" fill="#1e3a8a"/>
+<text x="1308" y="964" class="table">Player_Match_Stats</text>
+<text x="1306" y="1015" class="key">PK,FK</text>
+<text x="1385" y="1015" class="col">match_id</text>
+<text x="1670" y="1015" class="small">INT</text>
+<text x="1306" y="1048" class="key">PK,FK</text>
+<text x="1385" y="1048" class="col">player_id</text>
+<text x="1670" y="1048" class="small">INT</text>
+<text x="1306" y="1081" class="key">PK,FK</text>
+<text x="1385" y="1081" class="col">team_id</text>
+<text x="1670" y="1081" class="small">INT</text>
+<text x="1306" y="1114" class="key">FK</text>
+<text x="1385" y="1114" class="col">season_id</text>
+<text x="1670" y="1114" class="small">INT</text>
+<text x="1306" y="1147" class="key"></text>
+<text x="1385" y="1147" class="col">total_points</text>
+<text x="1670" y="1147" class="small">INT NULL</text>
+<text x="1306" y="1180" class="key"></text>
+<text x="1385" y="1180" class="col">attacks</text>
+<text x="1670" y="1180" class="small">INT NULL</text>
+<text x="1306" y="1213" class="key"></text>
+<text x="1385" y="1213" class="col">attack_points</text>
+<text x="1670" y="1213" class="small">INT NULL</text>
+<text x="1306" y="1246" class="key"></text>
+<text x="1385" y="1246" class="col">blocks</text>
+<text x="1670" y="1246" class="small">INT NULL</text>
+<text x="1306" y="1279" class="key"></text>
+<text x="1385" y="1279" class="col">aces</text>
+<text x="1670" y="1279" class="small">INT NULL</text>
+<text x="1306" y="1312" class="key"></text>
+<text x="1385" y="1312" class="col">serve_errors</text>
+<text x="1670" y="1312" class="small">INT NULL</text>
+<text x="1306" y="1345" class="key"></text>
+<text x="1385" y="1345" class="col">serves</text>
+<text x="1670" y="1345" class="small">INT NULL</text>
+<text x="1306" y="1478" class="small">PK: match_id + player_id + team_id</text>
+<text x="30" y="1550" class="title">Foreign Key References</text>
+<text x="30" y="1595" class="ref">Season(league_id)  →  League(league_id)</text>
+<text x="30" y="1628" class="ref">Season_Team(season_id)  →  Season(season_id)</text>
+<text x="30" y="1661" class="ref">Season_Team(team_id)  →  Team(team_id)</text>
+<text x="30" y="1694" class="ref">Player_Team_Season(player_id)  →  Player(player_id)</text>
+<text x="30" y="1727" class="ref">Player_Team_Season(season_id, team_id)  →  Season_Team(season_id, team_id)</text>
+<text x="30" y="1760" class="ref">Match(season_id, home_team_id)  →  Season_Team(season_id, team_id)</text>
+<text x="30" y="1793" class="ref">Match(season_id, away_team_id)  →  Season_Team(season_id, team_id)</text>
+<text x="30" y="1826" class="ref">Match_Set(match_id)  →  Match(match_id)</text>
+<text x="30" y="1859" class="ref">Player_Match_Stats(match_id, season_id)  →  Match(match_id, season_id)</text>
+<text x="30" y="1892" class="ref">Player_Match_Stats(player_id, team_id, season_id)  →  Player_Team_Season(player_id, team_id, season_id)</text>
+<text x="30" y="2033" class="sub">Read composite keys as a group. UNIQUE and CHECK details: docs/database_schema.md and sql/schema.sql.</text>
+</svg>

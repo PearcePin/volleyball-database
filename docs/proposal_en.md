@@ -45,6 +45,10 @@ The complete Mermaid source, key labels, composite-key notes, and relationships 
 
 ## Part 3: Database Schema
 
+![Physical Database Schema with MySQL types and key references](../diagrams/database_schema.png)
+
+The [complete schema reference](database_schema.md) lists each column's type, nullability, primary key, foreign keys, unique constraints, CHECK constraints, and the reason for choosing each primary key. The diagram is generated from live MySQL metadata and checked against the SQL definitions.
+
 The implementation uses MySQL 8.x, InnoDB, and utf8mb4. `Match` is quoted with backticks in SQL to avoid keyword conflicts. The complete DDL and CHECK expressions are in [schema.sql](../sql/schema.sql).
 
 | Table | Columns | Primary key and purpose |

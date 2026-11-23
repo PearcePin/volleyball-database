@@ -40,6 +40,10 @@ Mermaid 原始碼與完整說明：[er_diagram.md](../diagrams/er_diagram.md)。
 
 ## Part 3：資料庫 Schema
 
+![九張表的實際 Database Schema](../diagrams/database_schema.png)
+
+完整的欄位型別、是否允許 NULL、複合主鍵、外鍵、唯一約束與選鍵原因，請看 **[Database Schema 詳細說明](database_schema.md)**。這張圖依實際 MySQL 資料表產生，並核對 schema.sql。
+
 | 表 | 用途 | 主鍵為什麼這樣選 |
 |---|---|---|
 | League | 男子、女子兩種聯賽 | league_id 穩定，不怕名稱修改。 |
